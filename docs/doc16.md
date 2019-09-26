@@ -196,3 +196,34 @@ title: DEZEMBRO
 - Honor View 20 will also feature a punch-hole all-screen design
 - Samsung starts testing Android Pie update for Galaxy A series phones
 - Microsoft’s new Edge browser will support Chrome extensions
+
+**DEZEMBRO 11**
+
+
+- A bug in Microsoft’s login system made it easy to hijack anyone’s Office account
+- Zomato to Introduce Tamper-Proof Tapes After Social Media Storm Over Delivery Man Video
+- Trademarks reveal Samsung’s cryptocurrency plans for its Galaxy devices
+- Skydio R1 drone with Apple Watch control can now fly over water, more car-tracking modes added
+- Instagram adds voice message support to Direct chats
+- December 11 Is National App Day
+- Microsoft calls on companies to adopt a facial recognition code of conduct
+- Google Lens can now be accessed directly from the search app on iOS
+- Bixby is now available in more languages but with a catch
+- Giphy offers easy access to GIFs with iOS keyboard extension
+- AppOnboard raises $15 million to let Android users try before they buy apps on Google Play
+
+**DEZEMBRO 12**
+
+**DEZEMBRO 13**
+
+- China’s Vivo buys 169 acres land, to invest $559 million in India
+- Google’s Chromecast returns to Amazon, but it still lacks Prime Video
+- Netflix tests instant replays for specific scenes
+- California considering text message tax – but iMessages would be exempt
+- Tesla-inspired EV startup Xiaopeng launches ~$33,000 all-electric SUV
+- Toyota Recalls 70,000 Vehicles To Replace Air Bag Inflators
+- One UI (Android Pie) will allow more customization for third-party themes
+- Opera brings a flurry of crypto features to its Android mobile browser
+
+
+
