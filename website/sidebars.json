@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "2017": ["doc1"],
+    "2018": ["doc2"],
+    "2019": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
