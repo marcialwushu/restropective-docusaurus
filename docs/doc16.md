@@ -39,6 +39,10 @@ title: DEZEMBRO
 - [Google rescinds candidate verbal offer due to low GPA](https://bit.ly/2E77uOc)
 - [Party REPL – A multi-player REPL built for pair-programming video](https://bit.ly/2Sk25X2)
 - [It took seven miles to pull over a Tesla with a seemingly asleep driver](https://bit.ly/2E7yVaL)
+- [Rede de hotéis Marriott disse que hackers acessaram dados de 500 milhões de hóspedes](https://gizmodo.uol.com.br/hoteis-marriott-hackers-acesso-dados-hospedes/)
+- [Parece que o Google vai encerrar o Hangouts para consumidores em 2020](https://gizmodo.uol.com.br/google-encerrar-hangouts-2020/)
+- [Fã hackeia um monte de impressoras por medo de youtuber mais seguido do mundo perder trono](https://gizmodo.uol.com.br/fa-hackeia-um-monte-de-impressoras-por-medo-de-youtuber-mais-seguido-do-mundo-perder-trono/)
+
 
 **DEZEMBRO 02**
 
@@ -60,6 +64,9 @@ title: DEZEMBRO
 - [Ansel Adams’ pictures of LA recall an era of war factories and 10-cent hot dogs](https://bit.ly/2SqXpyz)
 - [Terminals Are Sexy](https://bit.ly/2Sqb7Sm)
 - [Amazon's cloud business is competing with its own customers](https://bit.ly/2E8sMLr)
+- [O mês de novembro foi péssimo para o bitcoin e outras criptomoedas](https://gizmodo.uol.com.br/mes-novembro-pessimo-bitocoin-criptomoeda/)
+- [Os alto-falantes inteligentes da Amazon vão ser compatíveis com Apple Music em 17 de dezembro](https://gizmodo.uol.com.br/alto-falante-amazon-apple-music/)
+- [Uber está de olho em empresas de aluguel de patinetes elétricos para expandir seu portfólio](https://gizmodo.uol.com.br/uber-aluguel-patinete-eletrico/)
 
 **DEZEMBRO 03**
 
@@ -84,6 +91,16 @@ title: DEZEMBRO
 - [C.S. Lewis on the Reading of Old Books](https://bit.ly/2E91NQ1)
 - [The U.S. Yield Curve Has Inverted](https://bit.ly/2E8C364)
 - [The Friendship That Made Google Huge](https://bit.ly/2EdmuKH)
+- [Quer sair do Facebook? Estas são as melhores alternativas para a rede social](https://gizmodo.uol.com.br/como-substituir-facebook/)
+- [Disparo de mensagens via WhatsApp na eleição foi possível com fraude de CPF](https://gizmodo.uol.com.br/disparo-mensagens-whatsapp-fraude-cpf/)
+- [Apple deverá mesmo esperar até 2020 para lançar iPhone com 5G](https://gizmodo.uol.com.br/apple-iphone-5g-2020/)
+- [Bilionário Richard Branson diz que a Virgin Galactic levará pessoas ao espaço antes do Natal:](https://gizmodo.uol.com.br/bilionario-richard-branson-virgin-viagem-espacial-antes-natal/)
+- [Amazon vai expandir seu experimento de lojas sem caixas humanos para estabelecimentos maiores, diz jornal](https://gizmodo.uol.com.br/amazon-expandir-teste-lojas-sem-caixas-humanos/)
+- [Nvidia usa inteligencia artificial para gerar gráficos de mundo virtual em tempo real](https://gizmodo.uol.com.br/nvidia-inteligencia-artificial-graficos-mundo-virtual/)
+- [Nova tela da E Ink acaba com a latência e facilita desenhos e anotações](https://gizmodo.uol.com.br/e-ink-justwrite-desenhos-anotacoes/)
+- [Físicos identificam quatro colisões de buracos negros, incluindo a maior já registrada](https://gizmodo.uol.com.br/colisoes-buracos-negros-maior-registrada/)
+- [Tumblr vai proibir conteúdo adulto a partir de 17 de dezembro](https://gizmodo.uol.com.br/tumblr-proibicao-conteudo-adulto/)
+
 
 **DEZEMBRO 04**
 
@@ -108,6 +125,17 @@ title: DEZEMBRO
 - [Google's cross-platform Flutter UI toolkit goes 1.0](https://bit.ly/2Swpvc1)
 - [Google personalizes search results even when you’re logged out, new study finds](https://bit.ly/2EdJDg0)
 - Hashicorp Vault v1.0](https://bit.ly/2Sr0T4c)
+- [Estes são os melhores apps e jogos do ano para Android, segundo o Google](https://gizmodo.uol.com.br/melhores-apps-jogos-google-2018/)
+- [Lembra quando a Amazon prometeu entregas por drone para 2018? Pois é](https://gizmodo.uol.com.br/amazon-promessa-entregas-drone-2018/)
+- [2019 já está aí! Descubra as tendências que você, desenvolvedor web, precisa ficar de olho](https://gizmodo.uol.com.br/tendencias-desenvolvedor-web/)
+- [A SpaceX quebrou quatro recordes neste lançamento do Falcon 9](https://gizmodo.uol.com.br/space-x-recordes-falcon-9/)
+- [SKY deixa informações de 32 milhões de clientes expostas em base de dados](https://gizmodo.uol.com.br/sky-dados-clientes-expostos/)
+- [Microsoft estaria preparando navegador baseado no motor do Chrome para substituir o Edge](https://gizmodo.uol.com.br/microsoft-novo-navegador-baseado-chrome/)
+- [Epic Games, criadora do Fortnite, lançará plataforma para concorrer com Steam](https://gizmodo.uol.com.br/epic-games-store/)
+- [O cientista chinês responsável pelos bebês geneticamente modificados está desaparecido](https://gizmodo.uol.com.br/cientista-chines-modificacao-genetica-desaparecido/)
+- [Huawei Nova 4 terá um “olho” para abrigar a câmera frontal](https://gizmodo.uol.com.br/huawei-nova-4-notch/)
+- [O vazamento de dados de 100 milhões de usuários do Quora é bem sério](https://gizmodo.uol.com.br/vazamento-dados-quora/)
+- [Nave de coleta de amostras de asteroide da NASA chega seu destino: Bennu](https://gizmodo.uol.com.br/nasa-coleta-amostra-asteroide-bennu/)
 
 **DEZEMBRO 05**
 
