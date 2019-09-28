@@ -124,7 +124,7 @@ title: DEZEMBRO
 - [What we learned from 3 years of bra engineering, and what's next](https://bit.ly/2Ec3RGN)
 - [Google's cross-platform Flutter UI toolkit goes 1.0](https://bit.ly/2Swpvc1)
 - [Google personalizes search results even when you’re logged out, new study finds](https://bit.ly/2EdJDg0)
-- Hashicorp Vault v1.0](https://bit.ly/2Sr0T4c)
+- [Hashicorp Vault v1.0](https://bit.ly/2Sr0T4c)
 - [Estes são os melhores apps e jogos do ano para Android, segundo o Google](https://gizmodo.uol.com.br/melhores-apps-jogos-google-2018/)
 - [Lembra quando a Amazon prometeu entregas por drone para 2018? Pois é](https://gizmodo.uol.com.br/amazon-promessa-entregas-drone-2018/)
 - [2019 já está aí! Descubra as tendências que você, desenvolvedor web, precisa ficar de olho](https://gizmodo.uol.com.br/tendencias-desenvolvedor-web/)
@@ -159,6 +159,13 @@ title: DEZEMBRO
 - [Study on Google search results by DuckDuckGO](https://bit.ly/2EfmOIL)
 - [Bizarre 'dark fluid' with negative mass could dominate the universe](https://bit.ly/2EfUwOq)
 - [At 22 years old, Postgres might just be the most advanced database yet](https://bit.ly/2Eibsn6)
+- [Cientistas propõem nova forma de tratar depressão: com implantes cerebrais](https://gizmodo.uol.com.br/cientista-tratar-depressao-implantes-cerebrais/)
+- [Esta missão inédita da NASA irá criar um mapa 3D sem precedentes das florestas da Terra](https://gizmodo.uol.com.br/nova-missao-nasa-mapa-3d-florestas-terra/)
+- [Nova York adota salário mínimo para motoristas de Uber e outros aplicativos](https://gizmodo.uol.com.br/nova-york-salario-minimo-uber-apps/)
+- [Artigos 11 e 13: Gigantes da tecnologia enfim acordam para risco do plano da União Europeia que ameaça a internet](https://gizmodo.uol.com.br/gigantes-tecnologia-risco-uniao-europeia-artigos-11-13/)
+- [Documento digital de veículo agora pode ser compartilhado usando aplicativo](https://gizmodo.uol.com.br/documento-veiculo-aplicativo/)
+- [Último serviço de pager restante no Japão está oficialmente se encerrando](https://gizmodo.uol.com.br/ultimo-servico-pager-japao-encerrando/)
+- [Samsung lança Galaxy J2 Core e Galaxy J4 Core, aparelhos básicos com Android Go](https://gizmodo.uol.com.br/samsung-android-go-galaxy-j2-core-galaxy-j4-core/)
 
 **DEZEMBRO 06**
 
@@ -184,8 +191,25 @@ title: DEZEMBRO
 - [Ride-Hailing Firm Lyft Inc Files for IPO](https://bit.ly/2Sw1stO)
 - [Rust 2018 is here… but what is it?](https://bit.ly/2EgP2Tw)
 - [Microsoft Edge: Making the web better through more open source collaboration](https://bit.ly/2Efr7nt)
+- [As novidades do chip Snapdragon 855, que estará nos smartphones topo de linha de 2019](https://gizmodo.uol.com.br/chip-snapdragon-855-smartphones-topo-linha-2019/)
+- [Google tenta novamente combater anúncios abusivos com o Chrome 71](https://gizmodo.uol.com.br/google-chrome-71-tentativa-combater-anuncios-abusivos/)
+- [Cuba passa a oferecer pacotes de internet 3G pela primeira vez](https://gizmodo.uol.com.br/cuba-internet-3g/)
+- [Relatório interno mostra que Facebook sabia que rastrear chamadas e SMS era assustador, mas o fez mesmo assim](https://gizmodo.uol.com.br/relatorio-interno-facebook-rastrear-chamadas-sms/)
+- [China exige libertação de diretora da Huawei presa no Canadá a mando dos Estados Unidos](https://gizmodo.uol.com.br/china-exige-libertacao-executiva-huawei-presa-canada-eua/)
+- [O 5G já está em testes nos EUA, mas ainda falta dar uma noção real de velocidade da rede](https://gizmodo.uol.com.br/5g-testes-eua-velocidade/)
+- [Agora você pode fazer eletrocardiogramas usando seu Apple Watch Series 4](https://gizmodo.uol.com.br/eletrocardiograma-apple-watch-series-4-atualizacao/)
+- [Microsoft vai mesmo construir um novo navegador Edge com o motor do Chrome](https://gizmodo.uol.com.br/microsoft-edge-chromium/)
 
 **DEZEMBRO 07**
+
+- [Novo chip da Qualcomm para laptops promete desempenho parrudo e dias de autonomia de bateria](https://gizmodo.uol.com.br/chip-qualcomm-8cx-desempenho-horas-bateria/)
+- [Russia exibe nova arma a laser depois de EUA ameaçarem deixar tratado sobre armas nucleares](https://gizmodo.uol.com.br/russia-arma-laser-eua-ameaca-deixar-tratado-armas-nucleares/)
+- [Um resumo dos últimos acontecimentos do caso Huawei](https://gizmodo.uol.com.br/resumo-ultimos-acontecimentos-huawei/)
+- [Por que o Grande Colisor de Hádrons será fechado por dois anos](https://gizmodo.uol.com.br/grande-colisor-hadron-fechado-dois-anos/)
+- [Mais da metade do mundo estará conectada à internet até o final de 2018, segundo estimativa da ONU](https://gizmodo.uol.com.br/populacao-mundial-conectada-internet/)
+- [Google decidiu que tinha muitos apps de mensagem e cortou dois – agora são só cinco](https://gizmodo.uol.com.br/google-aplicativos-mensagens-organizacao/)
+- [Novas imagens mostram que a sonda InSight, da NASA, pousou em um lugar excelente em Marte](https://gizmodo.uol.com.br/novas-imagens-marte-insight-nasa/)
+- [Mercado Livre agora tem conta com rendimento e promete cartão de crédito para 2019](https://gizmodo.uol.com.br/mercado-livre-conta-e-cartao-de-credito/)
 
 **DEZEMBRO 08**
 
@@ -199,6 +223,7 @@ title: DEZEMBRO
 - Uber makes confidential filing for long-awaited IPO
 - Japanese government is the latest to ban Huawei network equipment
 - Files by Google now supports USB OTG storage exploring
+- [Quais eram os empregos do futuro segundo especialistas de 1988](https://gizmodo.uol.com.br/empregos-do-futuro-em-1988/)
 
 
 **DEZEMBRO 09**
@@ -210,6 +235,9 @@ title: DEZEMBRO
 - 25 million Americans do not have access to broadband internet
 - Kakao begins pilot carpool service, sets official launch for Dec. 17
 - The Google Store is offering holiday deals on Home Hub, Nest products, and more
+- [Esta planta-robô busca por conta própria o contato com a luz para sobreviver](https://gizmodo.uol.com.br/robo-colocar-plantinha-luz/)
+- [Em vez de ouvir seus funcionários, Google estaria aumentando esforços para demitir quem vaza informações](https://gizmodo.uol.com.br/google-repressao-funcionarios-vazamento-informacoes/)
+- [Por que cientistas tentaram medir toda a luz já emitida das estrelas](https://gizmodo.uol.com.br/cientistas-medicao-toda-luz-estrelas/)
 
 
 **DEZEMBRO 10**
@@ -224,6 +252,20 @@ title: DEZEMBRO
 - Honor View 20 will also feature a punch-hole all-screen design
 - Samsung starts testing Android Pie update for Galaxy A series phones
 - Microsoft’s new Edge browser will support Chrome extensions
+- [Epic Games lança loja para concorrer com Steam e promete jogos gratuitos](https://gizmodo.uol.com.br/epic-games-store-2/)
+- [China alerta que prisão de executiva da Huawei a mando dos EUA pode implicar em “graves consequências”](https://gizmodo.uol.com.br/china-consequencias-prisao-executiva-huawei-eua/)
+- [JIRA is an antipattern](https://bit.ly/2EaC3Sf)
+- [Show HN: Do you know for which country you need visa? I made visalist for that](https://bit.ly/2E9Rquj)
+- [Why You Should Never, Ever Use Quora](https://bit.ly/2Eb193p)
+- [Crypto Market Crash Leaving Bankrupt Startups in Its Wake](https://bit.ly/2ElLDCH)
+- [The Reason Many Ultrarich People Aren’t Satisfied With Their Wealth](https://bit.ly/2Eq9gtY)
+- [The Life of a Backpacker in Asia in the 1970s](https://bit.ly/2EjiEzq)
+- [Aaron Swartz's Website is offline](https://bit.ly/2EcwItF)
+- [Prions, Nearly Indestructible and Universally Lethal, Seed the Eyes of Victims](https://bit.ly/2Eo4w86)
+- [Nasa's Voyager 2 probe 'leaves the Solar System](https://bit.ly/2EpYynt)
+- [Tracking leaks on NDA beta Xbox 360s by embedding serial number on-screen](https://bit.ly/2ElkEaF)
+- [Apple Airplay on Raspberry Pi in 7 Easy Steps](https://bit.ly/2E9hB4p)
+- [Google will shut down Google+ four months early after second data leak](https://bit.ly/2EoRoPZ)
 
 **DEZEMBRO 11**
 
