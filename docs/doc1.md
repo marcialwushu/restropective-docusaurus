@@ -12,6 +12,12 @@ sidebar_label: JANEIRO
 - [A Microsoft pode finalmente acabar com as atualizações automáticas do Windows 10](http://gizmodo.uol.com.br/microsoft-pode-acabar-atualizacao-automatica/)
 - [Lineage OS disponibilizou as primeiras ROM não oficiais que sucedem à CyanogenMOd](https://goo.gl/t74K43)
 - [Processadores, SSDs e teclados: dez tendências tecnológicas para 2017](http://glo.bo/2isdpjk)
+- [Virus engaña a usuarios de aplicaciones bancarias españolas y secuestra dispositivos Android](http://criptonoticias.com/?p=23432)
+- [La casa de cambio bitcoin P2P Remitano es independiente de socios bancarios tradicionales](http://criptonoticias.com/?p=23444)
+- [Plantoids: el arte se combina con vida artificial en la blockchain](http://criptonoticias.com/?p=23434)
+- [Plataforma Corda de R3CEV ya está disponible en Microsoft Azure](http://criptonoticias.com/?p=23438)
+- [Factom anunció el lanzamiento de su nuevo software Factom Federation](http://criptonoticias.com/?p=23423)
+- [Italia veta actividades de Onecoin por sospechas de estafa piramidal](http://criptonoticias.com/?p=23403)
 
 
 **JANEIRO 02**
@@ -37,6 +43,12 @@ sidebar_label: JANEIRO
 - [ASUS ZenFone AR é o novo Project Tango com suporte ao Daydream](http://canalte.ch/S1UVI)
 - [Galaxy S8 pode ter função para você usar o celular como se ele fosse um PC](http://bit.ly/2iraYj5)
 - [Telegram segue passos do WhatsApp ao encerrar suporte a versões antigas do Android](http://bit.ly/2irrShe)
+- [La casa de cambio Bitcoin UniChange publica su informe anual para 2016](http://criptonoticias.com/?p=23464)
+- [Inicia el 2017 y... ¡Bitcoin y Blockchain arrancan con todo!](http://criptonoticias.com/?p=23468)
+- [5 motivos para utilizar plataforma descentralizada WINGS](http://criptonoticias.com/?p=23306)
+- [Aplicaciones de Ethereum darán de qué hablar en 2017](http://criptonoticias.com/?p=22639)
+- [Scotcoin: augurio de libertad económica de los países independientes](http://criptonoticias.com/?p=23478)
+- [PwC Global publica estudio sobre aplicación de blockchain en la industria energética](http://criptonoticias.com/?p=23492)
 
 **JANEIRO 03**
 
@@ -49,6 +61,8 @@ sidebar_label: JANEIRO
 - [Inteligência artificial chega às escovas de dente](http://bit.ly/2hPGmqN)
 - [Google e Fiat Chrysler revelam sistema para carros baseado em Android Nougat](http://bit.ly/2j1KbGQ)
 - [Tenha cuidado, o macOS está a estragar ficheiros PDF](https://goo.gl/G1u2aJ)
+- [Bitcoin: el mejor activo para reserva de valor en 2016](http://criptonoticias.com/?p=23513)
+- [ONU indica que tecnología financiera será crucial para el desarrollo global sustentable](http://criptonoticias.com/?p=23476)
 
 
 **JANEIRO 04**
