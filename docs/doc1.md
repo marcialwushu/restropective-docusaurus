@@ -63,3 +63,18 @@ sidebar_label: JANEIRO
 - [Huawei Honor 6X chega ao Ocidente com ótimas especificações e preço camarada](http://canalte.ch/S1UYO)
 - [Asus anuncia Zenfone 3 Zoom com câmera dupla de 12 megapixels e bateria de 5.000 mAh](http://bit.ly/2iBlODd)
 - [Asus anuncia Zenfone AR com 8 GB de RAM e suporte ao Tango e Daydream](http://bit.ly/2hTKK83)
+- [CES 2017: Smart TV OLED da LG é ultrafina e se prende à parede por ímãs](http://glo.bo/2iBn60Y)
+- [Positivo faz recall de computadores para troca de bateria](https://goo.gl/AXvl9m)
+- [Lenovo lança linha Legion: notebooks gamer com suporte a realidade virtual](http://goo.gl/45iBv0)
+- [Google pode adquirir SoundCloud por US$ 500 milhões](http://goo.gl/3IauOn)
+
+**JANEIRO 05**
+
+- [Que tal um carregador sem fio para usar em vários aparelhos ao mesmo tempo?](http://bit.ly/2hVpEWU)
+- [TCL anuncia novo BlackBerry com teclado físico e conexão USB-C, durante a CES 2017](http://nzn.me/a113137t)
+- [Kingston lança maior pen drive do mundo com 2TB](http://goo.gl/g5jk4Y)
+- [Nova linha de laptops da Samsung inclui Chromebook e notebook para games](http://goo.gl/eF43tk)
+- [LG confirma que G6 não vai seguir design modular do G5](http://goo.gl/leqOzs)
+- [Projeto NEON: nova interface do Windows 10 trará desfoques, animações e transparências](http://bit.ly/2j8p85s)
+- [Nvidia apresenta nova Shield TV com suporte a 4K HDR, streaming de jogos e Google Assistant](http://goo.gl/BqHuIK)
+- [Vazamentos revelam possível data de lançamento e visual do Galaxy S8](http://goo.gl/RGEzcj)
