@@ -64,4 +64,29 @@ title: FEVEREIRO
 
 **FEVEREIRO 09**
 
+- The world’s first Google Station Wi-Fi hotspot will be set up in Pune
+- YouTube Go Beta version has been released
+- UberEats is now available in Manchester
+- Wikipedia issues near-total ban on Daily Mail sources
+- Android Nougat rollout for Sony Xperia Z3+, Z4 Tablet, and Z5 series starts up again
+- Windows 10 Project Neon confirmed by developer day live-stream
+- Samsung may launch a Google Now competitor called ‘Samsung Hello’
+- Verizon Will Now Fix Your Broken Phone Screen At Home
+- Google plans to purge millions of apps from the Play Store next month
+- Tesla plans to launch its electric cars in India this summer
+- Facebook will help you find food and shelter in emergencies
+
 **FEVEREIRO 10**
+
+- OnePlus 3T Gets OxygenOS 4.0.3 Update
+- Apple reportedly going all in with wireless charging for the iPhone 8
+- WhatsApp offers two-step verification to everyone
+- Xiaomi said to be releasing its own processor, “Pinecone”, within a month
+- Facebook’s new Oculus gloves let you type in VR
+
+**FEVEREIRO 11**
+
+**FEVEREIRO 12**
+
+**FEVEREIRO 13**
+
