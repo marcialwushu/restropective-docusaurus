@@ -155,5 +155,30 @@ title: FEVEREIRO
 - Facebook Users Are Finding Themselves Logged Out Of Their Accounts
 - ‘RollerCoaster Tycoon Touch’ Has Been Launched On iOS
 
+**FEVEREIRO 26**
+
+**FEVEREIRO 27**
+
+- Jolla’s Android alternative is coming to Sony Xperia phones
+- The Xperia XZ Premium may be the 4K flagship we’ve been waiting for
+- MediaTek Helio X30 officially launched at MWC
+- Facebook is working with local partners to build infrastructure in Uganda
+- Windows 10 Users Will Be Able To Prevent Desktop Apps From Installing
+- SanDisk iOS Flash Drive Capacity Increased To 256GB
+- Google End-to-End encrypted email code goes open-source
+
+**FEVEREIRO 28**
+
+- Raspberry Pi Zero W is a $10 computer with WiFi and Bluetooth
+- Google Home confirmed for UK launch in Q2 2017
+- Mozilla officially acquires Pocket, a popular read-it-later app
+- Ubisoft Developing Avatar Game
+- Netflix HDR Support For Smartphones Arrives With LG G6
+- Pokemon Go Plus will help you catch all those Gen 2 Pokemon, and it’s in stock on Amazon
+- Kingston 1TB and 2TB USB sticks start shipping
+- Facebook now ranks your :heart:’s above your :+1:’s
+- Google Shames Microsoft For Not Fixing Windows 10 Browser Bug
+
+
 
 
