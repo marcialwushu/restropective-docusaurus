@@ -90,3 +90,70 @@ title: FEVEREIRO
 
 **FEVEREIRO 13**
 
+- Really Blue Google Pixel arrives to Canada as a Rogers exclusive
+- Samsung Chromebook Plus now available for purchase
+- You can now create and share lists of your favorite places on Google Maps
+- Huawei Watch 2 Launch Confirmed For MWC 2017
+- Amazon Kindle 1st, 2nd gen can no longer be registered
+- The Pirate Bay may get blocked in multiple countries following Swedish Court order
+- Google’s Chrome now lets you jump straight into VR worlds from your browser
+
+**FEVEREIRO 14**
+
+- Nokia’s legendary 3310 rumored to return at MWC
+- YouTube cancels Pewdiepie’s original series after anti-Semitic jokes
+- Galaxy S6 Nougat Update Release Expected Before End Of February
+- Pokémon Go is soon getting monster trading and real-time player battles
+
+**FEVEREIRO 15**
+
+**FEVEREIRO 16**
+
+- Pixar opens a free Khan Academy course on storytelling
+- Android continues to grow, meanwhile Blackberry and Windows are all but dead
+- Xiaomi MIUI 8.2 Global Stable ROM rolls out with all-new features and improvements
+- Redesigned Skype App Being Developed
+- iPhone 8 may utilize 3D laser technology for a complex new feature
+- Facebook takes on LinkedIn with new job ads
+
+**FEVEREIRO 17**
+
+- YouTube will do away with unskippable 30-second ads next year
+- Microsoft Office for Mac gets Touch Bar support
+- Samsung teases Exynos 9 series chipset for the Galaxy S8
+- New Android virus poses as an Adobe Flash Player update
+- LG G6 ‘Confirmed’ To Come With Snapdragon 821
+- Skype Preview now lets you stick emoticons on video calls
+
+**FEVEREIRO 18**
+
+**FEVEREIRO 19**
+
+**FEVEREIRO 20**
+
+- Google and Microsoft agree to demote pirate search results
+- Google said to be working on “refresh” button for updates in the Play Store
+- Samsung Galaxy Book Tablet Possibly In Development
+- Xiaomi To Focus On Premium Smartphones In 2017
+- Snapchat Spectacles are finally available online
+- Google is finally taking fitness seriously with Android Wear 2.0
+
+**FEVEREIRO 21**
+
+**FEVEREIRO 22**
+
+**FEVEREIRO 23**
+
+**FEVEREIRO 24**
+
+**FEVEREIRO 25**
+
+- WhatsApp now has 200 million users in India
+- Google is shutting down Spaces
+- The beta of VLC 2.1 for Android includes 360 degree video support and more
+- TWRP 3.1.0 will add support for PC data and system backups
+- Facebook Users Are Finding Themselves Logged Out Of Their Accounts
+- ‘RollerCoaster Tycoon Touch’ Has Been Launched On iOS
+
+
+
