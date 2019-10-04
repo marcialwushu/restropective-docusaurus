@@ -15,6 +15,18 @@ title: FEVEREIRO
 - Facebook Reportedly Developing A Video App For Apple TV
 - Galaxy S8 could have 3,250mAh battery, 6GB RAM variant
 - Toyota is the most Googled car brand in the world, BMW a close second
+- [Consorcio suizo prueba con éxito transacciones extrabursátiles usando blockchain de Ethereum](http://criptonoticias.com/?p=25231)
+- [Dash revela a CriptoNoticias detalles de su última actualización y planes para 2017](http://criptonoticias.com/?p=24666)
+- [Ángel Inversor Barry Silbert se une a los solicitantes de Bitcoin ETF](http://criptonoticias.com/?p=25278)
+- [Banco Real de Canadá aplica a patentar servicio de pagos con potencialidad de uso para blockchain](http://criptonoticias.com/?p=25308)
+- [YoCoin lanza plataforma descentralizada de seguros basada en blockchain](http://criptonoticias.com/?p=25380)
+- [American Express se une al proyecto Hyperledger](http://criptonoticias.com/?p=25342)
+- [Rothschild & Co. denuncia esquema fraudulento de criptomonedas en su nombre](http://criptonoticias.com/?p=25326)
+- [Reducir el tamaño del bloque podría ser la alternativa a la escalabilidad de Bitcoin](http://criptonoticias.com/?p=25226)
+- [Advierten sobre malware que roba credenciales de acceso y criptomonedas](http://criptonoticias.com/?p=25348)
+- [Banco holandés ING cosecha 27 pruebas de concepto blockchain](http://criptonoticias.com/?p=25354)
+- [Moneda digital de Liverpool alcanza 3.000 transacciones diarias en su primer mes](http://criptonoticias.com/?p=25364)
+- [Casa de cambio de criptomoneda BCC se lanza tras conclusión exitosa de la ICO de BitConnect Coin](http://criptonoticias.com/?p=25426)
 
 **FEVEREIRO 02**
 
