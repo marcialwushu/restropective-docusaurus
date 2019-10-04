@@ -15,6 +15,11 @@ title: FEVEREIRO
 - Facebook Reportedly Developing A Video App For Apple TV
 - Galaxy S8 could have 3,250mAh battery, 6GB RAM variant
 - Toyota is the most Googled car brand in the world, BMW a close second
+- [Sua impressora pode conter sérias vulnerabilidades de segurança](https://gizmodo.uol.com.br/seguranca-impressora/)
+- [O novo robô da Boston Dynamics agora faz acrobacias incríveis](http://gizmodo.uol.com.br/o-novo-robo-da-boston-dynamics-agora-faz-acrobacias-incriveis/)
+- [Não, o Nintendo Switch ainda não foi homologado no Brasil](http://gizmodo.uol.com.br/nintendo-switch-brasil/)
+- [Esta nova ferramenta promissora pode nos ajudar a encontrar vida na lua Europa](http://gizmodo.uol.com.br/ferramenta-vida-lua-europa/)
+- [Metrô de São Paulo terá espaço de Wi-Fi grátis em 40 estações](http://gizmodo.uol.com.br/metro-sao-paulo-wi-fi/)
 - [Consorcio suizo prueba con éxito transacciones extrabursátiles usando blockchain de Ethereum](http://criptonoticias.com/?p=25231)
 - [Dash revela a CriptoNoticias detalles de su última actualización y planes para 2017](http://criptonoticias.com/?p=24666)
 - [Ángel Inversor Barry Silbert se une a los solicitantes de Bitcoin ETF](http://criptonoticias.com/?p=25278)
@@ -30,7 +35,18 @@ title: FEVEREIRO
 
 **FEVEREIRO 02**
 
+- [Esta turbina eólica monstruosa na Dinamarca quebrou um recorde de produção de energia](https://gizmodo.uol.com.br/turbina-eolica-dinamarca-recorde/)
+- [Até o criador de Black Mirror achou essa notícia muito Black Mirror](http://gizmodo.uol.com.br/isso-e-muito-black-mirror/)
+- [Novo método pode revelar até os buracos negros mais evasivos de nossa galáxia](http://gizmodo.uol.com.br/metodo-descobrir-buraco-negro/)
+- [Seis aplicativos para deixar seu smartphone mais seguro](http://gizmodo.uol.com.br/6-apps-seguranca-smartphone/)
+- [A ciência por trás daquele desenho do bonequinho que ganha vida na água](http://gizmodo.uol.com.br/agua-bonequinho-desenho-explicacao/)
+
 **FEVEREIRO 03**
+
+- [Snapchat entrará na bolsa de valores mesmo com prejuízos absurdos](http://gizmodo.uol.com.br/snapchat-ipo/)
+- [O planeta-anão Ceres tem um vulcão de gelo com metade do tamanho do Monte Everest](http://gizmodo.uol.com.br/vulcao-gelo-ceres-planeta-anao/)
+- [O vai e vem do polêmico projeto que altera a lei das teles](http://gizmodo.uol.com.br/projeto-alteracao-lei-geral-das-telecomunicacoes/)
+- [Estes 23 princípios podem nos ajudar a evitar o apocalipse com a inteligência artificial](http://gizmodo.uol.com.br/23-principios-inteligencia-artificial/)
 
 **FEVEREIRO 04**
 
