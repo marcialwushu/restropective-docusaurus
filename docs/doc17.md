@@ -172,7 +172,14 @@ title: FEVEREIRO
 
 **FEVEREIRO 23**
 
+- [Banco Central do Canadá está "aberto" a mais testes com tecnologia Blockchain](http://wp.me/p7LTUB-sR)
+- [Preço do Bitcoin ultrapassa o valor mais alto registrado em 2013](http://wp.me/p7LTUB-sX)
+
 **FEVEREIRO 24**
+
+- [Presidente do Conselho da União Europeia: "A Europa deve se tornar o continente do Bitcoin"](http://wp.me/p7LTUB-t1)
+- [Agencia de noticias alerta: O aumento de preços do Bitcoin é o inicio de um "Período Inflacionário"](http://wp.me/p7LTUB-t5)
+- [O que é uma "Baleia" no mercado de Bitcoin? ](https://wp.me/p7LTUB-t7)
 
 **FEVEREIRO 25**
 
