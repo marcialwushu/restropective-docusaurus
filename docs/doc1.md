@@ -63,6 +63,14 @@ sidebar_label: JANEIRO
 - [Tenha cuidado, o macOS está a estragar ficheiros PDF](https://goo.gl/G1u2aJ)
 - [Bitcoin: el mejor activo para reserva de valor en 2016](http://criptonoticias.com/?p=23513)
 - [ONU indica que tecnología financiera será crucial para el desarrollo global sustentable](http://criptonoticias.com/?p=23476)
+- [Telegram encerra suporte às versões antigas do Android; mínimo agora é 4.0](https://www.tecmundo.com.br/telegram/113067-telegram-encerra-suporte-versoes-antigas-android-minimo-4-0.htm)
+- [Novo iOS 10.3 terá Modo Cinema com ícone de 'pipoca'](https://www.tecmundo.com.br/apple/113074-novo-ios-10-3-tera-modo-cinema-icone-pipoca.htm)
+- [Atualização Creators Update do Windows 10 deve ser lançada em abril](https://www.tecmundo.com.br/windows-10/113077-atualizacao-creators-update-windows-10-deve-lancada-abril.htm)
+- [Cortana para Android ganha ferramentas de personalização](https://www.tecmundo.com.br/cortana/113080-cortana-android-ganha-ferramentas-personalizacao.htm)
+- [Novos carros da série 90 da Volvo terão o Skype for Business](https://www.tecmundo.com.br/volvo/113089-novos-carros-serie-90-da-volvo-terao-skype-for-business.htm)
+- [Somente 3% dos downloads de Super Mario Run se converteram em vendas](https://www.tecmundo.com.br/video-game-e-jogos/113092-somente-3-downloads-super-mario-run-converteram-vendas.htm)
+- [Cama inteligente aquece seus pés e faz você parar de roncar automaticamente](https://www.tecmundo.com.br/ces-2017/113100-cama-inteligente-aquece-pes-voce-parar-roncar-automaticamente.htm)
+
 
 
 **JANEIRO 04**
@@ -81,6 +89,15 @@ sidebar_label: JANEIRO
 - [Positivo faz recall de computadores para troca de bateria](https://goo.gl/AXvl9m)
 - [Lenovo lança linha Legion: notebooks gamer com suporte a realidade virtual](http://goo.gl/45iBv0)
 - [Google pode adquirir SoundCloud por US$ 500 milhões](http://goo.gl/3IauOn)
+- [LeEco anuncia bicicletas com Android para os Estados Unidos](https://www.tecmundo.com.br/bicicleta/113111-leeco-anuncia-bicicleta-android-estados-unidos.htm)
+- [Espere ver até 7 smartphones Nokia com Android chegando em 2017](https://www.tecmundo.com.br/nokia/113116-espere-ver-7-smartphones-nokia-android-chegando-2017.htm)
+- [Vai ou não vai? Galaxy S8, ao que parece, terá versão com tela plana](https://www.tecmundo.com.br/samsung-galaxy-s8/113134-nao-vai-galaxy-s8-parece-tera-versao-tela-plana.htm)
+- [LEGO Boost ensina crianças pequenas a dar vida a brinquedos com programação](https://www.tecmundo.com.br/ces-2017/113140-lego-boost-ensina-criancas-pequenas-dar-vida-brinquedos-programacao.htm)
+- [Sabe as campanhas contra pirataria? Elas não servem de nada, diz estudo](https://www.tecmundo.com.br/pirataria/113141-sabe-campanhas-pirataria-elas-nao-servem-nada-diz-estudo.htm)
+- [Prepare o bolso: Swarovski libera teaser de seu smartwatch com Android Wear](https://www.tecmundo.com.br/smartwatch/113143-prepare-bolso-swarovski-libera-teaser-smartwatch-android-wear.htm)
+- [Nova geração: Samsung apresenta o Chromebook Plus e o Chromebook Pro](https://www.tecmundo.com.br/ces-2017/113154-nova-geracao-samsung-apresenta-chromebook-plus-o-chromebook-pro.htm)
+
+
 
 **JANEIRO 05**
 
@@ -92,8 +109,14 @@ sidebar_label: JANEIRO
 - [Projeto NEON: nova interface do Windows 10 trará desfoques, animações e transparências](http://bit.ly/2j8p85s)
 - [Nvidia apresenta nova Shield TV com suporte a 4K HDR, streaming de jogos e Google Assistant](http://goo.gl/BqHuIK)
 - [Vazamentos revelam possível data de lançamento e visual do Galaxy S8](http://goo.gl/RGEzcj)
+- [Imagens vazadas na web dão dicas sobre o futuro do Windows 10](https://www.tecmundo.com.br/windows-10/113189-imagens-vazadas-web-dao-dicas-futuro-windows-10.htm)
 
 **JANEIRO 06**
+
+- [Continua crescendo: iOS 10 está instalado em 76% dos dispositivos Apple](https://www.tecmundo.com.br/ios-10/113204-continua-crescendo-ios-10-instalado-76-dispositivos-apple.htm)
+- [Você sabia que o iPhone quase chegou ao mercado com um recurso do iPod?](https://www.tecmundo.com.br/ios/113208-voce-sabia-iphone-chegou-mercado-recurso-ipod.htm)
+- [App Store distribuiu US$ 20 bi em 2016; Pokémon GO foi o app mais baixado](https://www.tecmundo.com.br/app-store/113217-app-store-distribuiu-us-20-bi-2016-pokemon-go-app-baixado.htm)
+- [Plataforma Android de multimídia automotiva vai além do Android Auto na CES](https://www.tecmundo.com.br/android/113220-plataforma-android-multimidia-automotiva-android-auto-ces.htm)
 
 **JANEIRO 07**
 
