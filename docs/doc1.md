@@ -137,6 +137,34 @@ sidebar_label: JANEIRO
 - WhatsApp contributes GIF look for and improves press discussing restrict to 30 items
 - A new form of Google Voice might release soon
 - Verizon places a 200GB restrict on endless data
+- [Segredo do Universo pode estar em outro Universo](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=segredo-universo-estar-outro-universo&id=010130170106&ebol=sim)
+- [Metafluido: ondas na água mudam propriedades da água](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=metafluidos&id=010160170110&ebol=sim)
+- [Depois da Inteligência Artificial, vem aí a Inteligência Paralela](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=depois-inteligencia-artificial-vem-ai-inteligencia-paralela&id=010150170109&ebol=sim)
+- [Os perigos que a Inteligência Artificial trará à humanidade](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=os-perigos-inteligencia-artificial-trara-humanidade&id=020150170109&ebol=sim)
+- [Transistores especiais podem funcionar anos sem bateria](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-reciclam-energia-funcionam-anos-sem-bateria&id=010110170110&ebol=sim)
+- [Precisamos proteger os polinizadores para salvar a agricultura](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=precisamos-proteger-polinizadores-salvar-agricultura&id=010125170105&ebol=sim)
+- [Pista quântica inclinada deixa qubit acelerar sem derrapar](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-aceleram-sem-derrapar-pista-quantica-inclinada&id=010110170104&ebol=sim)
+- Inovação em telecomunicações recebe R$ 200 milhões
+- Recorde mundial em transmissão óptica é quebrado no Brasil
+- Itaipu rompe barreira inédita dos 100 milhões de MWh
+- Por que os dias na Terra estão ficando mais longos?
+- Maior onda da história é registrada no Oceano Atlântico
+- Parem os asteroides: Ainda não estamos preparados
+- Internet das coisas deve ter plano nacional em 2017
+- Satélite de estudantes brasileiros é lançado no Japão
+- Descoberto rio de ferro derretido ao redor do Polo Norte
+- Teoria da Gravidade rival de Einstein mata matéria escura
+- Segunda corrida espacial quer conquistar a Lua
+- Drone com asas móveis voa (quase) como um pássaro
+- Antimatéria brilha exatamente igual à matéria
+- Como as telas sensíveis ao toque ficarão melhores
+- Menor rádio do mundo é construído dentro de um diamante
+- As últimas palavras da Rosetta sobre o cometa
+- Seu corpo acaba de ganhar um novo órgão: o Mesentério
+- Luz do Sol energia células do sistema imunológico
+- Por que algumas pessoas não gostam da gratidão?
+- Qual é a melhor música para se concentrar no trabalho?
+- Planta medicinal torna tuberculose mais fácil de tratar
 
 **JANEIRO 11**
 
