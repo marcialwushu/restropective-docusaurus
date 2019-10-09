@@ -188,6 +188,25 @@ sidebar_label: JANEIRO
 
 **JANEIRO 13**
 
+- [Astrônomos preveem explosão que mudará o céu em 2022](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=astronomos-preveem-explosao-mudara-ceu-2022&id=010130170113&ebol=sim)
+- [Transístor estica mais que a pele](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistor-estica-mais-pele&id=010110170113&ebol=sim)
+- [iMEMS: Robôs biocompatíveis para serem implantados no corpo](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=imems-robos-moles-implantaveis&id=010180170112&ebol=sim)
+- [NASA seleciona missão para asteroide metálico](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-seleciona-duas-missoes-asteroides&id=010130170112&ebol=sim)
+- [Brasileiros capturam luz e movimento com sensor optomecânico](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=brasileiros-capturam-luz-movimento-sensor-optomecanico&id=010165170111&ebol=sim)
+- [Telescópio vai procurar alvos para missão interplanetária](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=telescopio-vai-procurar-exoplanetas-missao-interplanetaria&id=010130170111&ebol=sim)
+- IPT avança no domínio da cadeia de superímãs
+- Silício pode ser "elemento perdido" do núcleo da Terra
+- Inovação em telecomunicações recebe R$ 200 milhões
+- Recorde mundial em transmissão óptica é quebrado no Brasil
+- Segredo do Universo pode estar em outro Universo
+- Depois da Inteligência Artificial, vem aí a Inteligência Paralela
+- Os perigos que a Inteligência Artificial trará à humanidade
+- Precisamos proteger os polinizadores para salvar a agricultura
+- Robôs-cobra para ajudar astronautas e construir base na Lua
+- Transistores especiais podem funcionar anos sem bateria
+- Compósitos aeroespaciais ganham energia para ir para os carros
+- Pista quântica inclinada deixa qubit acelerar sem derrapar
+
 **JANEIRO 14**
 
 - Android creator Andy Rubin is building a high-end smartphone
