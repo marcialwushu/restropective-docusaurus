@@ -144,27 +144,27 @@ sidebar_label: JANEIRO
 - [Transistores especiais podem funcionar anos sem bateria](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=transistores-reciclam-energia-funcionam-anos-sem-bateria&id=010110170110&ebol=sim)
 - [Precisamos proteger os polinizadores para salvar a agricultura](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=precisamos-proteger-polinizadores-salvar-agricultura&id=010125170105&ebol=sim)
 - [Pista quântica inclinada deixa qubit acelerar sem derrapar](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=qubits-aceleram-sem-derrapar-pista-quantica-inclinada&id=010110170104&ebol=sim)
-- Inovação em telecomunicações recebe R$ 200 milhões
-- Recorde mundial em transmissão óptica é quebrado no Brasil
-- Itaipu rompe barreira inédita dos 100 milhões de MWh
-- Por que os dias na Terra estão ficando mais longos?
-- Maior onda da história é registrada no Oceano Atlântico
-- Parem os asteroides: Ainda não estamos preparados
-- Internet das coisas deve ter plano nacional em 2017
-- Satélite de estudantes brasileiros é lançado no Japão
-- Descoberto rio de ferro derretido ao redor do Polo Norte
-- Teoria da Gravidade rival de Einstein mata matéria escura
-- Segunda corrida espacial quer conquistar a Lua
-- Drone com asas móveis voa (quase) como um pássaro
-- Antimatéria brilha exatamente igual à matéria
-- Como as telas sensíveis ao toque ficarão melhores
-- Menor rádio do mundo é construído dentro de um diamante
-- As últimas palavras da Rosetta sobre o cometa
-- Seu corpo acaba de ganhar um novo órgão: o Mesentério
-- Luz do Sol energia células do sistema imunológico
-- Por que algumas pessoas não gostam da gratidão?
-- Qual é a melhor música para se concentrar no trabalho?
-- Planta medicinal torna tuberculose mais fácil de tratar
+- [Inovação em telecomunicações recebe R$ 200 milhões](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inovacao-telecomunicacoes-recebe-r-200-milhoes&id=010175161227&ebol=sim)
+- [Recorde mundial em transmissão óptica é quebrado no Brasil](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=recorde-mundial-transmissao-optica-brasil&id=010175161224&ebol=sim)
+- [Itaipu rompe barreira inédita dos 100 milhões de MWh](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=itaipu-rompe-barreira-inedita-100-milhoes-mwh&id=010175161222&ebol=sim)
+- [Por que os dias na Terra estão ficando mais longos?](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=por-dias-terra-estao-ficando-mais-longos&id=010175161221&ebol=sim)
+- [Maior onda da história é registrada no Oceano Atlântico](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=maior-onda-do-mundo&id=010175161219&ebol=sim)
+- [Parem os asteroides: Ainda não estamos preparados](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=parem-asteroides-ainda-nao-estamos-preparados&id=010175161218&ebol=sim)
+- [Internet das coisas deve ter plano nacional em 2017](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=internet-coisas-deve-ter-plano-nacional-2017&id=010175161214&ebol=sim)
+- [Satélite de estudantes brasileiros é lançado no Japão](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=satelite-estudantes-brasileiros-lancado-japao&id=010175161212&ebol=sim)
+- [Descoberto rio de ferro derretido ao redor do Polo Norte](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberto-rio-ferro-derretido-redor-polo-norte&id=010125161222&ebol=sim)
+- [Teoria da Gravidade rival de Einstein mata matéria escura](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=teoria-gravidade-rival-einstein-mata-materia-escura&id=020130161223&ebol=sim)
+- [Segunda corrida espacial quer conquistar a Lua](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=segunda-corrida-espacial-quer-conquistar-lua&id=010130161219&ebol=sim)
+- [Drone com asas móveis voa (quase) como um pássaro](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=drone-asas-moveis-voa-quase-como-passaro&id=010170161220&ebol=sim)
+- [Antimatéria brilha exatamente igual à matéria](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antimateria-brilha-exatamente-igual-materia&id=010130161220&ebol=sim)
+- [Como as telas sensíveis ao toque ficarão melhores](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=novo-material-telas-sensiveis-toque&id=010110161221&ebol=sim)
+- [Menor rádio do mundo é construído dentro de um diamante](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=menor-radio-do-mundo&id=010165161219&ebol=sim)
+- [As últimas palavras da Rosetta sobre o cometa](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=as-ultimas-palavras-rosetta-sobre-cometa&id=010130161223&ebol=sim)
+- [Seu corpo acaba de ganhar um novo órgão: o Mesentério](http://www.diariodasaude.com.br/news.php?article=mesenterio&id=11822&nl=sit)
+- [Luz do Sol energia células do sistema imunológico](http://www.diariodasaude.com.br/news.php?article=luz-sol-energia-celulas-sistema-imunologico&id=11819&nl=sit)
+- [Por que algumas pessoas não gostam da gratidão?](http://www.diariodasaude.com.br/news.php?article=pessoas-nao-gostam-gratidao&id=11809&nl=sit)
+- [Qual é a melhor música para se concentrar no trabalho?](http://www.diariodasaude.com.br/news.php?article=qual-melhor-musica-se-concentrar-trabalho&id=11824&nl=sit)
+- [Planta medicinal torna tuberculose mais fácil de tratar](http://www.diariodasaude.com.br/news.php?article=planta-medicinal-torna-tuberculose-mais-facil-tratar&id=11820&nl=sit)
 
 **JANEIRO 11**
 
