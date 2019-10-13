@@ -1,8 +1,9 @@
-
 ---
 id: doc39
-title: NSW hospital pilots point of care project; AIA Australia launches digiatal health coach; GSK-Pfizer deal wins approval; and more
+title: NSW hospital pilots point of care project
 ---
+
+## NSW hospital pilots point of care project; AIA Australia launches digiatal health coach; GSK-Pfizer deal wins approval; and more
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0;border-collapse:collapse">
 <tbody>
