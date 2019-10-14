@@ -1,0 +1,370 @@
+---
+id: doc45
+title: Interview with Josh Holmes, Interview with Josh Holmes, 405 Method Not Allowed
+---
+
+
+
+<tbody><tr>
+<td colspan="2" style="padding:0px 15px" align="left">
+<center>
+<div>
+<div style="margin:auto auto;width:292px">
+<table width="100%" cellspacing="0" cellpadding="4" border="0" align="center">
+<tbody><tr>
+<td style="line-height:100% px;padding:4px 10px;text-align:center" valign="top" align="center">
+<div style="line-height:10px">&nbsp;</div>
+<div style="font-size:13px;color:#fff">Upgrade Free to Feedspot Gold for 1 month</div>
+<div style="font-size:13px;color:#fff;padding:6px 0">Use Promocode GOLDFX</div>
+<a style="text-align:center;font-size:12px;font-weight:400;text-decoration:none;border-radius:4px;padding:4px 10px;background-color:#ffe86c;border:1px solid #ebb518;color:#333;white-space:normal;display:inline-block" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=%2Ffs%2Fupgrade%3Fsrc%3DDaily_Digest%26_src%3Ddbfr%26dd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3D%252Ffs%252Fupgrade%253Fsrc%253DDaily_Digest%2526_src%253Ddbfr%2526dd%253D431152018376461&amp;source=gmail&amp;ust=1571177207463000&amp;usg=AFQjCNG9JlY5ZqhUyH9AVM2xN2t-Wns8GA">
+Continue
+</a>
+<div style="line-height:10px">&nbsp;</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</center>
+</td>
+</tr>
+</tbody>
+
+
+<tbody><tr>
+<td width="98%" valign="top" align="left">
+<table style="background:#fff;background-color:#fff;font-family:helvetica,Arial,sans-serif;margin:0px 10px 0px;width:auto" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td style="padding:12px 0px 12px;border-bottom:solid 1px #e7e7e7">
+<table style="font-family:Helvetica,arial,sans-serif;font-weight:400" width="100%">
+<tbody><tr>
+<td style="padding:10px 0px">
+<a style="color:#333;font-size:16px;font-weight:700;display:inline;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNEoTxLT7P7xajGgMS89NQ0QPqpoRA">
+Planet PHP </a>
+&nbsp;&nbsp;<a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Dunfollow%26feid%3D1288822#?dd=431152018376461" style="color:#c1c1c1;text-decoration:none;font-size:14px" title="Remove this site" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Dunfollow%2526feid%253D1288822%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNFR9AWCC_XaeR0nusFCJ0QrsRiA9w">Remove</a>
+</td>
+</tr>
+<tr><td style="padding-left:0px">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4893665828%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4893665828%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNH4VnEebK15G0d8r8JWHd8YIxLzGw">Interview with Josh Holmes</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Voices of the ElePHPant, 2 days ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0fzOUYybhgId%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0fzOUYybhgId%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNEPSu4O-JNKW8a2EIFOXXNUPNw-BA">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+Video @joshholmes Audio Show Notes Seattle Give Camp PWA Builder Super PWA The post <span>Interview with Josh Holmes appeared first on Voices of the ElePHPant. ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4893665828%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4893665828%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNH4VnEebK15G0d8r8JWHd8YIxLzGw">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4893427940%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4893427940%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNE5KA5jJTSza_24xj1y1nD1Ht8IEQ">Interview with Josh Holmes</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Voices of the ElePHPant, 2 days ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0fzOMUy7liGd%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0fzOMUy7liGd%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNFRq6ZOJxU4aSyhCYgRSwEJe3N1dA">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+Video @joshholmes Audio Show Notes Seattle Give Camp PWA Builder Super PWA The post <span>Interview with Josh Holmes appeared first on Voices of the ElePHPant. ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4893427940%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4893427940%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207464000&amp;usg=AFQjCNE5KA5jJTSza_24xj1y1nD1Ht8IEQ">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table style="background:#fff;background-color:#fff;font-family:helvetica,Arial,sans-serif;margin:10px 0px;width:auto">
+<tbody><tr><td style="padding:0px 0px 16px">
+<div style="padding:12px;border:solid 1px #e7e7e7;font-size:12px;color:#333;background:#f9f9f9;background-color:#f9f9f9">
+<h2 style="font-size:16px;color:#333;font-weight:700;font-family:Helvetica,arial,sans-serif;margin:0px">Try Feedspot Gold free for 30 days</h2>
+<div style="padding:10px 0px;font-family:arial,sans-serif">
+<div style="clear:both;line-height:20px;font-family:Arial,sans-serif;color:#333">Use Promocode GOLDFX</div>
+</div>
+<div style="clear:both;padding:0px">
+<a style="text-decoration:none;color:#333" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=https%3A%2F%2Fwww.feedspot.com%2Ffs%2Fupgrade%3Fsrc%3Ddailydigestemail" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttps%253A%252F%252Fwww.feedspot.com%252Ffs%252Fupgrade%253Fsrc%253Ddailydigestemail&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNHcSvEcSDMfGgpKtYDE6t0WKzT7eQ"><span style="display:inline-block;border-radius:4px;padding:6px 50px;background-color:#ffe86c;border:1px solid #ebb518;font-weight:700;color:#333;white-space:nowrap">Continue</span></a>
+</div>
+<div style="padding:10px 0px;font-family:arial,sans-serif">
+<div style="clear:both;line-height:20px;font-family:Arial,sans-serif;color:#333">
+Are you a Marketer? <a style="color:#0077b5" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=https%3A%2F%2Fwww.feedspot.com%2Ffs%2Fmarketers%3Fsrc%3Ddailydigestemail" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttps%253A%252F%252Fwww.feedspot.com%252Ffs%252Fmarketers%253Fsrc%253Ddailydigestemail&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNEMGuPeQOcc1DD9bbc2ovQ2Oa2P4A">Try Feedspot Marketing Solutions.</a>
+</div>
+</div>
+</div>
+</td></tr>
+<tr><td>
+</td></tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4892858247%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4892858247%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNH7hygCB2tEIypsfWM8H8z3hndqdg">405 Method Not Allowed</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Evert Pot, 2 days ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0fy%2BcXzLJiIN%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0fy%252BcXzLJiIN%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNE5hRKk-bKXTu2V5Roy11q5cLFUSg">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+405 Method Not Allowed should be returned by a server when a certain HTTP method <span>is not supported at a resource. It’s a bit different from 403 Forbidden. 403 s..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4892858247%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4892858247%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNH7hygCB2tEIypsfWM8H8z3hndqdg">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4891984451%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4891984451%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNHZM3f_Sn3ZUAnJCVHqbZ7FOIojXw">Sponsoring New Adventures</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Chris Shiflett, 3 days ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0fyugayLRjGt%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0fyugayLRjGt%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNFDNaYHyXHNH3QQ0xzkuRDPzAQeGQ">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+The intro to Good Work starts with a simple statement: We love the web. This sentiment <span>is core to the vision of Faculty. It is also a common thread that ties t..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4891984451%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4891984451%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207465000&amp;usg=AFQjCNHZM3f_Sn3ZUAnJCVHqbZ7FOIojXw">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4890283347%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4890283347%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNEDZb2VRK4TuDr_RadsnTplvRemXw">Principles of Package Design, 2nd edition</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Matthias Noback, 3 days ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0fyeEax7NiIN%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0fyeEax7NiIN%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNHKhfxjLPhvc99mA8kRkKwpRX9rrw">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+All of a sudden it became book-writing season. It began in August when I started <span>revising my second book, "Principles of Package Design". Apress had contacted ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4890283347%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4890283347%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNEDZb2VRK4TuDr_RadsnTplvRemXw">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4881136630%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4881136630%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNGmfLNcsiS38YSNWN4L7XB2ZiNfzA">Route specific configuration in Slim</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Rob Allen, 1 week ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0eyuAVyrZhGd%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0eyuAVyrZhGd%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNEEGXnr7JBk9Kvz0upsI8xC01T-ag">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+A friend emailed me recently asking about route specific configuration in Slim. He <span>wants to be able to set properties when creating the route that he can pick ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4881136630%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4881136630%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNGmfLNcsiS38YSNWN4L7XB2ZiNfzA">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880825344%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880825344%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNGbxgB1W8sxwCK3-ZvX1GIT2gShJw">Git hooks on Windows</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Stefan Koopmanschap, 1 week ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0eyecUybNiHd%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0eyecUybNiHd%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207466000&amp;usg=AFQjCNGg30TNJLbRykh4_qO59ucVnLj-Jg">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+I recently was asked to add a git hook to our main repository to add the Jira issue <span>number to the commit message in an automated way. We were so far handling t..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880825344%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880825344%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNFPOxH62hinCvRIMB4gXPSY3q6J3A">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880825343%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880825343%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNFFCwf_RFactC-XXxYt_31hkqfSqg">Interview with Brandon Savage</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Voices of the ElePHPant, 1 week ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0eyecUybNiHN%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0eyecUybNiHN%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNHxhJ2mO9XcQE2ZvJpFkS14_BtO0g">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+Video @brandonsavage Audio Show Notes Phoneburner.com The post Interview with Brandon <span>Savage appeared first on Voices of the ElePHPant. ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880825343%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880825343%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNFFCwf_RFactC-XXxYt_31hkqfSqg">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880066024%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880066024%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNG6fSMPe5-5uQVO4HcJyxw3BjYn_Q">Interview with Brandon Savage</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Voices of the ElePHPant, 1 week ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0eyd8YyrBgHd%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0eyd8YyrBgHd%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNFDpqI0vPUHcdh2HmHLCjvqJihQZA">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+Video @brandonsavage Audio Show Notes Phoneburner.com The post Interview with Brandon <span>Savage appeared first on Voices of the ElePHPant. ..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4880066024%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4880066024%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNG6fSMPe5-5uQVO4HcJyxw3BjYn_Q">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="vertical-align:top;padding-bottom:14px">
+<div>
+<div style="direction:ltr;font-size:15px;font-weight:700;text-decoration:none;padding:0px 0px 2px">
+<a style="color:#0077b5;text-decoration:none!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4879694636%3Fdd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4879694636%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207467000&amp;usg=AFQjCNH2fqfK3NebDRzn8NftxQ6CrZ-kYg">404 Not Found</a>
+</div>
+<div style="color:#777;font-size:11px;font-family:Arial,sans-serif">
+by Evert Pot, 1 week ago &nbsp;<span style="color:#777;display:inline;vertical-align:middle!important;line-height:10px!important">.</span>&nbsp; <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26next%3Daddtofav%26entry_hash%3DFFAI8qdIHBoi8RdE2M0d0uUbyLZhH9%2FiRhQlThMDI9n1QwrvoFInGw%3D%3D#?dd=431152018376461" style="color:#777;text-decoration:none" title="Save Article" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526next%253Daddtofav%2526entry_hash%253DFFAI8qdIHBoi8RdE2M0d0uUbyLZhH9%252FiRhQlThMDI9n1QwrvoFInGw%253D%253D%23?dd%3D431152018376461&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNFHFqs-9pZwVc44AQwystFsncumEg">Save</a>
+</div>
+<div style="padding-top:4px;color:#333;font-size:12px;direction:ltr;font-family:Arial,sans-serif;line-height:16px;word-break:break-word">
+404 Not Found hardly needs an introduction. It’s by far the most seen status by <span>developers and non-developers alike. 404 is emitted when a resource doesn’t exi..</span> <a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%2Farticle%2F4879694636%3Fdd%3D431152018376461" style="text-decoration:none;color:#0077b5" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%252Farticle%252F4879694636%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNFu6kGZaUa9w4imZ0E-8zB81ZRK0Q">Read More →</a> </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr><td style="padding-bottom:4px" align="center">
+<a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ffof_fo_1027165__f_1288822%3Fdd%3D431152018376461" style="font-size:13px;text-decoration:none;color:#333;display:block;font-weight:bold" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ffof_fo_1027165__f_1288822%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNEou8v6mMFmg1Sk9fuU0RrpPfzr4g"><div style="line-height:100%;height:16px;padding:2px 8px 3px;display:inline-block;width:226px;background-color:#ffe86c;text-align:center;border-radius:4px;text-align:center;border:1px solid #ebb518">34 more new stories. View all&nbsp;<span style="color:#333;font-size:18px">→</span></div></a>
+</td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table style="background:#fff;background-color:#fff;font-family:helvetica,Arial,sans-serif;margin:0px 10px 0px;width:auto">
+<tbody><tr>
+<td style="padding:12px 0px 12px;border-bottom:solid 1px #e7e7e7">
+<table style="font-size:13px;font-weight:700">
+<tbody><tr>
+<td style="font-size:13px;width:320px;padding-right:20px;padding-bottom:6px">
+<div style="color:#333;font-size:16px;font-weight:700">
+NEW SITES SUGGESTIONS FOR YOU
+</div>
+</td>
+<td style="width:50px;vertical-align:top;text-align:center">
+<a style="text-decoration:underline;color:#0077b5;font-size:14px" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Df_rec%3Fdd%3D431152018376461%26whotofollow%3Demail" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Df_rec%253Fdd%253D431152018376461%2526whotofollow%253Demail&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNGWDomsH5NVjqxbXVX2t1oetFfO7g">VIEW ALL</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;width:100%;padding-right:20px">
+<div style="max-width:340px;font-weight:700">
+<a style="color:#0077b5;text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26whotofolow%3Demail%26q%3D1%26feid%3D109328" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526whotofolow%253Demail%2526q%253D1%2526feid%253D109328&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNH2ILzYu-FUQ8TtyiWyeX-WCTsizw">Ircmaxell's blog</a>
+</div>
+<div style="max-width:340px;padding-bottom:14px;color:#333!important;font-size:12px;line-height:16px;font-weight:normal;font-family:arial,sans-serif">
+A blog about PHP, Security, Performance and general web application development.&nbsp;
+</div>
+</td>
+<td style="width:50px;vertical-align:top">
+<a style="text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ff_109328%3Fdd%3D431152018376461%26whotofollow%3Demail%26followfeed%3DFUv4vW4a4%2B8Y4%2Bk%3D" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ff_109328%253Fdd%253D431152018376461%2526whotofollow%253Demail%2526followfeed%253DFUv4vW4a4%252B8Y4%252Bk%253D&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNHn9GXVzU0C4Gn61ViAB22lWiFRRQ">
+<div style="margin:auto auto;text-align:center;background-color:#287bbc;border-radius:2px;color:#fff;padding:6px 20px;font-weight:bold;font-size:14px;white-space:nowrap;text-decoration:none">
++Add
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;width:100%;padding-right:20px">
+<div style="max-width:340px;font-weight:700">
+<a style="color:#0077b5;text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26whotofolow%3Demail%26q%3D1%26feid%3D126453" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526whotofolow%253Demail%2526q%253D1%2526feid%253D126453&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNEsGnSznaITEVzpGA3Ot6ccuZDYAQ">Poo-tee-weet</a>
+</div>
+<div style="max-width:340px;padding-bottom:14px;color:#333!important;font-size:12px;line-height:16px;font-weight:normal;font-family:arial,sans-serif">
+Poo-tee-weet: ramblings on PHP, SQL, the web, politics, ultimate frisbee and what else is on in my l..&nbsp;
+</div>
+</td>
+<td style="width:50px;vertical-align:top">
+<a style="text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ff_126453%3Fdd%3D431152018376461%26whotofollow%3Demail%26followfeed%3DFUv4vW4a5ewZ5uQ%3D" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ff_126453%253Fdd%253D431152018376461%2526whotofollow%253Demail%2526followfeed%253DFUv4vW4a5ewZ5uQ%253D&amp;source=gmail&amp;ust=1571177207468000&amp;usg=AFQjCNH1JeF92lBum-4l-IfNaqJff0KZ5g">
+<div style="margin:auto auto;text-align:center;background-color:#287bbc;border-radius:2px;color:#fff;padding:6px 20px;font-weight:bold;font-size:14px;white-space:nowrap;text-decoration:none">
++Add
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;width:100%;padding-right:20px">
+<div style="max-width:340px;font-weight:700">
+<a style="color:#0077b5;text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26whotofolow%3Demail%26q%3D1%26feid%3D4431043" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526whotofolow%253Demail%2526q%253D1%2526feid%253D4431043&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNE_YrK4AG0RXVdbZ0e_F5QxryBYxA">The Zend Blog</a>
+</div>
+<div style="max-width:340px;padding-bottom:14px;color:#333!important;font-size:12px;line-height:16px;font-weight:normal;font-family:arial,sans-serif">
+Read the latest PHP trends and best practices in the world of cloud, mobile and web application deve..&nbsp;
+</div>
+</td>
+<td style="width:50px;vertical-align:top">
+<a style="text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ff_4431043%3Fdd%3D431152018376461%26whotofollow%3Demail%26followfeed%3DFUv4vW4d5%2BkW4eUY" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ff_4431043%253Fdd%253D431152018376461%2526whotofollow%253Demail%2526followfeed%253DFUv4vW4d5%252BkW4eUY&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNFJAk2oXBog4NbH326KNfqLP5altg">
+<div style="margin:auto auto;text-align:center;background-color:#287bbc;border-radius:2px;color:#fff;padding:6px 20px;font-weight:bold;font-size:14px;white-space:nowrap;text-decoration:none">
++Add
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;width:100%;padding-right:20px">
+<div style="max-width:340px;font-weight:700">
+<a style="color:#0077b5;text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26whotofolow%3Demail%26q%3D1%26feid%3D4431041" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526whotofolow%253Demail%2526q%253D1%2526feid%253D4431041&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNHLa_WvyIVjhk5hQFqdns8NttCGxg">AWS Developer Blog - PHP</a>
+</div>
+<div style="max-width:340px;padding-bottom:14px;color:#333!important;font-size:12px;line-height:16px;font-weight:normal;font-family:arial,sans-serif">
+AWS Developer Blog - PHP&nbsp;
+</div>
+</td>
+<td style="width:50px;vertical-align:top">
+<a style="text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ff_4431041%3Fdd%3D431152018376461%26whotofollow%3Demail%26followfeed%3DFUv4vW4d5%2BkW4eUW" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ff_4431041%253Fdd%253D431152018376461%2526whotofollow%253Demail%2526followfeed%253DFUv4vW4d5%252BkW4eUW&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNEDY59WaqDukIXNSrzz2gYJ2qBKQQ">
+<div style="margin:auto auto;text-align:center;background-color:#287bbc;border-radius:2px;color:#fff;padding:6px 20px;font-weight:bold;font-size:14px;white-space:nowrap;text-decoration:none">
++Add
+</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:15px;width:100%;padding-right:20px">
+<div style="max-width:340px;font-weight:700">
+<a style="color:#0077b5;text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Finfiniterss.php%3Fdd%3D431152018376461%26whotofolow%3Demail%26q%3D1%26feid%3D4342575" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Finfiniterss.php%253Fdd%253D431152018376461%2526whotofolow%253Demail%2526q%253D1%2526feid%253D4342575&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNGDPDrAsGMhTi1OwbRpJnFb1Gus0A">PR Newswire</a>
+</div>
+<div style="max-width:340px;padding-bottom:14px;color:#333!important;font-size:12px;line-height:16px;font-weight:normal;font-family:arial,sans-serif">
+Current News <div style="float:right;color:#cccccc;display:inline">Promoted</div>&nbsp;
+</div>
+</td>
+<td style="width:50px;vertical-align:top">
+<a style="text-decoration:none" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fhash%3Dfeed%2Ff_4342575%3Fdd%3D431152018376461%26whotofollow%3Demail%26followfeed%3DFUv4vW4d5uoX5uga" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fhash%253Dfeed%252Ff_4342575%253Fdd%253D431152018376461%2526whotofollow%253Demail%2526followfeed%253DFUv4vW4d5uoX5uga&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNHPGXjxSqQiwfJaAoLYC-Ffk5U9Kg">
+<div style="margin:auto auto;text-align:center;background-color:#287bbc;border-radius:2px;color:#fff;padding:6px 20px;font-weight:bold;font-size:14px;white-space:nowrap;text-decoration:none">
++Add
+</div>
+</a>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table style="background:#fff;background-color:#fff;font-family:helvetica,Arial,sans-serif;margin:0px 10px 0px;width:auto">
+<tbody><tr>
+<td style="padding:12px 0px 12px;font-size:14px;font-weight:700;text-align:center;font-family:helvetica,Arial,sans-serif"><a style="text-decoration:none;color:#333!important" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Fuseredit%3Fset%3Ddailydigest%26dd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Fuseredit%253Fset%253Ddailydigest%2526dd%253D431152018376461&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNHea2Zriof0FWF5IfmYOsOOkZPoaw">CUSTOMIZE YOUR FEEDSPOT DAILY EMAIL - CHANGE TIMING, SELECT SPECIFIC SITES AND MORE OPTIONS</a></td>
+</tr>
+</tbody></table>
+<table style="background:#333;background-color:#333333" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td style="padding:12px 0px" width="98%" valign="middle" height="30" align="center">
+<div style="padding:2px 31px;width:200px;background-color:#287bbc;border:1px solid #1b5480">
+<a href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2F%3Fdd%3D431152018376461" style="text-decoration:none" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252F%253Fdd%253D431152018376461&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNEa77Vj3IcrQl7myxrI8mAcBRrouA"><span style="font-size:20px;font-family:helvetica,Arial,sans-serif;font-weight:bold;color:#fff;white-space:nowrap;display:block">Take me to Feedspot</span></a>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table style="background:#fff;background-color:#fff;font-family:helvetica,Arial,sans-serif;margin:0px 10px 0px;width:auto" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td colspan="3" height="20">
+<div style="font-size:13px;color:gray;border-top:1px solid lightgray;padding:12px 0px;line-height:20px">
+You received this email because you signed up at Feedspot.<br>
+<a style="white-space:nowrap;color:gray;text-decoration:underline" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Fuseredit%3Fintent%3Dunsubscribe%26set%3Ddailydigest%26dd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Fuseredit%253Fintent%253Dunsubscribe%2526set%253Ddailydigest%2526dd%253D431152018376461&amp;source=gmail&amp;ust=1571177207469000&amp;usg=AFQjCNH7a8pUjSwIdFeJbPiaglJ0uMBeFQ">Unsubscribe</a> from daily emails or
+<a style="white-space:nowrap;color:gray;text-decoration:underline" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Fuseredit%3Fintent%3Dweekly%26set%3Ddailydigest%26dd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Fuseredit%253Fintent%253Dweekly%2526set%253Ddailydigest%2526dd%253D431152018376461&amp;source=gmail&amp;ust=1571177207470000&amp;usg=AFQjCNFV_NNLoozCFsukdgFgwiLqz3QuoA">Switch to 1 email per week</a> or
+<a style="white-space:nowrap;color:gray;text-decoration:underline" href="https://www.feedspot.com/login?h=Ek756ZpcIiRVFiNKDQdH2RVJ+q6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6+ca4+kR1cobyeUbyrdfGg==&amp;continue=http%3A%2F%2Fwww.feedspot.com%2Fuseredit%3Fset%3Ddailydigest%26dd%3D431152018376461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.feedspot.com/login?h%3DEk756ZpcIiRVFiNKDQdH2RVJ%2Bq6TTSjkRyPdHt3LHc0UR/e4kBsU6xgW6UndyRz66EjGsJBP6%2Bca4%2BkR1cobyeUbyrdfGg%3D%3D%26continue%3Dhttp%253A%252F%252Fwww.feedspot.com%252Fuseredit%253Fset%253Ddailydigest%2526dd%253D431152018376461&amp;source=gmail&amp;ust=1571177207470000&amp;usg=AFQjCNGkhEdHB9UDCmypmx-g8Jz6_ELREQ">Change Email Settings</a><br>Feedspot.com, <a href="https://www.google.com/maps/search/303+Cape+Court,+Mill+Valley,+CA+94941?entry=gmail&amp;source=g">303 Cape Court, Mill Valley, CA 94941</a>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody>
