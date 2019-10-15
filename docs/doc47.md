@@ -36,9 +36,7 @@ title: Cybercrime & Application Security Weekly Briefing
 |                    |                             |
 |-------------------:|:----------------------------|
 |![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/ISF%E2%80%99s%2030th%20Annual%20World%20Congress.jpg?raw=true)|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/Big%20Data%20Conference%20Europe.jpg?raw=true)|
-|[SF’s 30th Annual World Congress](https://www.immuniweb.com/events/isf-30th-annual-world-congress.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|[Big Data Conference Europe
-
-](https://www.immuniweb.com/events/big-data-conference-europe.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|
+|[SF’s 30th Annual World Congress](https://www.immuniweb.com/events/isf-30th-annual-world-congress.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|[Big Data Conference Europe](https://www.immuniweb.com/events/big-data-conference-europe.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|
 |  October 26, 2019  |   November 26, 2019  |
 |  Meet ImmuniWeb at ISF’s 30th Annual World Congress in Dublin.  |   Meet ImmuniWeb CEO at Big Data Conference Europe in Vilnius.  |
 
@@ -46,7 +44,7 @@ title: Cybercrime & Application Security Weekly Briefing
 
 ## Application Security Buzz
 
-ECB Shuts Site After Subscriber #DataBreach: infosecurity-magazine.com/news/ecb-shuts… #cyberattack #WebSecurity  
+![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/aspas-front.png?raw=true)ECB Shuts Site After Subscriber [#DataBreach](https://twitter.com/hashtag/DataBreach?src=hash): [infosecurity-magazine.com/news/ecb-shuts…](https://www.infosecurity-magazine.com/news/ecb-shuts-site-after-subscriber/) [#cyberattack](https://twitter.com/hashtag/cyberattack?src=hash) [#WebSecurity](https://twitter.com/hashtag/WebSecurity?src=hash) ![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/aspas-back.png?raw=true)  
 
 Test #SSL encryption on all your subdomains in one click: immuniweb.com/ssl #cybersecurity #AppSec  
 
