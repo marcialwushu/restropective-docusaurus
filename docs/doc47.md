@@ -8,12 +8,30 @@ title: Cybercrime & Application Security Weekly Briefing
 |:----------------:|:----------------------:|:-------------------|
 |![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/immunyweb.png?raw=true)             |         August 16, 2019                |      **Weekly Briefing**             |  
 
+## International Media Coverage
 
 |           |                 |                           |
 |-----------:|:--------------:|---------------------------|
 |![](https://gm1.ggpht.com/zlgR16-xW97Iy6blI9SqKLQTv_TW_Z0lc20Ru-ZOtv7iTwj8I4hnJO7cuD-0us6IAVLMZB-pJ-c0FamtM2eHnQInPRosjEDZDTATKkiyotU55dyqrRJS6XZRHM2e021oFZfPdx1RqRGLvl2pmneb2n2K8-Ma7DeNEGKvnWcUdNFmpePJe0BSMpMuR8iqqua4CSOTe5UDU5SO7jlMdFrM8V4SUtvMXrFXolr4jN0FBTlZ5wvla0pC4FDUbybAv2iIoNomsojdvcOxPUogl9CEyGFJo7h5h80iMKDJu3b8WPIHToGEMH5P2jY135yaDHw6vpDShrRETnPBMfDWvMXa3uIH18JYx0MTV3n3N4knpIZ9lU4Of0hqd0r_V8b-GtuXgXBeUB30N1GS21HEntVWK-OEf-vmXJhjQDwKyc3xfhev3mDYCJT8l0JOT4xHlpqzImwIDs7WLSSsZL-Wz9Jn7AT3C_JyW_2UNYlgOJHv775c-ky4TTByjT6EbAZMb452kCYW-GeRKUiqxOyv-1-26neA9HYWpyETISPIyPNYOvfCEgHpIdeLMRWSQhwVt83IBJotbGuZADuolj7eK-UyMR9WuUuuMoIA5vp2ChuUXoN2d66faMdUBTFtzKf0yWAR6fxgcpM_5TY7FCWGPeoAmKyZnm8IZ61BzczfvAfYe2uEKJI8zMW8IPPetzJj-Qu73PXY3OhKG23XE6vHCnPTz5NlKr9XqPVXKopy8DxAO6MOw8BvH8SA05ULCUXehA=s0-l75-ft-l75-ft)|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/unnamed.jpg?raw=true)|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/valuewalk.jpg?raw=true)|
 |[Hackers collaborating has a worrying outcome](https://www.immuniweb.com/media/hackers-collaborating-has-a-worrying-outcome.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|[Cyber crime syndicates are forming closer relationships](https://www.immuniweb.com/media/cyber-crime-syndicates-are-forming-closer-relationships.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|[Desjardins Spends C$70 Million After Data Privacy Breach](https://www.immuniweb.com/media/desjardins-spends-c70-million-after-data-privacy-breach.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|
 |August 15, 2019|   August 15, 2019  |     August 13, 2019   |
+
+|            |                    |                     |
+|-----------:|:------------------|:---------------------|
+|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/scmedia.jpg?raw=true) |![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/computerweekly.jpg?raw=true) | ![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/silicon.jpg?raw=true) |
+| [Desjardins breach cost $53 million in Q2](https://www.immuniweb.com/media/desjardins-breach-cost-53-million-in-q2.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail) | [Breach cost $53m in Q2, says Desjardins](https://www.immuniweb.com/media/breach-cost-53m-in-q2-says-desjardins.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail) |[Data Breach Costs Desjardins Hefty $53m](https://www.immuniweb.com/media/data-breach-costs-desjardins-hefty-53m.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail) |
+|      August 13, 2019       |         August 13, 2019          |        August 13, 2019              |
+
+
+
+## Meet ImmuniWeb at Upcoming Events
+
+|                    |                             |
+|-------------------:|:----------------------------|
+|    ![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/OWASP%20Global%20AppSec%20Conference.jpg?raw=true) |![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/CACS.jpg?raw=true) |
+|[OWASP Global AppSec Conference](https://www.immuniweb.com/events/owasp-global-appsec-conference-2019-amsterdam.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail) |[EuroCACS/CSX 2019, an ISACA® 2019 EUROPEAN Conference](https://www.immuniweb.com/events/isaca-2019-european-conference.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail) |
+|   September 26, 2019  |  October 16, 2019    |
+|  Meet ImmuniWeb Team in Amsterdam at the OWASP Global AppSec Conference 2019.    |   Meet ImmuniWeb® Team in Geneva at the EuroCACS/CSX 2019.   |
 
 
 <center style="width:100%;background:#f8f8f8;text-align:left">
