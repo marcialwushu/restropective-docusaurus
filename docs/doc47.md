@@ -6,7 +6,7 @@ title: Cybercrime & Application Security Weekly Briefing
 
 |                  |                        |                    |   
 |:----------------:|:----------------------:|:-------------------|
-|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/immunyweb.png?raw=true)             |         August 16, 2019                |      **August 16, 2019**             |  
+|![](https://github.com/marcialwushuxxx/DesignStorageModels/blob/master/image/immunyweb.png?raw=true)             |         August 16, 2019                |      **Weekly Briefing**             |  
 
 
 |           |                 |                           |
