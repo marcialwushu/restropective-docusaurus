@@ -6,7 +6,7 @@ title: Cybercrime & Application Security Weekly Briefing
 
 |           |
 |-----------:|
-|![](https://mail.google.com/mail/u/0?ui=2&ik=4522bec904&attid=0.8&permmsgid=msg-f:1642033451851531040&th=16c9acb97eeb4320&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8r6iUYaOR0V5mmDO98Fi35zC9D-uXqmGcI7xAcz2ZMJBSlUPYl1LvwDZR8CJHojEzt44BtCGU1opcCMj6w-LgPaFf_Db0nAn-ZkvRj-QwS6VB3ePsWjEc_cDM&disp=emb)|
+|![](https://gm1.ggpht.com/zlgR16-xW97Iy6blI9SqKLQTv_TW_Z0lc20Ru-ZOtv7iTwj8I4hnJO7cuD-0us6IAVLMZB-pJ-c0FamtM2eHnQInPRosjEDZDTATKkiyotU55dyqrRJS6XZRHM2e021oFZfPdx1RqRGLvl2pmneb2n2K8-Ma7DeNEGKvnWcUdNFmpePJe0BSMpMuR8iqqua4CSOTe5UDU5SO7jlMdFrM8V4SUtvMXrFXolr4jN0FBTlZ5wvla0pC4FDUbybAv2iIoNomsojdvcOxPUogl9CEyGFJo7h5h80iMKDJu3b8WPIHToGEMH5P2jY135yaDHw6vpDShrRETnPBMfDWvMXa3uIH18JYx0MTV3n3N4knpIZ9lU4Of0hqd0r_V8b-GtuXgXBeUB30N1GS21HEntVWK-OEf-vmXJhjQDwKyc3xfhev3mDYCJT8l0JOT4xHlpqzImwIDs7WLSSsZL-Wz9Jn7AT3C_JyW_2UNYlgOJHv775c-ky4TTByjT6EbAZMb452kCYW-GeRKUiqxOyv-1-26neA9HYWpyETISPIyPNYOvfCEgHpIdeLMRWSQhwVt83IBJotbGuZADuolj7eK-UyMR9WuUuuMoIA5vp2ChuUXoN2d66faMdUBTFtzKf0yWAR6fxgcpM_5TY7FCWGPeoAmKyZnm8IZ61BzczfvAfYe2uEKJI8zMW8IPPetzJj-Qu73PXY3OhKG23XE6vHCnPTz5NlKr9XqPVXKopy8DxAO6MOw8BvH8SA05ULCUXehA=s0-l75-ft-l75-ft)|
 |[Hackers collaborating has a worrying outcome](https://www.immuniweb.com/media/hackers-collaborating-has-a-worrying-outcome.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|
 |August 15, 2019|
 
