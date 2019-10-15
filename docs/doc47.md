@@ -4,6 +4,12 @@ title: Cybercrime & Application Security Weekly Briefing
 ---
 
 
+|           |
+|-----------:|
+|![](https://mail.google.com/mail/u/0?ui=2&ik=4522bec904&attid=0.8&permmsgid=msg-f:1642033451851531040&th=16c9acb97eeb4320&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8r6iUYaOR0V5mmDO98Fi35zC9D-uXqmGcI7xAcz2ZMJBSlUPYl1LvwDZR8CJHojEzt44BtCGU1opcCMj6w-LgPaFf_Db0nAn-ZkvRj-QwS6VB3ePsWjEc_cDM&disp=emb)|
+|[Hackers collaborating has a worrying outcome](https://www.immuniweb.com/media/hackers-collaborating-has-a-worrying-outcome.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsmail)|
+|August 15, 2019|
+
 
 <center style="width:100%;background:#f8f8f8;text-align:left">
 <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;font-family:sans-serif">
