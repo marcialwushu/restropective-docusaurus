@@ -89,70 +89,70 @@ authorFBID: 100002976521003
 <td>6</td>
 <td>217.182.95.250</td>
 <td>16276 (OVH SAS)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/fr.png" alt="France"> FR</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/fr.png" alt="France"> FR</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2</td>
 <td>165.227.48.147</td>
 <td>14061 (DigitalOcean, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
 </tr>
 <tr>
 <td>3</td>
 <td>9</td>
 <td>198.27.69.176</td>
 <td>16276 (OVH SAS)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
 </tr>
 <tr>
 <td>4</td>
 <td>—</td>
 <td>192.95.14.196</td>
 <td>16276 (OVH SAS)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
 </tr>
 <tr>
 <td>5</td>
 <td>—</td>
 <td>192.169.159.241</td>
 <td>26496 (GoDaddy.com, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
 </tr>
 <tr>
 <td>6</td>
 <td>4</td>
 <td>192.99.38.186</td>
 <td>16276 (OVH SAS)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
 </tr>
 <tr>
 <td>7</td>
 <td>10</td>
 <td>159.203.86.82</td>
 <td>14061 (DigitalOcean, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
 </tr>
 <tr>
 <td>8</td>
 <td>1</td>
 <td>178.128.193.158</td>
 <td>14061 (DigitalOcean, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/de.png" alt="Germany"> DE</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/de.png" alt="Germany"> DE</td>
 </tr>
 <tr>
 <td>9</td>
 <td>8</td>
 <td>139.59.116.30</td>
 <td>14061 (DigitalOcean, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/sg.png" alt="Singapore"> SG</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/sg.png" alt="Singapore"> SG</td>
 </tr>
 <tr>
 <td>10</td>
 <td>—</td>
 <td>157.245.112.139</td>
 <td>14061 (DigitalOcean, LLC)</td>
-<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+<td class="report-country"><img src="https://www.wordfence.com/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
 </tr>
 </tbody>
 </table>
@@ -187,17 +187,4 @@ authorFBID: 100002976521003
 </table>
 </div>
 </div>
-<div class="container container-short">
-<h2>Subscribe To The Wordfence Weekly</h2>
-<div style="margin-top: -1em;"><!-- [if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]--><br>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script><br>
-<script data-hubspot-rendered="true">
-  hbspt.forms.create({
-    portalId: "4354010",
-    formId: "b01b131a-fda0-42ed-8251-3d7fcfaeacb8"
-});
-</script><div class="hbspt-form" id="hbspt-form-1571236049360-3045338207"><iframe id="hs-form-iframe-0" class="hs-form-iframe" scrolling="no" height="199" width="1120" style="position: static; border: none; display: block; overflow: hidden; width: 1120px; height: 199px;"></iframe></div></div>
-</div>
-</div>
+
