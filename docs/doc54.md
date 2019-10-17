@@ -69,14 +69,14 @@ title: JavaScript Weekly - 457 OCTOBER 4, 2019
 <p style="line-height: 1.7em; margin-top: 0.8em; margin-bottom: 0.8em;"><strong style="font-size: 1.1em; font-weight: 600;">Quick bytes:</strong></p>
 		<ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">
                     
-          <li style="margin-bottom: 8px; line-height: 1.3em;">
+<li style="margin-bottom: 8px; line-height: 1.3em;">
 <em>Meteor</em>, the JavaScript app platform, <a target="_blank" href="https://javascriptweekly.com/link/78135/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">has been acquired by Tiny</a>, the owners of Dribbble and Designer News.</li>
           
-          <li style="margin-bottom: 8px; line-height: 1.3em;">
+<li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/78136/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">TypeScript 3.7 beta is here.</a> It implements a much demanded feature: optional&nbsp;chaining.</li>
                                                                                
-		</ul>
-	</td></tr></tbody></table>
+</ul>
+</td></tr></tbody></table>
 </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" class="el-heading" style="background-color: none !important; text-align: left; margin-top: 15px; color: #333333; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0;"><p style="font-size: 1.6em !important; font-weight: 400 !important; text-transform: none !important; line-height: 1.4em; display: inline-block; border-bottom-width: 6px; border-bottom-style: solid; padding-bottom: 2px; border-bottom-color: #f7df1e; margin: 0.5em 0;">💻 Jobs</p></td></tr></tbody></table>
 
