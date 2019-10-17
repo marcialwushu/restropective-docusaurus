@@ -193,7 +193,8 @@ title: JavaScript Weekly - 458 OCTOBER 11, 2019
 <table width="100%" cellpadding="0" cellspacing="0" class="content el-content " style="color: #444; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; margin-top: 0 !important;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0px 15px;">
 	<p style="font-size: 18px; line-height: 1.4em; font-weight: 600; margin-top: 0.8em; margin-bottom: 0.8em;">⚡️&nbsp;Quick Releases</p>
       
-       <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
+       
+<ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
          <li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/78453/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">Nock 11.4</a> — HTTP server mocking in Node.js.</li>
          <li style="margin-bottom: 8px; line-height: 1.3em;">
@@ -204,14 +205,14 @@ title: JavaScript Weekly - 458 OCTOBER 11, 2019
 <a target="_blank" href="https://javascriptweekly.com/link/78456/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">TUI Grid 4.6.0</a> — Powerful grid control.</li>         
   </ul>
          
-    </td></tr></tbody></table>
+</td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="height: 8px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"></td></tr></tbody></table>
 </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="height: 12px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"></td></tr></tbody></table>
 </div>
   </td></tr>
 </tbody></table>
-<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
 
 
 
