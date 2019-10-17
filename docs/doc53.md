@@ -10,54 +10,6 @@ title: JavaScript Weekly #458 — OCTOBER 11, 2019
 
 <div class="issue-html">
 
-  
-
-    
-    
-    
-    
-    
-  <style>body {
-margin: 0; padding: 0; height: 100%; width: 100%; background-color: white; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizeLegibility; font-feature-settings: "kern" 1;
-}
-body {
-font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em;
-}
-img {
-border: 0; outline: none; height: auto; text-decoration: none; max-width: 100%; line-height: 100%;
-}
-@media screen and (max-width: 600px) {
-  table[id="main"] {
-    max-width: 600px !important; width: 100% !important; min-width: 100% !important;
-  }
-  .nomob {
-    display: none !important;
-  }
-  .onlymob {
-    display: inline-block !important;
-  }
-  .rightifmob {
-    text-align: right !important;
-  }
-  .som {
-    max-width: 33% !important;
-  }
-  div.footer p {
-    text-align: left !important;
-  }
-  div.footer td {
-    text-align: left !important;
-  }
-  .el-columns .column {
-    display: block; width: 100% !important;
-  }
-}
-</style>
-
-
-
-<!--[if (gte mso 9)|(IE)]>
-<table cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" width="600"><tr><td valign="top" style="width: 600px;" bgcolor="#ffffff"><![endif]-->
 <table align="center" border="0" cellpadding="0" cellspacing="0" id="main" width="100%" style="table-layout: fixed; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; max-width: 600px; height: 100% !important; padding: 0px;">
   <tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;">
   <div id="content">    <!-- left/right splitbar -->
