@@ -1,6 +1,6 @@
 ---
 id: doc53
-title: JavaScript Weekly #458 OCTOBER 11, 2019
+title: JavaScript Weekly - 458 OCTOBER 11, 2019
 ---
 
 
