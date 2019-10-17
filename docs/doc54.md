@@ -194,9 +194,9 @@ title: JavaScript Weekly - 457 OCTOBER 4, 2019
 <table width="100%" cellpadding="0" cellspacing="0" class="content el-content " style="color: #444; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; margin-top: 0 !important;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0px 15px;">
 	<p style="font-size: 18px; line-height: 1.4em; font-weight: 600; margin-top: 0.8em; margin-bottom: 0.8em;">⚡️&nbsp;Quick Releases</p>
       
-       <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
-         <li style="margin-bottom: 8px; line-height: 1.3em;"><a target="_blank" href="https://javascriptweekly.com/link/78157/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">React 16.10</a></li>
-         <li style="margin-bottom: 8px; line-height: 1.3em;">
+  <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
+  <li style="margin-bottom: 8px; line-height: 1.3em;"><a target="_blank" href="https://javascriptweekly.com/link/78157/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">React 16.10</a></li>
+   <li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/78158/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">Create React App 3.2.0</a> — The quickest way to get started with React.</li>
          <li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/78159/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">Nuxt 2.10</a> — Framework for building universal Vue apps.</li>
@@ -210,7 +210,7 @@ title: JavaScript Weekly - 457 OCTOBER 4, 2019
   </ul>
          
 
-    </td></tr></tbody></table>
+ </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="height: 8px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"></td></tr></tbody></table>
 </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" class="el-heading" style="background-color: none !important; text-align: left; margin-top: 15px; color: #333333; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0;"><p style="font-size: 1.6em !important; font-weight: 400 !important; text-transform: none !important; line-height: 1.4em; display: inline-block; border-bottom-width: 6px; border-bottom-style: solid; padding-bottom: 2px; border-bottom-color: #f7df1e; margin: 0.5em 0;">🐦 Over on Twitter...</p></td></tr></tbody></table>
@@ -221,7 +221,7 @@ title: JavaScript Weekly - 457 OCTOBER 4, 2019
 </div>
   </td></tr>
 </tbody></table>
-<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
 
 
 
