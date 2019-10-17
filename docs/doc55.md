@@ -59,22 +59,22 @@ title: JavaScript Weekly - 456 SEPTEMBER 27, 2019
 <!-- normal content section -->
 <table width="100%" cellpadding="0" cellspacing="0" class="content el-content briefs" style="color: #444; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; margin-top: 0 !important;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0px 15px;">
 <p style="line-height: 1.7em; margin-top: 0.8em; margin-bottom: 0.8em;"><strong style="font-size: 1.1em; font-weight: 600;">Quick bytes:</strong></p>
-                  <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">
+ <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">
                     
                     
-                    <li style="margin-bottom: 8px; line-height: 1.3em;">The new executive director of the OpenJS Foundation <a target="_blank" href="https://javascriptweekly.com/link/77761/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">is Robin Ginn</a>, formerly an exec at Microsoft responsible for MS's engagement with the Node project.</li>
+  <li style="margin-bottom: 8px; line-height: 1.3em;">The new executive director of the OpenJS Foundation <a target="_blank" href="https://javascriptweekly.com/link/77761/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">is Robin Ginn</a>, formerly an exec at Microsoft responsible for MS's engagement with the Node project.</li>
                     
-                    <li style="margin-bottom: 8px; line-height: 1.3em;">The <a target="_blank" href="https://javascriptweekly.com/link/77762/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">CEO of npm, Inc.</a> has resigned and they're now looking for a new one.</li>
+  <li style="margin-bottom: 8px; line-height: 1.3em;">The <a target="_blank" href="https://javascriptweekly.com/link/77762/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">CEO of npm, Inc.</a> has resigned and they're now looking for a new one.</li>
                     
-                    <li style="margin-bottom: 8px; line-height: 1.3em;">Gatsby is now the richest JavaScript site generator in town as it <a target="_blank" href="https://javascriptweekly.com/link/77763/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">has raised $15m in funding.</a>
+<li style="margin-bottom: 8px; line-height: 1.3em;">Gatsby is now the richest JavaScript site generator in town as it <a target="_blank" href="https://javascriptweekly.com/link/77763/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">has raised $15m in funding.</a>
 </li>
                     
-                    <li style="margin-bottom: 8px; line-height: 1.3em;">Out of nowhere, an <a target="_blank" href="https://javascriptweekly.com/link/77764/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">entertaining review</a> of Douglas Crockford's 2018 <em>How JavaScript Works</em> book.</li>
+ <li style="margin-bottom: 8px; line-height: 1.3em;">Out of nowhere, an <a target="_blank" href="https://javascriptweekly.com/link/77764/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">entertaining review</a> of Douglas Crockford's 2018 <em>How JavaScript Works</em> book.</li>
                     
                     
                     
                                                                                
-                  </ul>
+  </ul>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" class="el-heading" style="background-color: none !important; text-align: left; margin-top: 15px; color: #333333; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0;"><p style="font-size: 1.6em !important; font-weight: 400 !important; text-transform: none !important; line-height: 1.4em; display: inline-block; border-bottom-width: 6px; border-bottom-style: solid; padding-bottom: 2px; border-bottom-color: #f7df1e; margin: 0.5em 0;">💻 Jobs</p></td></tr></tbody></table>
@@ -199,10 +199,9 @@ title: JavaScript Weekly - 456 SEPTEMBER 27, 2019
 <!-- normal content section -->
 <table width="100%" cellpadding="0" cellspacing="0" class="content el-content " style="color: #444; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; margin-top: 0 !important;"><tbody><tr><td style="font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; padding: 0px 15px;">
 	<p style="font-size: 18px; line-height: 1.4em; font-weight: 600; margin-top: 0.8em; margin-bottom: 0.8em;">⚡️&nbsp;Quick Releases</p>
-      
-       <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
+  <ul class="nogap" style="margin-left: 0; padding-left: 18px; list-style-type: circle;">       
          
-         <li style="margin-bottom: 8px; line-height: 1.3em;">
+<li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/77788/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">Ember 3.13</a> — A preview of Octane.</li>
          <li style="margin-bottom: 8px; line-height: 1.3em;">
 <a target="_blank" href="https://javascriptweekly.com/link/77789/web" style="text-decoration: none; color: #3366aa; font-weight: 600;">Yarn 1.18.0</a> — The package manager that isn't <code style="background-color: #efc;">npm</code>.</li>
@@ -220,7 +219,7 @@ title: JavaScript Weekly - 456 SEPTEMBER 27, 2019
   </ul>
          
 
-    </td></tr></tbody></table>
+</td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="height: 8px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"></td></tr></tbody></table>
 </td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"><tbody><tr><td style="height: 16px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.55em; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;"></td></tr></tbody></table>
