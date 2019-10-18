@@ -8,7 +8,7 @@ title: Vem conferir o que preparamos para você  😉
 
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>IT Forum 365 </b>&lt;contato@itforum365.com.br&gt;</font></td><td align="right"><font size="-1">19 de janeiro de 2018 16:06</font></td></tr><tr><td colspan="2" style="padding-bottom: 4px;"><font size="-1" class="recipient"><div class="replyto">Responder a: us11-cdec9efa96-e5282da63b@conversation01.mailchimpapp.com</div><div>Para: marcialwushu@gmail.com</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><u></u>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>IT Forum 365 </b>&lt;contato@itforum365.com.br&gt;</font></td><td align="right"><font size="-1">19 de janeiro de 2018 16:06</font></td></tr><tr><td colspan="2" style="padding-bottom: 4px;"><font size="-1" class="recipient"><div class="replyto">Responder a: us11-cdec9efa96-e5282da63b@conversation01.mailchimpapp.com</div><div>Para: </div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><u></u>
 <div>
 <table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#272d3a" style="font-family:Arial,Helvetica,sans-serif">
 <tbody><tr><td>&nbsp;</td></tr>
