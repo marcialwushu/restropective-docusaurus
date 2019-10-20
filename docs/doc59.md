@@ -1,6 +1,6 @@
 ---
 id: doc59
-title: Phrack Inc  Volume One
+title: Phrack Inc  Volume One - Issue One
 ---
 
 
