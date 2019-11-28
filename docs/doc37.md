@@ -65,7 +65,19 @@ title: NOVEMBRO
 - Multilaser dará seu novo celular para quem encontrar aparelho melhor
 - 95% dos usuários preferem modo escuro, aponta pesquisa
 - DNA pode determinar como somos (pouco) inteligentes
-- [Procon-RJ lança sistema para bloqueio de ligações de telemarketing](https://olhardigital.com.br/noticia/procon-rj-lanca-sistema-para-bloqueio-de-ligacoes-de-telemarketing/93568&ct=ga&cd=CAEYCSoUMTQ4NTIyMjYxODQ5NjEyNjQ1NTMyGmNhNDliMWZlY2FhYTdjMmI6Y29tOnB0OlVT&usg=AFQjCNGzaJLGNxerZeo3Rp-Cp1nDTzr5NQ)
+- [Procon-RJ lança sistema para bloqueio de ligações de telemarketing](https://olhardigital.com.br/noticia/procon-rj-lanca-sistema-para-bloqueio-de-ligacoes-de-telemarketing/93568)
+- Senadores apresentam projeto de lei para proteção de dados nos EUA
+- A 6ª extinção em massa terá o ser humano como vítima
+- Disquete autografado por Steve Jobs vai a leilão por mais de R$ 32 mil
+- Facebook bloqueou contas dos fabricantes de spyware do WhatsApp
+- Trem que 'flutua' atinge velocidade de 800 Km/h
+- 5G vai chegar a 2,6 bilhões de pessoas até 2025
+- Índia admite que sua sonda lunar colidiu após problemas nos freios
+- Polícia de Dubai quer 'Cybertruck' da Tesla para sua frota
+- PicPay disponibiliza cashback e parcela de boletos na Black Friday
+- Vacas usam óculos de realidade virtual
+- Confira quais são os jogos gratuitos de dezembro para PlayStation 4
+- [Vida mais fácil para os viajantes do futuro](https://olhardigital.com.br/fique_seguro/video/vida-mais-facil-para-os-viajantes-do-futuro/93511)
 
 **NOVEMBRO 28**
 
