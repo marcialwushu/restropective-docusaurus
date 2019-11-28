@@ -78,8 +78,26 @@ title: NOVEMBRO
 - Vacas usam óculos de realidade virtual
 - Confira quais são os jogos gratuitos de dezembro para PlayStation 4
 - [Vida mais fácil para os viajantes do futuro](https://olhardigital.com.br/fique_seguro/video/vida-mais-facil-para-os-viajantes-do-futuro/93511)
+- Novo malware rouba dados bancários de usuários do Android; proteja-se
+- Games with Gold: confira os jogos gratuitos de dezembro para Xbox
+- Elon Musk anuncia: Cybertruck da Tesla chega a 250 mil encomendas
+- [Jogos, mídia social, namoro: os 25 aplicativos que definiram a década](https://olhardigital.com.br/noticia/jogos-midia-social-namoro-os-25-aplicativos-que-definiram-a-decada/93571)
+- Ferramenta ajuda a identificar possíveis fraudes em promoções da Black Friday
+- Xiaomi anuncia celular com carregamento rápido de 66W
+- Amazon Alexa ganha função de alerta para consumo de medicamentos
 
 **NOVEMBRO 28**
+
+- Twitter decide não remover contas inativas por enquanto
+- Cientistas acreditam que buracos negros 'cozinham' suas galáxias
+- Câmara aprova criação de incentivo para setor da tecnologia da informação
+- Designer do iPhone deixa oficialmente a Apple
+- Buraco negro 70 vezes maior que o Sol é descoberto na nossa galáxia
+- [Por que a matéria escura é tão importante para o Universo?](https://olhardigital.com.br/noticia/por-que-a-materia-escura-e-tao-importante-para-o-universo/93589)
+- Professores da Unicamp ajudam a desenvolver a geladeira do futuro
+- Vazamentos de dados no Brasil colocam consumidores em risco
+- Instagram volta a mostrar número de curtidas para alguns usuários
+- Garoto de 12 anos já trabalha como cientista de dados
 
 **NOVEMBRO 29**
 
