@@ -85,6 +85,7 @@ title: NOVEMBRO
 - Ferramenta ajuda a identificar possíveis fraudes em promoções da Black Friday
 - Xiaomi anuncia celular com carregamento rápido de 66W
 - Amazon Alexa ganha função de alerta para consumo de medicamentos
+- [Grupo de hackers está seqüestrando sistemas Docker com terminais de API expostos](https://sempreupdate.com.br/grupo-de-hackers-esta-sequestrando-sistemas-docker-com-terminais-de-api-expostos/)
 
 **NOVEMBRO 28**
 
@@ -98,6 +99,30 @@ title: NOVEMBRO
 - Vazamentos de dados no Brasil colocam consumidores em risco
 - Instagram volta a mostrar número de curtidas para alguns usuários
 - Garoto de 12 anos já trabalha como cientista de dados
+- Perfi da Huawei Brasil no Twitter ofende Apple e critica Black Friday
+- Apple registra fone de ouvido de realidade aumentada
+- Google Fotos apresenta novos recursos de marcação manual de pessoas
+- [Polêmica: teste de DNA pode determinar inteligência](https://olhardigital.com.br/video/polemica-teste-de-dna-pode-determinar-inteligencia/93581)
+- Universo pode ser parte de um enorme computador quântico
+- Cientistas criam bactéria que 'come' CO2 e combate o aquecimento global
+- Streaming de games da Samsung chega a mais sete países
+- Aplicativo para iPhone ressuscita recurso clássico do iPod
+- Black Friday da Amazon tem descontos de até 80%
+- AliExpress vai sortear uma Mercedes-Benz na Black Friday
+- Xbox Brasil adianta Black Friday e anuncia descontos em jogos e consoles
+- Disquete com autógrafo de Steve Jobs vai a leilão por 32 mil reais
+- Facebook, WhatsApp e Instagram enfrentam problemas nesta quinta-feira
+- Golpe que usa domínio falso cresce em época de Black Friday
+- Estado Islâmico não é mais encontrado na internet após operação
+- Estado Islâmico não é mais encontrado na internet após operação
+- Dubai quer picape da Tesla para policiamento
+- 95% dos usuários preferem modo escuro, aponta pesquisa
+- Escola usa Minecraft para ensinar alunos sobre tragédia de Brumadinho
+- [Telegram enfrenta polêmica envolvendo pirataria](https://olhardigital.com.br/noticia/telegram-enfrenta-polemica-envolvendo-pirataria/93628)
+- Acer dará descontos de até R$ 1 mil na Black Friday
+- Xiaomi anuncia celular com carregamento ultrarrápido
+- Google Messages lança o SMS verificado para evitar spam
+- [[EXCLUSIVO] Falha de segurança no site do Carrefour expõe dados pessoais de clientes](https://olhardigital.com.br/noticia/-exclusivo-falha-de-seguranca-no-site-do-carrefour-expoe-dados-pessoais-de-clientes/93577)
 
 **NOVEMBRO 29**
 
