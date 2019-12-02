@@ -261,11 +261,16 @@ title: NOVEMBRO
 - [BC abre consulta pública sobre Open Banking, sandbox e duplicata estrutural](https://noticias.r7.com/economia/bc-abre-consulta-publica-sobre-open-banking-sandbox-e-duplicata-estrutural-28112019)
 - [Voluntários criam tecnologia para proteger manguezais e água doce do óleo no sul da Bahia](https://lifestyle.r7.com/hypeness/voluntarios-criam-tecnologia-para-proteger-manguezais-e-agua-doce-do-oleo-no-sul-da-bahia-28112019)
 - Eventos cultural e de tecnologia encerram a 8ª Expo Week Fatec Osasco
-- [Tecnologia no combate ao crime: cresce apreensões dentro das cadeias](https://noticias.r7.com/rio-de-janeiro/balanco-geral-rj/videos/tecnologia-no-combate-ao-crime-cresce-apreensoes-dentro-das-cadeias-29112019)
-- [Fraudes vão cair para zero com ID estudantil, diz ministro](https://noticias.r7.com/fraudes-vao-cair-para-zero-com-id-estudantil-diz-ministro-29112019)
+
 
 
 **NOVEMBRO 29**
+
+- [Tecnologia no combate ao crime: cresce apreensões dentro das cadeias](https://noticias.r7.com/rio-de-janeiro/balanco-geral-rj/videos/tecnologia-no-combate-ao-crime-cresce-apreensoes-dentro-das-cadeias-29112019)
+- [Fraudes vão cair para zero com ID estudantil, diz ministro](https://noticias.r7.com/fraudes-vao-cair-para-zero-com-id-estudantil-diz-ministro-29112019)
+- [EUA consideram mudar regulação para restringir ainda mais fornecimento para Huawei, dizem fontes](https://noticias.r7.com/economia/eua-consideram-mudar-regulacao-para-restringir-ainda-mais-fornecimento-para-huawei-dizem-fontes-29112019)
+- [Sites de fake news de saúde têm ligação com lojas de produto natural](https://noticias.r7.com/brasil/sites-de-fake-news-de-saude-tem-ligacao-com-lojas-de-produto-natural-29112019)
+- [O papel da tecnologia para o desenvolvimento dos atletas](https://esportes.r7.com/atletas-now/o-papel-da-tecnologia-para-o-desenvolvimento-dos-atletas-29112019)
 
 **NOVEMBRO 30**
 
