@@ -56,8 +56,11 @@ title: NOVEMBRO
 
 **NOVEMBRO 10**
 
+- [**Major ASP.NET hosting provider infected by ransomware**](https://www.zdnet.com/article/major-asp-net-hosting-provider-infected-by-ransomware/)
+
 **NOVEMBRO 11**
 
+- [**400 mil sites fora do ar: ransomware sequestra servidores da SmarterASP.NET**](https://www.tecmundo.com.br/seguranca/147647-400-mil-sites-fora-ar-ransomware-sequestra-servidores-smarterasp-net.htm)
 - India is going ahead with its facial recognition program despite privacy concerns
 - Apple AR headset launch not until 2022, according to internal presentation
 - SpaceX launches 60 more internet satellites
@@ -153,6 +156,8 @@ title: NOVEMBRO
 - [O que é SUV? Existe mais de uma resposta para essa pergunta](https://autopapo.com.br/noticia/o-que-e-suv/)
 - [Ensino a distância tem 9 milhões de estudantes e cresce no Brasil](https://noticias.r7.com/educacao/ensino-a-distancia-tem-9-milhoes-de-estudantes-e-cresce-no-brasil-26112019)
 - [Aprenda o 'desafio dos lados' que virou moda nas redes sociais](https://noticias.r7.com/tecnologia-e-ciencia/aprenda-o-desafio-dos-lados-que-virou-moda-nas-redes-sociais-26112019)
+- [Aplicativo diminui os riscos de atropelamento envolvendo surdos](https://noticias.r7.com/tecnologia-e-ciencia/aplicativo-diminui-os-riscos-de-atropelamento-envolvendo-surdos-26112019)
+- [Ericsson investirá R$1 bilhão para desenvolver tecnologia 5G no Brasil](https://noticias.r7.com/tecnologia-e-ciencia/ericsson-investira-r1-bilhao-para-desenvolver-tecnologia-5g-no-brasil-26112019)
 
 
 **NOVEMBRO 27**
