@@ -124,6 +124,7 @@ title: NOVEMBRO
 - Google Messages lança o SMS verificado para evitar spam
 - [[EXCLUSIVO] Falha de segurança no site do Carrefour expõe dados pessoais de clientes](https://olhardigital.com.br/noticia/-exclusivo-falha-de-seguranca-no-site-do-carrefour-expoe-dados-pessoais-de-clientes/93577)
 
+
 **NOVEMBRO 29**
 
 **NOVEMBRO 30**
