@@ -139,6 +139,22 @@ title: NOVEMBRO
 
 **NOVEMBRO 26**
 
+- [Facebook e Twitter alertam usuários sobre vazamento de dados](https://noticias.r7.com/tecnologia-e-ciencia/facebook-e-twitter-alertam-usuarios-sobre-vazamento-de-dados-25112019)
+- [Uber perde licença para operar em Londres por falhas de segurança](https://noticias.r7.com/tecnologia-e-ciencia/uber-perde-licenca-para-operar-em-londres-por-falhas-de-seguranca-25112019)
+- [Por que o Instagram está eliminando centenas de contas de estrelas pornô](https://noticias.r7.com/tecnologia-e-ciencia/por-que-o-instagram-esta-eliminando-centenas-de-contas-de-estrelas-porno-25112019)
+- [Picape da Tesla vence modelo mais vendido dos EUA em teste de força](https://noticias.r7.com/tecnologia-e-ciencia/picape-da-tesla-vence-modelo-mais-vendido-dos-eua-em-teste-de-forca-25112019)
+- [Professor cria aplicativo para doadores de sangue de todo o Brasil](https://noticias.r7.com/minas-gerais/mg-record/videos/professor-cria-aplicativo-para-doadores-de-sangue-de-todo-o-brasil-25112019)
+- [Profissões do futuro: saiba como se qualificar para conseguir emprego](https://noticias.r7.com/rio-de-janeiro/balanco-geral-rj/videos/profissoes-do-futuro-saiba-como-se-qualificar-para-conseguir-emprego-25112019)
+- [Os documentos secretos que revelam sistema de lavagem cerebral de minoria étnica em campos de detenção na China](https://noticias.r7.com/internacional/os-documentos-secretos-que-revelam-sistema-de-lavagem-cerebral-de-minoria-etnica-em-campos-de-detencao-na-china-25112019)
+- ['Black Friday é o Natal dos golpistas', diz especialista em segurança digital; saiba como se proteger de fraudes](https://noticias.r7.com/economia/black-friday-e-o-natal-dos-golpistas-diz-especialista-em-seguranca-digital-saiba-como-se-proteger-de-fraudes-25112019)
+- [Inspirada em civilização Maia, 1ª cidade eco inteligente vai ser erguida em Cancún](https://lifestyle.r7.com/hypeness/inspirada-em-civilizacao-maia-1-cidade-eco-inteligente-vai-ser-erguida-em-cancun-25112019)
+- [Novembro de 2019 chegou e Blade Runner não é mais um filme do futuro](https://entretenimento.r7.com/musica/tenho-mais-discos-que-amigos/novembro-de-2019-chegou-e-blade-runner-nao-e-mais-um-filme-do-futuro-25112019)
+- [Supermercados estão cultivando alimentos 'indoor' graças a estas hortas modulares](https://lifestyle.r7.com/hypeness/supermercados-estao-cultivando-alimentos-indoor-gracas-a-estas-hortas-modulares-25112019)
+- [O que é SUV? Existe mais de uma resposta para essa pergunta](https://autopapo.com.br/noticia/o-que-e-suv/)
+- [Ensino a distância tem 9 milhões de estudantes e cresce no Brasil](https://noticias.r7.com/educacao/ensino-a-distancia-tem-9-milhoes-de-estudantes-e-cresce-no-brasil-26112019)
+- [Aprenda o 'desafio dos lados' que virou moda nas redes sociais](https://noticias.r7.com/tecnologia-e-ciencia/aprenda-o-desafio-dos-lados-que-virou-moda-nas-redes-sociais-26112019)
+
+
 **NOVEMBRO 27**
 
 	
