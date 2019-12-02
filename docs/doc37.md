@@ -158,6 +158,19 @@ title: NOVEMBRO
 - [Aprenda o 'desafio dos lados' que virou moda nas redes sociais](https://noticias.r7.com/tecnologia-e-ciencia/aprenda-o-desafio-dos-lados-que-virou-moda-nas-redes-sociais-26112019)
 - [Aplicativo diminui os riscos de atropelamento envolvendo surdos](https://noticias.r7.com/tecnologia-e-ciencia/aplicativo-diminui-os-riscos-de-atropelamento-envolvendo-surdos-26112019)
 - [Ericsson investirá R$1 bilhão para desenvolver tecnologia 5G no Brasil](https://noticias.r7.com/tecnologia-e-ciencia/ericsson-investira-r1-bilhao-para-desenvolver-tecnologia-5g-no-brasil-26112019)
+- [VR não está nos planos porque público do Xbox não se interessa, diz Microsoft](https://entretenimento.r7.com/games/outer-space/vr-nao-esta-nos-planos-porque-publico-do-xbox-nao-se-interessa-diz-microsoft-26112019)
+- [Compras com cartões somaram R$ 461 bi no 3º trimestre do ano](https://noticias.r7.com/economia/compras-com-cartoes-somaram-r-461-bi-no-3-trimestre-do-ano-26112019)
+- [As vantagens de estar em uma plataforma como a AtletasNow](https://esportes.r7.com/atletas-now/as-vantagens-de-estar-em-uma-plataforma-como-a-atletasnow-26112019)
+- [EUA definem procedimento para proteger redes de telecomunicações de 'ameaças à segurança nacional'](https://noticias.r7.com/economia/eua-definem-procedimento-para-proteger-redes-de-telecomunicacoes-de-ameacas-a-seguranca-nacional-26112019)
+- [CMAA contrata a Mark 2 Market para controle de operações financeiras](http://cartaodevisita.r7.com/conteudo/28170/cmaa-contrata-a-mark-2-market-para-controle-de-opera-es-financeiras)
+- [Em referência ao número pi, 14 de março será o Dia da Matemática](https://noticias.r7.com/pernambuco/folha-de-pernambuco/em-referencia-ao-numero-pi-14-de-marco-sera-o-dia-da-matematica-26112019)
+- [A partícula descoberta por cientistas que pode mudar nossa compreensão do Universo](https://noticias.r7.com/tecnologia-e-ciencia/a-particula-descoberta-por-cientistas-que-pode-mudar-nossa-compreensao-do-universo-26112019)
+- [Estudantes de Muzambinho vencem maratona de tecnologia](https://noticias.r7.com/cidades/rede-mais-tv/estudantes-de-muzambinho-vencem-maratona-de-tecnologia-26112019)
+- [Artes plásticas e tecnologia usadas a serviço da Educação](https://noticias.r7.com/educacao/artes-plasticas-e-tecnologia-usadas-a-servico-da-educacao-27112019)
+- [Startup brasileira quebra paradigmas e produz carro inteligente](https://noticias.r7.com/pernambuco/folha-de-pernambuco/startup-brasileira-quebra-paradigmas-e-produz-carro-inteligente-27112019)
+- [Anatel diz que decisão sobre tecnologia 5G vai seguir 'princípio da neutralidade'](https://noticias.r7.com/economia/anatel-diz-que-decisao-sobre-tecnologia-5g-vai-seguir-principio-da-neutralidade-27112019)
+- [Inventaram um painel solar transparente que vai transformar janelas em geradores de energia](https://lifestyle.r7.com/hypeness/inventaram-um-painel-solar-transparente-que-vai-transformar-janelas-em-geradores-de-energia-27112019)
+
 
 
 **NOVEMBRO 27**
@@ -193,6 +206,10 @@ title: NOVEMBRO
 
 **NOVEMBRO 28**
 
+- [Clientes da Netflix são vítimas de golpes de roubo de conta](https://noticias.r7.com/tecnologia-e-ciencia/clientes-da-netflix-sao-vitimas-de-golpes-de-roubo-de-conta-28112019)
+- [Por que Huawei coloca Brasil em saia-justa com China e EUA](https://noticias.r7.com/economia/por-que-huawei-coloca-brasil-em-saia-justa-com-china-e-eua-28112019)
+- [Vacas russas ganham visor de realidade virtual para reduzir ansiedade e dar mais leite](https://noticias.r7.com/tecnologia-e-ciencia/vacas-russas-ganham-visor-de-realidade-virtual-para-reduzir-ansiedade-e-dar-mais-leite-28112019)
+- [Jovem é preso suspeito de invadir sites da Justiça e da polícia em MG](https://noticias.r7.com/minas-gerais/jovem-e-preso-suspeito-de-invadir-sites-da-justica-e-da-policia-em-mg-28112019)
 - Twitter Backs Down From Plan To Delete Inactive Accounts, Citing Dead Users
 - Google says it warned 500 users in India of government-backed phishing attacks
 - Galaxy A50s and Galaxy M30 get November security update
