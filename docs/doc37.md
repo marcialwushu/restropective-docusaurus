@@ -252,6 +252,17 @@ title: NOVEMBRO
 - Xiaomi anuncia celular com carregamento ultrarrápido
 - Google Messages lança o SMS verificado para evitar spam
 - [[EXCLUSIVO] Falha de segurança no site do Carrefour expõe dados pessoais de clientes](https://olhardigital.com.br/noticia/-exclusivo-falha-de-seguranca-no-site-do-carrefour-expoe-dados-pessoais-de-clientes/93577)
+- [Nos próximos 3 ou 4 anos, País terá sistema financeiro mais tecnológico, diz BC](https://noticias.r7.com/economia/nos-proximos-3-ou-4-anos-pais-tera-sistema-financeiro-mais-tecnologico-diz-bc-28112019)
+- [Queda do Facebook e do Instagram viram memes no Twitter](https://noticias.r7.com/tecnologia-e-ciencia/instabilidade-do-facebook-e-do-instagram-vira-meme-no-twitter-28112019)
+- [Jovem é preso suspeito de invadir sites da Justiça e da polícia em MG](https://noticias.r7.com/minas-gerais/jovem-e-preso-suspeito-de-invadir-sites-da-justica-e-da-policia-em-mg-28112019)
+- [Os planos do menino de 9 anos que está terminando a faculdade: ‘Não tenho ideia de como cheguei aqui’](https://noticias.r7.com/educacao/os-planos-do-menino-de-9-anos-que-esta-terminando-a-faculdade-nao-tenho-ideia-de-como-cheguei-aqui-28112019)
+- ['Queda do Facebook é falha técnica grave', diz professor da FGV](https://noticias.r7.com/tecnologia-e-ciencia/queda-do-facebook-e-falha-tecnica-grave-diz-professor-da-fgv-28112019)
+- [O mistério das contas da Netflix canceladas que são reativadas sem o dono saber](https://noticias.r7.com/tecnologia-e-ciencia/o-misterio-das-contas-da-netflix-canceladas-que-sao-reativadas-sem-o-dono-saber-28112019)
+- [BC abre consulta pública sobre Open Banking, sandbox e duplicata estrutural](https://noticias.r7.com/economia/bc-abre-consulta-publica-sobre-open-banking-sandbox-e-duplicata-estrutural-28112019)
+- [Voluntários criam tecnologia para proteger manguezais e água doce do óleo no sul da Bahia](https://lifestyle.r7.com/hypeness/voluntarios-criam-tecnologia-para-proteger-manguezais-e-agua-doce-do-oleo-no-sul-da-bahia-28112019)
+- Eventos cultural e de tecnologia encerram a 8ª Expo Week Fatec Osasco
+- [Tecnologia no combate ao crime: cresce apreensões dentro das cadeias](https://noticias.r7.com/rio-de-janeiro/balanco-geral-rj/videos/tecnologia-no-combate-ao-crime-cresce-apreensoes-dentro-das-cadeias-29112019)
+- [Fraudes vão cair para zero com ID estudantil, diz ministro](https://noticias.r7.com/fraudes-vao-cair-para-zero-com-id-estudantil-diz-ministro-29112019)
 
 
 **NOVEMBRO 29**
