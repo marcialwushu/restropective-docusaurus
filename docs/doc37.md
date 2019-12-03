@@ -10,6 +10,13 @@ title: NOVEMBRO
 - iPhones are getting thousands of new fonts from Adobe
 - On Halloween night, Google discloses Chrome zero-day exploited in the wild
 - Infiniti adds Apple CarPlay and Android Auto for 2020 in update
+- [El cepo cambiario en Argentina ahora también afecta a bitcoin y las criptomonedas](https://www.criptonoticias.com/gobierno/cepo-cambiario-argentina-bitcoin-criptomonedas/)
+- [Bitcoin baja 2% después de caídas momentáneas en Coinbase Pro y Deribit](https://www.criptonoticias.com/mercados/precios-trading/bitcoin-baja-2pc-despues-caidas-momentaneas-coinbase-deribit/)
+- [BitMEX reconoce haber filtrado datos personales de miles de usuarios](https://www.criptonoticias.com/seguridad/bitmex-reconoce-haber-filtrado-datos-personales-miles-usuarios/)
+- [Barquisimeto: siguiente parada para Satoshi en Venezuela](https://www.criptonoticias.com/comunidad/eventos/barquisimeto-siguiente-parada-satoshi-venezuela/)
+- [El comercio de derivados de bitcoin se está convirtiendo en el mayor casino del mundo](https://www.criptonoticias.com/mercados/inversiones/comercio-derivados-bitcoin-convirtiendo-mayor-casino-mundo/)
+- [Las 5 criptomonedas más apreciadas: transacciones P2P, entretenimiento y pagos](https://www.criptonoticias.com/mercados/precios-trading/5-criptomonedas-mas-apreciadas-transacciones-p2p-entretenimiento-pagos/)
+- [Calatuña enfrenta limitaciones del gobierno de España a su proyecto blockchain](https://www.criptonoticias.com/gobierno/regulacion/calatuna-enfrenta-limitaciones-gobierno-espana-proyecto-blockchain/)
 
 **NOVEMBRO 02**
 
