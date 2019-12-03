@@ -275,7 +275,7 @@ title: NOVEMBRO
 - Eventos cultural e de tecnologia encerram a 8ª Expo Week Fatec Osasco
 - [Rhizom cria o primeiro protocolo blockchain escrito 100% do zero na América Latina](http://www.defesanet.com.br/cyberwar/noticia/35026/Rhizom-cria-o-primeiro-protocolo-blockchain-escrito-100--do-zero-na-America-Latina/)
 - [Fake News: WhatsApp quer incluir em norma eleitoral proibição a disparos em massa](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52347&sid=4)
-
+- [PGR defende acesso a dados armazenados em celular sem ordem específica](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52341&sid=8)
 
 **NOVEMBRO 29**
 
