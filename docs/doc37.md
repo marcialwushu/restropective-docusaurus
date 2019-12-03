@@ -30,6 +30,8 @@ title: NOVEMBRO
 
 **NOVEMBRO 04**
 
+- [Entenda o Projeto de Lei 7.316/02 que substituirá a Medida Provisória 2.200/01](https://cryptoid.com.br/certificacao-digital/entenda-o-pl-7-316-02-que-substituira-a-mp-2-200-01/)
+
 **NOVEMBRO 05**
 
 **NOVEMBRO 06**
@@ -279,6 +281,7 @@ title: NOVEMBRO
 - [Rhizom cria o primeiro protocolo blockchain escrito 100% do zero na América Latina](http://www.defesanet.com.br/cyberwar/noticia/35026/Rhizom-cria-o-primeiro-protocolo-blockchain-escrito-100--do-zero-na-America-Latina/)
 - [Fake News: WhatsApp quer incluir em norma eleitoral proibição a disparos em massa](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52347&sid=4)
 - [PGR defende acesso a dados armazenados em celular sem ordem específica](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52341&sid=8)
+- [Nova PL quer mexer na LGPD](https://www.baguete.com.br/noticias/28/11/2019/nova-pl-quer-mexer-na-lgpd)
 
 **NOVEMBRO 29**
 
@@ -289,6 +292,7 @@ title: NOVEMBRO
 - [O papel da tecnologia para o desenvolvimento dos atletas](https://esportes.r7.com/atletas-now/o-papel-da-tecnologia-para-o-desenvolvimento-dos-atletas-29112019)
 - [TPS 2019: investigadores são convidados a acompanhar a leitura dos códigos-fonte da urna eletrônica em 2020](http://www.defesanet.com.br/eleicao/noticia/35038/TPS-2019--investigadores-sao-convidados-a-acompanhar-a-leitura-dos-codigos-fonte-da-urna-eletronica-em-2020/)
 - [PESQUISADORES DO LNCC PARTICIPAM DE PROJETO DE COLABORAÇÃO INTERNACIONAL COM A DINAMARCA](https://www.lncc.br/noticia/PESQUISADORES_DO_LNCC_PARTICIPAM_DE_PROJETO_DE_COLABORACAO_INTERNACIONAL_COM_A_DINAMARCA/1503)
+- [Blackout Soluti: Empresa oferece certificado digital em nuvem por 30 dias gratuitos](https://cryptoid.com.br/soluti/blackout-soluti-empresa-oferece-certificado-digital-em-nuvem-por-30-dias-gratuitos/)
 
 **NOVEMBRO 30**
 
