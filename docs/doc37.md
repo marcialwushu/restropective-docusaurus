@@ -188,6 +188,7 @@ title: NOVEMBRO
 - [Startup paranaense utiliza drones para mapeamento das áreas atingidas pela tragédia em Mariana (MG)](http://www.defesanet.com.br/vant/noticia/35002/Startup-paranaense-utiliza-drones-para-mapeamento-das-areas-atingidas-pela-tragedia-em-Mariana-%28MG%29/)
 - [Começa o Teste Público de Segurança (TPS) 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35001/Comeca-o-Teste-Publico-de-Seguranca-%28TPS%29-2019-do-Sistema-Eletronico-de-Votacao/)
 - [LNCC INAUGURA EXPANSÃO DO SUPERCOMPUTADOR SANTOS DUMONT COM A PARTICIPAÇÃO DO MINISTRO ASTRONAUTA MARCOS PONTES](https://www.lncc.br/noticia/LNCC_INAUGURA_EXPANSAO_DO_SUPERCOMPUTADOR_SANTOS_DUMONT_COM_A_PARTICIPACAO_DO_MINISTRO_ASTRONAUTA_MARCOS_PONTES/1502)
+- [Deucalion, o supercomputador que reforça Portugal](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-Deucalion-o-supercomputador-que-reforca-Portugal)
 
 **NOVEMBRO 27**
 
@@ -292,6 +293,10 @@ title: NOVEMBRO
 - [Fake News: WhatsApp quer incluir em norma eleitoral proibição a disparos em massa](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52347&sid=4)
 - [PGR defende acesso a dados armazenados em celular sem ordem específica](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52341&sid=8)
 - [Nova PL quer mexer na LGPD](https://www.baguete.com.br/noticias/28/11/2019/nova-pl-quer-mexer-na-lgpd)
+- [Sonda lunar despenhou-se a 500 metros do alvo](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-28-Sonda-lunar-despenhou-se-a-500-metros-do-alvo)
+- [TikTok pede desculpa por remoção de vídeo que critica tratamento à comunidade Uighur](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-28-TikTok-pede-desculpa-por-remocao-de-video-que-critica-tratamento-a-comunidade-Uighur)
+- [Primavera Software foi alvo de ciberataque que afetou serviço SaaS](http://exameinformatica.sapo.pt/noticias/internet/2019-11-28-Primavera-Software-foi-alvo-de-ciberataque-que-afetou-servico-SaaS)
+- [Google Fotos passa a permitir identificação manual de pessoas](http://exameinformatica.sapo.pt/noticias/internet/2019-11-28-Google-Fotos-passa-a-permitir-identificacao-manual-de-pessoas)
 
 **NOVEMBRO 29**
 
