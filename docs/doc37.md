@@ -184,7 +184,7 @@ title: NOVEMBRO
 - [Inventaram um painel solar transparente que vai transformar janelas em geradores de energia](https://lifestyle.r7.com/hypeness/inventaram-um-painel-solar-transparente-que-vai-transformar-janelas-em-geradores-de-energia-27112019)
 - [Startup paranaense utiliza drones para mapeamento das áreas atingidas pela tragédia em Mariana (MG)](http://www.defesanet.com.br/vant/noticia/35002/Startup-paranaense-utiliza-drones-para-mapeamento-das-areas-atingidas-pela-tragedia-em-Mariana-%28MG%29/)
 - [Começa o Teste Público de Segurança (TPS) 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35001/Comeca-o-Teste-Publico-de-Seguranca-%28TPS%29-2019-do-Sistema-Eletronico-de-Votacao/)
-
+- [LNCC INAUGURA EXPANSÃO DO SUPERCOMPUTADOR SANTOS DUMONT COM A PARTICIPAÇÃO DO MINISTRO ASTRONAUTA MARCOS PONTES](https://www.lncc.br/noticia/LNCC_INAUGURA_EXPANSAO_DO_SUPERCOMPUTADOR_SANTOS_DUMONT_COM_A_PARTICIPACAO_DO_MINISTRO_ASTRONAUTA_MARCOS_PONTES/1502)
 
 **NOVEMBRO 27**
 
@@ -288,6 +288,7 @@ title: NOVEMBRO
 - [Sites de fake news de saúde têm ligação com lojas de produto natural](https://noticias.r7.com/brasil/sites-de-fake-news-de-saude-tem-ligacao-com-lojas-de-produto-natural-29112019)
 - [O papel da tecnologia para o desenvolvimento dos atletas](https://esportes.r7.com/atletas-now/o-papel-da-tecnologia-para-o-desenvolvimento-dos-atletas-29112019)
 - [TPS 2019: investigadores são convidados a acompanhar a leitura dos códigos-fonte da urna eletrônica em 2020](http://www.defesanet.com.br/eleicao/noticia/35038/TPS-2019--investigadores-sao-convidados-a-acompanhar-a-leitura-dos-codigos-fonte-da-urna-eletronica-em-2020/)
+- [PESQUISADORES DO LNCC PARTICIPAM DE PROJETO DE COLABORAÇÃO INTERNACIONAL COM A DINAMARCA](https://www.lncc.br/noticia/PESQUISADORES_DO_LNCC_PARTICIPAM_DE_PROJETO_DE_COLABORACAO_INTERNACIONAL_COM_A_DINAMARCA/1503)
 
 **NOVEMBRO 30**
 
