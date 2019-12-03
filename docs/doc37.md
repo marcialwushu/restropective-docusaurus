@@ -293,6 +293,7 @@ title: NOVEMBRO
 - [TPS 2019: investigadores são convidados a acompanhar a leitura dos códigos-fonte da urna eletrônica em 2020](http://www.defesanet.com.br/eleicao/noticia/35038/TPS-2019--investigadores-sao-convidados-a-acompanhar-a-leitura-dos-codigos-fonte-da-urna-eletronica-em-2020/)
 - [PESQUISADORES DO LNCC PARTICIPAM DE PROJETO DE COLABORAÇÃO INTERNACIONAL COM A DINAMARCA](https://www.lncc.br/noticia/PESQUISADORES_DO_LNCC_PARTICIPAM_DE_PROJETO_DE_COLABORACAO_INTERNACIONAL_COM_A_DINAMARCA/1503)
 - [Blackout Soluti: Empresa oferece certificado digital em nuvem por 30 dias gratuitos](https://cryptoid.com.br/soluti/blackout-soluti-empresa-oferece-certificado-digital-em-nuvem-por-30-dias-gratuitos/)
+- [EPAL vai produzir a sua própria energia 100% renovável](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-29-EPAL-vai-produzir-a-sua-propria-energia-100-renovavel)
 
 **NOVEMBRO 30**
 
