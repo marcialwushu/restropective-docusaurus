@@ -31,6 +31,7 @@ title: NOVEMBRO
 **NOVEMBRO 04**
 
 - [Entenda o Projeto de Lei 7.316/02 que substituirá a Medida Provisória 2.200/01](https://cryptoid.com.br/certificacao-digital/entenda-o-pl-7-316-02-que-substituira-a-mp-2-200-01/)
+- [Airbnb é condenada por informação errada fornecida pela plataforma no Brasil](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52155&sid=4)
 
 **NOVEMBRO 05**
 
@@ -220,6 +221,7 @@ title: NOVEMBRO
 - [Grupo de hackers está seqüestrando sistemas Docker com terminais de API expostos](https://sempreupdate.com.br/grupo-de-hackers-esta-sequestrando-sistemas-docker-com-terminais-de-api-expostos/)
 - [TPS 2019: grupos intensificam tentativas de ataques ao sistema eletrônico de votação](http://www.defesanet.com.br/eleicao/noticia/35018/TPS-2019--grupos-intensificam-tentativas-de-ataques-ao-sistema-eletronico-de-votacao/)
 - [Viasat felicita a União Internacional de Telecomunicações pela expansão da disponibilidade do espectro da banda Ka](http://www.defesanet.com.br/tecnologia/noticia/35017/Viasat-felicita-a-Uniao-Internacional-de-Telecomunicacoes-pela-expansao-da-disponibilidade-do-espectro-da-banda-Ka/)
+- [Serviço de e-mail do Terra começa a ser normalizado. Empresa foi notificada pelo Procon/SP](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52331&sid=4)
 
 **NOVEMBRO 28**
 
