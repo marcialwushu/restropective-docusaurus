@@ -146,6 +146,7 @@ title: NOVEMBRO
 - Xiaomi Mi Note 10 teased for India: A 108MP beast is coming
 - 5G coverage will span two thirds of the global population in 6 years, Ericsson predicts
 - AMD confirms 64-core Threadripper 3990X for 2020
+- [Por que o laser virou a nova arma high tech de manifestantes pelo mundo?](http://www.defesanet.com.br/riots/noticia/34990/Por-que-o-laser-virou-a-nova-arma-high-tech-de-manifestantes-pelo-mundo-/)
 
 **NOVEMBRO 26**
 
