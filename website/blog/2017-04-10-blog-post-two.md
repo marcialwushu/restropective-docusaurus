@@ -1,5 +1,5 @@
 ---
-title: Wordfence Weekly October 02 2019 – October 08 2019
+title: Wordfence Weekly October 02 2019 
 author: Wordfence
 authorURL: https://www.wordfence.com/weekly/wordfence-weekly-october-02-2019-october-08-2019/
 authorFBID: 100002976521003
