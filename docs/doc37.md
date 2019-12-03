@@ -74,6 +74,7 @@ title: NOVEMBRO
 - Apple loses RAW video patent battle with RED; companies ‘will work together’
 - Pentagon gets a fix for F-35 bug in $400,000 pilot helmets
 - Teslas = 77.7% of US Electric Vehicle Sales
+- [Fake News eleitoral vai render de dois a oito anos de prisão no Brasil](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52219&sid=4)
 
 **NOVEMBRO 12**
 
@@ -273,7 +274,7 @@ title: NOVEMBRO
 - [Voluntários criam tecnologia para proteger manguezais e água doce do óleo no sul da Bahia](https://lifestyle.r7.com/hypeness/voluntarios-criam-tecnologia-para-proteger-manguezais-e-agua-doce-do-oleo-no-sul-da-bahia-28112019)
 - Eventos cultural e de tecnologia encerram a 8ª Expo Week Fatec Osasco
 - [Rhizom cria o primeiro protocolo blockchain escrito 100% do zero na América Latina](http://www.defesanet.com.br/cyberwar/noticia/35026/Rhizom-cria-o-primeiro-protocolo-blockchain-escrito-100--do-zero-na-America-Latina/)
-
+- [Fake News: WhatsApp quer incluir em norma eleitoral proibição a disparos em massa](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52347&sid=4)
 
 
 **NOVEMBRO 29**
