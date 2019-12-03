@@ -1,5 +1,5 @@
 ---
-id: doc63
+id: doc64
 title: Metodologias Ágeis, Importância do SEO, Ferramentas all-in-one de Gestão, Desenvolvimento e Design e Melhores do Medium!
 ---
 
