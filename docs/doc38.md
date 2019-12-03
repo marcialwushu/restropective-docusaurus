@@ -12,5 +12,60 @@ title: DEZEMBRO
 - [Rússia – Coloca em operação primeira estação de radar OTH](http://www.defesanet.com.br/russiadocs/noticia/35062/Russia-%E2%80%93-Coloca-em-operacao-primeira-estacao-de-radar-OTH/)
 - [ABES remove mais de 66 mil conteúdos ilegais em nove meses de 2019](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52365&sid=4)
 
+**DEZEMBRO 03**
 
+**DEZEMBRO 04**
 
+**DEZEMBRO 05**
+
+**DEZEMBRO 06**
+
+**DEZEMBRO 07**
+
+**DEZEMBRO 08**
+
+**DEZEMBRO 09**
+
+**DEZEMBRO 10**
+
+**DEZEMBRO 11**
+
+**DEZEMBRO 12**
+
+**DEZEMBRO 13**
+
+**DEZEMBRO 14**
+
+**DEZEMBRO 15**
+
+**DEZEMBRO 16**
+
+**DEZEMBRO 17**
+
+**DEZEMBRO 18**
+
+**DEZEMBRO 19**
+
+**DEZEMBRO 20**
+
+**DEZEMBRO 21**
+
+**DEZEMBRO 22**
+
+**DEZEMBRO 23**
+
+**DEZEMBRO 24**
+
+**DEZEMBRO 25**
+
+**DEZEMBRO 26**
+
+**DEZEMBRO 27**
+
+**DEZEMBRO 28**
+
+**DEZEMBRO 29**
+
+**DEZEMBRO 30**
+
+**DEZEMBRO 31**
