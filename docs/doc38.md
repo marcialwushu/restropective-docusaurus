@@ -19,6 +19,7 @@ title: DEZEMBRO
 - [5G x Parabólicas: Teles defendem filtros. TVs migração para a banda Ku](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52372&sid=8)
 - [Compras governamentais: métricas nos contratos de fábricas de software](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52371&sid=10)
 - [Neotel e KnowBe4 selam aliança para elevar o nível de conhecimento e conscientização de segurança digital](https://cryptoid.com.br/identidade-digital-destaques/neotel-e-knowbe4-selam-alianca-para-elevar-o-nivel-de-conhecimento-e-conscientizacao-de-seguranca-digital/)
+- [Supremo adia para 2020 julgamento sobre retirada de conteúdo da internet](https://www1.folha.uol.com.br/tec/2019/12/supremo-adia-para-2020-julgamento-sobre-retirada-de-conteudo-da-internet.shtml)
 
 **DEZEMBRO 04**
 
