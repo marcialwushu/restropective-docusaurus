@@ -32,6 +32,7 @@ title: NOVEMBRO
 
 - [Entenda o Projeto de Lei 7.316/02 que substituirá a Medida Provisória 2.200/01](https://cryptoid.com.br/certificacao-digital/entenda-o-pl-7-316-02-que-substituira-a-mp-2-200-01/)
 - [Airbnb é condenada por informação errada fornecida pela plataforma no Brasil](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52155&sid=4)
+- [Huawei: nação digital é o último estágio da transformação digital](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52153&sid=14)
 
 **NOVEMBRO 05**
 
@@ -96,6 +97,9 @@ title: NOVEMBRO
 
 **NOVEMBRO 14**
 
+- [Brasileiros já incluem dispositivos IoT em lista de desejos](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52250&sid=3)
+- [TI vê o surgimento da computação quântica como uma ameaça iminente à confidencialidade de informações valiosas](http://www.defesanet.com.br/cyberwar/noticia/34875/TI-ve-o-surgimento-da-computacao-quantica-como-uma-ameaca-iminente-a-confidencialidade-de-informacoes-valiosas/)
+
 **NOVEMBRO 15**
 
 - TikTok surpasses 1.5 billion downloads — with almost 500M in India
@@ -120,6 +124,9 @@ title: NOVEMBRO
 **NOVEMBRO 17**
 
 **NOVEMBRO 18**
+
+- [Carros autônomos se multiplicam, mas estão longe do mercado de consumo](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52264&sid=3)
+- [TSE - Sistema de transmissão de votos também será testado no TPS 2019](http://www.defesanet.com.br/eleicao/noticia/34922/TSE---Sistema-de-transmissao-de-votos-tambem-sera-testado-no-TPS-2019/)
 
 **NOVEMBRO 19**
 
@@ -189,6 +196,7 @@ title: NOVEMBRO
 - [Começa o Teste Público de Segurança (TPS) 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35001/Comeca-o-Teste-Publico-de-Seguranca-%28TPS%29-2019-do-Sistema-Eletronico-de-Votacao/)
 - [LNCC INAUGURA EXPANSÃO DO SUPERCOMPUTADOR SANTOS DUMONT COM A PARTICIPAÇÃO DO MINISTRO ASTRONAUTA MARCOS PONTES](https://www.lncc.br/noticia/LNCC_INAUGURA_EXPANSAO_DO_SUPERCOMPUTADOR_SANTOS_DUMONT_COM_A_PARTICIPACAO_DO_MINISTRO_ASTRONAUTA_MARCOS_PONTES/1502)
 - [Deucalion, o supercomputador que reforça Portugal](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-Deucalion-o-supercomputador-que-reforca-Portugal)
+- [Campinas será a primeira cidade a testar IoT com dinheiro do BNDES](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52314&sid=14)
 
 **NOVEMBRO 27**
 
