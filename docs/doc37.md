@@ -222,6 +222,14 @@ title: NOVEMBRO
 - [TPS 2019: grupos intensificam tentativas de ataques ao sistema eletrônico de votação](http://www.defesanet.com.br/eleicao/noticia/35018/TPS-2019--grupos-intensificam-tentativas-de-ataques-ao-sistema-eletronico-de-votacao/)
 - [Viasat felicita a União Internacional de Telecomunicações pela expansão da disponibilidade do espectro da banda Ka](http://www.defesanet.com.br/tecnologia/noticia/35017/Viasat-felicita-a-Uniao-Internacional-de-Telecomunicacoes-pela-expansao-da-disponibilidade-do-espectro-da-banda-Ka/)
 - [Serviço de e-mail do Terra começa a ser normalizado. Empresa foi notificada pelo Procon/SP](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52331&sid=4)
+- [Prosegur fechou comunicações devido a ataque de ransomware. Clientes portugueses também afetados](http://exameinformatica.sapo.pt/noticias/internet/2019-11-27-Prosegur-fechou-comunicacoes-devido-a-ataque-de-ransomware.-Clientes-portugueses-tambem-afetados)
+- [5G: Chanceler alemã pede estratégia única lidar com marcas chinesas na UE](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-27-5G-Chanceler-alema-pede-estrategia-unica-lidar-com-marcas-chinesas-na-UE)
+- [Twitter vai desativar contas e nomes de utilizador inativos em dezembro](http://exameinformatica.sapo.pt/noticias/internet/2019-11-27-Twitter-vai-desativar-contas-e-nomes-de-utilizador-inativos-em-dezembro)
+- [Batalha legal entre fabricantes de baterias elétricas põe em causa fornecimento nos EUA](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-27-Batalha-legal-entre-fabricantes-de-baterias-eletricas-poe-em-causa-fornecimento-nos-EUA)
+- [Acabaram-se os números IPv4 na Europa. Já há uma lista de espera a crescer](http://exameinformatica.sapo.pt/noticias/internet/2019-11-27-Acabaram-se-os-numeros-IPv4-na-Europa.-Ja-ha-uma-lista-de-espera-a-crescer)
+- [Portugal podia ter seis TDT, mas só tem uma. Que volta a mudar a partir de hoje](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-27-Portugal-podia-ter-seis-TDT-mas-so-tem-uma.-Que-volta-a-mudar-a-partir-de-hoje)
+- [Ex-campeão de Go abandona carreira por considerar inteligência artificial «invencível»](http://exameinformatica.sapo.pt/noticias/2019-11-27-Ex-campeao-de-Go-abandona-carreira-por-considerar-inteligencia-artificial-invencivel)
+- [Vídeo deepfake mostra o discurso "alternativo" da chegada do Homem à Lua](http://exameinformatica.sapo.pt/noticias/insolitos/2019-11-27-Video-deepfake-mostra-o-discurso-alternativo-da-chegada-do-Homem-a-Lua)
 
 **NOVEMBRO 28**
 
