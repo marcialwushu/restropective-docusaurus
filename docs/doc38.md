@@ -14,6 +14,11 @@ title: DEZEMBRO
 
 **DEZEMBRO 03**
 
+- [IBM: Serpro e Dataprev são ativos para serem avaliados](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52373&sid=5)
+- [TIM vence Google e STJ manda provedores de aplicação fornecerem porta lógica](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52369&sid=4)
+- [5G x Parabólicas: Teles defendem filtros. TVs migração para a banda Ku](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52372&sid=8)
+- [Compras governamentais: métricas nos contratos de fábricas de software](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52371&sid=10)
+
 **DEZEMBRO 04**
 
 **DEZEMBRO 05**
