@@ -177,7 +177,8 @@ title: NOVEMBRO
 - [Startup brasileira quebra paradigmas e produz carro inteligente](https://noticias.r7.com/pernambuco/folha-de-pernambuco/startup-brasileira-quebra-paradigmas-e-produz-carro-inteligente-27112019)
 - [Anatel diz que decisão sobre tecnologia 5G vai seguir 'princípio da neutralidade'](https://noticias.r7.com/economia/anatel-diz-que-decisao-sobre-tecnologia-5g-vai-seguir-principio-da-neutralidade-27112019)
 - [Inventaram um painel solar transparente que vai transformar janelas em geradores de energia](https://lifestyle.r7.com/hypeness/inventaram-um-painel-solar-transparente-que-vai-transformar-janelas-em-geradores-de-energia-27112019)
-
+- [Startup paranaense utiliza drones para mapeamento das áreas atingidas pela tragédia em Mariana (MG)](http://www.defesanet.com.br/vant/noticia/35002/Startup-paranaense-utiliza-drones-para-mapeamento-das-areas-atingidas-pela-tragedia-em-Mariana-%28MG%29/)
+- [Começa o Teste Público de Segurança (TPS) 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35001/Comeca-o-Teste-Publico-de-Seguranca-%28TPS%29-2019-do-Sistema-Eletronico-de-Votacao/)
 
 
 **NOVEMBRO 27**
@@ -210,6 +211,8 @@ title: NOVEMBRO
 - Xiaomi anuncia celular com carregamento rápido de 66W
 - Amazon Alexa ganha função de alerta para consumo de medicamentos
 - [Grupo de hackers está seqüestrando sistemas Docker com terminais de API expostos](https://sempreupdate.com.br/grupo-de-hackers-esta-sequestrando-sistemas-docker-com-terminais-de-api-expostos/)
+- [TPS 2019: grupos intensificam tentativas de ataques ao sistema eletrônico de votação](http://www.defesanet.com.br/eleicao/noticia/35018/TPS-2019--grupos-intensificam-tentativas-de-ataques-ao-sistema-eletronico-de-votacao/)
+- [Viasat felicita a União Internacional de Telecomunicações pela expansão da disponibilidade do espectro da banda Ka](http://www.defesanet.com.br/tecnologia/noticia/35017/Viasat-felicita-a-Uniao-Internacional-de-Telecomunicacoes-pela-expansao-da-disponibilidade-do-espectro-da-banda-Ka/)
 
 **NOVEMBRO 28**
 
@@ -268,6 +271,7 @@ title: NOVEMBRO
 - [BC abre consulta pública sobre Open Banking, sandbox e duplicata estrutural](https://noticias.r7.com/economia/bc-abre-consulta-publica-sobre-open-banking-sandbox-e-duplicata-estrutural-28112019)
 - [Voluntários criam tecnologia para proteger manguezais e água doce do óleo no sul da Bahia](https://lifestyle.r7.com/hypeness/voluntarios-criam-tecnologia-para-proteger-manguezais-e-agua-doce-do-oleo-no-sul-da-bahia-28112019)
 - Eventos cultural e de tecnologia encerram a 8ª Expo Week Fatec Osasco
+- [Rhizom cria o primeiro protocolo blockchain escrito 100% do zero na América Latina](http://www.defesanet.com.br/cyberwar/noticia/35026/Rhizom-cria-o-primeiro-protocolo-blockchain-escrito-100--do-zero-na-America-Latina/)
 
 
 
@@ -278,6 +282,7 @@ title: NOVEMBRO
 - [EUA consideram mudar regulação para restringir ainda mais fornecimento para Huawei, dizem fontes](https://noticias.r7.com/economia/eua-consideram-mudar-regulacao-para-restringir-ainda-mais-fornecimento-para-huawei-dizem-fontes-29112019)
 - [Sites de fake news de saúde têm ligação com lojas de produto natural](https://noticias.r7.com/brasil/sites-de-fake-news-de-saude-tem-ligacao-com-lojas-de-produto-natural-29112019)
 - [O papel da tecnologia para o desenvolvimento dos atletas](https://esportes.r7.com/atletas-now/o-papel-da-tecnologia-para-o-desenvolvimento-dos-atletas-29112019)
+- [TPS 2019: investigadores são convidados a acompanhar a leitura dos códigos-fonte da urna eletrônica em 2020](http://www.defesanet.com.br/eleicao/noticia/35038/TPS-2019--investigadores-sao-convidados-a-acompanhar-a-leitura-dos-codigos-fonte-da-urna-eletronica-em-2020/)
 
 **NOVEMBRO 30**
 
