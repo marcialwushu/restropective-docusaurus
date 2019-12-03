@@ -78,6 +78,9 @@ title: NOVEMBRO
 
 **NOVEMBRO 12**
 
+- [TSE quer Facebook, Google, Whatsapp e Twitter contra desinformação nas eleições](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52229&sid=4)
+- [CCT aprova direito de resposta em redes sociais](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52230&sid=4)
+
 **NOVEMBRO 13**
 
 - Health websites are sharing sensitive medical data with Google, Facebook, and Amazon
