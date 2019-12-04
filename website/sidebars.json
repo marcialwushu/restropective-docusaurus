@@ -3,7 +3,7 @@
     "2017": ["doc1","doc17","doc18","doc19","doc20","doc21","doc22","doc23","doc24","doc25","doc26","doc27"],
     "2018": ["doc2","doc6","doc7","doc8","doc9","doc10","doc11","doc12","doc13","doc14","doc15","doc16"],
     "2019": ["doc3","doc28","doc29","doc30","doc31","doc32","doc33","doc34","doc35","doc36","doc37","doc38"],
-    "2020": ["doc65", "doc66", "doc67", "doc68", "doc69", "doc70", "doc71", "doc72", "doc73", "doc74", "doc75"]
+    "2020": ["doc65", "doc66", "doc67", "doc68", "doc69", "doc70", "doc71", "doc72", "doc73", "doc74", "doc75", "doc76"]
   },
   "docs-other": {
     "MSSQLTips": ["doc4", "doc5", "doc41", "doc42", "doc43","doc44", "doc63"],
