@@ -37,6 +37,8 @@ title: DEZEMBRO
 
 **DEZEMBRO 05**
 
+- [Safeweb lança um novo tipo de certificado digital voltado para emissão de notas fiscais: PJ NF-e](https://cryptoid.com.br/certificacao-digital/safeweb-lanca-um-novo-tipo-de-certificado-digital-voltado-para-emissao-de-notas-fiscais-pj-nf-e/)
+
 **DEZEMBRO 06**
 
 **DEZEMBRO 07**
