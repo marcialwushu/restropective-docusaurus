@@ -22,6 +22,11 @@ title: DEZEMBRO
 - [Supremo adia para 2020 julgamento sobre retirada de conteúdo da internet](https://www1.folha.uol.com.br/tec/2019/12/supremo-adia-para-2020-julgamento-sobre-retirada-de-conteudo-da-internet.shtml)
 - [Combinando informações pessoais, fraude de identidade sintética é uma das que mais cresce no meio digital](https://cryptoid.com.br/pesquisas-seguranca-da-informacao-e-ciberseguranca/combinando-informacoes-pessoais-fraude-de-identidade-sintetica-e-uma-das-que-mais-cresce-no-meio-digital/)
 - [Locaweb cria campanha para ajudar empreendedor a montar negócio na internet](https://cryptoid.com.br/identidade-digital-destaques/locaweb-cria-campanha-para-ajudar-empreendedor-a-montar-negocio-na-internet/)
+- [CEO da Huawei confirma que empresa continua sem apoio do Google](https://olhardigital.com.br/pro/noticia/ceo-da-huawei-confirma-que-empresa-continua-sem-apoio-do-google/93786)
+- [T-Mobile lança seu 5G nos EUA](https://olhardigital.com.br/video/t-mobile-lanca-seu-5g-nos-eua/93803)
+- [Cientistas chineses descobrem buraco negro que 'não poderia existir' – Olhar Digital](https://noticiasamericadosul.com/2019/12/03/cientistas-chineses-descobrem-buraco-negro-que-nao-poderia-existir-olhar-digital/)
+- [PlayStation faz 25 anos. Conheça um pouco da história do console](https://olhardigital.com.br/games-e-consoles/noticia/playstation-faz-25-anos-conheca-um-pouco-da-historia-do-console/93766)
+- [Irmão de Pablo Escobar lança celular dobrável]()
 
 **DEZEMBRO 04**
 
