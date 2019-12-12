@@ -25,6 +25,19 @@ title: DEZEMBRO
 - [TSE encerra Teste Público de Segurança 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35064/TSE-encerra-Teste-Publico-de-Seguranca-2019-do-Sistema-Eletronico-de-Votacao/)
 - [Rússia – Coloca em operação primeira estação de radar OTH](http://www.defesanet.com.br/russiadocs/noticia/35062/Russia-%E2%80%93-Coloca-em-operacao-primeira-estacao-de-radar-OTH/)
 - [ABES remove mais de 66 mil conteúdos ilegais em nove meses de 2019](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52365&sid=4)
+- [PIA VPN acquired by malware company founded by former Israeli spy](https://bit.ly/2RaI8oc)
+- [AMD’s Entire Ryzen 9 3950X 16 Core CPU Inventory Sold Out in Japan](https://bit.ly/2RdezT5)
+- [Canadian provinces band together to develop small nuclear reactors](https://bit.ly/2r5ygl1)
+- [Troubling trends in machine learning scholarship (2018)](https://bit.ly/2Dz7fJF)
+- [Django 3.0 Released](https://bit.ly/2LdTC6B)
+- [Is true hacking dead? What we lost](https://bit.ly/2Y66WiK)
+- [Jessie Frazelle, Bryan Cantrill, and Steve Tuck Have Started a Computer Company](https://bit.ly/33JhZ2y)
+- [0.30000000000000004](https://bit.ly/2sDIKst)
+- [Moxie: Incremental Declarative UI in Rust](https://bit.ly/33H0Tm7)
+- [Amazon Braket – Get Started with Quantum Computing](https://bit.ly/2OIGmcz)
+- [Chinese telecoms must use "AI and other technical means" to identify phone users](https://bit.ly/2r6oG1q)
+- [Born in a Garage](https://bit.ly/34GLaVr)  
+
 
 **DEZEMBRO 03**
 
