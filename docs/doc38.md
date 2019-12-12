@@ -27,6 +27,18 @@ title: DEZEMBRO
 - [Cientistas chineses descobrem buraco negro que 'não poderia existir' – Olhar Digital](https://noticiasamericadosul.com/2019/12/03/cientistas-chineses-descobrem-buraco-negro-que-nao-poderia-existir-olhar-digital/)
 - [PlayStation faz 25 anos. Conheça um pouco da história do console](https://olhardigital.com.br/games-e-consoles/noticia/playstation-faz-25-anos-conheca-um-pouco-da-historia-do-console/93766)
 - [Irmão de Pablo Escobar lança celular dobrável]()
+- Ripple’s Philippines corridor indicates spike in ODL transactions
+- Google Photos launches private messaging for quickly sharing photos
+- Mercedes launches SUV GLC, price starts at ₹52.56 lakh
+- TikTok accused in California lawsuit of sending user data to China
+- Xiaomi launches app to offer credit to millennials in India
+- Official Redmi K30 series picture shows off rear design, quad cameras
+- FBI Asked Sony for Data on User Who Allegedly Used PlayStation Network to Sell Cocaine
+- Mozilla removes Avast and AVG extensions from add-on portal over snooping claims
+- Amazon Is Now Letting Anyone Run Programs on Its Quantum Computer
+- Sony PlayStation gets Guinness World Record for best-selling console brand
+- YouTube confirms it has removed some Trump campaign ads
+
 
 **DEZEMBRO 04**
 
@@ -39,12 +51,34 @@ title: DEZEMBRO
 - [As empresas brasileiras estão prontas para a LGPD? Por Frederico Cortez](https://cryptoid.com.br/identidade-digital-destaques/as-empresas-brasileiras-estao-prontas-para-a-lgpd/)
 - [GDPR muda a confiança do consumidor e a segurança dos dados na Europa e o que esperar da LGPD para o Brasil](https://cryptoid.com.br/protecao-de-dados/gdpr-muda-a-confianca-do-consumidor-e-a-seguranca-dos-dados-na-europa-e-o-que-esperar-da-lgpd-para-o-brasil/)
 - [Algoritmo criado por brasileiros é premiado em desafio internacional de inteligência artificial](https://cryptoid.com.br/identidade-digital-destaques/algoritmo-criado-por-brasileiros-e-premiado-em-desafio-internacional-de-inteligencia-artificial/)
+- Railways now tracks trains via ISRO satellite, to inform you in case of delay
+- Reliance Jio Reveals New 4G Prepaid Plans, Wants Users to Pay More
+- 2020 Jaguar XE Launched, Prices Start at Rs 44.98 Lakh
+- Ford is turning McDonald’s coffee waste into headlights
+- Facebook’s Head of AI Says the Field Will Soon ‘Hit the Wall’
+- Plex just launched free movie and TV streaming service that’s actually pretty great
+- Google Photos adds chat feature to make it easier to send and like pictures
+- Instagram will ask new users to provide their birthdays
 
 **DEZEMBRO 05**
 
 - [Safeweb lança um novo tipo de certificado digital voltado para emissão de notas fiscais: PJ NF-e](https://cryptoid.com.br/certificacao-digital/safeweb-lanca-um-novo-tipo-de-certificado-digital-voltado-para-emissao-de-notas-fiscais-pj-nf-e/)
+- Qualcomm will let you update GPU drivers via the Play Store
+- Chirp 2 for Apple Watch brings infinite Twitter timeline, major speed boost on watchOS 6, more
+- Instagram Now Asks New Users to Verify They Are Over 13 Years Old
+- Apple will reportedly release an iPhone without any ports in 2021
+- Tesla’s biggest market in Europe becomes the Netherlands as Model 3 sales surge
+- Google’s Pixel 4-exclusive recording app is now available for the Pixel 2, 3, and 3A
+- Genius Sues Google for Allegedly Stealing Its Music Lyrics
 
 **DEZEMBRO 06**
+
+- Apple could release 5 new iPhones next year
+- iPhone SE 2 Might Actually Be Called the iPhone 9
+- Bernie Sanders reveals $150 billion plan to increase internet access and break up big providers
+- Galaxy S11: 108 MP camera, 5x zoom seemingly confirmed, possible 5,000 mAh battery
+- Elon Musk’s SpaceX rocket sends cryptocurrency wallet to space
+- WhatsApp now lets you create reminders, tasks thanks to Any.do integration
 
 **DEZEMBRO 07**
 
@@ -53,6 +87,14 @@ title: DEZEMBRO
 **DEZEMBRO 09**
 
 **DEZEMBRO 10**
+
+- George Laurer, co-inventor of the barcode, dies at 94
+- Apple Card users can now buy an iPhone in installments with no interest
+- Airtel Brings Voice Calls Over Wi-Fi For Bad Network: How It Works
+- New Mac Pro and Pro Display XDR Now Available to Order
+- You can now attach emails to other emails in Gmail
+- Star Wars fan starts petition calling for a Baby Yoda emoji
+- Ripple adds key tools for developers building on XRP Ledger
 
 **DEZEMBRO 11**
 
