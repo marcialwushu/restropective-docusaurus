@@ -6,6 +6,20 @@ title: DEZEMBRO
 
 **DEZEMBRO 01**
 
+- [Urbit](https://bit.ly/2OW9Z94)
+- [Linus: People should aim to make “badly written” code “just work”](https://bit.ly/2OzQmVi)
+- [EU antitrust regulators say they are investigating Google's data collection](https://bit.ly/33C0EbC)
+- [Shibboleths that get you past the initial script stage](https://bit.ly/2R761gD)
+- [Features of a successful therapeutic fast of 382 days' duration (1973) pdf](https://bit.ly/33yJrjC)
+- [Study Finds Wind Speeds Are Increasing, Which Could Boost Wind Energy](https://bit.ly/2DJwWax)
+- [Google must fall. The world needs more search engines](https://bit.ly/37Rcd2l )
+- [Unbundling AWS](https://bit.ly/37WDIYg)
+- [Advent of Code 2019](https://bit.ly/34OEIfb)
+- [Take action to save .org and prosecute those who sold out the internet](https://bit.ly/2R8ZVMM)
+- [Show HN: We used 890M chess games to make an interactive opening graph](https://bit.ly/34COT69)
+- [Show HN: How Radar Works](https://bit.ly/34FzZvY)
+ 
+
 **DEZEMBRO 02**
 
 - [TSE encerra Teste Público de Segurança 2019 do Sistema Eletrônico de Votação](http://www.defesanet.com.br/eleicao/noticia/35064/TSE-encerra-Teste-Publico-de-Seguranca-2019-do-Sistema-Eletronico-de-Votacao/)
