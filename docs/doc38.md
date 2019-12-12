@@ -106,10 +106,13 @@ title: DEZEMBRO
 - Galaxy S11: 108 MP camera, 5x zoom seemingly confirmed, possible 5,000 mAh battery
 - Elon Musk’s SpaceX rocket sends cryptocurrency wallet to space
 - WhatsApp now lets you create reminders, tasks thanks to Any.do integration
+- [Urbit: a cripto que você só entenderá quando for tarde demais](http://www.criptofacil.com/urbit-a-cripto-que-voce-so-entendera-quando-for-tarde-demais/)
 
 **DEZEMBRO 07**
 
 **DEZEMBRO 08**
+
+- [Microsoft lança programa de recompensas baseado na blockchain do Ethereum](https://www.criptofacil.com/microsoft-lanca-programa-de-recompensas-baseado-na-blockchain-do-ethereum/)
 
 **DEZEMBRO 09**
 
@@ -126,6 +129,16 @@ title: DEZEMBRO
 **DEZEMBRO 11**
 
 **DEZEMBRO 12**
+
+- [Analista explica como e quando o Bitcoin chegará aos US$100 mil](https://www.criptofacil.com/analista-explica-como-e-quando-o-bitcoin-chegara-aos-us100-mil/)
+- [Nike recebe patente para tokenizar tênis na blockchain do Ethereum](https://www.criptofacil.com/nike-recebe-patente-para-tokenizar-tenis-na-blockchain-do-ethereum/)
+- [Mercado de criptoativos segue em baixa e desvaloriza US$3 bilhões nas últimas 24 horas](https://www.criptofacil.com/mercado-de-criptoativos-segue-em-baixa-e-desvaloriza-us3-bilhoes-nas-ultimas-24-horas/)
+- [Agora é possível comprar Bitcoin com Real na Binance](https://www.criptofacil.com/agora-e-possivel-comprar-bitcoin-com-real-na-binance/)
+- [Ethereum se aproxima de seu menor preço em nove meses; Mercado de DeFi segue fortalecido](https://www.criptofacil.com/ethereum-se-aproxima-de-seu-menor-preco-em-nove-meses-mercado-de-defi-segue-fortalecido/)
+- [Blockchain pode ser usada para descentralizar o Twitter](https://www.criptofacil.com/blockchain-pode-ser-usada-para-descentralizar-o-twitter/)
+- [China atinge a maior participação no hashrate do Bitcoin desde 2017](https://www.criptofacil.com/china-atinge-a-maior-participacao-no-hashrate-do-bitcoin-desde-2017/)
+- [BWA Brasil recebe reclamações sobre não pagar investidores](https://www.criptofacil.com/bwa-brasil-recebe-reclamacoes-sobre-nao-pagar-investidores/)
+- [Brasil lança academia inédita para formação de hackers](https://www.criptofacil.com/brasil-lanca-academia-inedita-para-formacao-de-hackers/)
 
 **DEZEMBRO 13**
 
