@@ -171,23 +171,95 @@ title: JUNHO
 
 **JUNHO 20**
 
+- Samsung Galaxy Note 10 is expected to come with ‘Sound on Display’ technology
+- New deepfake tech turns a single photo and audio file into a singing video portrait
+- Apple is recalling some MacBook Pro laptops over concerns that the battery could overheat
+- Google Assistant to arrive on more devices w/ Chrome OS 77
+- Logitech’s newest wireless gaming mouse supports wireless charging and has 11 customizable buttons 
+- Google Maps lets local businesses reward followers with discounts
+- YouTube gives up, tests hiding comments by default on Android
+- Colgate’s new recyclable toothpaste tube is nearly ready. It took 5 years to develop
+
 **JUNHO 21**
 
+- Google Brain’s XLNet bests BERT at 20 NLP tasks
+- Third-Party Devs Will Be Able to Access iPadOS Apple Pencil Latency Improvements for Art Apps
+- Netflix is testing a pop-out, picture-in-picture mode for desktop
+- Google is killing YouTube’s “Hangouts on Air” this year
+- Ethereum Devs Approve First 2 Code Changes for ‘Istanbul’ Hard Fork
+- Apple warns of iPhone tariff risks as China supply chain exposed
+- Apple recalls older generation 15-inch MacBook Pro over fire risk
+- Amazon adds 2,500 recordings to the Alexa Skills Kit Sound Library
+
 **JUNHO 22**
+
+- Intel Plans Shock Processor Price Cuts To Counter AMD 3rd Gen Ryzen
+- Hundreds of Walmart stores are using AI cameras to monitor checkouts
+- Microsoft scuppers Lumia 950 Windows 10 on ARM cellular capabilities
+- Microsoft bans Slack and discourages AWS and Google Docs use internally
+- The Tesla Model S is an excellent video game controller
+- iOS Leak Confirms That Apple Is Finally Ditching Lightning Connector For USB-C On Next iPhone 11
+- Microsoft’s new Windows Terminal now available to download for Windows 10
+- FedEx refused to deliver Huawei P30 Pro from UK to US
 
 **JUNHO 23**
 
 **JUNHO 24**
 
+- Apple Releases First Public Beta of macOS Catalina to Public Beta Testers
+- Galaxy S10 5G sales have exceeded 1 million units in South Korea
+- Latest Apple ads carry message of caring for consumers and the planet 
+- The Raspberry Pi Foundation unveils the Raspberry Pi 4
+- Microsoft bans employees from using Slack
+- Nissan turns its electric van into a zero-emission ice cream truck
+- Bill Gates says losing mobile war to Android was ‘the greatest mistake ever’
+
 **JUNHO 25**
+
+- Global phone networks attacked by hackers
+- New Mac Malware Sails Right Through Apple’s Defenses
+- Tesla orders surge for record quarter, but deliveries are the bottleneck
+- Apple Watch ECG app credited with saving UK customer just one week after launch
+- Steam and Ubuntu clash over 32-bit libs
+- Machine learning helps Microsoft’s AI realistically colorize video from a single image
+- Apple Patents Watch Band with Built-In Camera
 
 **JUNHO 26**
 
+- Intel beats AMD and Nvidia to crowd-pleasing graphics feature
+- Oppo unveils the world’s first under-screen selfie camera
+- Apple iPhone 11 high-res images leaked; reveal slimmer notch, triple-camera setup
+- YouTube lets you remove channels from recommendations
+- Tesla is developing its own cells in-house at ‘secret battery lab’, report says
+- Your iPhone will soon be able to identify dogs and cats thanks to Apple’s new detector
+- Facebook iOS and Android apps test letting you turn off annoying red dots
+- Apple Hires ARM’s Lead CPU Architect Amid Rumors of ARM-Based Macs as Early as 2020
+- Oracle taps blockchain to introduce new revenue streams for startups
+
 **JUNHO 27**
 
+
 **JUNHO 28**
+
+- Apple will make its new Mac Pro in China, not in the U.S.
+- Simple automate build using Docker and Gradle for Java Spring Boot project
+- Crypto Apps See Zero Growth as Bitcoin Price Triples This Year
+- Google’s Next Subsea Internet Cable to Connect Africa and Europe
+- Instagram will be introducing ads to its Explore section
+- SpaceX flights between cities will feel like Disney’s Space Mountain
+- Binance builds anti-fraud system to stop the flow of illegal money
+- Microsoft, Nintendo, and Sony have teamed up to denounce the U.S. government's proposed tariffs on Chinese imports
+- Microsoft is about to shut off its ebook DRM servers: “The books will stop working”
+- Tesla rival Nio is recalling around 4,800 vehicles after 3 caught fire
 
 **JUNHO 29**
 
 **JUNHO 30**
+
+- iPhone Pro concept fixes potential flaws in iPhone 11
+- Reddit will soon let you tip with crypto without using bots
+- An Amazon engineer made an AI-powered cat flap to stop his cat from bringing home dead animals
+- Google directing people to extreme content and conspiracy theories, Sky News finds
+- You Can Now Have a Private IMAX Theater Installed in Your Home
+- Google working on ‘Fast Share’ to replace Android Beam
 
