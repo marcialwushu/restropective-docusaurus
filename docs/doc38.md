@@ -142,6 +142,21 @@ title: DEZEMBRO
 
 **DEZEMBRO 13**
 
+- [Instagram Face: The rise of selfie make-up and quest for hyper-perfection](https://bit.ly/2RKRdoc)
+- [Show HN: Happy Hues](https://bit.ly/2sp0NSS)
+- [Mathematician Proves Result on ‘Dangerous’ Problem](https://bit.ly/38EeaQ7)
+- [Basics of Compiler Design (2010) pdf](https://bit.ly/2Pi9V51)
+- [Reddit now requires signing in to read comment threads](https://bit.ly/2RJk8Jk)
+- [The Library of Congress Unrolled a 2000-Year-Old Buddhist Scroll](https://bit.ly/2YJWiyy)
+- [Why Nukemap Isn't on Google Maps Anymore](https://bit.ly/2LSEBrd)
+- [The Outer Worlds: Fixing the “game thinks my companion is dead” bug](https://bit.ly/35kx8Jd)
+- [AT&T drops out of FCC speed-test program so it can hide bad results](https://bit.ly/2LSA6gu)
+- [Cyc](https://bit.ly/2Ee2e9x)
+- [Ask HN: What's the current sentiment on JWT for stateless auth tokens?](https://bit.ly/2PgnQZ8)
+- [49% of workers, forced to change passwords, reuse same one with minor change](https://bit.ly/34jpH3M)
+ 
+
+
 **DEZEMBRO 14**
 
 **DEZEMBRO 15**
