@@ -143,7 +143,7 @@ title: DEZEMBRO
 
 **DEZEMBRO 13**
 
-- <div>U+1F4C5</div> [Evento CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
+- [Evento CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
 - [Instagram Face: The rise of selfie make-up and quest for hyper-perfection](https://bit.ly/2RKRdoc)
 - [Show HN: Happy Hues](https://bit.ly/2sp0NSS)
 - [Mathematician Proves Result on ‘Dangerous’ Problem](https://bit.ly/38EeaQ7)
