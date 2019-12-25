@@ -14,6 +14,19 @@ title: OUTUBRO
 - Microsoft to make Windows 7 Extended Security Updates available to all business users
 - Google rolls out AutoML Vision Edge and AutoML Video upgrades
 - Former Yahoo engineer pleads guilty to searching 6,000 user accounts for nudes
+- [Desaparecen fondos depositados en FairWin tras ser acusado de ser un esquema ponzi](https://www.criptonoticias.com/seguridad/robo-fraude/desaparecen-fondos-fairwin-acusado-esquema-ponzi/)
+- [Vaultoro presenta una interfaz renovada y lanzará oro tokenizado basado en Lightning](https://www.criptonoticias.com/mercados/vaultoro-interfaz-renovada-oro-tokenizado-lightning/)
+- [Futuros de Bakkt atrajeron solo USD 5 millones en su primera semana](https://www.criptonoticias.com/mercados/futuros-bakkt-atrajeron-usd-5mm-primera-semana/)
+- [La criptomoneda más usada no es bitcoin](https://www.criptonoticias.com/mercados/criptomoneda-mas-usada-no-bitcoin/)
+- [CFTC acusó a un ciudadano por presunta estafa millonaria con bitcoin](https://www.criptonoticias.com/gobierno/judicial/cftc-acuso-ciudadano-presunta-estafa-millonaria-bitcoin/)
+- [¿Tus zapatillas New Balance son auténticas o piratas? La blockchain de Cardano te lo dirá](https://www.criptonoticias.com/seguridad/certificacion/zapatillas-new-balance-autenticas-o-blockchain-cardano/)
+- [Economistas indican que Venezuela no está lista para pagos internacionales con bitcoin](https://www.criptonoticias.com/gobierno/economistas-indican-venezuela-no-pagos-internacionales-bitcoin/)
+- [PrimeXBT amplía su programa de referidos y lanza oferta de CPA para socios afiliados](https://www.criptonoticias.com/mercados/primexbt-programa-referidos-cpa-socios-afiliados/)
+- [Startup argentina lanzó una stablecoin respaldada con bitcoin en la testnet de RSK](https://www.criptonoticias.com/redes-protocolos/cadenas-laterales/startup-argentina-stablecoin-respaldada-bitcoin-testnet-rsk/)
+- [LINE profundiza su estrategia en criptomonedas con casa de cambio propia](https://www.criptonoticias.com/negocios/line-profundiza-estrategia-criptomonedas-casa-cambio-propia/)
+- [Publican ampliación de propuesta BIP para reducir consumo de ancho de banda en Bitcoin](https://www.criptonoticias.com/redes-protocolos/publican-propuesta-bip-reducir-consumo-ancho-banda-bitcoin/)
+- [Stellar someterá a consulta la eliminación de su función inflacionaria](https://www.criptonoticias.com/redes-protocolos/stellar-sometera-consulta-eliminacion-funcion-inflacionaria/)
+
 
 **OUTUBRO 02**
 
