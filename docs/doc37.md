@@ -54,6 +54,20 @@ title: NOVEMBRO
 
 **NOVEMBRO 03**
 
+- [Extract voice, piano, drums, etc. from any music track using Machine Learning](https://bit.ly/2NzUDq5)
+- [Ubiquiti adds phone-home to the access point firmware](https://bit.ly/2N8ERDG)
+- ['Alarming' loss of insects and spiders recorded](https://bit.ly/2qi0ZCo)
+- [Life Is a Ponzi Scheme](https://bit.ly/2C6bTOn)
+- [Microsoft Japan’s 3-Day Weekend Boosts Worker Productivity by 40%](https://bit.ly/2qj48BW)
+- [Why a CS degree is better than teaching yourself how to code](https://bit.ly/2prnLrJ)
+- [PostgREST](https://bit.ly/36vZK3p)
+- [Shared Cache Is Going Away](https://bit.ly/2C4fo89)
+- [Alcohol Breath Tests – These Machines Can Put You in Jail. Don’t Trust Them](https://bit.ly/2NuAphi)
+- [The Money Farmers: How Oligarchs and Populists Milk the E.U. For Millions](https://bit.ly/33eIa1Q)
+- [Engineer Says Software Firm Cut Her Maternity Leave Short After Her Baby Died](https://bit.ly/2WCgql6)
+- [Sites are using audio (no permissions needed) to track users](https://bit.ly/329jFl1)
+
+
 **NOVEMBRO 04**
 
 - [Entenda o Projeto de Lei 7.316/02 que substituirá a Medida Provisória 2.200/01](https://cryptoid.com.br/certificacao-digital/entenda-o-pl-7-316-02-que-substituira-a-mp-2-200-01/)
