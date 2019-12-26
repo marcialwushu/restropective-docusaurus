@@ -17,6 +17,19 @@ title: NOVEMBRO
 - [El comercio de derivados de bitcoin se está convirtiendo en el mayor casino del mundo](https://www.criptonoticias.com/mercados/inversiones/comercio-derivados-bitcoin-convirtiendo-mayor-casino-mundo/)
 - [Las 5 criptomonedas más apreciadas: transacciones P2P, entretenimiento y pagos](https://www.criptonoticias.com/mercados/precios-trading/5-criptomonedas-mas-apreciadas-transacciones-p2p-entretenimiento-pagos/)
 - [Calatuña enfrenta limitaciones del gobierno de España a su proyecto blockchain](https://www.criptonoticias.com/gobierno/regulacion/calatuna-enfrenta-limitaciones-gobierno-espana-proyecto-blockchain/)
+- [The Fantasy of Opting Out](https://bit.ly/2JBqLII)
+- [Google Buys Fitbit for $2.1B](https://bit.ly/2q72oM9)
+- [Quiet.js – Transmit and receive data in the browser at 44.1kHz](https://bit.ly/2JFs7SZ)
+- [Twelve-factor app development on Google Cloud](https://bit.ly/2PCeTu2)
+- [Lack of cdnjs activity](https://bit.ly/2N4x9u7)
+- [Firefox to Discontinue Sideloaded Extensions](https://bit.ly/36qrwhG)
+- [Google Buys Fitbit for $2.1B](https://bit.ly/2PAzmPA)
+- [Encrypted web traffic now exceeds 90%](https://bit.ly/2PD8y1f)
+- [U.S. opens national security investigation into TikTok](https://bit.ly/2C3vGy8)
+- [Setting up a home VPN server with WireGuard](https://bit.ly/2qaYthu)
+- [Ask HN: Who is hiring? (November 2019)](https://bit.ly/2WwMoPP)
+- [How One Company Surveils Everything Kids Do and Say in School](https://bit.ly/2PDuglS)
+ 
 
 **NOVEMBRO 02**
 
@@ -25,6 +38,19 @@ title: NOVEMBRO
 - Galaxy S10 and Note 10 now let you check biometrics security patch info
 - Hyundai unveiled a semi-truck concept that runs on hydrogen and would compete with the Tesla Semi
 - Google pushes further into health care with Fitbit, raising new privacy concerns
+- [0-day Chrome exploit in the wild](https://bit.ly/2qhxQXX)
+- [Google are removing URLs entirely from the search results](https://bit.ly/322mC76)
+- [Keystone pipeline shut after spilling 1.4M litres of oil in North Dakota](https://bit.ly/34oxP3n)
+- [The Smartphone vs. the Camera Industry](https://bit.ly/2N96uwi)
+- [Ring watched your kids trick or treat and then bragged about it](https://bit.ly/2N9st6i)
+- [Why Standard Time all year round is the healthy choice](https://bit.ly/2JDrw47)
+- [They Might Never Tell You It’s Broken](https://bit.ly/2NAtwep)
+- [SSH Handshake Explained](https://bit.ly/2N9zmVj)
+- [Programming in 1969 An interview with a pioneer (my mum)](https://bit.ly/2oEu4rj)
+- [NeverSSL](https://bit.ly/2NciRYx)
+- [Living Skin Can Now Be 3D-Printed with Blood Vessels Included](https://bit.ly/36tUtt9)
+- [What Grace Hopper meant with “easier to ask forgiveness than to get permission”](https://bit.ly/34m6nTU)
+
 
 **NOVEMBRO 03**
 
