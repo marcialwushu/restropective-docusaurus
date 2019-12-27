@@ -50,6 +50,11 @@ title: NOVEMBRO
 - [NeverSSL](https://bit.ly/2NciRYx)
 - [Living Skin Can Now Be 3D-Printed with Blood Vessels Included](https://bit.ly/36tUtt9)
 - [What Grace Hopper meant with “easier to ask forgiveness than to get permission”](https://bit.ly/34m6nTU)
+- [Brasil: Equipo Chapecoense se refuerza con token deportivo](https://www.criptonoticias.com/comunidad/arte-entretenimiento/brasil-equipo-chapecoense-se-refuerza-token-deportivo/)
+- [Estudiantes de secundaria en Francia aprenderán sobre Bitcoin](https://www.criptonoticias.com/educacion/estudiantes-secundaria-francia-aprenderan-sobre-bitcoin/)
+- [Hacienda pide a criptobolsas de Argentina datos y operaciones de sus usuarios](https://www.criptonoticias.com/gobierno/hacienda-pide-criptobolsas-argentina-datos-operaciones-usuarios/)
+- [Compañía energética de Uruguay reduce un tercio de sus costos con solución blockchain](https://www.criptonoticias.com/negocios/compania-energetica-uruguay-reduce-tercio-costos-solucion-blockchain/)
+
 
 
 **NOVEMBRO 03**
