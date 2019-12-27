@@ -78,8 +78,42 @@ title: NOVEMBRO
 - [Entenda o Projeto de Lei 7.316/02 que substituirá a Medida Provisória 2.200/01](https://cryptoid.com.br/certificacao-digital/entenda-o-pl-7-316-02-que-substituira-a-mp-2-200-01/)
 - [Airbnb é condenada por informação errada fornecida pela plataforma no Brasil](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52155&sid=4)
 - [Huawei: nação digital é o último estágio da transformação digital](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52153&sid=14)
+- [Blockchain en China, Google declara supremacía cuántica y cómo construir una cartera fría](https://www.criptonoticias.com/comunidad/blockchain-china-google-supremacia-cuantica-construir-cartera-fria/)
+- [Más allá del cepo argentino: el patrón que guarda con Venezuela y bitcoin](https://www.criptonoticias.com/opinion/cepo-argentino-patron-guarda-con-venezuela-bitcoin/)
+- [Bitcoin gana popularidad en Italia como método de pago para compras en línea](https://www.criptonoticias.com/negocios/bitcoin-gana-popularidad-italia-pago-compras-linea/)
+- [China lanza sistema de identificación de ciudades inteligentes basado en una blockchain](https://www.criptonoticias.com/seguridad/certificacion/china-sistema-identificacion-ciudades-inteligentes-blockchain/)
+- [Asociación bancaria alemana propone la emisión de un euro digital](https://www.criptonoticias.com/negocios/asociacion-bancaria-alemana-propone-emision-euro-digital/)
+- [Reino Unido actualiza guía para el cobro de impuestos a transacciones con criptomonedas](https://www.criptonoticias.com/gobierno/regulacion/reino-unido-guia-cobro-impuestos-transacciones-criptomonedas/)
+- [Cadenas de radio y empresas de consultoría en España bajo ataque de ransomware](https://www.criptonoticias.com/seguridad/malware/cadenas-radio-empresas-consultoria-espana-bajo-ataque-ransomware/)
+- [Bélgica incrementa lista negra de sitios de estafas con criptomonedas](https://www.criptonoticias.com/gobierno/regulacion/belgica-incrementa-lista-negra-sitios-estafas-criptomonedas/)
+- [Startup canadiense ofrece préstamos en DAI respaldados por bitcoins](https://www.criptonoticias.com/negocios/servicios-financieros/startup-canadiense-prestamos-dai-respaldados-bitcoins/)
 
 **NOVEMBRO 05**
+
+- [Digital Asset ha perdido al menos 25% de su personal en seis meses](https://www.criptonoticias.com/negocios/digital-asset-perdido-25pc-personal-seis-meses/)
+- [Un alemán afirma ser el verdadero Satoshi Nakamoto](https://www.criptonoticias.com/seguridad/robo-fraude/aleman-afirma-ser-verdadero-satoshi-nakamoto/)
+- [Conoce a Ryuk, el ransomware que exige criptomonedas a empresas e instituciones en España](https://www.criptonoticias.com/seguridad/malware/ryuk-ransomware-criptomonedas-empresas-instituciones-espana/)
+- [Microsoft ayudará a las empresas a emitir sus tokens en la blockchain de Ethereum](https://www.criptonoticias.com/negocios/microsoft-ayudara-empresas-emitir-tokens-blockchain-ethereum/)
+- [Tutorial: Aprende a minar criptomonedas en pocos pasos con MinerGate](https://youtu.be/XdJWEq6fX8M)
+- [Fundación Stellar quema más del 50% de sus tokens lumens](https://www.criptonoticias.com/redes-protocolos/fundacion-stellar-quema-50pc-tokens-lumens/)
+- [Coca Cola y SAP usan blockchain para reestructurar su cadena de suministro](https://www.criptonoticias.com/comunidad/adopcion/coca-cola-sap-blockchain-cadena-suministro/)
+- [TSMC planea el lanzamiento de procesadores de 5 nanómetros para el 2020](https://www.criptonoticias.com/mineria/tsmc-planea-lanzamiento-procesadores-5nm-2020/)
+- [YouHodler incorpora a Binance Coin (BNB) a lista de opciones de colaterales y conversión](https://www.criptonoticias.com/mercados/youhodler-incorpora-binance-coin-bnb-lista/)
+- [El precio de bitcoin habría encontrado un piso, sostienen analistas](https://www.criptonoticias.com/mercados/precios-trading/precio-bitcoin-habria-encontrado-piso-sostienen-analistas/)
+- [We Stood Up to a Patent Troll and Won](https://bit.ly/2PLHn4v)
+- [1,300 Free Online Courses from Top Universities](https://bit.ly/36xAYjf)
+- [Few-Shot Video-to-Video Synthesis](https://bit.ly/36z9ObJ)
+- [What does the Laplace Transform tell us? A visual explanation video](https://bit.ly/2resaP9 )
+- [Laser-Based Audio Injection on Voice-Controllable Systems](https://bit.ly/2pFSUHS)
+- [Krispy Kreme mule will be allowed to continue operating](https://bit.ly/2WI10vA)
+- [Stripe CLI](https://bit.ly/33ugqq9)
+- [Robinhood Infinite Leverage Bug](https://bit.ly/2CcaGVU)
+- [T-Mobile demand Lemonade to stop using the color magenta](https://bit.ly/2NiCT3s)
+- [When George Soros Broke the Bank of England](https://bit.ly/32k5SIC)
+- [Siri, Google Assistant, and Amazon Alexa can be hijacked with $14 laser pointer pdf](https://bit.ly/32jO2VW)
+- [C++ 20: The Core Language](https://bit.ly/2Ni12r8)
+
+
 
 **NOVEMBRO 06**
 
