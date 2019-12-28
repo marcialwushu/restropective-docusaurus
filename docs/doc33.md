@@ -38,6 +38,7 @@ title: JULHO
 - WhatsApp for Android could soon allow sharing contact via QR Code
 - Amazon confirms it keeps your Alexa recordings basically forever
 - Mobvoi teases TicWatch for July 10th launch
+- [ComDCiber - Exercício Guardião Cibernético 2.0 (EGC 2.0)](http://www.defesanet.com.br/cyberwar/noticia/33427/ComDCiber---Exercicio-Guardiao-Cibernetico-2-0-%28EGC-2-0%29/)
 
 **JULHO 04**
 
