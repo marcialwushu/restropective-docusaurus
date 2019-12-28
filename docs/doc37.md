@@ -87,6 +87,8 @@ title: NOVEMBRO
 - [Cadenas de radio y empresas de consultoría en España bajo ataque de ransomware](https://www.criptonoticias.com/seguridad/malware/cadenas-radio-empresas-consultoria-espana-bajo-ataque-ransomware/)
 - [Bélgica incrementa lista negra de sitios de estafas con criptomonedas](https://www.criptonoticias.com/gobierno/regulacion/belgica-incrementa-lista-negra-sitios-estafas-criptomonedas/)
 - [Startup canadiense ofrece préstamos en DAI respaldados por bitcoins](https://www.criptonoticias.com/negocios/servicios-financieros/startup-canadiense-prestamos-dai-respaldados-bitcoins/)
+- [Jovem cria sistemas de câmaras e videomapping para ajudar automobilistas a ver melhor](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-04-Jovem-cria-sistemas-de-camaras-e-videomapping-para-ajudar-automobilistas-a-ver-melhor)
+- [Investigadores recriam acidentalmente a detonação do Big Bang](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-04-Investigadores-recriam-acidentalmente-a-detonacao-do-Big-Bang)
 
 **NOVEMBRO 05**
 
@@ -112,6 +114,7 @@ title: NOVEMBRO
 - [When George Soros Broke the Bank of England](https://bit.ly/32k5SIC)
 - [Siri, Google Assistant, and Amazon Alexa can be hijacked with $14 laser pointer pdf](https://bit.ly/32jO2VW)
 - [C++ 20: The Core Language](https://bit.ly/2Ni12r8)
+- [A Inteligência Artificial pode ser perigosa? Depende dos professores](http://exameinformatica.sapo.pt/web-summit/2019-11-05-A-Inteligencia-Artificial-pode-ser-perigosa--Depende-dos-professores)
 
 
 
@@ -124,8 +127,13 @@ title: NOVEMBRO
 - Tumblr is launching a new group messaging feature built with fandoms in mind
 - Apple iPad market share grows by 4% in third quarter, stronger mix of iPad Pro sales
 - Twitter is rolling out Topics, a way to follow subjects automatically in the timeline
+- [Mais de 11 mil cientistas alertam para o impacto das alterações climáticas](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-06-Mais-de-11-mil-cientistas-alertam-para-o-impacto-das-alteracoes-climaticas)
+- [2020, o ano zero das entregas de comida com drones](http://exameinformatica.sapo.pt/web-summit/2019-11-06-2020-o-ano-zero-das-entregas-de-comida-com-drones)
 
 **NOVEMBRO 07**
+
+- [Voyager 2 chegou ao espaço interestelar](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-07-Voyager-2-chegou-ao-espaco-interestelar)
+- [Impressora 3D inovadora desenvolvida no Instituto Superior Técnico](http://exameinformatica.sapo.pt/videos/reporterei/2019-11-07-Impressora-3D-inovadora-desenvolvida-no-Instituto-Superior-Tecnico)
 
 **NOVEMBRO 08**
 
@@ -136,6 +144,8 @@ title: NOVEMBRO
 - Disney+ is launching in the UK on March 31st 2020
 - Adobe's Adding A Livestreaming Function to Its Creative Cloud Apps
 - iOS 13.2.2: New iPhone update fixes major bug with Apple operating system
+- [Cientista propõe hack genético para humanos poderem sobreviver em Marte](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-08-Cientista-propoe-hack-genetico-para-humanos-poderem-sobreviver-em-Marte)
+- [INESC-TEC do Porto desenvolve detetor de minérios inovador](http://exameinformatica.sapo.pt/videos/reporterei/2019-11-08-INESC-TEC-do-Porto-desenvolve-detetor-de-minerios-inovador)
 
 **NOVEMBRO 09**
 
@@ -158,11 +168,13 @@ title: NOVEMBRO
 - Pentagon gets a fix for F-35 bug in $400,000 pilot helmets
 - Teslas = 77.7% of US Electric Vehicle Sales
 - [Fake News eleitoral vai render de dois a oito anos de prisão no Brasil](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52219&sid=4)
+- [X-57: NASA dá a conhecer avião elétrico](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-11-X-57-NASA-da-a-conhecer-aviao-eletrico)
 
 **NOVEMBRO 12**
 
 - [TSE quer Facebook, Google, Whatsapp e Twitter contra desinformação nas eleições](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52229&sid=4)
 - [CCT aprova direito de resposta em redes sociais](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52230&sid=4)
+- [China quer ir a Marte em 2020](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-12-China-quer-ir-a-Marte-em-2020)
 
 **NOVEMBRO 13**
 
