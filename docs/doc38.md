@@ -107,6 +107,7 @@ title: DEZEMBRO
 - Elon Musk’s SpaceX rocket sends cryptocurrency wallet to space
 - WhatsApp now lets you create reminders, tasks thanks to Any.do integration
 - [Urbit: a cripto que você só entenderá quando for tarde demais](http://www.criptofacil.com/urbit-a-cripto-que-voce-so-entendera-quando-for-tarde-demais/)
+- [Thales inaugura primeiro Design Center da América Latina](http://www.defesanet.com.br/cyberwar/noticia/35135/Thales-inaugura-primeiro-Design-Center-da-America-Latina/)
 
 **DEZEMBRO 07**
 
@@ -127,6 +128,9 @@ title: DEZEMBRO
 - Ripple adds key tools for developers building on XRP Ledger
 
 **DEZEMBRO 11**
+
+- [Irã diz que impediu ataque cibernético de larga escala lançado por governo estrangeiro](http://www.defesanet.com.br/cyberwar/noticia/35189/Ira-diz-que-impediu-ataque-cibernetico-de-larga-escala-lancado-por-governo-estrangeiro/)
+- [MBl participa da 2ª Reunião do Grupo de Trabalho Interforças do Setor Cibernético](http://www.defesanet.com.br/cyberwar/noticia/35188/MBl-participa-da-2%C2%AA-Reuniao-do-Grupo-de-Trabalho-Interforcas-do-Setor-Cibernetico/)
 
 **DEZEMBRO 12**
 
@@ -156,6 +160,7 @@ title: DEZEMBRO
 - [Cyc](https://bit.ly/2Ee2e9x)
 - [Ask HN: What's the current sentiment on JWT for stateless auth tokens?](https://bit.ly/2PgnQZ8)
 - [49% of workers, forced to change passwords, reuse same one with minor change](https://bit.ly/34jpH3M)
+- [Mapeamento de conhecimentos do Projeto Backbone Nacional do Sistema de Telemática do Exército](http://www.defesanet.com.br/cyberwar/noticia/35212/Mapeamento-de-conhecimentos-do-Projeto-Backbone-Nacional-do-Sistema-de-Telematica-do-Exercito-/)
  
 
 
@@ -171,7 +176,12 @@ title: DEZEMBRO
 
 **DEZEMBRO 19**
 
+- [Câmeras MUX e WFI, desenvolvidas pela OPTO S&D, integram o satélite CBERS 04A, a ser lançado dia 20 de dezembro](http://www.defesanet.com.br/space/noticia/35271/Cameras-MUX-e-WFI--desenvolvidas-pela-OPTO-S%26D--integram-o-satelite-CBERS-04A--a-ser-lancado-dia-20-de-dezembro/)
+
 **DEZEMBRO 20**
+
+- [BR-CN: Satélite CBERS 04A é lançado com sucesso](http://www.defesanet.com.br/brasilchina/noticia/35275/BR-CN--Satelite-CBERS-04A-e-lancado-com-sucesso-/)
+- [Embraer e Força Aérea Brasileira estudam desenvolvimento conjunto de nova aeronave leve de transporte militar](http://www.defesanet.com.br/embraer/noticia/35273/-Embraer-e-Forca-Aerea-Brasileira-estudam-desenvolvimento-conjunto-de-nova-aeronave-leve-de-transporte-militar/)
 
 **DEZEMBRO 21**
 
@@ -179,11 +189,15 @@ title: DEZEMBRO
 
 **DEZEMBRO 23**
 
+- [Embraer realiza primeiro teste com motor elétrico da WEG](http://www.defesanet.com.br/embraer/noticia/35287/Embraer-realiza-primeiro-teste-com-motor-eletrico-da-WEG/)
+
 **DEZEMBRO 24**
 
 **DEZEMBRO 25**
 
 **DEZEMBRO 26**
+
+- [Rússia anuncia sucesso em teste de internet 'desplugada' do resto do mundo](http://www.defesanet.com.br/cyberwar/noticia/35304/Russia-anuncia-sucesso-em-teste-de-internet--desplugada--do-resto-do-mundo/)
 
 **DEZEMBRO 27**
 
