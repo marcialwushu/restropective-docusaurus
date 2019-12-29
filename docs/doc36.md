@@ -51,6 +51,8 @@ title: OUTUBRO
 - Google faces winged-monkey privacy protest
 - Instagram Launches Photo Messaging App Threads
 - Google rolling out Play Books dark theme on Android
+- [Fábrica na China onde robôs são construídos por outros robôs](https://suporteninja.com/fabrica-na-china-onde-robos-sao-construidos-por-outros-robos/)
+
 
 **OUTUBRO 04**
 
@@ -103,6 +105,7 @@ title: OUTUBRO
 - Gameboard-1 digital board game console launches Kickstarter campaign
 - Adobe warns users not to upgrade to macOS Catalina
 - Adobe is redesigning Creative Cloud’s desktop app as a hub for tools and assets
+- [Impressora 3D gigante fabrica um barco em poucas horas (vídeo)](https://suporteninja.com/impressora-3d-gigante-fabrica-um-barco-em-poucas-horas-video/)
 
 **OUTUBRO 11**
 
@@ -166,6 +169,7 @@ title: OUTUBRO
 - New HTC Exodus Able To Run Full Bitcoin Node
 - Tesla vandal turns himself in after seeing Sentry Mode video online
 - Pixel 4 is lacking dual-band GPS at launch, but it’s ‘coming soon’
+- [Nasce o rim biônico para dizer adeus à máquina de hemodiálise](https://suporteninja.com/rim-bionico-adeus-a-maquina-de-hemodialise/)
 
 **OUTUBRO 20**
 
@@ -212,6 +216,8 @@ title: OUTUBRO
 **OUTUBRO 26**
 
 **OUTUBRO 27**
+
+- [Qual CPU assa a melhor panqueca? Intel Core i9-9980XE ou AMD Threadripper 2990WX?](https://suporteninja.com/qual-cpu-assa-a-melhor-panqueca-intel-core-i9-9980xe-ou-amd-threadripper-2990wx/)
 
 **OUTUBRO 28**
 
