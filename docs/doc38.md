@@ -215,6 +215,14 @@ title: DEZEMBRO
 
 - [BR-CN: Satélite CBERS 04A é lançado com sucesso](http://www.defesanet.com.br/brasilchina/noticia/35275/BR-CN--Satelite-CBERS-04A-e-lancado-com-sucesso-/)
 - [Embraer e Força Aérea Brasileira estudam desenvolvimento conjunto de nova aeronave leve de transporte militar](http://www.defesanet.com.br/embraer/noticia/35273/-Embraer-e-Forca-Aerea-Brasileira-estudam-desenvolvimento-conjunto-de-nova-aeronave-leve-de-transporte-militar/)
+- Apple wants to bypass carriers and beam internet data directly to iPhones via satellites
+- Sensor-Shift Technology Could Bring Image Stabilization to Ultra-Wide Lens on 2020 iPhones
+- Tesla delivers 5,000 cars in November alone in China
+- Nawa’s stylish e-motorbike uses an ultracapacitor to drastically boost range
+- Email usernames and passwords can be extracted from locked iPhones on iOS 13.3
+- 267 million Facebook user names and phone numbers exposed online
+- Tesla opens first Supercharger V3 in Europe
+- Puma Walks Into the Gaming Market With a Pair of Gamer Socks
 
 **DEZEMBRO 21**
 
@@ -223,11 +231,26 @@ title: DEZEMBRO
 **DEZEMBRO 23**
 
 - [Embraer realiza primeiro teste com motor elétrico da WEG](http://www.defesanet.com.br/embraer/noticia/35287/Embraer-realiza-primeiro-teste-com-motor-eletrico-da-WEG/)
+- San Francisco accidentally made it illegal for city employees to use iPhones
+- Apple Offering an App Store ‘Surprise’ From December 24 to December 29
+- Tesla scores large order from taxi company in Germany
+- Apple Offers Free Two-Hour Holiday Delivery on Mac, iPhone, iPad, and Apple Watch Orders
+- Facebook removes accounts with AI-generated profile photos
+- Verizon rolls out 5G service in some areas of Hampton Roads
+- Tesla releases massive new update with text message reading, Autopilot, and more
 
 
 **DEZEMBRO 24**
 
 **DEZEMBRO 25**
+
+- YouTube’s Crypto Xmas Purge is a Tactically Evil Powerplay
+- Apple will pay you $100,000 if you find a bug in iCloud
+- Personal computer CPU pioneer Chuck Peddle dies at 82
+- Tesla’s holiday software update includes voice-to-text, Camp Mode, and a song making kit
+- YouTuber Explains How Elon Musk & Tesla Will Disrupt 10 Industries
+- Honor plans foray into India PC market in 2020
+- Apple Pulls ToTok App After Report That Emirati Government Uses It For Surveillance
 
 **DEZEMBRO 26**
 
@@ -235,7 +258,22 @@ title: DEZEMBRO
 
 **DEZEMBRO 27**
 
+- McLaren Speedtail Reached 250 MPH During Test More Than 30 Times
+- Apple 'hacker' spared jail over iCloud blackmail
+- Elon Musk says Tesla will add Disney+ to its vehicles ‘soon’
+- YouTube admits error over Bitcoin video purge
+- Facebook Messenger requires a Facebook account to sign up now
+- Amazon is looking into tech that can identify you using the veins in your hand
+- iPhone capacitor supplier looks forward to strong 2020 with upcoming 5G demand
+
 **DEZEMBRO 28**
+
+- Zoho Sets Up Five Megawatt Solar Energy Panel To Go Completely Green
+- NYU doctor sues Apple over Apple Watch’s ability to detect atrial fibrillation
+- Hybrid Kinetic Group reveals Pininfarina-developed EV concepts in Shanghai
+- YouTube no longer requires removal of entire video for copyright strikes
+- Porsche 911, Ready to Crush Baja, Now for Sale from Russell Built Fabrications
+- Spotify to Suspend Political Ads in 2020
 
 **DEZEMBRO 29**
 
