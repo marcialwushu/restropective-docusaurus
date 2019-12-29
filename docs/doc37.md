@@ -252,6 +252,7 @@ title: NOVEMBRO
 - 5G coverage will span two thirds of the global population in 6 years, Ericsson predicts
 - AMD confirms 64-core Threadripper 3990X for 2020
 - [Por que o laser virou a nova arma high tech de manifestantes pelo mundo?](http://www.defesanet.com.br/riots/noticia/34990/Por-que-o-laser-virou-a-nova-arma-high-tech-de-manifestantes-pelo-mundo-/)
+- [Funcionário do TCE-AM executa script errado no SQL e apaga 16,5 mil processos](https://suporteninja.com/funcionario-do-tce-am-executa-script-errado-no-sql-e-apaga-165-mil-processos/)
 
 **NOVEMBRO 26**
 
