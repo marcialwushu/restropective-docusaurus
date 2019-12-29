@@ -144,6 +144,15 @@ title: DEZEMBRO
 - [China atinge a maior participação no hashrate do Bitcoin desde 2017](https://www.criptofacil.com/china-atinge-a-maior-participacao-no-hashrate-do-bitcoin-desde-2017/)
 - [BWA Brasil recebe reclamações sobre não pagar investidores](https://www.criptofacil.com/bwa-brasil-recebe-reclamacoes-sobre-nao-pagar-investidores/)
 - [Brasil lança academia inédita para formação de hackers](https://www.criptofacil.com/brasil-lanca-academia-inedita-para-formacao-de-hackers/)
+- Turkey is getting military drones armed with machine guns
+- Russian police raid NGINX Moscow office
+- FCC approves plan to free auto airwaves for WiFi
+- Apple Has Released Updates to iOS, iPadOS 13.3 with Bug Fixes
+- Minecraft diamond challenge leaves AI creators stumped
+- Santa hacker speaks to girl via smart camera
+- For better photos online, Twitter now preserves color details it used to smear
+- Google is bringing spam detection and verified business messaging to Messages
+- Quantum computing leaps ahead in 2019 with new power and speed
 
 **DEZEMBRO 13**
 
@@ -161,6 +170,13 @@ title: DEZEMBRO
 - [Ask HN: What's the current sentiment on JWT for stateless auth tokens?](https://bit.ly/2PgnQZ8)
 - [49% of workers, forced to change passwords, reuse same one with minor change](https://bit.ly/34jpH3M)
 - [Mapeamento de conhecimentos do Projeto Backbone Nacional do Sistema de Telemática do Exército](http://www.defesanet.com.br/cyberwar/noticia/35212/Mapeamento-de-conhecimentos-do-Projeto-Backbone-Nacional-do-Sistema-de-Telematica-do-Exercito-/)
+- The New Xbox Series X Gets a New Design, to Rival PS5 in 2020
+- ISIS Is Experimenting With This New Blockchain Messaging App
+- iMac Pro Works With Apple’s New Pro Display XDR, But Limited to 5K Resolution
+- Ford Recalls Super Duty Trucks Over Fire Risk
+- Twitter to bring back election labels for 2020 political candidates
+- Mozilla to force all add-on devs to use 2FA to prevent supply-chain attacks
+- Samsung Internet Android browser to support more extensions soon
  
 
 
@@ -172,11 +188,28 @@ title: DEZEMBRO
 
 **DEZEMBRO 17**
 
+- Twitter is down for tens of thousands of users in the US and Europe
+- Maruti Suzuki to Focus on Hybrids Instead of All-Electric Cars
+- Alexa should be banned from the bedroom, privacy expert says
+- Google Maps Begins Testing New Design With Full Bottom Bar
+- Kremlin Accidentally Reveals Vladimir Putin Still Uses Windows XP
+- Apple wins patent for under-display Touch ID, already uses tech in MBP 16
+- Tesla is going to deploy a big battery in Alaska to replace fossil-fuel plant
+- Sony’s new Back Button Attachment brings customizable paddles to the DualShock 4
+- Instagram is rolling out an anti-bullying tool that detects offensive captions
+
 **DEZEMBRO 18**
 
 **DEZEMBRO 19**
 
 - [Câmeras MUX e WFI, desenvolvidas pela OPTO S&D, integram o satélite CBERS 04A, a ser lançado dia 20 de dezembro](http://www.defesanet.com.br/space/noticia/35271/Cameras-MUX-e-WFI--desenvolvidas-pela-OPTO-S%26D--integram-o-satelite-CBERS-04A--a-ser-lancado-dia-20-de-dezembro/)
+- Airtel, Vodafone Confirm Data Services Suspended In Parts Of Delhi
+- Facebook is working on its own OS that could reduce its reliance on Android
+- Samsung Galaxy Fold 2 will be clamshell design, leak hints
+- Yamaha Launches New BS-6 Fascino 125 Scooter, Updates MT-15 & R15
+- Snapchat Scan Signs on McDonald’s, Coca-Cola as First Brands
+- Samsung Galaxy S11's Cameras Reportedly Capable of 5X Optical Zoom and 8K Video
+- Tesla Supercharger network reaches 15,000 chargers — still one of its best assets
 
 **DEZEMBRO 20**
 
@@ -190,6 +223,7 @@ title: DEZEMBRO
 **DEZEMBRO 23**
 
 - [Embraer realiza primeiro teste com motor elétrico da WEG](http://www.defesanet.com.br/embraer/noticia/35287/Embraer-realiza-primeiro-teste-com-motor-eletrico-da-WEG/)
+
 
 **DEZEMBRO 24**
 
