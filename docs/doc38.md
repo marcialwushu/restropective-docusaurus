@@ -107,6 +107,33 @@ title: DEZEMBRO
 - 	[Xiaomi Mi Watch ganha suporte para iPhone](https://olhardigital.com.br/noticia/xiaomi-mi-watch-ganha-suporte-para-iphone/93814)
 - 	[Fones de ouvido vão fazer parte de 'kits' em 2020](https://olhardigital.com.br/video/fones-de-ouvido-vao-fazer-parte-de-kits-em-2020/93800)
 - 	[Falha no Android deixa milhares de usuários em risco](https://olhardigital.com.br/fique_seguro/noticia/falha-no-android-deixa-milhares-de-usuarios-em-risco/93815)
+- 	[Facebook e Google Fotos integrados](https://olhardigital.com.br/video/facebook-e-google-fotos-integrados/93798)
+- 	[Motorola prepara o Razr 2020, segundo celular dobrável da marca](https://olhardigital.com.br/noticia/motorola-prepara-o-razr-2020-segundo-celular-dobravel-da-marca/93809)
+- 	[Facebook lança ferramenta para ajudar funcionários a responder críticas](https://olhardigital.com.br/noticia/facebook-lanca-ferramenta-para-ajudar-funcionarios-a-responder-criticas/93816)
+- 	[Novos smartphones da Huawei não tem componentes feitos nos EUA](https://olhardigital.com.br/noticia/novos-smartphones-da-huawei-nao-tem-componentes-feitos-nos-eua/93822)
+- 	[PlayStation entra no Guinness como console mais vendido de todos os tempos](https://olhardigital.com.br/games-e-consoles/noticia/playstation-entra-no-guinness-como-console-mais-vendido-de-todos-os-tempos/93817)
+- 	['Camisinhas' de USB são aliadas na hora de proteger sua privacidade](https://olhardigital.com.br/fique_seguro/noticia/-camisinhas-de-usb-sao-aliadas-na-hora-de-proteger-sua-privacidade/93813)
+- 	[Google enfrenta processo por coleta de dados de crianças](https://www.facebook.com/olhardigital/videos/827952940955230/?v=827952940955230)
+- 	[CSI à brasileira: biometria recupera digital de cadáver](https://olhardigital.com.br/noticia/csi-a-brasileira-biometria-recupera-digital-de-cadaver/93833)
+- 	[Netflix testa limpar lista de 'continuar assistindo'](https://olhardigital.com.br/noticia/netflix-testa-limpar-lista-de-continuar-assistindo/93827)
+- 	[Operadora Vivo apresenta instabilidade nesta terça-feira](https://olhardigital.com.br/noticia/operadora-vivo-apresenta-instabilidade-nesta-terca-feira/93837)
+- 	[Xiaomi Mi Mix 4 aparece entre resultados de benchmark](https://olhardigital.com.br/noticia/xiaomi-mi-mix-4-aparece-entre-resultados-de-benchmark/93824)
+- 	[Inteligência artificial criada por brasileiros é premiada em desafio nos EUA](https://olhardigital.com.br/noticia/inteligencia-artificial-criada-por-brasileiros-e-premiada-em-desafio-nos-eua/93834)
+- 	[Europa entra oficialmente em missão que vai 'desviar' asteroide](https://olhardigital.com.br/ciencia-e-espaco/noticia/missao-vai-avaliar-os-resultados-da-colisao-de-asteroides/93823)
+- 	[Apple anuncia seu primeiro prêmio de música](https://olhardigital.com.br/noticia/apple-anuncia-seu-primeiro-premio-de-musica/93835)
+- [Nova política do YouTube permite imagens de jogos mais violentos](https://olhardigital.com.br/games-e-consoles/noticia/nova-politica-do-youtube-permite-imagens-de-jogos-mais-violentos/93825)
+- 	[Google Fotos ganha recurso de mensagens privadas](https://olhardigital.com.br/noticia/google-fotos-ganha-recurso-de-mensagens-privadas/93841)
+- 	[Aplicativo 'Pou' é removido da PlayStore](https://olhardigital.com.br/noticia/aplicativo-pou-e-removido-da-playstore/93847)
+- 	[Amazon lança teclado musical com inteligência artificial](https://olhardigital.com.br/noticia/amazon-lanca-teclado-musical-com-inteligencia-artificial/93836)
+- 	[YouTube revela eficiência em controle de conteúdos limítrofes](https://olhardigital.com.br/noticia/youtube-revela-eficiencia-em-controle-de-conteudos-limitrofes/93845)
+- 	[Morre Lil Bub, celebridade felina da internet](https://olhardigital.com.br/noticia/morre-lil-bub-celebridade-felina-da-internet/93844)
+- 	[Cybertruck é mais aerodinâmico que outras picapes, segundo teste](https://olhardigital.com.br/carros-e-tecnologia/noticia/cybertruck-e-mais-aerodinamico-que-outras-picapes-segundo-teste/93840)
+- 	[Samsung deve lançar Galaxy S10 Lite em breve](https://olhardigital.com.br/noticia/samsung-deve-lancar-galaxy-s10-lite-em-breve/93828)
+- 	[Vendas da Cyber Monday nos EUA batem recorde](https://olhardigital.com.br/black-friday-2019/noticia/vendas-da-cyber-monday-nos-eua-batem-recorde/93850)
+- 	[União Europeia investiga coleta de dados do Google](https://olhardigital.com.br/noticia/uniao-europeia-investiga-coleta-de-dados-do-google/93821)
+- 	[Spotify viaja no tempo e mostra retrospectiva da década](https://olhardigital.com.br/noticia/spotify-viaja-no-tempo-e-mostra-retrospectiva-da-decada/93857)
+- 	[Google enfrenta processo por coleta de dados de crianças](https://olhardigital.com.br/video/google-enfrenta-processo-por-coleta-de-dados-de-criancas/93801)
+- 	[Novo sensor de impressão digital da Qualcomm é maior que o anterior](https://olhardigital.com.br/noticia/novo-sensor-de-impressao-digital-da-qualcomm-e-maior-que-o-anterior/93860)
 
 
 **DEZEMBRO 04**
@@ -128,6 +155,7 @@ title: DEZEMBRO
 - Plex just launched free movie and TV streaming service that’s actually pretty great
 - Google Photos adds chat feature to make it easier to send and like pictures
 - Instagram will ask new users to provide their birthdays
+- [Leitores biométricos para smartphones poderão ler dois dedos ao mesmo tempo](https://pcworld.com.br/leitores-biometricos-para-smartphones-poderao-ler-dois-dedos-ao-mesmo-tempo/?fbclid=IwAR1ZV4Hpb58DUNMZN4UtNXTIw-GcuAg95i171zLNp-J2MazpljIa9P-qTQw)
 
 **DEZEMBRO 05**
 
@@ -297,6 +325,10 @@ title: DEZEMBRO
 **DEZEMBRO 26**
 
 - [Rússia anuncia sucesso em teste de internet 'desplugada' do resto do mundo](http://www.defesanet.com.br/cyberwar/noticia/35304/Russia-anuncia-sucesso-em-teste-de-internet--desplugada--do-resto-do-mundo/)
+- [Celular da Motorola que carregava na tomada pega fogo e fere estudante](https://pcworld.com.br/celular-da-motorola-que-carregava-na-tomada-pega-fogo-e-fere-estudante/)
+- [10 tecnologias incríveis que não existiam no início da década de 2010](https://pcworld.com.br/10-tecnologias-incriveis-que-nao-existiam-no-inicio-da-decada-de-2010/)
+- [Funcionários da Huawei confirmam que P40 não terá bateria de grafeno](https://pcworld.com.br/funcionarios-da-huawei-confirmam-que-p40-nao-tera-bateria-de-grafeno/)
+- [Golpe ambicioso no PayPal rouba dados do cartão de crédito da vítima](https://olhardigital.com.br/noticia/golpe-ambicioso-no-paypal-rouba-dados-do-cartao-de-credito-da-vitima/94782?fbclid=IwAR2hi7U6usg-vM8ZQ9T1yyUaDgtq64riiwxeUcD0Gfn6awnK9jHc0WRpxyU)
 
 **DEZEMBRO 27**
 
@@ -307,6 +339,9 @@ title: DEZEMBRO
 - Facebook Messenger requires a Facebook account to sign up now
 - Amazon is looking into tech that can identify you using the veins in your hand
 - iPhone capacitor supplier looks forward to strong 2020 with upcoming 5G demand
+- [O que é nomofobia? Entenda o transtorno de quem não consegue sair do celular](https://pcworld.com.br/o-que-e-nomofobia-entenda-o-transtorno-de-quem-nao-consegue-sair-do-celular/)
+- [WhatsApp poderá deletar mensagens em grupos automaticamente](https://pcworld.com.br/whatsapp-podera-deletar-mensagens-em-grupos-automaticamente/)
+
 
 **DEZEMBRO 28**
 
@@ -318,6 +353,11 @@ title: DEZEMBRO
 - Spotify to Suspend Political Ads in 2020
 
 **DEZEMBRO 29**
+
+- [Microsoft vai encerrar suporte ao Office 2010. O que fazer?](https://pcworld.com.br/microsoft-vai-encerrar-suporte-ao-office-2010-o-que-fazer/)
+- [Cinco produtos que muito provavelmente a Apple deve lançar em 2020](https://pcworld.com.br/cinco-produtos-que-muito-provavelmente-a-apple-deve-lancar-em-2020/)
+- [iPhones sem botão Home: a lista completa de todos os comandos e gestos](https://pcworld.com.br/iphones-sem-botao-home-a-lista-completa-de-todos-os-comandos-e-gestos/)
+- [Comprou um notebook ou PC novo? Faça estas seis coisas primeiro](https://pcworld.com.br/comprou-um-notebook-ou-pc-novo-faca-estas-seis-coisas-primeiro/)
 
 **DEZEMBRO 30**
 
