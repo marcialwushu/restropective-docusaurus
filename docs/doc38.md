@@ -18,6 +18,9 @@ title: DEZEMBRO
 - [Take action to save .org and prosecute those who sold out the internet](https://bit.ly/2R8ZVMM)
 - [Show HN: We used 890M chess games to make an interactive opening graph](https://bit.ly/34COT69)
 - [Show HN: How Radar Works](https://bit.ly/34FzZvY)
+- ['Toupeira' parou de cavar em Marte e engenheiros não sabem o motivo](https://noticiasamericadosul.com/2019/11/30/toupeira-parou-de-cavar-em-marte-e-engenheiros-nao-sabem-o-motivo-olhar-digital/)
+- 	[“A 3M entrou na era digital”, diz CTO global](https://epocanegocios.globo.com/Empresa/noticia/2019/12/3m-entrou-na-era-digital-diz-cto-global.html)
+- 	[Avô constrói montanha-russa no quintal de casa para os netos](https://www.newslocker.com/pt-br/regiao/montanha/av-constri-montanha-russa-no-quintal-de-casa-para-os-netos-olhar-digital/)
  
 
 **DEZEMBRO 02**
@@ -37,6 +40,37 @@ title: DEZEMBRO
 - [Amazon Braket – Get Started with Quantum Computing](https://bit.ly/2OIGmcz)
 - [Chinese telecoms must use "AI and other technical means" to identify phone users](https://bit.ly/2r6oG1q)
 - [Born in a Garage](https://bit.ly/34GLaVr)  
+- 	[Usuários reclamam de contas canceladas da Netflix reativadas sem permissão](https://flipboard.com/@OlharDigital/usu-rios-reclamam-de-contas-canceladas-da-netflix-reativadas-sem-permiss-o/f-a2864841ec%2Fcom.br)
+- 	[Veja todos os produtos que a Apple deve lançar em 2020](https://olhardigital.com.br/noticia/veja-todos-os-produtos-que-a-apple-deve-lancar-em-2020/93754)
+- 	[Vídeo mostra planetas no lugar da Lua e do Sol; assista](https://olhardigital.com.br/ciencia-e-espaco/noticia/video-mostra-planetas-no-lugar-da-lua-e-do-sol-assista/93747)
+- 	[Como fazer uma limpeza no Chrome para liberar espaço no celular](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-fazer-uma-limpeza-no-chrome-para-liberar-espaco-no-celular/93753)
+- 	[Nubank dá dicas para não cair em golpes; veja o que fazer](https://olhardigital.com.br/fique_seguro/noticia/nubank-da-dicas-para-nao-cair-em-golpes-veja-o-que-fazer/93752)
+- 	[Revendedor de IPTV pirata pede doações para combater ação judicial](https://olhardigital.com.br/noticia/revendedor-de-iptv-pirata-pede-doacoes-para-combater-acao-judicial/93762)
+- 	[Veja quais modelos da Samsung vão receber o Android 10](https://olhardigital.com.br/noticia/veja-quais-modelos-da-samsung-vao-receber-o-android-10/93739)
+- 	[Facebook permite transferência direta de imagens para o Google Fotos](https://olhardigital.com.br/noticia/facebook-permite-transferencia-direta-de-imagens-para-o-google-fotos/93743)
+- 	[Cientistas recriam raios vulcânicos em laboratório](https://olhardigital.com.br/noticia/cientistas-recriam-raios-vulcanicos-em-laboratorio/93741)
+- 	[Empresas já consideram que leilão do 5G será adiado para 2021](https://olhardigital.com.br/noticia/empresas-ja-consideram-que-leilao-do-5g-sera-adiado-para-2021/93757)
+- 	[Nasa estuda fenômeno que prejudica eletrônicos nos polos da Terra](https://olhardigital.com.br/ciencia-e-espaco/noticia/nasa-estuda-fenomeno-que-prejudica-eletronicos-nos-polos-da-terra/93756)
+- 	[AirPods podem virar brinde em 2020](https://olhardigital.com.br/noticia/airpods-podem-virar-brinde-em-2020/93750)
+- 	[Foto do kit de desenvolvimento do PlayStation 5 surge no Twitter](https://olhardigital.com.br/games-e-consoles/noticia/foto-do-kit-de-desenvolvimento-do-playstation-5-surge-no-twitter/93740)
+- 	[Novo projeto quer alterar a Lei Geral de Proteção de Dados](https://olhardigital.com.br/noticia/novo-projeto-quer-alterar-a-lei-geral-de-protecao-de-dados/93759)
+- 	[Veja como atualizar seu computador para o Windows 10 gratuitamente](https://olhardigital.com.br/noticia/veja-como-atualizar-seu-computador-para-o-windows-10-gratuitamente/93767)
+- 	[Os desafios, as novas formas de consumo e os novos públicos: o futuro da televisão em debate](https://mag.sapo.pt/tv/atualidade-tv/artigos/qual-o-futuro-da-televisao-temos-que-olhar-para-o-digital-como-um-complemento-defende-francisco-pedro-balsemao)
+- 	[China proíbe utilização de tecnologia para produzir informação falsa na internet](https://olhardigital.com.br/noticia/china-proibe-utilizacao-de-tecnologia-para-produzir-informacao-falsa-na-internet/93772)
+- 	[Bebê Yoda enfrenta Thanos em recriação de Vingadores: Ultimato](https://olhardigital.com.br/noticia/bebe-yoda-enfrenta-thanos-em-recriacao-de-vingadores-ultimato/93774)
+- 	[Entenda como o Facebook detecta conteúdo nocivo automaticamente](https://olhardigital.com.br/noticia/entenda-como-o-facebook-detecta-conteudo-nocivo-automaticamente/93773)
+- 	[Amazon Echo e Kindle são vulneráveis a ataques cibernéticos](https://olhardigital.com.br/noticia/amazon-echo-e-kindle-sao-vulneraveis-a-ataques-ciberneticos/93777)
+- 	[Inteligência Artificial identifica motoristas usando celular no trânsito](https://olhardigital.com.br/noticia/inteligencia-artificial-identifica-motoristas-usando-celular-no-transito/93771)
+- 	[STF discutirá Marco Civil da Internet em audiência pública](https://olhardigital.com.br/noticia/stf-discutira-marco-civil-da-internet-em-audiencia-publica/93768)
+- 	[China torna reconhecimento facial obrigatório às operadoras do país](https://olhardigital.com.br/noticia/china-torna-reconhecimento-facial-obrigatorio-as-operadoras-do-pais/93775)
+- 	[Pagamento Expresso da Apple chega ao transporte público](https://olhardigital.com.br/noticia/pagamento-expresso-da-apple-chega-ao-transporte-publico/93781)
+- 	[Pare de se preocupar com o seu sono, cientistas explicam o por quê](https://olhardigital.com.br/noticia/pare-de-se-preocupar-com-o-seu-sono-cientistas-explicam-o-por-que/93770)
+- 	['Steven Universe: Unleash the Light' chega ao Apple Arcade](https://olhardigital.com.br/games-e-consoles/noticia/-steven-universe-unleash-the-light-chega-ao-apple-arcade/93787)
+- 	[Bug no Raspberry Pi 4 'mata' o Wi-Fi ao aumentar resoluções](https://olhardigital.com.br/noticia/bug-no-raspberry-pi-4-mata-o-wi-fi-ao-aumentar-resolucoes/93788)
+- 	[Ex-funcionários do Facebook desenvolvem uma rede social familiar](https://olhardigital.com.br/noticia/ex-funcionarios-do-facebook-desenvolvem-uma-rede-social-familiar/93793)
+- 	[Escola de programação da França busca alunos para curso no Brasil](https://olhardigital.com.br/noticia/escola-de-programacao-da-franca-busca-alunos-para-curso-no-brasil/93797)
+- 	[Empresa cria mesa de holograma realista por US$ 10 mil](https://olhardigital.com.br/noticia/empresa-cria-mesa-de-holograma-realista-por-us-10-mil/93795)
+- 	[Bat-Sinal será ligado no Recife em homenagem aos 80 anos do Batman](https://olhardigital.com.br/noticia/bat-sinal-sera-ligado-no-recife-em-homenagem-aos-80-anos-do-batman/93804)
 
 
 **DEZEMBRO 03**
@@ -53,7 +87,7 @@ title: DEZEMBRO
 - [T-Mobile lança seu 5G nos EUA](https://olhardigital.com.br/video/t-mobile-lanca-seu-5g-nos-eua/93803)
 - [Cientistas chineses descobrem buraco negro que 'não poderia existir' – Olhar Digital](https://noticiasamericadosul.com/2019/12/03/cientistas-chineses-descobrem-buraco-negro-que-nao-poderia-existir-olhar-digital/)
 - [PlayStation faz 25 anos. Conheça um pouco da história do console](https://olhardigital.com.br/games-e-consoles/noticia/playstation-faz-25-anos-conheca-um-pouco-da-historia-do-console/93766)
-- [Irmão de Pablo Escobar lança celular dobrável]()
+- [Irmão de Pablo Escobar lança celular dobrável](https://olhardigital.com.br/noticia/irmao-de-pablo-escobar-lanca-celular-dobravel/93805)
 - Ripple’s Philippines corridor indicates spike in ODL transactions
 - Google Photos launches private messaging for quickly sharing photos
 - Mercedes launches SUV GLC, price starts at ₹52.56 lakh
@@ -65,6 +99,14 @@ title: DEZEMBRO
 - Amazon Is Now Letting Anyone Run Programs on Its Quantum Computer
 - Sony PlayStation gets Guinness World Record for best-selling console brand
 - YouTube confirms it has removed some Trump campaign ads
+- 	[CEO da Huawei confirma que empresa continua sem apoio do Google](https://olhardigital.com.br/pro/noticia/ceo-da-huawei-confirma-que-empresa-continua-sem-apoio-do-google/93786)
+- 	[Tesla recebe pedido para converter 15 picapes Cybertruck em veículos policiais](https://olhardigital.com.br/noticia/tesla-recebe-pedido-para-converter-15-picapes-cybertruck-em-veiculos-policiais/93807)
+- 	[NASA encontra os restos do módulo lunar indiano](https://olhardigital.com.br/ciencia-e-espaco/noticia/nasa-encontra-os-restos-da-sonda-que-colidiu-contra-a-superficie-lunar/93808)
+- 	[Urnas eletrônicas brasileiras enfrentam teste de segurança](https://olhardigital.com.br/fique_seguro/video/urnas-eletronicas-brasileiras-enfrentam-teste-de-seguranca/93799)
+- 	[Xiaomi apresenta cama inteligente com anti ronco](https://olhardigital.com.br/noticia/xiaomi-apresenta-cama-inteligente-com-anti-ronco/93812)
+- 	[Xiaomi Mi Watch ganha suporte para iPhone](https://olhardigital.com.br/noticia/xiaomi-mi-watch-ganha-suporte-para-iphone/93814)
+- 	[Fones de ouvido vão fazer parte de 'kits' em 2020](https://olhardigital.com.br/video/fones-de-ouvido-vao-fazer-parte-de-kits-em-2020/93800)
+- 	[Falha no Android deixa milhares de usuários em risco](https://olhardigital.com.br/fique_seguro/noticia/falha-no-android-deixa-milhares-de-usuarios-em-risco/93815)
 
 
 **DEZEMBRO 04**
