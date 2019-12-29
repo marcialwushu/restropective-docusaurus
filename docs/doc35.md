@@ -89,6 +89,7 @@ title: SETEMBRO
 - Hulu Discontinues VR App for Google’s Daydream Headset
 - LVMH Announces Support of Tech That Identifies Fake Luxury Handbags
 - Google's self-driving car project stopped working on a system similar to Tesla's Autopilot and Cadillac's Super Cruise in 2013 because one of its employees fell asleep at the wheel
+- [Hacker enche o Amazon Drive com 1,8 petabytes de pornografia só para testar](https://suporteninja.com/enche-amazon-drive-com-18-petabytes-de-pornografia/?fbclid=IwAR38GiLBB0vKcdolkhBcmBLwDiKyZR7eLoPUBW01Px73Sy2fSbfctff736g)
 
 **SETEMBRO 13**
 
