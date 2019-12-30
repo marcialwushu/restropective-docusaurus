@@ -216,7 +216,7 @@ title: DEZEMBRO
 
 **DEZEMBRO 12**
 
-- [:date: Evento CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
+- [[**Evento**] CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
 - [Analista explica como e quando o Bitcoin chegará aos US$100 mil](https://www.criptofacil.com/analista-explica-como-e-quando-o-bitcoin-chegara-aos-us100-mil/)
 - [Nike recebe patente para tokenizar tênis na blockchain do Ethereum](https://www.criptofacil.com/nike-recebe-patente-para-tokenizar-tenis-na-blockchain-do-ethereum/)
 - [Mercado de criptoativos segue em baixa e desvaloriza US$3 bilhões nas últimas 24 horas](https://www.criptofacil.com/mercado-de-criptoativos-segue-em-baixa-e-desvaloriza-us3-bilhoes-nas-ultimas-24-horas/)
@@ -238,7 +238,7 @@ title: DEZEMBRO
 
 **DEZEMBRO 13**
 
-- [Evento CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
+- [[**Evento**] CQ CBPF 2019 - Computação Quântica: estado da arte e perspectivas](https://sites.google.com/view/cq-cbpf-2019/home?authuser=0)
 - [Instagram Face: The rise of selfie make-up and quest for hyper-perfection](https://bit.ly/2RKRdoc)
 - [Show HN: Happy Hues](https://bit.ly/2sp0NSS)
 - [Mathematician Proves Result on ‘Dangerous’ Problem](https://bit.ly/38EeaQ7)
