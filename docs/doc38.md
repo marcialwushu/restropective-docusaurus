@@ -71,7 +71,7 @@ title: DEZEMBRO
 - 	[Escola de programação da França busca alunos para curso no Brasil](https://olhardigital.com.br/noticia/escola-de-programacao-da-franca-busca-alunos-para-curso-no-brasil/93797)
 - 	[Empresa cria mesa de holograma realista por US$ 10 mil](https://olhardigital.com.br/noticia/empresa-cria-mesa-de-holograma-realista-por-us-10-mil/93795)
 - 	[Bat-Sinal será ligado no Recife em homenagem aos 80 anos do Batman](https://olhardigital.com.br/noticia/bat-sinal-sera-ligado-no-recife-em-homenagem-aos-80-anos-do-batman/93804)
-
+- [Esse Processador tem 400.000 núcleos e 30cm de diâmetro](https://suporteninja.com/esse-processador-tem-400-000-nucleos-30cm-de-tamanho/)
 
 **DEZEMBRO 03**
 
@@ -167,6 +167,8 @@ title: DEZEMBRO
 - Tesla’s biggest market in Europe becomes the Netherlands as Model 3 sales surge
 - Google’s Pixel 4-exclusive recording app is now available for the Pixel 2, 3, and 3A
 - Genius Sues Google for Allegedly Stealing Its Music Lyrics
+- [Novo Recorde de transmissão de dados: 1 Petabit por segundo](https://suporteninja.com/novo-recorde-de-transmissao-de-dados-1-petabit-por-segundo/)
+- [Brasil inicia adesão a tratado contra crimes cibernéticos](https://odocumento.com.br/brasil-inicia-adesao-a-tratado-contra-crimes-ciberneticos/?fbclid=IwAR3ljHCk5mxwAHAv56CPSXGEul4SS92ZwPgHB1pJPT63reOHqNeUGE56VFY)
 
 **DEZEMBRO 06**
 
@@ -252,6 +254,8 @@ title: DEZEMBRO
 
 **DEZEMBRO 14**
 
+- [Após ciberataque Nova Orleans declara estado de emergência](https://cryptoid.com.br/banco-de-noticias/apos-ciberataque-nova-orleans-declara-estado-de-emergencia/?fbclid=IwAR3fheafqQlYy9PnTukHJ58X6BKeBjZ7BO9Nlu0d32-cpsQ-v2V4aSmRzrc)
+
 **DEZEMBRO 15**
 
 **DEZEMBRO 16**
@@ -308,6 +312,7 @@ title: DEZEMBRO
 - Facebook removes accounts with AI-generated profile photos
 - Verizon rolls out 5G service in some areas of Hampton Roads
 - Tesla releases massive new update with text message reading, Autopilot, and more
+- [Patch now: Published Citrix applications leave networks of 'potentially 80,000' firms at risk from attackers](https://www.theregister.co.uk/2019/12/23/patch_now_published_citrix_applications_leave_network_vulnerable_to_unauthorised_access/?fbclid=IwAR1Pmq_yFWnrz0yw8AjO3m8OOKIiPaHZkgOG_Ib48QLaQRFthmJFHV7RUq4)
 
 
 **DEZEMBRO 24**
@@ -341,6 +346,7 @@ title: DEZEMBRO
 - iPhone capacitor supplier looks forward to strong 2020 with upcoming 5G demand
 - [O que é nomofobia? Entenda o transtorno de quem não consegue sair do celular](https://pcworld.com.br/o-que-e-nomofobia-entenda-o-transtorno-de-quem-nao-consegue-sair-do-celular/)
 - [WhatsApp poderá deletar mensagens em grupos automaticamente](https://pcworld.com.br/whatsapp-podera-deletar-mensagens-em-grupos-automaticamente/)
+- [Contrariando operadoras, Apple quer transmitir internet via satélite para iPhones](https://epocanegocios.globo.com/Empresa/noticia/2019/12/contrariando-operadoras-apple-quer-transmitir-internet-satelite-para-iphones.html?fbclid=IwAR2a4g5rknwL14x_oGDwX_35jx75OICFHAsn_V9VWQAz7mm9hYcMhHtPiKs)
 
 
 **DEZEMBRO 28**
