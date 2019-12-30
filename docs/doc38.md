@@ -134,6 +134,11 @@ title: DEZEMBRO
 - 	[Spotify viaja no tempo e mostra retrospectiva da década](https://olhardigital.com.br/noticia/spotify-viaja-no-tempo-e-mostra-retrospectiva-da-decada/93857)
 - 	[Google enfrenta processo por coleta de dados de crianças](https://olhardigital.com.br/video/google-enfrenta-processo-por-coleta-de-dados-de-criancas/93801)
 - 	[Novo sensor de impressão digital da Qualcomm é maior que o anterior](https://olhardigital.com.br/noticia/novo-sensor-de-impressao-digital-da-qualcomm-e-maior-que-o-anterior/93860)
+- [Detecções de vírus caíram em 2019, de acordo com a Microsoft](https://olhardigital.com.br/fique_seguro/noticia/deteccoes-de-malware-ransomware-e-cryptominer-caem-em-2019/93846)
+- 	['Google Translator Toolkit' será desativado amanhã](https://olhardigital.com.br/noticia/-google-translator-toolkit-sera-desativado-amanha/93851)
+- 	[Funcionários de banco dinamarquês são proibidos de comprar Bitcoin](https://olhardigital.com.br/noticia/funcionarios-de-banco-dinamarques-sao-proibidos-de-comprar-bitcoin/93858)
+- 	[China entra no combate aos Deepfake vídeos](https://olhardigital.com.br/fique_seguro/video/china-entra-no-combate-aos-deepfake-videos/93802)
+- 	[Larry Page renuncia ao cargo de CEO da Alphabet, dona do Google](https://olhardigital.com.br/pro/noticia/larry-page-renuncia-ao-cargo-de-ceo-da-alphabet/93864)
 
 
 **DEZEMBRO 04**
@@ -156,7 +161,12 @@ title: DEZEMBRO
 - Google Photos adds chat feature to make it easier to send and like pictures
 - Instagram will ask new users to provide their birthdays
 - [Leitores biométricos para smartphones poderão ler dois dedos ao mesmo tempo](https://pcworld.com.br/leitores-biometricos-para-smartphones-poderao-ler-dois-dedos-ao-mesmo-tempo/?fbclid=IwAR1ZV4Hpb58DUNMZN4UtNXTIw-GcuAg95i171zLNp-J2MazpljIa9P-qTQw)
-
+- 	[Tecnologia: Mostra de Arte Digital começa hoje no MIS, confira o que vai rolar](https://www.midiamax.com.br/midiamais/2019/tecnologia-mostra-de-arte-digital-comeca-hoje-no-mis-confira-o-que-vai-rolar)
+- 	[Qualcomm anuncia dois chipsets Snapdragon 5G](https://olhardigital.com.br/noticia/qualcomm-anuncia-dois-chipsets-snapdragon-5g/93861)
+- 	[Facebook anuncia recursos para situações de emergência](https://olhardigital.com.br/noticia/facebook-anuncia-recursos-para-situacoes-de-emergencia/93880)
+- 	[Teles lançam site Fique Antenado! para incentivar instalação de antenas](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52380&sid=8)
+- [A Agência Espacial Europeia (ESA) aprovou oficialmente a missão Hera, que vai avaliar os resultados do Teste de Redirecionamento Duplo de Asteroides (DART) da Nasa](https://www.trendsmap.com/twitter/tweet/1201983950450778115)
+- 	[Motorola lança o One Hyper, aparelho com câmera frontal pop-up](https://olhardigital.com.br/noticia/motorola-lanca-o-one-hyper-aparelho-com-camera-frontal-pop-up/93829)
 **DEZEMBRO 05**
 
 - [Safeweb lança um novo tipo de certificado digital voltado para emissão de notas fiscais: PJ NF-e](https://cryptoid.com.br/certificacao-digital/safeweb-lanca-um-novo-tipo-de-certificado-digital-voltado-para-emissao-de-notas-fiscais-pj-nf-e/)
