@@ -129,11 +129,37 @@ title: NOVEMBRO
 - Twitter is rolling out Topics, a way to follow subjects automatically in the timeline
 - [Mais de 11 mil cientistas alertam para o impacto das alterações climáticas](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-06-Mais-de-11-mil-cientistas-alertam-para-o-impacto-das-alteracoes-climaticas)
 - [2020, o ano zero das entregas de comida com drones](http://exameinformatica.sapo.pt/web-summit/2019-11-06-2020-o-ano-zero-das-entregas-de-comida-com-drones)
+- [Boeing whistleblower raises doubts over 787 oxygen system](https://bit.ly/2rdtrWx)
+- [Base64 encoding and decoding at almost the speed of a memory copy](https://bit.ly/2NIauD2)
+- [Congolese Doctor Discovered Ebola but Never Got Credit for It – Until Now](https://bit.ly/2NkNNFU)
+- [Self Sabotage: The Swiss History of Rigging Vital Infrastructure to Explode](https://bit.ly/36z2ixL)
+- [Facebook says 100 software developers may have improperly accessed user data](https://bit.ly/2PUdr6b)
+- [Recursive Mono and Sans, a free variable type family](https://bit.ly/2WN8bmb)
+- [Intel publises misleading benchmarks against AMD](https://bit.ly/2No2N62)
+- [Re-Licensing Sentry](https://bit.ly/36EpkTN)
+- [Man Underpaid Property Tax by $8.41 County Seized Home, Sold It-Kept Profits](https://bit.ly/2qsi8JN)
+- [In Praise of the 5-Hour Workday, and Other ‘Radical’ Ideas](https://bit.ly/2pBvcN3)
+- [The new dot com bubble is here: it’s called online advertising](https://bit.ly/34AFGek)
+- [Better World Books and the Internet Archive Unite to Preserve Millions of Books](https://bit.ly/2Clc34E)
+
 
 **NOVEMBRO 07**
 
 - [Voyager 2 chegou ao espaço interestelar](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-07-Voyager-2-chegou-ao-espaco-interestelar)
 - [Impressora 3D inovadora desenvolvida no Instituto Superior Técnico](http://exameinformatica.sapo.pt/videos/reporterei/2019-11-07-Impressora-3D-inovadora-desenvolvida-no-Instituto-Superior-Tecnico)
+- [Former Twitter Employees Charged with Spying for Saudi Arabia](https://bit.ly/2ritYGN)
+- [Google Open-Sources Cardboard](https://bit.ly/32jZFMF)
+- [I was an astrologer – here's how it works, and why I had to stop](https://bit.ly/2Nph6Y9)
+- [Comparing Parallel Rust and C++](https://bit.ly/36FMiKf)
+- [Science Vigilante Calls Out Bogus Results in Prestigious Journals](https://bit.ly/36PIh6a)
+- [Australian solar farm has to switch off every second day due to negative prices](https://bit.ly/2oYF0jQ)
+- [How to Find Consulting Clients](https://bit.ly/34Kljvr)
+- [Thousands of Facebook internal documents and emails published online](https://bit.ly/33qkBTz)
+- [Code Health: Respectful Reviews == Useful Reviews](https://bit.ly/2CsKvtX)
+- [Thousands of explosive Facebook internal documents and emails published online](https://bit.ly/2Q2d5dE)
+- [Being a good guy boss left me £1.2m in debt](https://bit.ly/2NSejWb)
+- [Rust 1.39.0 (async/await) released](https://bit.ly/33D0Zvu)
+
 
 **NOVEMBRO 08**
 
