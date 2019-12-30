@@ -6,3 +6,39 @@ title: FEVEREIRO
 **FEVEREIRO 01**
 
 **FEVEREIRO 02**
+
+**FEVEREIRO 03**
+
+**FEVEREIRO 04**
+
+**FEVEREIRO 05**
+
+**FEVEREIRO 06**
+
+**FEVEREIRO 07**
+
+**FEVEREIRO 08**
+
+**FEVEREIRO 09**
+
+**FEVEREIRO 10**
+
+**FEVEREIRO 12**
+
+**FEVEREIRO 13**
+
+**FEVEREIRO 14**
+
+**FEVEREIRO 15**
+
+**FEVEREIRO 16**
+
+**FEVEREIRO 17**
+
+**FEVEREIRO 18**
+
+- [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
+
+**FEVEREIRO 19**
+
+- [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
