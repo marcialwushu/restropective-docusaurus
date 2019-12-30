@@ -175,6 +175,7 @@ title: NOVEMBRO
 - [TSE quer Facebook, Google, Whatsapp e Twitter contra desinformação nas eleições](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52229&sid=4)
 - [CCT aprova direito de resposta em redes sociais](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52230&sid=4)
 - [China quer ir a Marte em 2020](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-12-China-quer-ir-a-Marte-em-2020)
+- [A banda para eletroencefalogramas de longa duração nasceu em Coimbra](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-12-A-banda-para-eletroencefalogramas-de-longa-duracao-nasceu-em-Coimbra)
 
 **NOVEMBRO 13**
 
@@ -190,6 +191,7 @@ title: NOVEMBRO
 
 - [Brasileiros já incluem dispositivos IoT em lista de desejos](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52250&sid=3)
 - [TI vê o surgimento da computação quântica como uma ameaça iminente à confidencialidade de informações valiosas](http://www.defesanet.com.br/cyberwar/noticia/34875/TI-ve-o-surgimento-da-computacao-quantica-como-uma-ameaca-iminente-a-confidencialidade-de-informacoes-valiosas/)
+- [Diagnóstico de Alzheimer e análise cerebral de condutores de carros ganham prémios de inovação da Altice](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-14-Diagnostico-de-Alzheimer-e-analise-cerebral-de-condutores-de-carros-ganham-premios-de-inovacao-da-Altice)
 
 **NOVEMBRO 15**
 
@@ -202,6 +204,7 @@ title: NOVEMBRO
 - Corbyn launches plan to give free broadband to everyone in Britain
 - Apple issues a firmware update for the AirPods Pro
 - New Android 10 beta update released for the Galaxy S10
+- [Investigador de Singapura criou tecnologia rápida de impressão de pele](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-15-Investigador-de-Singapura-criou-tecnologia-rapida-de-impressao-de-pele)
 
 **NOVEMBRO 16**
 
@@ -218,6 +221,9 @@ title: NOVEMBRO
 
 - [Carros autônomos se multiplicam, mas estão longe do mercado de consumo](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52264&sid=3)
 - [TSE - Sistema de transmissão de votos também será testado no TPS 2019](http://www.defesanet.com.br/eleicao/noticia/34922/TSE---Sistema-de-transmissao-de-votos-tambem-sera-testado-no-TPS-2019/)
+- [Ryugu: sonda japonesa já recolheu amostras de asteroide](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-18-Ryugu-sonda-japonesa-ja-recolheu-amostras-de-asteroide)
+- [Investigadores britânicos criam pacemaker que se ajusta à respiração](http://exameinformatica.sapo.pt/noticias/ciencia)
+- [Novo sistema de IA consegue prever convulsões em pacientes com epilepsia](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-18-Novo-sistema-de-IA-consegue-prever-convulsoes-em-pacientes-com-epilepsia)
 
 **NOVEMBRO 19**
 
@@ -226,10 +232,13 @@ title: NOVEMBRO
 - Apple Pay Now Available in Belarus, Citymapper Pass Adds Support in London
 - VW adds production of ID.3 electric car to another factory in Germany
 - DuckDuckGo Will Automatically Encrypt More Sites You Visit
+- [China volta a dominar no número de lançamentos espaciais](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-19-China-volta-a-dominar-no-numero-de-lancamentos-espaciais)
 
 **NOVEMBRO 20**
 
 **NOVEMBRO 21**
+
+- [É um avião? É um pássaro? Não, é um SQUID!](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-21-E-um-aviao--E-um-passaro--Nao-e-um-SQUID)
 
 **NOVEMBRO 22**
 
@@ -253,6 +262,7 @@ title: NOVEMBRO
 - AMD confirms 64-core Threadripper 3990X for 2020
 - [Por que o laser virou a nova arma high tech de manifestantes pelo mundo?](http://www.defesanet.com.br/riots/noticia/34990/Por-que-o-laser-virou-a-nova-arma-high-tech-de-manifestantes-pelo-mundo-/)
 - [Funcionário do TCE-AM executa script errado no SQL e apaga 16,5 mil processos](https://suporteninja.com/funcionario-do-tce-am-executa-script-errado-no-sql-e-apaga-165-mil-processos/)
+- [Google prepara robôs para o quotidiano e que conseguem aprender](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-25-Google-prepara-robos-para-o-quotidiano-e-que-conseguem-aprender)
 
 **NOVEMBRO 26**
 
@@ -289,6 +299,7 @@ title: NOVEMBRO
 - [LNCC INAUGURA EXPANSÃO DO SUPERCOMPUTADOR SANTOS DUMONT COM A PARTICIPAÇÃO DO MINISTRO ASTRONAUTA MARCOS PONTES](https://www.lncc.br/noticia/LNCC_INAUGURA_EXPANSAO_DO_SUPERCOMPUTADOR_SANTOS_DUMONT_COM_A_PARTICIPACAO_DO_MINISTRO_ASTRONAUTA_MARCOS_PONTES/1502)
 - [Deucalion, o supercomputador que reforça Portugal](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-Deucalion-o-supercomputador-que-reforca-Portugal)
 - [Campinas será a primeira cidade a testar IoT com dinheiro do BNDES](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52314&sid=14)
+- [BPI anuncia prémio para startups com menos de três anos](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-BPI-anuncia-premio-para-startups-com-menos-de-tres-anos)
 
 **NOVEMBRO 27**
 
@@ -409,6 +420,8 @@ title: NOVEMBRO
 - [PESQUISADORES DO LNCC PARTICIPAM DE PROJETO DE COLABORAÇÃO INTERNACIONAL COM A DINAMARCA](https://www.lncc.br/noticia/PESQUISADORES_DO_LNCC_PARTICIPAM_DE_PROJETO_DE_COLABORACAO_INTERNACIONAL_COM_A_DINAMARCA/1503)
 - [Blackout Soluti: Empresa oferece certificado digital em nuvem por 30 dias gratuitos](https://cryptoid.com.br/soluti/blackout-soluti-empresa-oferece-certificado-digital-em-nuvem-por-30-dias-gratuitos/)
 - [EPAL vai produzir a sua própria energia 100% renovável](http://exameinformatica.sapo.pt/noticias/mercados/2019-11-29-EPAL-vai-produzir-a-sua-propria-energia-100-renovavel)
+- [OrCam cria um dispositivo que ajuda cegos a identificar objetos](http://exameinformatica.sapo.pt/videos/reporterei/2019-11-29-OrCam-cria-um-dispositivo-que-ajuda-cegos-a-identificar-objetos)
+- [Investigadores ensinam IA a criar manipulações de imagens de rostos](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-29-Investigadores-ensinam-IA-a-criar-manipulacoes-de-imagens-de-rostos)
 
 **NOVEMBRO 30**
 
