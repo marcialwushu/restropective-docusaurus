@@ -89,6 +89,7 @@ title: NOVEMBRO
 - [Startup canadiense ofrece préstamos en DAI respaldados por bitcoins](https://www.criptonoticias.com/negocios/servicios-financieros/startup-canadiense-prestamos-dai-respaldados-bitcoins/)
 - [Jovem cria sistemas de câmaras e videomapping para ajudar automobilistas a ver melhor](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-04-Jovem-cria-sistemas-de-camaras-e-videomapping-para-ajudar-automobilistas-a-ver-melhor)
 - [Investigadores recriam acidentalmente a detonação do Big Bang](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-04-Investigadores-recriam-acidentalmente-a-detonacao-do-Big-Bang)
+- [SEI Technical Staff Members Win 2019 ISLA Award](https://www.sei.cmu.edu/news-events/news/article.cfm?assetId=635746)
 
 **NOVEMBRO 05**
 
@@ -168,6 +169,7 @@ title: NOVEMBRO
 - [Thousands of explosive Facebook internal documents and emails published online](https://bit.ly/2Q2d5dE)
 - [Being a good guy boss left me £1.2m in debt](https://bit.ly/2NSejWb)
 - [Rust 1.39.0 (async/await) released](https://bit.ly/33D0Zvu)
+- [SATURN Conference on Software Architecture Opens Call for Submissions](https://www.sei.cmu.edu/news-events/news/article.cfm?assetId=635803)
 
 
 **NOVEMBRO 08**
