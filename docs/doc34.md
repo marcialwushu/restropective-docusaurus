@@ -155,6 +155,8 @@ title: AGOSTO
 
 **AGOSTO 24**
 
+- [Astronauta da NASA acusada de invadir conta bancária do espaço](https://suporteninja.com/astronauta-da-nasa-acusada-de-invadir-conta-bancaria-do-espaco/)
+
 **AGOSTO 25**
 
 **AGOSTO 26**
