@@ -42,3 +42,25 @@ title: FEVEREIRO
 **FEVEREIRO 19**
 
 - [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
+
+**FEVEREIRO 20**
+
+**FEVEREIRO 21**
+
+**FEVEREIRO 22**
+
+**FEVEREIRO 23**
+
+**FEVEREIRO 24**
+
+- [[**EVENTO**]: RSA Conference 2020 USA - WHERE THE WORLD TALKS SECURITY](https://www.rsaconference.com/)
+
+**FEVEREIRO 25**
+
+**FEVEREIRO 26**
+
+**FEVEREIRO 27**
+
+**FEVEREIRO 28**
+
+
