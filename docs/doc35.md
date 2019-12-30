@@ -144,6 +144,7 @@ title: SETEMBRO
 - Google rolls out Family Link per-app time limits and bonus time
 - Alexa users can soon donate to U.S. presidential candidates
 - Facebook confirms it collected audio of people talking to its Portal devices and had it transcribed 
+- [[**EVENTO**]: SCSS 2019 Software and Cyber Solutions Symposium 2019: Benefits and Risks of Cloud Computing](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=634916)
 
 **SETEMBRO 19**
 
