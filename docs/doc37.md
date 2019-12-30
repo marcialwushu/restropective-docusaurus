@@ -141,6 +141,15 @@ title: NOVEMBRO
 - [In Praise of the 5-Hour Workday, and Other ‘Radical’ Ideas](https://bit.ly/2pBvcN3)
 - [The new dot com bubble is here: it’s called online advertising](https://bit.ly/34AFGek)
 - [Better World Books and the Internet Archive Unite to Preserve Millions of Books](https://bit.ly/2Clc34E)
+- [Presentan ante la SEC y el FBI quejas contra la casa de cambio Bitinka](https://www.criptonoticias.com/gobierno/judicial/presentan-sec-fbi-quejas-casa-cambio-bitinka/)
+- [10 usuarios de contratos de préstamo en MakerDAO concentran 40% del suministro de DAI](https://www.criptonoticias.com/negocios/servicios-financieros/10-usuarios-contratos-prestamo-makerdao-concentran-40pc-dai/)
+- [China descarta plan para eliminar la minería de Bitcoin](https://www.criptonoticias.com/gobierno/regulacion/china-descarta-plan-clasificar-eliminar-mineria-bitcoin/)
+- [Coingaming se asocia con la Fundación TRON para ofrecer el futuro de los juegos TRX](https://www.criptonoticias.com/comunidad/coingaming-asocia-fundacion-tron-futuro-juegos-trx/)
+- [Nueva aplicación permite hacer pagos de Lightning Network con bitcoin y ether](https://www.criptonoticias.com/negocios/servicios-financieros/aplicacion-pagos-lightning-network-bitcoin-ether/)
+- [Reguladores de Hong Kong aplicarán nuevo esquema a casas de cambio de criptomonedas](https://www.criptonoticias.com/mercados/reguladores-hong-kong-nuevo-esquema-casas-cambio-criptomonedas/)
+- [Proyecto Aragon se opone a realizar cambios en la minería de Ethereum](https://www.criptonoticias.com/gobierno/votaciones/aragon-opone-cambios-mineria-ethereum/)
+- [Hackatón Stratis ofrece USD 18.000 en premios a desarrolladores de contratos inteligentes](https://www.criptonoticias.com/comunidad/hackaton-stratis-ofrece-premios-desarrolladores-contatos-inteligentes/)
+- [Venezuela: decretan obligatoriedad de llevar registro contable expresado en petros](https://www.criptonoticias.com/gobierno/venezuela-decretan-obligatoriedad-registro-contable-petros/)
 
 
 **NOVEMBRO 07**
