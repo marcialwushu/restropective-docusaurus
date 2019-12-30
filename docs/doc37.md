@@ -170,6 +170,15 @@ title: NOVEMBRO
 - [Being a good guy boss left me £1.2m in debt](https://bit.ly/2NSejWb)
 - [Rust 1.39.0 (async/await) released](https://bit.ly/33D0Zvu)
 - [SATURN Conference on Software Architecture Opens Call for Submissions](https://www.sei.cmu.edu/news-events/news/article.cfm?assetId=635803)
+- [Bitcoin está entre las 140 economías más grandes del mundo](https://www.criptonoticias.com/redes-protocolos/bitcoin-140-economias-grandes-mundo/)
+- [Cofundador de Bitmain asegura que tomará acciones legales tras ser despedido](https://www.criptonoticias.com/comunidad/cofundador-bitmain-tomara-acciones-legales-despedido/)
+- [Con el mercado en rojo, precio de tezos sube más de 25%](https://www.criptonoticias.com/mercados/precios-trading/mercado-rojo-precio-tezos-sube-mas-25/)
+- [Venezuela: analistas estiman que registro contable en petro distorsiona la economía](https://www.criptonoticias.com/gobierno/venezuela-analistas-registro-contable-petro-distorsiona-economia/)
+- [AI & Blockchain Malta Summit: lugar de encuentro para emprendedores e inversionistas](https://www.criptonoticias.com/comunidad/eventos/aiblockchain-malta-summit-encuentro-emprendores-inversionistas/)
+- [Fabricante de monederos Trezor niegan vínculos con el gobierno venezolano](https://www.criptonoticias.com/gobierno/monederos-trezor-niegan-vinculos-gobierno-venezolano/)
+- [Búsquedas de empleos relacionadas con criptomonedas disminuyen en la plataforma Indeed](https://www.criptonoticias.com/comunidad/adopcion/busquedas-empleos-relacionados-con-criptomonedas-disminuyen-plataforma-indeed/)
+- [DAI alcanza límite de emisión 10 días antes del lanzamiento de su versión multicolateral](https://www.criptonoticias.com/redes-protocolos/dai-alcanza-limite-emision-antes-lanzamiento-version-multicolateral/)
+- [La Unión Europea apoya la emisión de monedas digitales de bancos centrales](https://www.criptonoticias.com/gobierno/regulacion/union-europea-apoya-monedas-digitales/)
 
 
 **NOVEMBRO 08**
