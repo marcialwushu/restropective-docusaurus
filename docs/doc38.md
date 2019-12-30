@@ -190,6 +190,7 @@ title: DEZEMBRO
 - WhatsApp now lets you create reminders, tasks thanks to Any.do integration
 - [Urbit: a cripto que você só entenderá quando for tarde demais](http://www.criptofacil.com/urbit-a-cripto-que-voce-so-entendera-quando-for-tarde-demais/)
 - [Thales inaugura primeiro Design Center da América Latina](http://www.defesanet.com.br/cyberwar/noticia/35135/Thales-inaugura-primeiro-Design-Center-da-America-Latina/)
+- [CIMON 2: um robô de emoções na Estação Espacial Internacional](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-06-CIMON-2-um-robo-de-emocoes-na-Estacao-Espacial-Internacional)
 
 **DEZEMBRO 07**
 
@@ -198,6 +199,8 @@ title: DEZEMBRO
 - [Microsoft lança programa de recompensas baseado na blockchain do Ethereum](https://www.criptofacil.com/microsoft-lanca-programa-de-recompensas-baseado-na-blockchain-do-ethereum/)
 
 **DEZEMBRO 09**
+
+- [Compreender o futuro: Mineração de asteroides](http://exameinformatica.sapo.pt/tutoriais/o-que-e-/2019-12-09-Compreender-o-futuro-Mineracao-de-asteroides)
 
 **DEZEMBRO 10**
 
@@ -213,6 +216,7 @@ title: DEZEMBRO
 
 - [Irã diz que impediu ataque cibernético de larga escala lançado por governo estrangeiro](http://www.defesanet.com.br/cyberwar/noticia/35189/Ira-diz-que-impediu-ataque-cibernetico-de-larga-escala-lancado-por-governo-estrangeiro/)
 - [MBl participa da 2ª Reunião do Grupo de Trabalho Interforças do Setor Cibernético](http://www.defesanet.com.br/cyberwar/noticia/35188/MBl-participa-da-2%C2%AA-Reuniao-do-Grupo-de-Trabalho-Interforcas-do-Setor-Cibernetico/)
+- [Solar Orbiter: satélite da ESA vai observar o Sol com tecnologia portuguesa a bordo](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-11-Solar-Orbiter-satelite-da-ESA-vai-observar-o-Sol-com-tecnologia-portuguesa-a-bordo)
 
 **DEZEMBRO 12**
 
@@ -235,6 +239,8 @@ title: DEZEMBRO
 - For better photos online, Twitter now preserves color details it used to smear
 - Google is bringing spam detection and verified business messaging to Messages
 - Quantum computing leaps ahead in 2019 with new power and speed
+- [INESC TEC e Hospital de São João criam sistema de diagnóstico de nódulos pulmonares](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-12-INESC-TEC-e-Hospital-de-Sao-Joao-criam-sistema-de-diagnostico-de-nodulos-pulmonares)
+- [Stratospolca: de Coimbra para estratosfera para medir radiações num balão da ESA](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-12-Stratospolca-de-Coimbra-para-estratosfera-para-medir-radiacoes-num-balao-da-ESA)
 
 **DEZEMBRO 13**
 
@@ -270,6 +276,10 @@ title: DEZEMBRO
 
 **DEZEMBRO 16**
 
+- [Máscaras e fotos iludem sistemas de reconhecimento facial](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-16-Mascaras-e-fotos-iludem-sistemas-de-reconhecimento-facial)
+- [Estudo sobre melhoria da qualidade de imagens ganha prémio científico IBM](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-16-Estudo-sobre-melhoria-da-qualidade-de-imagens-ganha-premio-cientifico-IBM)
+- [Cheops parte terça-feira em busca de exoplanetas com tecnologia portuguesa](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-16-Cheops-parte-terca-feira-em-busca-de-exoplanetas-com-tecnologia-portuguesa)
+
 **DEZEMBRO 17**
 
 - Twitter is down for tens of thousands of users in the US and Europe
@@ -281,8 +291,13 @@ title: DEZEMBRO
 - Tesla is going to deploy a big battery in Alaska to replace fossil-fuel plant
 - Sony’s new Back Button Attachment brings customizable paddles to the DualShock 4
 - Instagram is rolling out an anti-bullying tool that detects offensive captions
+- [Prémio Científico IBM: Como as relações entre píxeis ajudam a melhorar uma imagem](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-17-Premio-Cientifico-IBM-Como-as-relacoes-entre-pixeis-ajudam-a-melhorar-uma-imagem)
+- [Investigadores de Coimbra testam colmeias inteligentes de baixo custo](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-17-Investigadores-de-Coimbra-testam-colmeias-inteligentes-de-baixo-custo)
 
 **DEZEMBRO 18**
+
+- [Nanossatélite universitário vence prémio de investigação da Anacom](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-18-Nanossatelite-universitario-vence-premio-de-investigacao-da-Anacom)
+- [União Astronómica Internacional aprova exoplaneta Viriato e estrela Lusitânia](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-18-Uniao-Astronomica-Internacional-aprova-exoplaneta-Viriato-e-estrela-Lusitania)
 
 **DEZEMBRO 19**
 
@@ -294,6 +309,7 @@ title: DEZEMBRO
 - Snapchat Scan Signs on McDonald’s, Coca-Cola as First Brands
 - Samsung Galaxy S11's Cameras Reportedly Capable of 5X Optical Zoom and 8K Video
 - Tesla Supercharger network reaches 15,000 chargers — still one of its best assets
+- [IBM cria conceito de baterias sem metais pesados e mais “verdes”](http://exameinformatica.sapo.pt/noticias/ciencia/2019-12-19-IBM-cria-conceito-de-baterias-sem-metais-pesados-e-mais-verdes)
 
 **DEZEMBRO 20**
 
@@ -344,6 +360,8 @@ title: DEZEMBRO
 - [10 tecnologias incríveis que não existiam no início da década de 2010](https://pcworld.com.br/10-tecnologias-incriveis-que-nao-existiam-no-inicio-da-decada-de-2010/)
 - [Funcionários da Huawei confirmam que P40 não terá bateria de grafeno](https://pcworld.com.br/funcionarios-da-huawei-confirmam-que-p40-nao-tera-bateria-de-grafeno/)
 - [Golpe ambicioso no PayPal rouba dados do cartão de crédito da vítima](https://olhardigital.com.br/noticia/golpe-ambicioso-no-paypal-rouba-dados-do-cartao-de-credito-da-vitima/94782?fbclid=IwAR2hi7U6usg-vM8ZQ9T1yyUaDgtq64riiwxeUcD0Gfn6awnK9jHc0WRpxyU)
+- [Estágio capacita operadores do Sistema REMAX](http://www.defesanet.com.br/guarani/noticia/35301/Estagio-capacita-operadores-do-Sistema-REMAX/)
+- [KC-390 Millennium - Completa testes bem-sucedidos de lançamento de cargas em voo](http://www.defesanet.com.br/kc390/noticia/35306/-KC-390-Millennium---Completa-testes-bem-sucedidos-de-lancamento-de-cargas-em-voo/)
 
 **DEZEMBRO 27**
 
