@@ -405,3 +405,17 @@ title: DEZEMBRO
 - Samsung Galaxy Fold 2 could hit stores before S11 series
 
 **DEZEMBRO 31**
+
+- [New Material Breaks World Record Turning Heat into Electricity](https://bit.ly/35ettvI)
+- [Too Much Crypto pdf](https://bit.ly/2QweWGA)
+- [Ask HN: How do I choose the right resource to learn CS fundamentals?](https://bit.ly/39u04kn)
+- [The battle to save America’s undercover spies in the digital age](https://bit.ly/2Q8HEOG)
+- [The Immortal Game](https://bit.ly/2tiNdkq)
+- [KernType – A Kerning Game](https://bit.ly/39rKiXl)
+- [IRS Reforms Free File Program, Drops Agreement Not to Compete with TurboTax](https://bit.ly/2tg3mr0)
+- [Show HN: One Page Calendar 2020](https://bit.ly/39rCBjZ)
+- [Marijuana laws appear to significantly reduce prescription opioid use](https://bit.ly/2SGKxbd)
+- [The Old Internet Died and We Watched and Did Nothing](https://bit.ly/2F71Euz)
+- [All DMCA Notices Filed Against TorrentFreak in 2019 Were Bogus](https://bit.ly/2rJe6Oh)
+- [Show HN: A tiny isometric city builder in JavaScript](https://bit.ly/36fKw1F)
+
