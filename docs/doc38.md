@@ -167,6 +167,7 @@ title: DEZEMBRO
 - 	[Teles lançam site Fique Antenado! para incentivar instalação de antenas](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52380&sid=8)
 - [A Agência Espacial Europeia (ESA) aprovou oficialmente a missão Hera, que vai avaliar os resultados do Teste de Redirecionamento Duplo de Asteroides (DART) da Nasa](https://www.trendsmap.com/twitter/tweet/1201983950450778115)
 - 	[Motorola lança o One Hyper, aparelho com câmera frontal pop-up](https://olhardigital.com.br/noticia/motorola-lanca-o-one-hyper-aparelho-com-camera-frontal-pop-up/93829)
+
 **DEZEMBRO 05**
 
 - [Safeweb lança um novo tipo de certificado digital voltado para emissão de notas fiscais: PJ NF-e](https://cryptoid.com.br/certificacao-digital/safeweb-lanca-um-novo-tipo-de-certificado-digital-voltado-para-emissao-de-notas-fiscais-pj-nf-e/)
