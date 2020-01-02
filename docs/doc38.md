@@ -395,4 +395,13 @@ title: DEZEMBRO
 
 **DEZEMBRO 30**
 
+- Sketchy Rumor Claims Apple Plans to Announce High-End Gaming MacBook or iMac at WWDC 2020
+- Tesla batteries help power new solar water desalination plant in Africa
+- Paisley Park announces movie series in January
+- Chinese start-up Mobike loses more than 200,000 bikes
+- Tesla delivers first China-made cars from $5bn Shanghai factory
+- (RED) Apple Watch found in Apple database, could arrive next spring
+- WhatsApp to stop working on older Windows, Android and iOS smartphones in the new year
+- Samsung Galaxy Fold 2 could hit stores before S11 series
+
 **DEZEMBRO 31**
