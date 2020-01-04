@@ -376,6 +376,8 @@ title: DEZEMBRO
 - [O que é nomofobia? Entenda o transtorno de quem não consegue sair do celular](https://pcworld.com.br/o-que-e-nomofobia-entenda-o-transtorno-de-quem-nao-consegue-sair-do-celular/)
 - [WhatsApp poderá deletar mensagens em grupos automaticamente](https://pcworld.com.br/whatsapp-podera-deletar-mensagens-em-grupos-automaticamente/)
 - [Contrariando operadoras, Apple quer transmitir internet via satélite para iPhones](https://epocanegocios.globo.com/Empresa/noticia/2019/12/contrariando-operadoras-apple-quer-transmitir-internet-satelite-para-iphones.html?fbclid=IwAR2a4g5rknwL14x_oGDwX_35jx75OICFHAsn_V9VWQAz7mm9hYcMhHtPiKs)
+- [minicerebros-criados-em-laboratorio-podem-desenvolver-consciencia-olhar-digital](https://olhardigital.com.br/noticia/minicerebros-criados-em-laboratorio-podem-desenvolver-consciencia/94807)
+- [Teletransporte quântico funciona em chips pela primeira vez](https://olhardigital.com.br/noticia/teletransporte-quantico-funciona-em-chips-pela-primeira-vez/94806)
 
 
 **DEZEMBRO 28**
@@ -386,6 +388,10 @@ title: DEZEMBRO
 - YouTube no longer requires removal of entire video for copyright strikes
 - Porsche 911, Ready to Crush Baja, Now for Sale from Russell Built Fabrications
 - Spotify to Suspend Political Ads in 2020
+- [Correios lançam webchat, mas serviço ainda é muito limitado](https://www.portaltvcariri.com.br/correios-lancam-webchat-mas-servico-ainda-e-muito-limitado/)
+- [Volkswagen cria robô que fala com carros e recarrega veículos elétricos](https://www.euqueroinvestir.com/volkswagen-cria-robo-que-fala-com-carros-e-recarrega-veiculos-eletricos/)
+- [Carros elétricos no Brasil: conheça os desafios e os veículos no país](https://www.feasalinformatica.com.br/carros-eletricos-no-brasil-conheca-os-desafios-e-os-veiculos-no-pais-olhar-digital/&ct=ga&cd=CAEYACoTMjA1MzQ5MzkyNjgwNzMxOTk5MzIaY2E0OWIxZmVjYWFhN2MyYjpjb206cHQ6VVM&usg=AFQjCNGsZjXXAW-4zNgt26MfgCQHzOs9XQ)
+- [Cientistas estudam como remover radiação do espaço após ataque nuclear](https://olhardigital.com.br/ciencia-e-espaco/noticia/cientistas-estudam-como-remover-radiacao-do-espaco-apos-ataque-nuclear/94827)
 
 **DEZEMBRO 29**
 
@@ -404,6 +410,10 @@ title: DEZEMBRO
 - (RED) Apple Watch found in Apple database, could arrive next spring
 - WhatsApp to stop working on older Windows, Android and iOS smartphones in the new year
 - Samsung Galaxy Fold 2 could hit stores before S11 series
+- [Tendências para 2020: novas espaçonaves, telas dobráveis e avanço do 5G](https://noticias.r7.com/tecnologia-e-ciencia/tendencias-para-2020-novas-espaconaves-telas-dobraveis-e-avanco-do-5g-30122019)
+- [Brasil multa Facebook em R$ 6,6 mi por compartilhamento de dados](https://noticias.r7.com/tecnologia-e-ciencia/brasil-multa-facebook-em-r-66-mi-por-compartilhamento-de-dados-30122019)
+- [Chinês que modificou bebês geneticamente é condenado](https://noticias.r7.com/internacional/chines-que-modificou-bebes-geneticamente-e-condenado-30122019)
+- [Mercado de tecnologia está carente de engenheiros formados](https://noticias.r7.com/minas-gerais/mg-record/videos/mercado-de-tecnologia-esta-carente-de-engenheiros-formados-30122019)
 
 **DEZEMBRO 31**
 
@@ -419,4 +429,7 @@ title: DEZEMBRO
 - [The Old Internet Died and We Watched and Did Nothing](https://bit.ly/2F71Euz)
 - [All DMCA Notices Filed Against TorrentFreak in 2019 Were Bogus](https://bit.ly/2rJe6Oh)
 - [Show HN: A tiny isometric city builder in JavaScript](https://bit.ly/36fKw1F)
+- [Carro autônomo faz manobras em alta velocidade e com precisão](https://noticias.r7.com/tecnologia-e-ciencia/carro-autonomo-faz-manobras-em-alta-velocidade-e-com-precisao-31122019)
+- [Governo lança plataforma para integrar dados sobre impactos da mudança do clima](https://www.em.com.br/app/noticia/nacional/2019/12/31/interna_nacional,1111379/governo-lanca-plataforma-para-integrar-dados-sobre-impactos-da-mudanca.shtml)
+- [Pessoas esperam por robôs e carros voadores em 2020](https://noticias.r7.com/rio-de-janeiro/balanco-geral-rj/videos/pessoas-esperam-por-robos-e-carros-voadores-em-2020-31122019)
 
