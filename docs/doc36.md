@@ -94,6 +94,7 @@ title: OUTUBRO
 - Sony PlayStation 5 to launch in late 2020
 - NapBot is a sleep tracker for Apple Watch powered by CoreML
 - Apple starts selling Microsoft’s Xbox controller after adding support in iOS, macOS, and tvOS
+- [The Anonymous Million Mask March 2019 will be bigger than ever](http://web.archive.org/web/20191209060105/https://www.cyberguerrilla.org/blog/the-anonymous-million-mask-march-2019-will-be-bigger-than-ever/)
 
 **OUTUBRO 10**
 
