@@ -45,3 +45,23 @@ title: JANEIRO 2020
 **JANEIRO 09**
 
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
+
+**JANEIRO 10**
+
+**JANEIRO 11**
+
+**JANEIRO 12**
+
+**JANEIRO 13**
+
+**JANEIRO 14**
+
+**JANEIRO 15**
+
+**JANEIRO 16**
+
+- [[**EVENTO**]: DigiHealthSouth 2020 : DigiHealthSouth 2020 - EAI International Conference on Digital Healthcare Technologies for the Global South](http://digihealthsouth.org/)
+
+**JANEIRO 17**
+
+- [[**EVENTO**]: DigiHealthSouth 2020 : DigiHealthSouth 2020 - EAI International Conference on Digital Healthcare Technologies for the Global South](http://digihealthsouth.org/)
