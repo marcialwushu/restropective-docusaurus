@@ -17,13 +17,27 @@ title: FEVEREIRO
 
 **FEVEREIRO 07**
 
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+
 **FEVEREIRO 08**
+
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
 
 **FEVEREIRO 09**
 
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+
 **FEVEREIRO 10**
 
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+
+**FEVEREIRO 11**
+
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+
 **FEVEREIRO 12**
+
+- [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
 
 **FEVEREIRO 13**
 
