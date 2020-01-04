@@ -29,6 +29,7 @@ title: NOVEMBRO
 - [Setting up a home VPN server with WireGuard](https://bit.ly/2qaYthu)
 - [Ask HN: Who is hiring? (November 2019)](https://bit.ly/2WwMoPP)
 - [How One Company Surveils Everything Kids Do and Say in School](https://bit.ly/2PDuglS)
+- [Everything You Need To Know About London's Million Mask March 2019](https://londonist.com/london/politics/everything-you-need-to-know-about-london-s-million-mask-march)
  
 
 **NOVEMBRO 02**
@@ -116,6 +117,7 @@ title: NOVEMBRO
 - [Siri, Google Assistant, and Amazon Alexa can be hijacked with $14 laser pointer pdf](https://bit.ly/32jO2VW)
 - [C++ 20: The Core Language](https://bit.ly/2Ni12r8)
 - [A Inteligência Artificial pode ser perigosa? Depende dos professores](http://exameinformatica.sapo.pt/web-summit/2019-11-05-A-Inteligencia-Artificial-pode-ser-perigosa--Depende-dos-professores)
+- [Million Mask March 2019 London: Protest route and time, plus who are Anonymous?](https://www.standard.co.uk/news/london/million-mask-march-london-2019-anonymous-bonfire-night-protest-a4279251.html)
 
 
 
