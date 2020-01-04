@@ -17,6 +17,12 @@ title: JANEIRO 2020
 
 - [Detox digital: 6 passos para dar uma pausa nas redes sociais](https://oglobo.globo.com/rio/bairros/detox-digital-6-passos-para-dar-uma-pausa-nas-redes-sociais-24161380)
 - [Faculdades americanas investem em tecnologia para rastrear alunos](https://olhardigital.com.br/noticia/faculdades-americanas-investem-em-tecnologia-para-rastrear-alunos/94895)
+- Apple reunites with iPhone graphics chip partner to license technology
+- Dell’s latest XPS 13 has a new design with a bigger display and Ice Lake chips
+- Xiaomi might become first company to support India’s own GPS in phones
+- Dell laptops will soon be able to sync and mirror the iPhone screen on Windows
+- Samsung’s Galaxy Book Flex Alpha aims to be a cheaper QLED 2-in-1 laptop
+- Apple to Attend CES 2020 in Rare Official Appearance
 
 **JANEIRO 03**
 
