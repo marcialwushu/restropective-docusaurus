@@ -66,6 +66,7 @@ title: JANEIRO 2020
 **JANEIRO 07**
 
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
+- [Contratação uberizada de professores por aplicativo já é realidade](https://www.extraclasse.org.br/educacao/2020/01/contratacao-uberizada-de-professores-por-aplicativo-ja-e-realidade/)
 
 **JANEIRO 08**
 
