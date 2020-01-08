@@ -12,6 +12,12 @@ title: JANEIRO 2020
 - [Android vai parar de dividir gravações de vídeo em vários arquivos](https://flipboard.com/@OlharDigital/android-vai-parar-de-dividir-grava-es-de-v-deo-em-v-rios-arquivos/a-4CSVCCJ8QquKYCvAwMq5ZA%3Aa%3A138775667-b37d51ca28%2Fcom.br)
 - [Xiaomi anuncia seu primeiro lançamento de 2020: o Xiaomi Watch Color](https://flipboard.com/@OlharDigital/xiaomi-anuncia-seu-primeiro-lan-amento-de-2020-o-xiaomi-watch-color/a-yvKEVJD9SEOxnRrR086f_w%3Aa%3A138775667-7480799934%2Fcom.br)
 - [Site da Caixa Econômica Federal enfrenta instabilidade nesta terça-feira](https://olhardigital.com.br/noticia/site-da-caixa-economica-federal-enfrenta-instabilidade/94881)
+- [Cientista que editou o DNA de bebês é condenado a três anos de prisão](https://tecnoblog.net/319663/cientista-que-editou-o-dna-de-bebes-e-condenado-a-tres-anos-de-prisao/)
+- [ProtonCalendar é a alternativa criptografada ao Google Agenda](https://tecnoblog.net/319640/protoncalendar-alternativa-criptografada-google-agenda/)
+- [Mazda diz que carros elétricos podem ser piores que diesel para o ambiente, mas calma](https://tecnoblog.net/319636/mazda-diz-que-carros-eletricos-podem-ser-piores-que-diesel-para-o-ambiente-mas-calma/)
+- [eBay alerta brasileiros sobre exigência de CPF em importações](https://tecnoblog.net/319626/ebay-alerta-brasileiros-exigencia-cpf-importacoes/)
+- [WhatsApp para de funcionar em Windows Phones](https://tecnoblog.net/319536/whatsapp-para-de-funcionar-em-windows-phones/)
+- [Retrospectiva 2019: Amazon mais forte, guerra do streaming, erros do Facebook e mais](https://tecnoblog.net/319408/retrospectiva-2019-tecnologia-amazon-5g-casa-conectada-streaming-facebook/)
 
 **JANEIRO 02**
 
@@ -26,7 +32,30 @@ title: JANEIRO 2020
 
 **JANEIRO 03**
 
+- [Índia confirma que tentará novamente pousar na Lua com a missão Chandrayaan-3](https://canaltech.com.br/espaco/india-confirma-que-tentara-novamente-pousar-na-lua-com-a-missao-chandrayaan-3-158600/)
+- [Fique de olho nesses eventos astronômicos que acontecem em 2020](https://technanet.com.br/2020/01/02/fique-de-olho-nesses-eventos-astronomicos-que-acontecem-em-2020/)
+- [CES 2020 | Dell anuncia novos XPS 13 com tela 16:10, e Latitude 9000 com 5G](https://technanet.com.br/2020/01/02/ces-2020-dell-anuncia-novos-xps-13-com-tela-1610-e-latitude-9000-com-5g/)
+- [Novos iPhones serão os primeiros a ter um processador de 5 nm](https://canaltech.com.br/smartphone/novos-iphones-serao-os-primeiros-a-ter-um-processador-de-5nm-158597/)
+- [De olho na saúde | Conheça os 5 maiores unicórnios entre as HealthTechs](https://canaltech.com.br/saude/de-olho-na-saude-conheca-os-5-maiores-unicornios-em-health-tech-158155/)
+- [Como deixar seu Android com a aparência do iOS](https://technanet.com.br/2020/01/02/como-deixar-seu-android-com-a-aparencia-do-ios/)
+- [China testa com sucesso sua própria vela solar na órbita da Terra](https://noticiasamericadosul.com/2020/01/02/china-testa-com-sucesso-sua-propria-vela-solar-na-orbita-da-terra-canaltech/)
+- [Xiaomi anuncia investimentos de US$ 7 bi em 5G, inteligência artificial e IoT](https://canaltech.com.br/negocios/xiaomi-anuncia-investimentos-de-us-7-bi-em-5g-inteligencia-artificial-e-iot-158609/)
+- [Intel Core i9-10900K pode ser até 30% mais rápido que o 9900K, aponta rumor](https://technanet.com.br/2020/01/03/intel-core-i9-10900k-pode-ser-ate-30-mais-rapido-que-o-9900k-aponta-rumor/)
+
 **JANEIRO 04**
+
+- [Kohler Moxie Showerhead é um chuveiro que traz alto-falante e Alexa](https://tecnoblog.net/320006/kohler-moxie-showerhead-chuveiro-alto-falante-inteligente-alexa/)
+- [LG anuncia oito novas TVs 8K com Alexa e Google Assistente](https://tecnoblog.net/320001/lg-anuncia-oito-tvs-8k-alexa-google-assistente/)
+- [PS Plus de janeiro tem os Uncharted e Goat Simulator nos jogos grátis](https://tecnoblog.net/319995/ps-plus-de-janeiro-tem-uncharted-e-goat-simulator-nos-jogos-gratis/)
+- [Segway prepara S-Pod, inspirado em veículo de Jurassic World](https://tecnoblog.net/319933/segway-prepara-s-pod-veiculo-inspirado-jurassic-world/)
+- [LG G8X ThinQ: duas telas sem hype](https://tecnoblog.net/319084/lg-g8x-thinq-review/)
+- [Samsung Galaxy Note 10 Lite tem S Pen, câmera tripla e entrada para fone](https://tecnoblog.net/319970/samsung-galaxy-note-10-lite-tem-s-pen-camera-tripla-e-entrada-para-fone/)
+- [Odyssey G9 e G7 são os monitores curvos da Samsung com QLED e 240 Hz](https://tecnoblog.net/319962/samsung-odyssey-g9-g7-monitores-gamer-240-hz-qled/)
+- [Samsung Galaxy S10 Lite tem Snapdragon 855, câmera de 48 MP e bateria grande](https://tecnoblog.net/319940/samsung-galaxy-s10-lite-snapdragon-855-camera-tripla-48-megapixels/)
+- [OnePlus Concept One é um celular com câmera traseira "invisível"](https://tecnoblog.net/319814/oneplus-concept-one-celular-camera-traseira-invisivel/)
+- [Disney+ estreou há dois meses, mas já tem filmes retirados do catálogo](https://tecnoblog.net/319881/disney-plus-perde-filmes-acordos-licenciamento/)
+- [WhatsApp quebra recorde no Ano Novo com 100 bilhões de mensagens enviadas](https://tecnoblog.net/319836/whatsapp-quebra-recorde-100-bilhoes-mensagens-enviadas/)
+- [Xiaomi adia lançamento do Mi Mix Alpha com tela surround e 108 MP](https://tecnoblog.net/319817/xiaomi-adia-lancamento-mi-mix-alpha-tela-surround-108-mp/)
 
 **JANEIRO 05**
 
