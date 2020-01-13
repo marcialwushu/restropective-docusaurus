@@ -226,6 +226,10 @@ title: NOVEMBRO
 
 **NOVEMBRO 18**
 
+- [What is the hot new “Boundaryless Retail” trend?](https://retailinasia.com/in-markets/what-is-the-hot-new-boundaryless-retail-trend/)
+
+
+
 **NOVEMBRO 19**
 
 - Google to soon allow users to comment on search results
