@@ -348,6 +348,7 @@ title: NOVEMBRO
 - [Deucalion, o supercomputador que reforça Portugal](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-Deucalion-o-supercomputador-que-reforca-Portugal)
 - [Campinas será a primeira cidade a testar IoT com dinheiro do BNDES](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=52314&sid=14)
 - [BPI anuncia prémio para startups com menos de três anos](http://exameinformatica.sapo.pt/noticias/ciencia/2019-11-26-BPI-anuncia-premio-para-startups-com-menos-de-tres-anos)
+- [China Smartphone Market Share: By Quarter](https://www.counterpointresearch.com/china-smartphone-share/)
 
 **NOVEMBRO 27**
 
