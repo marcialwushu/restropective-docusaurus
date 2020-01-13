@@ -72,9 +72,15 @@ title: JANEIRO 2020
 
 **JANEIRO 05**
 
+- [Celulares refabricados](https://flipboard.com/@OlharDigital/celulares-refabricados/a-o5TbSMfiRpWa2s64etE-Gg%3Aa%3A39599696-3a708a14c7%2Fcom.br)
+- [IPTV é legal?](https://flipboard.com/@OlharDigital/iptv-legal/a-jAg3xrCMQsuOHQ5f_vq37g%3Aa%3A39599696-9e4214af25%2Fcom.br)
+- [Descarte de equipamentos amplia ações de inclusão digital](https://www.atarde.uol.com.br/educacao/noticias/2114537-descarte-de-equipamentos-amplia-acoes-de-inclusao-digital)
+
 **JANEIRO 06**
 
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
+- [PlayStation 5 pode ser anunciado já durante a CES 2020](https://olhardigital.com.br/ces-2020/noticia/playstation-5-deve-ser-anunciado-essa-semana-durante-a-ces-2020/94955)
+- [Xiaomi Mi 10 tem primeiras fotos vazadas; confira](https://olhardigital.com.br/noticia/xiaomi-mi-10-tem-primeiras-fotos-vazadas-confira/94959)
 
 **JANEIRO 07**
 
