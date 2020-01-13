@@ -40,6 +40,7 @@ title: OUTUBRO
 - Tesla owners try new "Smart Summon" feature, cause parking lot chaos
 - Yahoo Engineer Admits He Hacked User Accounts to Hunt for Nudes
 - [Samsung ends mobile phone production in China](https://www.reuters.com/article/us-samsung-elec-china/samsung-ends-mobile-phone-production-in-china-idUSKBN1WH0LR)
+- [Sorria para pagar, dados e mais: a revolução do varejo já começou na China...](https://copyfromchina.blogosfera.uol.com.br/2019/10/02/sorria-para-pagar-dados-e-mais-a-revolucao-do-varejo-ja-comecou-na-china/) 
 
 **OUTUBRO 03**
 
