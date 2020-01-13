@@ -14,6 +14,7 @@ title: JUNHO
 - Spotify will scale back its “Hateful Conduct” policy
 - LG’s G7 ThinQ is now available to buy in the US
 - Ginger emojis will launch next week, along with bagels, superheroes and toilet paper
+- [Tencent joins forces with Wanda for omnichannel](https://retailinasia.com/in-tech/it-solutions/retail_systems/tencent-joins-forces-with-wanda-for-omnichannel/)
 
 **JUNHO 02**
 
