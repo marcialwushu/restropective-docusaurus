@@ -215,7 +215,7 @@ title: SETEMBRO
 
 **SETEMBRO 30**
 
-
+- [Huawei vai liderar implantação da rede 5G da Rússia](https://m.tecmundo.com.br/amp/mercado/146356-huawei-liderar-implantacao-rede-5g-da-russia.htm)
 - Samsung Galaxy Fold is coming to India soon
 - Apple Releases watchOS 6.0.1 With Bug Fixes
 - Apple’s future iPhones may come with LED-illuminated logo
