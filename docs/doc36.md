@@ -39,6 +39,7 @@ title: OUTUBRO
 - Microsoft says new Surface 3x more powerful than MacBook Air
 - Tesla owners try new "Smart Summon" feature, cause parking lot chaos
 - Yahoo Engineer Admits He Hacked User Accounts to Hunt for Nudes
+- [Samsung ends mobile phone production in China](https://www.reuters.com/article/us-samsung-elec-china/samsung-ends-mobile-phone-production-in-china-idUSKBN1WH0LR)
 
 **OUTUBRO 03**
 
