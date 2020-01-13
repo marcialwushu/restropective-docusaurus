@@ -56,6 +56,19 @@ title: JANEIRO 2020
 - [Disney+ estreou há dois meses, mas já tem filmes retirados do catálogo](https://tecnoblog.net/319881/disney-plus-perde-filmes-acordos-licenciamento/)
 - [WhatsApp quebra recorde no Ano Novo com 100 bilhões de mensagens enviadas](https://tecnoblog.net/319836/whatsapp-quebra-recorde-100-bilhoes-mensagens-enviadas/)
 - [Xiaomi adia lançamento do Mi Mix Alpha com tela surround e 108 MP](https://tecnoblog.net/319817/xiaomi-adia-lancamento-mi-mix-alpha-tela-surround-108-mp/)
+- [Como explorar o sistema solar com o Google Maps no PC](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-explorar-o-sistema-solar-com-o-google-maps-no-pc/94937)
+- [Huawei divulga meta para 2020: sobreviver](https://olhardigital.com.br/pro/noticia/huawei-divulga-meta-para-2020-sobreviver/94946)
+- [Tesla deve enfrentar processo por racismo em fábrica na Califórnia](https://flipboard.com/@OlharDigital/tesla-deve-enfrentar-processo-por-racismo-em-f-brica-na-calif-rnia/a-NGQOgkj-RgGj82ejMZfb9Q%3Aa%3A1711410139-7c94cb882e%2Fcom.br)
+- [Samsung apresenta Galaxy S10 Lite e Galaxy Note 10 Lite](https://olhardigital.com.br/ces-2020/noticia/samsung-apresenta-galaxy-s10-lite-e-galaxy-note-10-lite/94943)
+- [Apple pode estar trabalhando no iPhone 9, o sucessor do iPhone SE](https://flipboard.com/@OlharDigital/apple-pode-estar-trabalhando-no-iphone-9-o-sucessor-do-iphone-se/a-bO7vYqiJTcizQZh1dRNHHg%3Aa%3A39599696-91af4200d0%2Fcom.br)
+- [LG apresenta televisões OLED e LCD '8K real' antes da CES](https://noticiasamericadosul.com/2020/01/03/lg-apresenta-televisoes-oled-e-lcd-8k-real-antes-da-ces-olhar-digital/)
+- [Huawei pode investir em mercado de computadores pessoais](https://flipboard.com/@OlharDigital/huawei-pode-investir-em-mercado-de-computadores-pessoais/a-zPmseZa0TdSeC5Dshsp6UQ%3Aa%3A39599696-0a75462e1d%2Fcom.br)
+- [Califórnia será o principal palco na luta pela privacidade tecnológica](https://olhardigital.com.br/fique_seguro/noticia/california-sera-o-principal-palco-na-luta-pela-privacidade-tecnologica/94947)
+- [Xiaomi reconhece falha de privacidade em câmera inteligente](https://www.euqueroinvestir.com/xiaomi-reconhece-falha-de-privacidade-em-camera-inteligente/)
+- [7 tecnologias para acompanhar de perto na CES 2020](https://www.portaltvcariri.com.br/7-tecnologias-para-acompanhar-de-perto-na-ces-2020/)
+- [Loja da Huawei na China troca funcionários humanos por robôs](https://flipboard.com/@OlharDigital/loja-da-huawei-na-china-troca-funcion-rios-humanos-por-rob-s/a-OSog23WNT4e2zrBNwqwYfQ%3Aa%3A39599696-1d90e4012c%2Fcom.br)
+- [Samsung vendeu mais celulares 5G em 2019 do que esperava](https://flipboard.com/@OlharDigital/samsung-vendeu-mais-celulares-5g-em-2019-do-que-esperava/a-wg6No7P7QQGYNmyzU_qSrQ%3Aa%3A39599696-ebe8e23c2d%2Fcom.br)
+- [Superaquecimento de celular causa incêndio e destrói dois apartamentos em SP](https://olhardigital.com.br/noticia/superaquecimento-de-celular-causa-incendio-e-destroi-dois-apartamentos-em-sp/94945)
 
 **JANEIRO 05**
 
