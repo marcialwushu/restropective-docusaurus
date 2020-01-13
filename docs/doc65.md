@@ -101,6 +101,8 @@ title: JANEIRO 2020
 
 **JANEIRO 12**
 
+- [Doze horas por dia! Samsung é acusada de exploração de menores na China](https://www.tudocelular.com/samsung/noticias/n117840/samsung-trabalhadores-exploracao.html)
+
 **JANEIRO 13**
 
 **JANEIRO 14**
