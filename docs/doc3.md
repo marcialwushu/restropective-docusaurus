@@ -214,6 +214,7 @@ title: JANEIRO
 - Austrian data privacy activist files complaint against Apple, Amazon, others
 - Tesla is recalling over 14,000 Model S vehicles exported to China due to Takata airbag issue
 - ES File Explorer has fixed a security vulnerability that let attackers steal files off of your phone. 
+- [“Boundaryless Retail” is the Future of Shopping with the Speed of JD.com](https://products.org/boundaryless-retail-is-the-future-of-shopping-with-the-speed-of-jd-com/)
 
 **JANEIRO 19**
 
