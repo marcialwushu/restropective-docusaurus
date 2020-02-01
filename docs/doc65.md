@@ -86,6 +86,11 @@ title: JANEIRO 2020
 
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
 - [Contratação uberizada de professores por aplicativo já é realidade](https://www.extraclasse.org.br/educacao/2020/01/contratacao-uberizada-de-professores-por-aplicativo-ja-e-realidade/)
+- Sony announces PlayStation 5, electric concept car Vision-S
+- Tesla will design an electric car in China for global market
+- Razer made another Switch-like mobile gamepad, but this one works with Android and iOS
+- Sonos is suing Google in federal court, alleging the company stole its technology
+- Nintendo is now selling a Switch stylus
 
 **JANEIRO 08**
 
@@ -94,6 +99,19 @@ title: JANEIRO 2020
 **JANEIRO 09**
 
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
+- SanDisk Teases the First 8TB Portable SSD
+- After Airtel, Reliance Jio launches voice and video calling over Wi-Fi
+In a first, HDFC Bank launches myApps to boost digital payments
+
+👉🏿Twitter to test 'block all replies' function
+
+👉🏿Uber in India Will Now Ask for 4-Digit OTP Before Starting Trips
+
+👉🏿Microsoft to add new firstline-worker features, like 'Walkie Talkie' voice calls, to Teams
+
+👉🏿LG’s roll-up OLED TV will hide when not in use
+
+👉🏿Facebook will let you reduce the number of political ads you see on Facebook and Instagram
 
 **JANEIRO 10**
 
@@ -116,3 +134,30 @@ title: JANEIRO 2020
 **JANEIRO 17**
 
 - [[**EVENTO**]: DigiHealthSouth 2020 : DigiHealthSouth 2020 - EAI International Conference on Digital Healthcare Technologies for the Global South](http://digihealthsouth.org/)
+
+**JANEIRO 18**
+
+**JANEIRO 19**
+
+**JANEIRO 20**
+
+**JANEIRO 21**
+
+**JANEIRO 22**
+
+**JANEIRO 23**
+
+**JANEIRO 24**
+
+**JANEIRO 25**
+
+**JANEIRO 26**
+**JANEIRO 27**
+
+**JANEIRO 28**
+
+**JANEIRO 29**
+
+**JANEIRO 30**
+
+**JANEIRO 31**
