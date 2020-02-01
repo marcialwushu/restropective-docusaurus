@@ -101,25 +101,34 @@ title: JANEIRO 2020
 - [[**EVENTO**]: FloCon 2020 - Using Data to Defend](https://www.sei.cmu.edu/news-events/events/Event.cfm?customel_datapageid_5541=188773)
 - SanDisk Teases the First 8TB Portable SSD
 - After Airtel, Reliance Jio launches voice and video calling over Wi-Fi
-In a first, HDFC Bank launches myApps to boost digital payments
-
-👉🏿Twitter to test 'block all replies' function
-
-👉🏿Uber in India Will Now Ask for 4-Digit OTP Before Starting Trips
-
-👉🏿Microsoft to add new firstline-worker features, like 'Walkie Talkie' voice calls, to Teams
-
-👉🏿LG’s roll-up OLED TV will hide when not in use
-
-👉🏿Facebook will let you reduce the number of political ads you see on Facebook and Instagram
+- In a first, HDFC Bank launches myApps to boost digital payments
+- Twitter to test 'block all replies' function
+- Uber in India Will Now Ask for 4-Digit OTP Before Starting Trips
+- Microsoft to add new firstline-worker features, like 'Walkie Talkie' voice calls, to Teams
+- LG’s roll-up OLED TV will hide when not in use
+- Facebook will let you reduce the number of political ads you see on Facebook and Instagram
 
 **JANEIRO 10**
+
+- Tesla Fanatics Are Paying $50,000 to Hot-Rod Their Electric Cars
+- Apple patent describes more Apple Pencil gestures, and even a camera
+- Pokemon GO 5G aims to bring Pokemon to “the real world”
+- Indian Railways opens 1st-of-its-kind free video calling kiosk at Visakhapatnam station
+- Samsung Sero TV rotates to portrait mode for vertical vids, like a giant phone
+- 'The New Facebook’ design begins rolling out
+- Walmart is now using robots to fulfill grocery orders
+- Tesla is challenging hackers to crack its car, and it is putting ~$1 million on the line
 
 **JANEIRO 11**
 
 **JANEIRO 12**
 
 - [Doze horas por dia! Samsung é acusada de exploração de menores na China](https://www.tudocelular.com/samsung/noticias/n117840/samsung-trabalhadores-exploracao.html)
+- China Launches Driverless Bullet Train With Speeds Up To 350 Kmph
+- Spotify brings streaming ad insertion technology to podcasts
+- Samsung’s removable-battery smartphone is coming to the US for $499
+- Tesla vehicles are ‘soon’ going to talk, Elon Musk releases preview
+- Google pushed to take action against Android bloatware by 50+ organizations
 
 **JANEIRO 13**
 
@@ -141,6 +150,15 @@ In a first, HDFC Bank launches myApps to boost digital payments
 
 **JANEIRO 20**
 
+- Amazon launches electric delivery rickshaws in India
+- Tesla Cybertruck is ‘incredibly cheap’ to bring to production, says manufacturing expert
+- Alphabet CEO Sundar Pichai says there is ‘no question’ that AI needs to be regulated
+- Samsung to set up $500 million mobile display manufacturing plant in India
+- Huawei to replace Google Maps with TomTom
+- The iPad Pro can now run Fortnite at 120 frames per second
+- LastPass stores passwords so securely, not even its users can access them
+- Instagram Removes IGTV Button From Home Screen Following Lack of User Engagement
+
 **JANEIRO 21**
 
 **JANEIRO 22**
@@ -152,9 +170,25 @@ In a first, HDFC Bank launches myApps to boost digital payments
 **JANEIRO 25**
 
 **JANEIRO 26**
+
 **JANEIRO 27**
 
+- The cost of Avast’s Free Antivirus: Companies can spy on your clicks
+- TVS Launches iQube Electric Scooter To Rival Ather & Bajaj Chetak
+- Rumor Claims iOS 14 to Support All the Same iPhones as iOS 13
+- The Unofficial Apple Archive loses most of its videos after DMCA takedowns
+- After the iPhone, Apple patent imagines the iMac as a single slab of glass
+
 **JANEIRO 28**
+
+- UK will allow Huawei to help build its 5G network despite US pressure
+- Samsung Galaxy A51 India launch tomorrow
+- Former Chartbeat CEO Tony Haile launches startup Scroll
+- Tata Motors launches Nexon EV at starting price of ₹13.99 lakh
+- Poco X2 to sport 120 Hz refresh rate display, official teaser on Flipkart reveals
+- Apple Pay support for any card in Europe now effectively available via Curve
+- Motorola's new $1,500 Razr flip phone hasn't even launched yet, but it's already sold out
+- Pinterest launches virtual makeup ‘Try On’ feature, starting with lipstick
 
 **JANEIRO 29**
 
