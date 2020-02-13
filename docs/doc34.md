@@ -103,6 +103,8 @@ title: AGOSTO
 
 **AGOSTO 14**
 
+- [CCJ aprova aumento de pena para quem estimula fenômenos como o ‘jogo da baleia azul’](https://www12.senado.leg.br/noticias/materias/2019/08/14/ccj-aprova-aumento-de-pena-para-quem-estimula-fenomenos-como-o-2018jogo-da-baleia-azul2019)
+
 **AGOSTO 15**
 
 - Apple releasing iOS 13 developer beta 7 today
