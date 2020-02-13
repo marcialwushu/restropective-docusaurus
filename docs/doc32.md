@@ -154,6 +154,7 @@ title: JUNHO
 - Microsoft launches its To-Do app on the Mac App Store with Outlook syncing, shared tasks, more
 - Spotify now allows advertisers to specifically target podcast listeners
 - Google Chrome adds built-in themes, customization options
+- [Como a aquisição da Tableau pela Salesforce irá impactar a TI?](https://cio.com.br/como-a-aquisicao-da-tableau-pela-salesforce-ira-impactar-a-ti/)
 
 **JUNHO 18**
 
