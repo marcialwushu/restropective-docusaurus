@@ -241,3 +241,4 @@ title: JULHO
 - The Indian Air Force now has a mobile game
 - Chinese Researchers Are Working on an Electric Helicopter
 - Blender 2.80 is finally available to download
+- [Depois da "Baleia Azul", a "Momo", o novo fenómeno online na mira das autoridades](https://observador.pt/2018/07/31/depois-da-baleia-azul-a-momo-o-novo-fenomeno-online-na-mira-das-autoridades/)
