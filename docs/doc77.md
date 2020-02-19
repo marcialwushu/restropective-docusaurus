@@ -1,3 +1,10 @@
+---
+id: doc77
+title: Angular 9, a new decimal datatype for JS, and how to read specs
+---
+
+
+
 <div class="maincontent"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><font size="+1"><b>What it takes to maintain a large open source project</b></font><br><font size="-1" color="#777">1 mensagem</font></td></tr></tbody></table><hr><table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>JavaScript Weekly </b>&lt;jsw@peterc.org&gt;</font></td><td align="right"><font size="-1">14 de fevereiro de 2020 15:06</font></td></tr><tr><td colspan="2" style="padding-bottom: 4px;"><font size="-1" class="recipient"><div>Para: marcialwushu@gmail.com</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><u></u>
 <div style="height:100%;width:100%;background-color:white;font-feature-settings:&quot;kern&quot; 1;font-family:-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;font-size:15px;line-height:1.55em;margin:0;padding:0">
 <div id="m_2075908403041580209preview" style="display:none;color:#666">And more JavaScript links, tutorials, and projects of the week.</div>
