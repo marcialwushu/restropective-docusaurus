@@ -21,6 +21,11 @@ title: FEVEREIRO
 
 **FEVEREIRO 04**
 
+- [Para onde vai seu aparelho eletrônico depois que vira 'lixo'?](https://noticias.r7.com/tecnologia-e-ciencia/para-onde-vai-seu-aparelho-eletronico-depois-que-vira-lixo-19022020)
+- [Conselho da Anatel discutirá leilões de frequências para 5G na 5ª](https://economia.uol.com.br/noticias/reuters/2020/02/04/conselho-da-anatel-discutira-leiloes-de-frequencias-para-5g-na-5.htm)
+- [Estudantes brasileiros apresentam projeto e vencem competição da NASA](https://recordtv.r7.com/fala-brasil/videos/estudantes-brasileiros-apresentam-projeto-e-vencem-competicao-da-nasa-04022020)
+- [Homem cria engarrafamento falso no Google Maps com 99 celulares](https://noticias.r7.com/tecnologia-e-ciencia/homem-cria-engarrafamento-falso-no-google-maps-com-99-celulares-04022020)
+
 **FEVEREIRO 05**
 
 -  [Produção de iPhones na China está sendo afetada pelo coronavírus. Entenda](https://canaltech.com.br/smartphone/apple-esta-perdendo-iphones-devido-ao-coronavirus-159913/)
