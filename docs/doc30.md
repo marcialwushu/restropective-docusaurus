@@ -194,6 +194,7 @@ title: ABRIL
 - Samsung delays its $2,000 folding phone after test units break
 - Chatlets.ai makes customer data collection easier with chatbots
 - Apple paying Amazon over $30M each month for cloud services
+- [Cade investiga Bradesco, BB, Santander e Caixa por suposta discriminação contra Nubank](https://epocanegocios.globo.com/Empresa/noticia/2019/04/epoca-negocios-cade-investiga-bradesco-bb-santander-e-caixa-por-suposta-discriminacao-contra-nubank.html)
 
 **ABRIL 23**
 
