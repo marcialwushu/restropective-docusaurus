@@ -13,6 +13,11 @@ title: FEVEREIRO
 
 - [Robô de investimento vira opção para fugir de renda fixa](https://noticias.r7.com/economia/robo-de-investimento-vira-opcao-para-fugir-de-renda-fixa-03022020)
 - [Empresas mantêm fábricas abertas na China apesar do coronavírus](https://noticias.r7.com/tecnologia-e-ciencia/empresas-mantem-fabricas-abertas-na-china-apesar-do-coronavirus-03022020)
+- [YouTube reforça diretrizes contra conteúdo falso em eleições](https://noticias.r7.com/tecnologia-e-ciencia/youtube-reforca-diretrizes-contra-conteudo-falso-em-eleicoes-03022020)
+- [Vídeo vaza detalhes do novo smartphone dobrável da Samsung](https://noticias.r7.com/tecnologia-e-ciencia/video-vaza-detalhes-do-novo-smartphone-dobravel-da-samsung-03022020)
+- [Wall Street se recupera com auxílio de ativos de tecnologia](https://noticias.r7.com/economia/wall-street-se-recupera-com-auxilio-de-ativos-de-tecnologia-03022020)
+- [https://noticias.r7.com/economia/wall-street-se-recupera-com-auxilio-de-ativos-de-tecnologia-03022020](https://esportes.r7.com/cbf-pretende-que-var-tenha-central-unica-no-brasileirao-03022020)
+- [Ativistas usam pintura facial para driblar vigilância em massa e de quebra arrasam no lookinho](https://lifestyle.r7.com/hypeness/ativistas-usam-pintura-facial-para-driblar-vigilancia-em-massa-e-de-quebra-arrasam-no-lookinho-03022020)
 
 **FEVEREIRO 04**
 
@@ -77,6 +82,7 @@ title: FEVEREIRO
 - [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
 - [Banco Central lança o PIX, seu sistema de pagamento instantâneo](https://olhardigital.com.br/noticia/banco-central-lanca-o-pix-seu-sistema-de-pagamento-instantaneo/97027)
 - [Pagamento instantâneo será obrigatório para bancos com mais de 500 mil contas](https://olhardigital.com.br/noticia/pagamento-instantaneo-sera-obrigatorio-para-bancos-com-mais-de-500-mil-contas/96996)
+- [Morre o criador do 'copiar e colar' (o CTRL C, CTRL V)](https://g1.globo.com/economia/tecnologia/noticia/2020/02/19/morre-o-criador-do-copiar-e-colar-o-ctrl-c-ctrl-v.ghtml)
 
 **FEVEREIRO 20**
 
