@@ -5,9 +5,14 @@ title: FEVEREIRO
 
 **FEVEREIRO 01**
 
+- [Brasil poderá ter pagamentos via WhatsApp](https://noticias.r7.com/tecnologia-e-ciencia/brasil-podera-ter-pagamentos-via-whatsapp-01022020)
+
 **FEVEREIRO 02**
 
 **FEVEREIRO 03**
+
+- [Robô de investimento vira opção para fugir de renda fixa](https://noticias.r7.com/economia/robo-de-investimento-vira-opcao-para-fugir-de-renda-fixa-03022020)
+- [Empresas mantêm fábricas abertas na China apesar do coronavírus](https://noticias.r7.com/tecnologia-e-ciencia/empresas-mantem-fabricas-abertas-na-china-apesar-do-coronavirus-03022020)
 
 **FEVEREIRO 04**
 
