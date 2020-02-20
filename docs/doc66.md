@@ -71,6 +71,7 @@ title: FEVEREIRO
 
 - [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
 - [Banco Central lança o PIX, seu sistema de pagamento instantâneo](https://olhardigital.com.br/noticia/banco-central-lanca-o-pix-seu-sistema-de-pagamento-instantaneo/97027)
+- [Pagamento instantâneo será obrigatório para bancos com mais de 500 mil contas](https://olhardigital.com.br/noticia/pagamento-instantaneo-sera-obrigatorio-para-bancos-com-mais-de-500-mil-contas/96996)
 
 **FEVEREIRO 20**
 
