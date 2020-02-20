@@ -228,6 +228,8 @@ title: OUTUBRO
 
 **OUTUBRO 30**
 
+- [Itaú libera aplicativo de pagamento em IOS e Android para público geral](https://www.consumidormoderno.com.br/2019/10/30/itau-libera-aplicativo-pagamento-publico-ios-android/)
+
 **OUTUBRO 31**
 
 - Motorola’s foldable RAZR phone appears in leaked images
