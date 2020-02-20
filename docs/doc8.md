@@ -139,6 +139,7 @@ title: ABRIL
 - Instagram Will Soon Let You Download All Your Photos
 - Galaxy S9 variant with iPhone X-style dual-camera housing pops up on TENAA
 - Apple warns Mac users that 32-bit apps will soon stop working
+- [Santander Lança Serviço de Transferências Baseado em Blockchain com Tecnologia da Ripple](https://portaldobitcoin.com/santander-lanca-servico-de-transferencias-baseado-em-blockchain-com-tecnologia-da-ripple/)
 
 
 **ABRIL 13**
