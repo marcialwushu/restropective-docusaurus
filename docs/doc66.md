@@ -81,6 +81,8 @@ title: FEVEREIRO
 **FEVEREIRO 18**
 
 - [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
+- [Agentes russos são pegos 'investigando' cabos submarinos de internet](https://olhardigital.com.br/internacional/noticia/agentes-russos-sao-pegos-investigando-cabos-submarinos-de-internet/96936)
+- [China usa QR Codes para identificar risco de coronavírus](https://olhardigital.com.br/coronavirus/noticia/china-usa-qr-codes-para-identificar-risco-de-coronavirus/96961)
 
 **FEVEREIRO 19**
 
