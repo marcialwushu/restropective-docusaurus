@@ -95,6 +95,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 21**
 
+- [Vazamento em massa! 470 mil grupos do WhatsApp estão expostos no Google](https://www.tudocelular.com/seguranca/noticias/n152819/vazamento-470-mil-grupos-whatsapp-expostos-google.html)
+
 **FEVEREIRO 22**
 
 **FEVEREIRO 23**
