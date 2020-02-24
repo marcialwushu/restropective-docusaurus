@@ -99,6 +99,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 23**
 
+- [Relógios, bolsas e iate: artigos de luxo ostentados por hacker vão parar em leilão](https://g1.globo.com/fantastico/noticia/2020/02/23/relogios-bolsas-e-iate-artigos-de-luxo-ostentados-por-hacker-vao-parar-em-leilao.ghtml)
+
 **FEVEREIRO 24**
 
 - [[**EVENTO**]: RSA Conference 2020 USA - WHERE THE WORLD TALKS SECURITY](https://www.rsaconference.com/)
