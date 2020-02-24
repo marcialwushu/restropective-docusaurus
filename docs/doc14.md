@@ -257,6 +257,7 @@ title: OUTUBRO
 - iPhone XR shipping times slip beyond October 26th launch day delivery
 - Kuo predicts new iPad mini 5, AirPower launch in late 2018 or early 2019, more
 - Qualcomm announces Snapdragon 675 with faster cores and triple-camera support
+- [COMO UM APLICATIVO PARA LIMPAR CONTAS BANCÁRIAS ENRIQUECEU UM JOVEM EM SÃO PAULO](https://epoca.globo.com/como-um-aplicativo-para-limpar-contas-bancarias-enriqueceu-um-jovem-em-sao-paulo-23175885)
 
 **OUTUBRO 24**
 
