@@ -106,6 +106,7 @@ title: FEVEREIRO
 **FEVEREIRO 24**
 
 - [[**EVENTO**]: RSA Conference 2020 USA - WHERE THE WORLD TALKS SECURITY](https://www.rsaconference.com/)
+- [Conheça CSI Linux: uma distribuição Linux para investigação cibernética](https://sempreupdate.com.br/conheca-csi-linux-uma-distribuicao-linux-para-investigacao-cibernetica/)
 
 **FEVEREIRO 25**
 
