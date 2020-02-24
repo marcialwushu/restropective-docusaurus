@@ -175,6 +175,7 @@ title: AGOSTO
 - Malware found in CamScanner’s document scanning Android app, which has over 100M downloads
 - Apple Music beta adds Chromecast support for Android devices
 - Former Netflix Partner Telltale Games to Be Revived Under New Leadership
+- [Operador de quadrilha brasileira que roubava bancos é solto e monta novo golpe, uma exchange de Bitcoins para trader](https://noticias.cryptomkt.com/br/operador-de-quadrilha-brasileira-que-roubava-bancos-e-solto-e-monta-novo-golpe-uma-exchange-de-bitcoins-para-trader/)
 
 **AGOSTO 29**
 
