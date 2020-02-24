@@ -63,6 +63,7 @@ title: FEVEREIRO
 **FEVEREIRO 11**
 
 - [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+- [Le FBI aurait réussi à casser le service d'anonymat du réseau Tor pour arrêter Eric Marques, un magnat du darknet](https://www.developpez.com/actu/293193/Le-FBI-aurait-reussi-a-casser-le-service-d-anonymat-du-reseau-Tor-pour-arreter-Eric-Marques-un-magnat-du-darknet-qui-a-plaide-coupable/)
 
 **FEVEREIRO 12**
 
