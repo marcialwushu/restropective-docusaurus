@@ -110,6 +110,7 @@ title: FEVEREIRO
 - [Conheça CSI Linux: uma distribuição Linux para investigação cibernética](https://sempreupdate.com.br/conheca-csi-linux-uma-distribuicao-linux-para-investigacao-cibernetica/)
 - [GitHub promete não remover conteúdo a menos que seja obrigado](https://sempreupdate.com.br/github-promete-nao-remover-conteudo-a-menos-que-seja-obrigado/)
 - [O Google Cloud AI remove os rótulos de gênero da API Cloud Vision para evitar preconceitos](https://sempreupdate.com.br/o-google-cloud-ai-remove-os-rotulos-de-genero-da-api-cloud-vision-para-evitar-preconceitos/)
+- [Trafics, chantage, espionnage: les cyber-juges contre le darkweb](https://www.lefigaro.fr/actualite-france/trafics-chantage-espionnage-les-cyber-juges-contre-le-darkweb-20200224)
 
 **FEVEREIRO 25**
 
