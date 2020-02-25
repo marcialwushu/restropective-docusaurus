@@ -19,6 +19,7 @@ title: FEVEREIRO
 - [https://noticias.r7.com/economia/wall-street-se-recupera-com-auxilio-de-ativos-de-tecnologia-03022020](https://esportes.r7.com/cbf-pretende-que-var-tenha-central-unica-no-brasileirao-03022020)
 - [Ativistas usam pintura facial para driblar vigilância em massa e de quebra arrasam no lookinho](https://lifestyle.r7.com/hypeness/ativistas-usam-pintura-facial-para-driblar-vigilancia-em-massa-e-de-quebra-arrasam-no-lookinho-03022020)
 - [DoppelPaymer Ransomware Sells Victims' Data on Darknet if Not Paid](https://web.archive.org/web/20200204211050/https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-sells-victims-data-on-darknet-if-not-paid/)
+- [Bouygues Construction Shuts Down Network to Thwart Maze Ransomware](https://web.archive.org/web/20200204211027/https://www.bleepingcomputer.com/news/security/bouygues-construction-shuts-down-network-to-thwart-maze-ransomware/)
 
 **FEVEREIRO 04**
 
