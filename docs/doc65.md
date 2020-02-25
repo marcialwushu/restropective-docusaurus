@@ -161,6 +161,8 @@ title: JANEIRO 2020
 
 **JANEIRO 21**
 
+- [BitPyLock Ransomware Now Threatens to Publish Stolen Data](https://web.archive.org/web/20200121210746/https://www.bleepingcomputer.com/news/security/bitpylock-ransomware-now-threatens-to-publish-stolen-data/)
+
 **JANEIRO 22**
 
 **JANEIRO 23**
