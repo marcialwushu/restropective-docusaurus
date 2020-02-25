@@ -116,6 +116,7 @@ title: FEVEREIRO
 - [PayPal Users Hit With Fraudulent 'Target' Charges via Google Pay](https://www.bleepingcomputer.com/news/security/paypal-users-hit-with-fraudulent-target-charges-via-google-pay/)
 - [New Mozart Malware Gets Commands, Hides Traffic Using DNS](https://www.bleepingcomputer.com/news/security/new-mozart-malware-gets-commands-hides-traffic-using-dns/)
 - [WhatsApp, Telegram Group Invite Links Leaked in Public Searches](https://www.bleepingcomputer.com/news/security/whatsapp-telegram-group-invite-links-leaked-in-public-searches/)
+- [Malvertising in Govt, Enterprise Targets Old Software, Macs](https://www.bleepingcomputer.com/news/security/malvertising-in-govt-enterprise-targets-old-software-macs/)
 
 **FEVEREIRO 25**
 
