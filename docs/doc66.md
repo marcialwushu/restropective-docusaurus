@@ -18,6 +18,7 @@ title: FEVEREIRO
 - [Wall Street se recupera com auxílio de ativos de tecnologia](https://noticias.r7.com/economia/wall-street-se-recupera-com-auxilio-de-ativos-de-tecnologia-03022020)
 - [https://noticias.r7.com/economia/wall-street-se-recupera-com-auxilio-de-ativos-de-tecnologia-03022020](https://esportes.r7.com/cbf-pretende-que-var-tenha-central-unica-no-brasileirao-03022020)
 - [Ativistas usam pintura facial para driblar vigilância em massa e de quebra arrasam no lookinho](https://lifestyle.r7.com/hypeness/ativistas-usam-pintura-facial-para-driblar-vigilancia-em-massa-e-de-quebra-arrasam-no-lookinho-03022020)
+- [DoppelPaymer Ransomware Sells Victims' Data on Darknet if Not Paid](https://web.archive.org/web/20200204211050/https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-sells-victims-data-on-darknet-if-not-paid/)
 
 **FEVEREIRO 04**
 
