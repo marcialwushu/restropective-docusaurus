@@ -189,6 +189,7 @@ title: JANEIRO 2020
 - Apple Pay support for any card in Europe now effectively available via Curve
 - Motorola's new $1,500 Razr flip phone hasn't even launched yet, but it's already sold out
 - Pinterest launches virtual makeup ‘Try On’ feature, starting with lipstick
+- [Ransomware Bitcoin Wallet Frozen by UK Court to Recover Ransom](https://web.archive.org/web/20200128210724/https://www.bleepingcomputer.com/news/security/ransomware-bitcoin-wallet-frozen-by-uk-court-to-recover-ransom/)
 
 **JANEIRO 29**
 
