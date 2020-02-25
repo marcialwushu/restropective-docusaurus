@@ -165,6 +165,8 @@ title: JANEIRO 2020
 
 **JANEIRO 23**
 
+- [Maze Ransomware Not Getting Paid, Leaks Data Left and Right](https://web.archive.org/web/20200123222340/https://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/)
+
 **JANEIRO 24**
 
 **JANEIRO 25**
