@@ -115,6 +115,7 @@ title: FEVEREIRO
 - [Trafics, chantage, espionnage: les cyber-juges contre le darkweb](https://www.lefigaro.fr/actualite-france/trafics-chantage-espionnage-les-cyber-juges-contre-le-darkweb-20200224)
 - [PayPal Users Hit With Fraudulent 'Target' Charges via Google Pay](https://www.bleepingcomputer.com/news/security/paypal-users-hit-with-fraudulent-target-charges-via-google-pay/)
 - [New Mozart Malware Gets Commands, Hides Traffic Using DNS](https://www.bleepingcomputer.com/news/security/new-mozart-malware-gets-commands-hides-traffic-using-dns/)
+- [WhatsApp, Telegram Group Invite Links Leaked in Public Searches](https://www.bleepingcomputer.com/news/security/whatsapp-telegram-group-invite-links-leaked-in-public-searches/)
 
 **FEVEREIRO 25**
 
