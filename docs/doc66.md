@@ -127,6 +127,7 @@ title: FEVEREIRO
 - [uBlock Origin 1.25 Now Blocks Cloaked First-Party Scripts, Firefox Only](https://www.bleepingcomputer.com/news/security/ublock-origin-125-now-blocks-cloaked-first-party-scripts-firefox-only/)
 - [Mozilla Enables DNS-over-HTTPS by Default for All USA Users](https://www.bleepingcomputer.com/news/software/mozilla-enables-dns-over-https-by-default-for-all-usa-users/)
 - [New Critical RCE Bug in OpenBSD SMTP Server Threatens Linux Distros](https://www.bleepingcomputer.com/news/security/new-critical-rce-bug-in-openbsd-smtp-server-threatens-linux-distros/)
+- [Credit Card Skimmer Running on 13 Sites, Despite Notification](https://www.bleepingcomputer.com/news/security/credit-card-skimmer-running-on-13-sites-despite-notification/)
 
 **FEVEREIRO 26**
 
