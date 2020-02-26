@@ -129,6 +129,7 @@ title: FEVEREIRO
 - [Microsoft Rolls Out the New Edge Browser to Windows 10 Users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-the-new-edge-browser-to-windows-10-users/)
 - [Kr00k Bug in Broadcom, Cypress WiFi Chips Leaks Sensitive Info](https://www.bleepingcomputer.com/news/security/kr00k-bug-in-broadcom-cypress-wifi-chips-leaks-sensitive-info/)
 - [Brave Browser Integrates Wayback Machine to View Deleted Web Pages](https://www.bleepingcomputer.com/news/software/brave-browser-integrates-wayback-machine-to-view-deleted-web-pages/)
+- [18 Sniffers Steal Payment Card Data from Print Store Customers](https://www.bleepingcomputer.com/news/security/18-sniffers-steal-payment-card-data-from-print-store-customers/)
 
 **FEVEREIRO 27**
 
