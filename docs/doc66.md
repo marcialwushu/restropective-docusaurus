@@ -126,6 +126,7 @@ title: FEVEREIRO
 
 - [Hackers Scanning for Vulnerable Microsoft Exchange Servers, Patch Now!](https://www.bleepingcomputer.com/news/security/hackers-scanning-for-vulnerable-microsoft-exchange-servers-patch-now/)
 - [DoppelPaymer Hacked Bretagne Télécom Using the Citrix ADC Flaw](https://www.bleepingcomputer.com/news/security/doppelpaymer-hacked-bretagne-t-l-com-using-the-citrix-adc-flaw/)
+- [Microsoft Rolls Out the New Edge Browser to Windows 10 Users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-the-new-edge-browser-to-windows-10-users/)
 
 **FEVEREIRO 27**
 
