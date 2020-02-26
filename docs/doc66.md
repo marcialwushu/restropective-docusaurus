@@ -122,6 +122,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 25**
 
+- [Multiple WordPress Plugin Vulnerabilities Actively Being Attacked](https://www.bleepingcomputer.com/news/security/multiple-wordpress-plugin-vulnerabilities-actively-being-attacked/)
+
 **FEVEREIRO 26**
 
 - [Hackers Scanning for Vulnerable Microsoft Exchange Servers, Patch Now!](https://www.bleepingcomputer.com/news/security/hackers-scanning-for-vulnerable-microsoft-exchange-servers-patch-now/)
