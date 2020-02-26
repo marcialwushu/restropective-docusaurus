@@ -126,6 +126,7 @@ title: FEVEREIRO
 - [Microsoft Wants to do Away with Windows 10 Local Accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-to-do-away-with-windows-10-local-accounts/)
 - [uBlock Origin 1.25 Now Blocks Cloaked First-Party Scripts, Firefox Only](https://www.bleepingcomputer.com/news/security/ublock-origin-125-now-blocks-cloaked-first-party-scripts-firefox-only/)
 - [Mozilla Enables DNS-over-HTTPS by Default for All USA Users](https://www.bleepingcomputer.com/news/software/mozilla-enables-dns-over-https-by-default-for-all-usa-users/)
+- [New Critical RCE Bug in OpenBSD SMTP Server Threatens Linux Distros](https://www.bleepingcomputer.com/news/security/new-critical-rce-bug-in-openbsd-smtp-server-threatens-linux-distros/)
 
 **FEVEREIRO 26**
 
