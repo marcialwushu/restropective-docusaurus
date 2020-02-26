@@ -128,6 +128,7 @@ title: FEVEREIRO
 - [DoppelPaymer Hacked Bretagne Télécom Using the Citrix ADC Flaw](https://www.bleepingcomputer.com/news/security/doppelpaymer-hacked-bretagne-t-l-com-using-the-citrix-adc-flaw/)
 - [Microsoft Rolls Out the New Edge Browser to Windows 10 Users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-the-new-edge-browser-to-windows-10-users/)
 - [Kr00k Bug in Broadcom, Cypress WiFi Chips Leaks Sensitive Info](https://www.bleepingcomputer.com/news/security/kr00k-bug-in-broadcom-cypress-wifi-chips-leaks-sensitive-info/)
+- [Brave Browser Integrates Wayback Machine to View Deleted Web Pages](https://www.bleepingcomputer.com/news/software/brave-browser-integrates-wayback-machine-to-view-deleted-web-pages/)
 
 **FEVEREIRO 27**
 
