@@ -143,6 +143,7 @@ title: FEVEREIRO
 - [18 Sniffers Steal Payment Card Data from Print Store Customers](https://www.bleepingcomputer.com/news/security/18-sniffers-steal-payment-card-data-from-print-store-customers/)
 - [Profits Are Peaking for the World’s Most Lucrative Mobile Games](https://www.bloomberg.com/news/articles/2020-02-26/profits-are-peaking-for-the-world-s-most-lucrative-mobile-games?utm_content=tech&utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-tech)
 - [Microsoft warns it might miss revenue guidance because of coronavirus](https://www.cnet.com/news/microsoft-warns-it-might-miss-revenue-guidance-because-of-coronavirus/?ftag=COS-05-10aaa0b&PostType=link&TheTime=2020-02-26T22%3A40%3A14&UniqueID=F43D765C-58E8-11EA-82D9-488A4744363C&ServiceType=twitter)
+- [US Senate committee to look at 5G vendor security](https://www.cnet.com/news/us-senate-committee-to-look-at-5g-vendor-security/)
 
 **FEVEREIRO 27**
 
