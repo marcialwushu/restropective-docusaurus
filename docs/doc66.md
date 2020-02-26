@@ -146,6 +146,7 @@ title: FEVEREIRO
 - [Microsoft warns it might miss revenue guidance because of coronavirus](https://www.cnet.com/news/microsoft-warns-it-might-miss-revenue-guidance-because-of-coronavirus/?ftag=COS-05-10aaa0b&PostType=link&TheTime=2020-02-26T22%3A40%3A14&UniqueID=F43D765C-58E8-11EA-82D9-488A4744363C&ServiceType=twitter)
 - [US Senate committee to look at 5G vendor security](https://www.cnet.com/news/us-senate-committee-to-look-at-5g-vendor-security/)
 - [TJPR utiliza Inteligência Artificial para acesso a informações do sistema BacenJud](https://juristas.com.br/2020/02/26/tjpr-utiliza-inteligencia-artificial-para-acesso-a-informacoes-do-sistema-bacenjud/#.XlbpqUY0Z_k.twitter)
+- [Nova versão do PJE da Justiça do Trabalho precisa de atualização do SHODÔ](https://juristas.com.br/2020/02/26/shodo/#.Xlba_-b-Jso.twitter)
 
 **FEVEREIRO 27**
 
