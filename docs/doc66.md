@@ -124,6 +124,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 26**
 
+- [Hackers Scanning for Vulnerable Microsoft Exchange Servers, Patch Now!](https://www.bleepingcomputer.com/news/security/hackers-scanning-for-vulnerable-microsoft-exchange-servers-patch-now/)
+
 **FEVEREIRO 27**
 
 **FEVEREIRO 28**
