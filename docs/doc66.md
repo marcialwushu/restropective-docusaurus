@@ -119,6 +119,7 @@ title: FEVEREIRO
 - [Malvertising in Govt, Enterprise Targets Old Software, Macs](https://www.bleepingcomputer.com/news/security/malvertising-in-govt-enterprise-targets-old-software-macs/)
 - [Racoon Malware Steals Your Data From Nearly 60 Apps](https://www.bleepingcomputer.com/news/security/racoon-malware-steals-your-data-from-nearly-60-apps/)
 - [Windows 10 Gets Temp Patch for Critical Flaw Fixed In Buggy Update](https://www.bleepingcomputer.com/news/security/windows-10-gets-temp-patch-for-critical-flaw-fixed-in-buggy-update/)
+- [PayPal Users Hit With Fraudulent 'Target' Charges via Google Pay](https://www.bleepingcomputer.com/news/security/paypal-users-hit-with-fraudulent-target-charges-via-google-pay/)
 
 **FEVEREIRO 25**
 
