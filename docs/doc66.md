@@ -123,6 +123,7 @@ title: FEVEREIRO
 **FEVEREIRO 25**
 
 - [Multiple WordPress Plugin Vulnerabilities Actively Being Attacked](https://www.bleepingcomputer.com/news/security/multiple-wordpress-plugin-vulnerabilities-actively-being-attacked/)
+- [Microsoft Wants to do Away with Windows 10 Local Accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-to-do-away-with-windows-10-local-accounts/)
 
 **FEVEREIRO 26**
 
