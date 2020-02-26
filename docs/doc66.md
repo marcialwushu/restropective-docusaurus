@@ -132,6 +132,7 @@ title: FEVEREIRO
 - [New Critical RCE Bug in OpenBSD SMTP Server Threatens Linux Distros](https://www.bleepingcomputer.com/news/security/new-critical-rce-bug-in-openbsd-smtp-server-threatens-linux-distros/)
 - [Credit Card Skimmer Running on 13 Sites, Despite Notification](https://www.bleepingcomputer.com/news/security/credit-card-skimmer-running-on-13-sites-despite-notification/)
 - [DoppelPaymer Ransomware Launches Site to Post Victim's Data](https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-launches-site-to-post-victims-data/)
+- [Europa se apresenta como alternativa no debate sobre 5G](https://capitalpolitico.com/europa-se-apresenta-como-alternativa-no-debate-sobre-5g/#.Xlbft-H_H-Q.twitter)
 
 **FEVEREIRO 26**
 
