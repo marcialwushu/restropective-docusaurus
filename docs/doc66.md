@@ -141,6 +141,7 @@ title: FEVEREIRO
 - [Kr00k Bug in Broadcom, Cypress WiFi Chips Leaks Sensitive Info](https://www.bleepingcomputer.com/news/security/kr00k-bug-in-broadcom-cypress-wifi-chips-leaks-sensitive-info/)
 - [Brave Browser Integrates Wayback Machine to View Deleted Web Pages](https://www.bleepingcomputer.com/news/software/brave-browser-integrates-wayback-machine-to-view-deleted-web-pages/)
 - [18 Sniffers Steal Payment Card Data from Print Store Customers](https://www.bleepingcomputer.com/news/security/18-sniffers-steal-payment-card-data-from-print-store-customers/)
+- [Profits Are Peaking for the World’s Most Lucrative Mobile Games](https://www.bloomberg.com/news/articles/2020-02-26/profits-are-peaking-for-the-world-s-most-lucrative-mobile-games?utm_content=tech&utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-tech)
 
 **FEVEREIRO 27**
 
