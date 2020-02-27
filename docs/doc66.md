@@ -149,6 +149,7 @@ title: FEVEREIRO
 - [TJPR utiliza Inteligência Artificial para acesso a informações do sistema BacenJud](https://juristas.com.br/2020/02/26/tjpr-utiliza-inteligencia-artificial-para-acesso-a-informacoes-do-sistema-bacenjud/#.XlbpqUY0Z_k.twitter)
 - [Nova versão do PJE da Justiça do Trabalho precisa de atualização do SHODÔ](https://juristas.com.br/2020/02/26/shodo/#.Xlba_-b-Jso.twitter)
 - [FTC Releases 2019 Privacy and Data Security Update](https://www.jdsupra.com/legalnews/ftc-releases-2019-privacy-and-data-23855/)
+- [Criador do código da Konami morre aos 61 anos](https://olhardigital.com.br/games-e-consoles/noticia/criador-do-codigo-da-konami-morre-aos-61-anos/97291)
 
 **FEVEREIRO 27**
 
