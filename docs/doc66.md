@@ -123,6 +123,7 @@ title: FEVEREIRO
 - [Windows 10 Gets Temp Patch for Critical Flaw Fixed In Buggy Update](https://www.bleepingcomputer.com/news/security/windows-10-gets-temp-patch-for-critical-flaw-fixed-in-buggy-update/)
 - [PayPal Users Hit With Fraudulent 'Target' Charges via Google Pay](https://www.bleepingcomputer.com/news/security/paypal-users-hit-with-fraudulent-target-charges-via-google-pay/)
 - [SUDO_KILLER - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo](https://hakin9.org/sudo_killer-a-tool-to-identify-and-exploit-sudo-rules-misconfigurations-and-vulnerabilities-within-sudo/)
+- [Morre aos 101 anos a matemática negra que ajudou a Apollo 11 a chegar à Lua](https://www.uol.com.br/tilt/noticias/redacao/2020/02/24/morre-aos-101-anos-a-matematica-negra-que-ajudou-a-apollo-11-a-chegar-a-lua.htm)
 
 **FEVEREIRO 25**
 
