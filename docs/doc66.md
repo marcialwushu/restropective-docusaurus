@@ -125,6 +125,12 @@ title: FEVEREIRO
 - [Banco Central lança o PIX, seu sistema de pagamento instantâneo](https://olhardigital.com.br/noticia/banco-central-lanca-o-pix-seu-sistema-de-pagamento-instantaneo/97027)
 - [Pagamento instantâneo será obrigatório para bancos com mais de 500 mil contas](https://olhardigital.com.br/noticia/pagamento-instantaneo-sera-obrigatorio-para-bancos-com-mais-de-500-mil-contas/96996)
 - [Morre o criador do 'copiar e colar' (o CTRL C, CTRL V)](https://g1.globo.com/economia/tecnologia/noticia/2020/02/19/morre-o-criador-do-copiar-e-colar-o-ctrl-c-ctrl-v.ghtml)
+- TikTok 'family safety mode' gives parents some app control
+- Steam’s Google page tells players to “F*** Epic Games Store”
+- Hackers use Rudy Giuliani's Twitter typos to spread malware
+- Microsoft Office App Released for iPhone, Combines Word, Excel, and PowerPoint
+- Apple moves some AirPods, iPad and Apple Watch production from China to Taiwan
+- BTS and Samsung launch partnership with ‘Connect, BTS’ augmented reality experience
 
 **FEVEREIRO 20**
 
