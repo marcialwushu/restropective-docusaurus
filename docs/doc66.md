@@ -211,6 +211,7 @@ title: FEVEREIRO
 - [Wi-Fi 7 pode ter detecção de movimento e saber local do usuário](https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)
 - [Motorola Edge+: novo topo de linha deve ser uma grande surpresa](https://canaltech.com.br/smartphone/motorola-edge-novo-topo-de-linha-deve-ser-uma-grande-surpresa-160962/)
 - [Huawei AppGallery já é a 3º maior loja de apps e terá valor bilionário para chamar desenvolvedores](https://www.tudocelular.com/mercado/noticias/n152954/huawei-appgallery-terceira-maior-loja-de-apps-android.html)
+- [MediaTek anuncia Helio P95 para intermediários com IA acelerada, recursos para jogos e mais](https://www.tudocelular.com/tech/noticias/n153003/mediatek-anuncia-novo-chip-helio-p95.html)
 
 **FEVEREIRO 28**
 
