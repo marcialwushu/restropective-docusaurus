@@ -208,6 +208,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 27**
 
+- [Wi-Fi 7 pode ter detecção de movimento e saber local do usuário (https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)](https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)
+
 **FEVEREIRO 28**
 
 - Ripple’s ODL service could benefit from XRP-backed stablecoin
