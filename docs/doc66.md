@@ -70,6 +70,12 @@ title: FEVEREIRO
 **FEVEREIRO 10**
 
 - [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+- TV Ad Reveals Samsung’s Unannounced ‘Galaxy Z Flip’ Phone
+- BSNL Launches Plan Worth Rs 2,000 With Amazon Prime Subscription
+- Bill Gates is reportedly the first to buy a hydrogen-powered ‘superyacht’ 
+- Galaxy S20 Ultra 5G with 16GB RAM to reportedly debut at Sprint
+- Microsoft Word, Excel, and PowerPoint Apps Redesigned With Simplified Three-Tab Layout on iPhone
+- Sony, Amazon, others drop out of big tech show over virus
 
 **FEVEREIRO 11**
 
