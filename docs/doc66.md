@@ -111,6 +111,13 @@ title: FEVEREIRO
 - [[**EVENTO**]: SCSS 2020 - BEYOND THE HYPE: USING AI/ML IN DEFENSE AND GOVERNMENT SYSTEMS](https://resources.sei.cmu.edu/news-events/events/scss/)
 - [Agentes russos são pegos 'investigando' cabos submarinos de internet](https://olhardigital.com.br/internacional/noticia/agentes-russos-sao-pegos-investigando-cabos-submarinos-de-internet/96936)
 - [China usa QR Codes para identificar risco de coronavírus](https://olhardigital.com.br/coronavirus/noticia/china-usa-qr-codes-para-identificar-risco-de-coronavirus/96961)
+- Motorola Razr display reportedly already peeling at fold
+- Porsche 911’s New Aerokit Is a Preview for the 992 GT3
+- Ring Finally Rolls Out Mandatory Two-Factor Authentication After Privacy Scandals
+- Apple’s location-tracking Tags might finally launch later this year
+- Apple Music now groups different versions of the same albums
+- Volocopter and Grab team up to test air taxi service in Southeast Asia
+- Tesla Model 3 leads industry in value retention, barely loses any value after a year
 
 **FEVEREIRO 19**
 
