@@ -55,6 +55,13 @@ title: FEVEREIRO
 **FEVEREIRO 08**
 
 - [[**EVENTO**]: AAAI 2020 : The Thirty-Fourth AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/)
+- WhatsApp for iOS starts beta testing Dark Mode support ahead of public release
+- After Facebook, Twitter moves to ban deepfakes on its platform
+- Apple fined $27 million for slowing down old iPhones
+- DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms
+- Facebook has acquired Scape Technologies, the London-based computer vision startup
+- Leaked Photos Confirm Samsung's New Foldable Phone is One Big Boy
+- Twitter Deactivates Baby Yoda Fan Account and People Are Upset
 
 **FEVEREIRO 09**
 
