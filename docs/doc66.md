@@ -210,6 +210,7 @@ title: FEVEREIRO
 
 - [Wi-Fi 7 pode ter detecção de movimento e saber local do usuário](https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)
 - [Motorola Edge+: novo topo de linha deve ser uma grande surpresa](https://canaltech.com.br/smartphone/motorola-edge-novo-topo-de-linha-deve-ser-uma-grande-surpresa-160962/)
+- [Huawei AppGallery já é a 3º maior loja de apps e terá valor bilionário para chamar desenvolvedores](https://www.tudocelular.com/mercado/noticias/n152954/huawei-appgallery-terceira-maior-loja-de-apps-android.html)
 
 **FEVEREIRO 28**
 
