@@ -231,4 +231,5 @@ title: FEVEREIRO
 - [HTC anuncia Wildfire R70 com preço baixo para dar fôlego às suas vendas ](https://www.tudocelular.com/htc/noticias/n153071/htc-wildfire-r70-anunciado.html)
 - [Pó de ferro pode ser o combustível sustentável do futuro](https://olhardigital.com.br/noticia/po-de-ferro-pode-ser-o-combustivel-sustentavel-do-futuro/97366)
 - [Google e Adidas podem lançar tênis inteligente que se conecta ao FIFA Mobile](https://canaltech.com.br/jogos-mobile/google-e-adidas-podem-lancar-tenis-inteligente-que-se-conecta-ao-fifa-mobile-161030/)
+- [Xiaomi AirDots Pro 2 são homologados pela Anatel](https://tecnoblog.net/326984/xiaomi-airdots-pro-2-sao-homologados-pela-anatel/)
 
