@@ -233,3 +233,12 @@ title: FEVEREIRO
 - [Google e Adidas podem lançar tênis inteligente que se conecta ao FIFA Mobile](https://canaltech.com.br/jogos-mobile/google-e-adidas-podem-lancar-tenis-inteligente-que-se-conecta-ao-fifa-mobile-161030/)
 - [Xiaomi AirDots Pro 2 são homologados pela Anatel](https://tecnoblog.net/326984/xiaomi-airdots-pro-2-sao-homologados-pela-anatel/)
 
+
+**FEVEREIRO 29**
+
+- [A half hour to learn Rust](https://bit.ly/398x3KA)
+- [How a 2 person startup already uses 28 other tools](https://bit.ly/2To0EsN)
+- [GDC 2020 has been "postponed"](https://bit.ly/3ckiXHV)
+- [If your cipher were secure, this image wouldn't have obvious repeating patterns](https://bit.ly/2vpvCc9)
+- [Oregon has first confirmed Covid-19 case](https://bit.ly/398cy0A)
+- [Show HN: A Hitchhikers Guide to Asynchronous Programming](https://bit.ly/398HcH7 )
