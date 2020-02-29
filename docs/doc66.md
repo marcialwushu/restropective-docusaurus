@@ -229,4 +229,5 @@ title: FEVEREIRO
 - [Novo malware no Android consegue roubar códigos do Google Authenticator](https://canaltech.com.br/seguranca/novo-malware-no-android-consegue-roubar-codigos-do-google-authenticator-161051/)
 - [Raspberry Pi 4 de 2 GB passa por redução permanente de preço](https://tecnoblog.net/326956/raspberry-pi-4-de-2-gb-passa-por-reducao-permanente-preco/)
 - [HTC anuncia Wildfire R70 com preço baixo para dar fôlego às suas vendas ](https://www.tudocelular.com/htc/noticias/n153071/htc-wildfire-r70-anunciado.html)
+- [Pó de ferro pode ser o combustível sustentável do futuro](https://olhardigital.com.br/noticia/po-de-ferro-pode-ser-o-combustivel-sustentavel-do-futuro/97366)
 
