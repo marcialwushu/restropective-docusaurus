@@ -230,4 +230,5 @@ title: FEVEREIRO
 - [Raspberry Pi 4 de 2 GB passa por redução permanente de preço](https://tecnoblog.net/326956/raspberry-pi-4-de-2-gb-passa-por-reducao-permanente-preco/)
 - [HTC anuncia Wildfire R70 com preço baixo para dar fôlego às suas vendas ](https://www.tudocelular.com/htc/noticias/n153071/htc-wildfire-r70-anunciado.html)
 - [Pó de ferro pode ser o combustível sustentável do futuro](https://olhardigital.com.br/noticia/po-de-ferro-pode-ser-o-combustivel-sustentavel-do-futuro/97366)
+- [Google e Adidas podem lançar tênis inteligente que se conecta ao FIFA Mobile](https://canaltech.com.br/jogos-mobile/google-e-adidas-podem-lancar-tenis-inteligente-que-se-conecta-ao-fifa-mobile-161030/)
 
