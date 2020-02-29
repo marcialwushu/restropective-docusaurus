@@ -226,4 +226,5 @@ title: FEVEREIRO
 - Geneva Motor Show canceled due to coronavirus outbreak
 - A high school student created a fake 2020 candidate. Twitter verified it
 - [Clearview AI, empresa de reconhecimento facial, revela vazamento de dados](https://tecnoblog.net/326906/clearview-ai-empresa-reconhecimento-facial-revela-vazamento-dados/)
+- [Novo malware no Android consegue roubar códigos do Google Authenticator](https://canaltech.com.br/seguranca/novo-malware-no-android-consegue-roubar-codigos-do-google-authenticator-161051/)
 
