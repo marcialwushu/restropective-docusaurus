@@ -232,6 +232,12 @@ title: FEVEREIRO
 - [Pó de ferro pode ser o combustível sustentável do futuro](https://olhardigital.com.br/noticia/po-de-ferro-pode-ser-o-combustivel-sustentavel-do-futuro/97366)
 - [Google e Adidas podem lançar tênis inteligente que se conecta ao FIFA Mobile](https://canaltech.com.br/jogos-mobile/google-e-adidas-podem-lancar-tenis-inteligente-que-se-conecta-ao-fifa-mobile-161030/)
 - [Xiaomi AirDots Pro 2 são homologados pela Anatel](https://tecnoblog.net/326984/xiaomi-airdots-pro-2-sao-homologados-pela-anatel/)
+- [Programmers generate every possible melody in MIDI to prevent lawsuits](https://bit.ly/2Pyrcql)
+- [The boss who put everyone on 70K](https://bit.ly/2VshFVu)
+- [AMD Launches Ultra-Low-Power Ryzen Embedded APUs](https://bit.ly/2HZfktg)
+- [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://bit.ly/3choyig)
+- [Show HN: Profit Hunt - Get inspired by profitable online projects](https://bit.ly/2TpRw6T)
+- [Ant Design 4.0 is out](https://bit.ly/2PxyYk5)
 
 
 **FEVEREIRO 29**
