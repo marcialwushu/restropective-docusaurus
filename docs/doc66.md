@@ -210,4 +210,12 @@ title: FEVEREIRO
 
 **FEVEREIRO 28**
 
+- Ripple’s ODL service could benefit from XRP-backed stablecoin
+- Chinese police now have AI helmets for temperature screening
+- Vivo’s new Apex 2020 concept phone has an in-display selfie camera
+- Smithsonian unleashes nearly 3 million images into the public domain
+- Apple is about to start making laptops a lot more like phones
+- Geneva Motor Show canceled due to coronavirus outbreak
+- A high school student created a fake 2020 candidate. Twitter verified it
+
 
