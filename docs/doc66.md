@@ -225,5 +225,5 @@ title: FEVEREIRO
 - Apple is about to start making laptops a lot more like phones
 - Geneva Motor Show canceled due to coronavirus outbreak
 - A high school student created a fake 2020 candidate. Twitter verified it
-
+- [Clearview AI, empresa de reconhecimento facial, revela vazamento de dados](https://tecnoblog.net/326906/clearview-ai-empresa-reconhecimento-facial-revela-vazamento-dados/)
 
