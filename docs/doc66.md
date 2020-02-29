@@ -166,6 +166,17 @@ title: FEVEREIRO
 - [PayPal Users Hit With Fraudulent 'Target' Charges via Google Pay](https://www.bleepingcomputer.com/news/security/paypal-users-hit-with-fraudulent-target-charges-via-google-pay/)
 - [SUDO_KILLER - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo](https://hakin9.org/sudo_killer-a-tool-to-identify-and-exploit-sudo-rules-misconfigurations-and-vulnerabilities-within-sudo/)
 - [Morre aos 101 anos a matemática negra que ajudou a Apollo 11 a chegar à Lua](https://www.uol.com.br/tilt/noticias/redacao/2020/02/24/morre-aos-101-anos-a-matematica-negra-que-ajudou-a-apollo-11-a-chegar-a-lua.htm)
+- Vivo’s Apex 2020 concept phone is coming on Friday
+- WhatsApp group chats can be found on Google and could be less private than people realise
+- Microsoft Sheds More Light on Xbox Series X Performance and Features
+- Galaxy Buds+ support multi-device connection only on Samsung phones
+- Mac With Apple-Designed Arm Processor Coming in First Half of 2021
+- TSA bans employees from using TikTok
+- The Xbox One will soon get the ability to eject discs with a controller
+- Apple announces plans to boost Safari security for sites using HTTPS
+- Samsung Members is the latest app to receive Dark Mode support
+- Huawei announces the Mate XS foldable with a more durable display and faster processor
+- Lenovo adds nine new laptops to its ThinkPad lineup
 
 **FEVEREIRO 25**
 
