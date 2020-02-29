@@ -134,6 +134,12 @@ title: FEVEREIRO
 
 **FEVEREIRO 20**
 
+- Larry Tesler: Computer scientist behind cut, copy and paste dies aged 74
+- More Tatkal tickets available now as Railways weed out illegal softwares
+- HTC debuts ‘Project Proton’ concept Vive headset
+- Google Has Banned Almost 600 Apps For Pushing “Disruptive” Ads
+- Microsoft is bringing its antivirus software to iOS and Android
+
 **FEVEREIRO 21**
 
 - [Vazamento em massa! 470 mil grupos do WhatsApp estão expostos no Google](https://www.tudocelular.com/seguranca/noticias/n152819/vazamento-470-mil-grupos-whatsapp-expostos-google.html)
