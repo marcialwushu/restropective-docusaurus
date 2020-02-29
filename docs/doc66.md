@@ -88,6 +88,16 @@ title: FEVEREIRO
 
 **FEVEREIRO 13**
 
+- 'Lockdown’ open source firewall app leaps from iOS to Mac, blocks app and website trackers for free
+- Microsoft CEO Satya Nadella to visit India later this month
+- Samsung Galaxy A30 receives Android 10 update in India
+- Samsung’s Galaxy S20 phones have a 5-minute recording limit for 8K video
+- General Motors’ SUV Hummer to Relaunch as an Electric Vehicle
+- Canon Announces Development of the EOS R5 with IBIS, 8K Video and More
+- Google’s Live Caption could land in the Chrome desktop browser
+- Mobile World Congress 2020 Called Off Amid Coronavirus Scare 
+- Netflix is set to produce content exclusive to Samsung Galaxy phone users
+
 **FEVEREIRO 14**
 
 **FEVEREIRO 15**
