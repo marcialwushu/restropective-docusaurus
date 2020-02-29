@@ -238,6 +238,12 @@ title: FEVEREIRO
 - [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://bit.ly/3choyig)
 - [Show HN: Profit Hunt - Get inspired by profitable online projects](https://bit.ly/2TpRw6T)
 - [Ant Design 4.0 is out](https://bit.ly/2PxyYk5)
+- [Freeman Dyson Dies at 96; Wrestled with Questions of Physics and Morality](https://bit.ly/3apogo3)
+- [I Want Off Mr. Golang's Wild Ride](https://bit.ly/2TlGu2E)
+- [Google's Abandoned Android Authenticator App](https://bit.ly/2wiVbvp)
+- [Ask HN: How to find work while homeless?](https://bit.ly/2TBdBQn)
+- [A high school student created a fake 2020 candidate, and Twitter verified it](https://bit.ly/2Ihbwnr)
+- [Google employee diagnosed with coronavirus](https://bit.ly/2vs07Ox)
 
 
 **FEVEREIRO 29**
