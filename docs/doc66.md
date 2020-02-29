@@ -214,6 +214,7 @@ title: FEVEREIRO
 - [MediaTek anuncia Helio P95 para intermediários com IA acelerada, recursos para jogos e mais](https://www.tudocelular.com/tech/noticias/n153003/mediatek-anuncia-novo-chip-helio-p95.html)
 - [Microsoft Edge também tem jogo offline — e é melhor que o dinossauro do Chrome ](https://canaltech.com.br/navegadores/microsoft-edge-tambem-tem-jogo-offline-e-e-melhor-que-o-dinossauro-do-chrome-161026/)
 - [Kioxia (Toshiba) prepara armazenamento de 1 TB para celulares](https://tecnoblog.net/326874/kioxia-toshiba-prepara-armazenamento-ufs-3-1-celulares-1-tb/)
+- [Mi Band 5 chegando: tudo o que já sabemos sobre a pulseira inteligente da Xiaomi](https://telegra.ph/Mi-Band-5-chegando-tudo-o-que-j%C3%A1-sabemos-sobre-a-pulseira-inteligente-da-Xiaomi-02-27-2)
 
 **FEVEREIRO 28**
 
