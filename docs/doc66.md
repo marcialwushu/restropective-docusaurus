@@ -208,7 +208,8 @@ title: FEVEREIRO
 
 **FEVEREIRO 27**
 
-- [Wi-Fi 7 pode ter detecção de movimento e saber local do usuário (https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)](https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)
+- [Wi-Fi 7 pode ter detecção de movimento e saber local do usuário](https://tecnoblog.net/326732/wi-fi-7-pode-ter-deteccao-movimento-saber-local-usuario/)
+- [Motorola Edge+: novo topo de linha deve ser uma grande surpresa](https://canaltech.com.br/smartphone/motorola-edge-novo-topo-de-linha-deve-ser-uma-grande-surpresa-160962/)
 
 **FEVEREIRO 28**
 
