@@ -262,4 +262,5 @@ title: FEVEREIRO
 - [List of 2020 Leap Day Bugs](https://bit.ly/2PCfVFl)
 - [U.S. Signs Peace Deal with Taliban After Nearly 2 Decades of War in Afghanistan](https://bit.ly/2PyQB30)
 - [A mysterious bug in the firmware of Google's Titan M chip (CVE-2019-9465)](https://bit.ly/2T9M0q7)
+- [Abundan las ofertas, pero escasean los compradores en nueva plataforma P2P del petro](https://www.criptonoticias.com/mercados/abundan-ofertas-escasean-compradores-petro/)
 
