@@ -254,3 +254,10 @@ title: FEVEREIRO
 - [If your cipher were secure, this image wouldn't have obvious repeating patterns](https://bit.ly/2vpvCc9)
 - [Oregon has first confirmed Covid-19 case](https://bit.ly/398cy0A)
 - [Show HN: A Hitchhikers Guide to Asynchronous Programming](https://bit.ly/398HcH7 )
+- [My Covid-19 Story. Brooklyn](https://bit.ly/2wjsmiM)
+- [Republican mega-donor buys stake in Twitter and seeks to oust Jack Dorsey](https://bit.ly/2PAV4Cx)
+- [Programming trick questions](https://bit.ly/385U1AF)
+- [List of 2020 Leap Day Bugs](https://bit.ly/2PCfVFl)
+- [U.S. Signs Peace Deal with Taliban After Nearly 2 Decades of War in Afghanistan](https://bit.ly/2PyQB30)
+- [A mysterious bug in the firmware of Google's Titan M chip (CVE-2019-9465)](https://bit.ly/2T9M0q7)
+
