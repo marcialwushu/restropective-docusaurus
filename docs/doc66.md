@@ -245,6 +245,7 @@ title: FEVEREIRO
 - [A high school student created a fake 2020 candidate, and Twitter verified it](https://bit.ly/2Ihbwnr)
 - [Google employee diagnosed with coronavirus](https://bit.ly/2vs07Ox)
 - [GhostCat: New High-Risk Vulnerability Affects Servers Running Apache Tomcat](http://feedproxy.google.com/~r/TheHackersNews/~3/6hrVzZ1lzyw/ghostcat-new-high-risk-vulnerability.html)
+- [Let's Encrypt Issued A Billion Free SSL Certificates in the Last 4 Years](https://www.malaysiainternet.my/2020/02/lets-encrypt-issued-a-billion-free-ssl-certificates-in-the-last-4-years/)
 
 
 **FEVEREIRO 29**
