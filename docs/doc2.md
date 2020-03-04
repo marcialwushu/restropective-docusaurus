@@ -255,6 +255,7 @@ title: JANEIRO
 - [Tigre-ADS integra Salesforce com Oracle E-Business Suite](https://itmidia.us11.list-manage.com/track/click?u=51cf11b6bcc90535f3eb1e0ba&id=aec898f505&e=7e9fd0dd20)
 - [Qi Network expandirá atuação na região Centro-Sul do Brasil](https://itmidia.us11.list-manage.com/track/click?u=51cf11b6bcc90535f3eb1e0ba&id=c68efec59c&e=7e9fd0dd20)
 - [Furukawa e Intracom Telecom firmam parceria com foco em IoT e 5G](https://itmidia.us11.list-manage.com/track/click?u=51cf11b6bcc90535f3eb1e0ba&id=d65d045d50&e=7e9fd0dd20)
+- [Brokers minimizam impacto do WhatsApp Business sobre o mercado de SMS A2P](https://www.mobiletime.com.br/noticias/19/01/2018/brokers-minimizam-impacto-do-whatsapp-business-sobre-o-mercado-de-sms-a2p/)
 
 **JANEIRO 20**
 
