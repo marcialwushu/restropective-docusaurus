@@ -76,7 +76,20 @@ title: MARÇO
 - iPhone apps can now use notifications to send ads after Apple changes policy
 - Forget foldable phones. Large rollable displays are the way to go
 - iPhone replacement units and parts might be in short supply
-
+- [Anthony Levandowski ordered to pay $179M to Google](https://bit.ly/38kJ4LX)
+- [Show HN: HiddenVM – Use any desktop OS without leaving a trace](https://bit.ly/32Q1Ide)
+- [Radiooooo – The Music Time Machine](https://bit.ly/2InD5ey)
+- [The 5th-generation Waymo Driver](https://bit.ly/2PKaioE)
+- [Using Anki to Remember Everything You Read](https://bit.ly/2VM9KCp)
+- [“Let’s use Kubernetes ” Now you have 8 problems](https://bit.ly/2TqhwjK)
+- [People kept working, became healthier while on basic income: report](https://bit.ly/38oSlCz)
+- [Discovering the brain's nightly rinse cycle](https://bit.ly/2VPbryX)
+- [Intel x86 Root of Trust: Loss of Trust](https://bit.ly/32SNS9Z)
+- [Enterprise companies now spending $10k per employee per year on SaaS](https://bit.ly/2TAQUM0)
+- [Facebook sues Namecheap for registering phishing domains](https://bit.ly/3awvRRz)
+- [The History of the URL](https://bit.ly/3cxS17U)
+ 
+ 
 **MARÇO 06**
 
 - Tesla wins approval to sell longer-range China-made Model 3 vehicles
