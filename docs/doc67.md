@@ -101,8 +101,23 @@ title: MARÇO
 - Raspberry Pi just got a new SD card speed test tool and imaging utility
 - Google Messages could soon be able to send iMessage-like ‘reaction texts’
 - Facebook’s Given its Main Function Menu a Colorful Refresh
+- [Slide: 3.5x Faster Deep Learning on CPU Then on GPU](https://bit.ly/2PRjwzy)
+- [Uncovering the CIA's Audacious Operation That Gave Them Access to State Secrets](https://bit.ly/32VvxJA)
+- [Show HN: Unscreen – Remove Video and GIF Backgrounds](https://bit.ly/32WBjuh)
+- [Scientists monitored brains replaying memories in real time](https://bit.ly/2TJUqn8)
+- [Hacking up your own shell completion](https://bit.ly/2IAsjlz )
+- [Who is Facebook's mysterious “Lan Tim 2”?](https://bit.ly/2xbhfZn)
+- [DuckDuckGo is good enough for regular use](https://bit.ly/2ImbwlU)
+- [Study: Caffeine Boosts Problem-Solving Ability but Not Creativity](https://bit.ly/2TEVEjI)
+- [Earn IT is an attack on encryption](https://bit.ly/2uZCs7Y)
+- [Cloud Storage for $2 / TB / Mo](https://bit.ly/2TthTtU)
+- [Not being an asshole will make you more money](https://bit.ly/3cMl2wO)
+- [6 months in and $1k MRR: my biggest mistakes (so far)](https://bit.ly/38xrTqq)
+
 
 **MARÇO 07**
+
+
 
 **MARÇO 08**
 
