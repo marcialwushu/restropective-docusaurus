@@ -53,6 +53,20 @@ title: MARÇO
 
 **MARÇO 04**
 
+- [Post YC Depression](https://bit.ly/32NoPFr)
+- [Evidence of massive-scale emotional contagion through social networks (2014) pdf](https://bit.ly/3asnW7E)
+- [Jitsi Meet: open-source video conferencing](https://bit.ly/39sfohm)
+- [Spot the Drowning Child](https://bit.ly/38hZ5SB)
+- [Reddit has become a guide to personal finance](https://bit.ly/2VHPmCw)
+- [Stop using Material Design text fields](https://bit.ly/2xao91d)
+- [Highest French court reclassifies Uber driver as an employee](https://bit.ly/3atH7hK)
+- [The neuroinvasive potential of SARS-CoV2](https://bit.ly/3akc87E)
+- [Google Cloud charging for Kubernetes Clusters beginning June 2020](https://bit.ly/39zZOjq)
+- [Explaining Copyright Broke the YouTube Copyright System](https://bit.ly/32NIUvm)
+- [Waymo Via](https://bit.ly/2xdAKRn)
+- [Malawi legalises the growing, selling and export of cannabis](https://bit.ly/2IlpHb2)
+ 
+
 **MARÇO 05**
 
 - OnePlus will now come to your house and fix your phone 
