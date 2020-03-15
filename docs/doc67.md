@@ -47,6 +47,12 @@ title: MARÇO
 
 **MARÇO 12**
 
+- Hackers Are Using Coronavirus Maps to Spread Malware
+- Italians on COVID-19 lockdown can access free online services
+- Apple’s Stock Plunges $20 as Stock Market Trading Temporarily Halted After Opening Bell
+- Google's G Suite cracks 2 billion users
+- Microsoft, Nintendo, Ubisoft Replace E3 With Digital Events
+- KAWS Launches a New Augmented Reality Project Called, 'EXPANDED HOLIDAY'
 
 
 **MARÇO 13**
