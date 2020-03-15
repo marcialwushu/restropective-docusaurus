@@ -117,6 +117,19 @@ title: MARÇO
 
 **MARÇO 07**
 
+- [I Have Seen Things](https://bit.ly/2v08b92)
+- [Netlify nabs $53M Series C as microservices approach to web development grows](https://bit.ly/2VTzOf4)
+- [Stanford cancels in person classes for rest of the quarter](https://bit.ly/2TO37x1)
+- [eBay bans sales of all face masks and hand sanitizers](https://bit.ly/38wWnJg)
+- [With no prospects for profits, big pharma neglects new infectious diseases](https://bit.ly/39wnkhl)
+- [The Brave browser is brilliant, but probably not for the reasons you think](https://bit.ly/39CIkmU)
+- [Google tracked his bike ride past a burglarized home. That made him a suspect](https://bit.ly/2VRGN8n)
+- [Firecracker: OSS virtualization techno, creating and managing secure, multi-tena](https://bit.ly/2IpBSnd)
+- [We have to talk about this Python, Gunicorn, Gevent thing](https://bit.ly/32ZebLJ)
+- [The Human Genome Is Full of Viruses](https://bit.ly/2wFMR9y)
+- [Airlines are burning thousands of gallons of fuel flying empty 'ghost' planes](https://bit.ly/3aC9A52)
+- [US Army scraps $1B Iron Dome project, after Israel refuses to provide key codes](https://bit.ly/39JihtW)
+
 
 
 **MARÇO 08**
