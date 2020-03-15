@@ -37,6 +37,16 @@ title: MARÇO
 
 **MARÇO 12**
 
+- Tesla wins approval to sell longer-range China-made Model 3 vehicles
+- Apple is rejecting coronavirus apps that aren’t from health organizations
+- Quibi is giving people a 90-day free trial in hopes they’ll actually sign up
+- iOS 13.4: Apple Card UI shows more information for Apple services transactions
+- TurboGrafx-16 Mini delayed after coronavirus shuts down production
+- New coronavirus case prompts Samsung to shut down Gumi plant again
+- Raspberry Pi just got a new SD card speed test tool and imaging utility
+- Google Messages could soon be able to send iMessage-like ‘reaction texts’
+- Facebook’s Given its Main Function Menu a Colorful Refresh
+
 **MARÇO 13**
 
 **MARÇO 14**
