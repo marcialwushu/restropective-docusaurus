@@ -11,7 +11,13 @@ title: MARÇO
 - [Seeing the Smoke](https://bit.ly/38aedS9)
 - [Show HN: Learn Awk by Example (2019)](https://bit.ly/2I5xIAE)
 - [NASA images show China pollution clear amid slowdown](https://bit.ly/2PD0lt7)
- 
+- [NymphCast: Casual attempt at open alternative to Chromecast](https://bit.ly/2TsDL7x)
+- [Better Business Bureau Just Rejected Basically All of Molekule’s Purifier Claims](https://bit.ly/32GB1b1)
+- [Uyghurs for sale: ‘Re-education’, forced labour and surveillance beyond Xinjiang](https://bit.ly/2PDBaqf)
+- [Travelling with 24“ Monitors](https://bit.ly/32Dgynk)
+- [Aleph is a tool for indexing large amounts of both documents and structured data](https://bit.ly/38hnYxH)
+- [How I Did It: From Psych Degree to VP of Data Science at Top Startup](https://bit.ly/2TuV6Nc)
+
 
 **MARÇO 02**
 
