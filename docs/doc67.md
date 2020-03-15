@@ -35,9 +35,21 @@ title: MARÇO
 - [Facebook's Download-Your-Data Tool Is Incomplete](https://bit.ly/2Ie2S96)
 
 
-**MARÇO 01**
-
 **MARÇO 03**
+
+- [Simple Systems Have Less Downtime](https://bit.ly/32ODTmm)
+- [Covid-19 precautions for Stripe employees and customers](https://bit.ly/2IkeqYd)
+- [Covid-19 precautions for Stripe employees and customers](https://bit.ly/2IcJN7l)
+- [Postgres Explain Visualizer](https://bit.ly/38jLz10)
+- [Sophos acquired for USD$3.9B in cash](https://bit.ly/2VKXS3T)
+- [Let’s Encrypt – Revoking certain certificates on March 4](https://bit.ly/2Tw6XuB)
+- [Fed Cuts Rates Half Point in Emergency Move Amid Spreading Virus](https://bit.ly/3cucOJh)
+- [Intro to D3 from MIT](https://bit.ly/39lMWO0)
+- [SETI Home Search for Alien Life Project Shuts Down After 21 Years](https://bit.ly/32Nz64i)
+- [Firefox 75 on Linux (Wayland) now to have WebGL and video hardware acceleration](https://bit.ly/3cqia8w)
+- [The sound of the Hagia Sophia, more than 500 years ago](https://bit.ly/32SPbpx)
+- [What are the mysterious light sources on light pollution maps?](https://bit.ly/2TlkAxI)
+ 
 
 **MARÇO 04**
 
