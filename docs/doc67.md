@@ -21,6 +21,20 @@ title: MARÇO
 
 **MARÇO 02**
 
+- [Firefox is showing the way back to a world that’s private by default](https://bit.ly/2TeE2MF)
+- [Epistemic standards for “Why did it take so long to invent X?”](https://bit.ly/389ViqF)
+- [Little Known Features of iTerm2](https://bit.ly/2Tdchnt)
+- [Economists study what happens when people stop using Facebook](https://bit.ly/3cyeHF8)
+- [Rust Ownership Rules](https://bit.ly/3cmybw5)
+- [CNN-generated images are surprisingly easy to spot for now](https://bit.ly/2I737CV)
+- [WireGuard Gives Linux a Faster, More Secure VPN](https://bit.ly/2PEU9AU)
+- [Windows93](https://bit.ly/3ckr2g5)
+- [Ask HN: Who is hiring? (March 2020)](https://bit.ly/39i3zdt)
+- [Project Svalbard, Have I Been Pwned and Its Ongoing Independence](https://bit.ly/2Th8A0k)
+- [Jack Welch, Legendary CEO of General Electric, Dies at Age 84](https://bit.ly/2Th3Kjm)
+- [Facebook's Download-Your-Data Tool Is Incomplete](https://bit.ly/2Ie2S96)
+
+
 **MARÇO 01**
 
 **MARÇO 03**
