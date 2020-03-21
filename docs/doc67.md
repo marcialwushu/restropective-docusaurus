@@ -170,6 +170,8 @@ title: MARÇO
 
 **MARÇO 20**
 
+- [Uber suspende modalidade de viagem compartilhada no Brasil](https://amp.flipboard.com/@FlipboardBR/uber-suspende-modalidade-de-viagem-compartilhada-no-brasil/a-8EhRbNWKSsyGpuwXPyoecw%3Aa%3A39599696-584301a19a%2Fcom.br)
+
 **MARÇO 21**
 
 **MARÇO 22**
