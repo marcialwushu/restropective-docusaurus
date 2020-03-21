@@ -176,6 +176,7 @@ title: MARÇO
 - [Em meio à pandemia, golpe oferece assinatura grátis da Netflix](https://olhardigital.com.br/coronavirus/noticia/em-meio-a-pandemia-golpe-oferece-assinatura-gratis-da-netflix/98328)
 - [Empresas cancelam participação na GDC por causa do coronavírus](https://olhardigital.com.br/coronavirus/noticia/empresas-cancelam-participacao-na-gdc-por-causa-do-coronavirus/97390)
 - [Inteligência artificial analisa 29 mil pesquisas sobre coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-03-19/inteligencia-artificial-analisa-29-mil-pesquisas-sobre-coronavirus.html)
+- [Ao vivo | Cloroquina: Trump quer testar medicamento contra o coronavírus](https://www.facebook.com/olhardigital/videos/521091232162321/)
 
 **MARÇO 21**
 
