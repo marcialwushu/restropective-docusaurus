@@ -173,6 +173,7 @@ title: MARÇO
 - [Uber suspende modalidade de viagem compartilhada no Brasil](https://amp.flipboard.com/@FlipboardBR/uber-suspende-modalidade-de-viagem-compartilhada-no-brasil/a-8EhRbNWKSsyGpuwXPyoecw%3Aa%3A39599696-584301a19a%2Fcom.br)
 - [Em meio à pandemia, golpe oferece assinatura grátis da Netflix](https://olhardigital.com.br/coronavirus/noticia/em-meio-a-pandemia-golpe-oferece-assinatura-gratis-da-netflix/98328)
 - [Empresas cancelam participação na GDC por causa do coronavírus](https://olhardigital.com.br/coronavirus/noticia/empresas-cancelam-participacao-na-gdc-por-causa-do-coronavirus/97390)
+- [Inteligência artificial analisa 29 mil pesquisas sobre coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-03-19/inteligencia-artificial-analisa-29-mil-pesquisas-sobre-coronavirus.html)
 
 **MARÇO 21**
 
