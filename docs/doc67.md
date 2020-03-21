@@ -168,6 +168,8 @@ title: MARÇO
 
 **MARÇO 19**
 
+- [Digital influencer de Brusque recém-chegada da Itália testa negativo ao Coronavírus](https://omunicipio.com.br/andre-groh-digital-influencer-de-brusque-recem-chegada-da-italia-testa-negativo-ao-coronavirus/)
+
 **MARÇO 20**
 
 - [Uber suspende modalidade de viagem compartilhada no Brasil](https://amp.flipboard.com/@FlipboardBR/uber-suspende-modalidade-de-viagem-compartilhada-no-brasil/a-8EhRbNWKSsyGpuwXPyoecw%3Aa%3A39599696-584301a19a%2Fcom.br)
