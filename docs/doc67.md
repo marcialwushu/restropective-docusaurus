@@ -171,6 +171,7 @@ title: MARÇO
 **MARÇO 20**
 
 - [Uber suspende modalidade de viagem compartilhada no Brasil](https://amp.flipboard.com/@FlipboardBR/uber-suspende-modalidade-de-viagem-compartilhada-no-brasil/a-8EhRbNWKSsyGpuwXPyoecw%3Aa%3A39599696-584301a19a%2Fcom.br)
+- [Em meio à pandemia, golpe oferece assinatura grátis da Netflix](https://olhardigital.com.br/coronavirus/noticia/em-meio-a-pandemia-golpe-oferece-assinatura-gratis-da-netflix/98328)
 
 **MARÇO 21**
 
