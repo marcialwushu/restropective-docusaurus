@@ -171,6 +171,7 @@ title: MARÇO
 - [WhatsApp anuncia iniciativas para auxiliar o combate ao coronavírus](https://olhardigital.com.br/coronavirus/noticia/whatsapp-anuncia-iniciativas-para-auxiliar-o-combate-ao-coronavirus/98196)
 - [Coronavírus: empresas brasileiras sofrem ao implementar home office](https://olhardigital.com.br/coronavirus/noticia/coronavirus-empresas-brasileiras-sofrem-ao-implementar-home-office/98244)
 - [Análise de dados é arma poderosa no combate ao novo coronavírus](https://olhardigital.com.br/coronavirus/noticia/analise-de-dados-e-arma-poderosa-no-combate-ao-novo-coronavirus/98231)
+- [Microsoft rastreia coronavírus: confira a evolução da pandemia em tempo real](https://tecnologia.ig.com.br/olhar-digital/2020-03-18/microsoft-rastreia-coronavirus-confira-a-evolucao-da-pandemia-em-tempo-real.html)
 
 **MARÇO 19**
 
