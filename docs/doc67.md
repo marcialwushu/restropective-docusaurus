@@ -162,6 +162,8 @@ title: MARÇO
 
 **MARÇO 17**
 
+- [Serviço do Nintendo Switch sai do ar em todo o mundo](https://olhardigital.com.br/coronavirus/video/servico-do-nintendo-switch-sai-do-ar-em-todo-o-mundo/98171)
+
 **MARÇO 18**
 
 - [[**EVENTO**] GDCA 2020 - 20th Annual Game Developers Choice Awards](http://gamechoiceawards.com/?MCAID=77FB1CFE532B22840A490D45@AdobeOrg)
