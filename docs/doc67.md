@@ -205,6 +205,8 @@ title: MARÇO
 
 **MARÇO 21**
 
+- [FAPESP financiará pesquisas para o combate ao coronavírus](http://agencia.fapesp.br/fapesp-financiara-pesquisas-para-o-combate-ao-coronavirus/32795/)
+
 **MARÇO 22**
 
 - [Um app que dá movimento às suas fotos](https://olhardigital.com.br/noticia/um-app-que-da-movimento-as-suas-fotos/79332)
