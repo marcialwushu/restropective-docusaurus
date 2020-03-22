@@ -170,6 +170,7 @@ title: MARÇO
 - [Covid-19: epidemia faz com que Amazon aumente salários e gere empregos](https://olhardigital.com.br/coronavirus/noticia/covid-19-epidemia-faz-com-que-amazon-aumente-salarios-e-gere-empregos/98150)
 - [Apple registra patente de tecnologia 'anti-curiosos'](https://olhardigital.com.br/noticia/apple-registra-patente-de-tecnologia-anti-curiosos/98184)
 - [Alunos japoneses fazem formatura via Minecraft para driblar coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-03-17/alunos-japoneses-fazem-formatura-via-minecraft-para-driblar-coronavirus-assista.html)
+- [Samsung Pay passa a funcionar também como conta digital](https://olhardigital.com.br/noticia/samsung-pay-passa-a-funcionar-tambem-como-conta-digital/98160)
 
 **MARÇO 18**
 
