@@ -170,6 +170,7 @@ title: MARÇO
 - [Estudo diz que tipo sanguíneo pode afetar vulnerabilidade de pacientes](https://olhardigital.com.br/coronavirus/video/estudo-diz-que-tipo-sanguineo-pode-afetar-vulnerabilidade-de-pacientes/98228)
 - [WhatsApp anuncia iniciativas para auxiliar o combate ao coronavírus](https://olhardigital.com.br/coronavirus/noticia/whatsapp-anuncia-iniciativas-para-auxiliar-o-combate-ao-coronavirus/98196)
 - [Coronavírus: empresas brasileiras sofrem ao implementar home office](https://olhardigital.com.br/coronavirus/noticia/coronavirus-empresas-brasileiras-sofrem-ao-implementar-home-office/98244)
+- [Análise de dados é arma poderosa no combate ao novo coronavírus](https://olhardigital.com.br/coronavirus/noticia/analise-de-dados-e-arma-poderosa-no-combate-ao-novo-coronavirus/98231)
 
 **MARÇO 19**
 
