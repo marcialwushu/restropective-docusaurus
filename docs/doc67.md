@@ -163,6 +163,7 @@ title: MARÇO
 **MARÇO 17**
 
 - [Serviço do Nintendo Switch sai do ar em todo o mundo](https://olhardigital.com.br/coronavirus/video/servico-do-nintendo-switch-sai-do-ar-em-todo-o-mundo/98171)
+- [Operadoras móveis adotam novas medidas em razão da pandemia](https://olhardigital.com.br/coronavirus/video/operadoras-moveis-adotam-novas-medidas-em-razao-da-pandemia/98172)
 
 **MARÇO 18**
 
