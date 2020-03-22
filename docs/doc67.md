@@ -167,6 +167,7 @@ title: MARÇO
 - [Apple lista novos modelos do iPad Pro em website acidentalmente](https://olhardigital.com.br/noticia/apple-lista-novos-modelos-do-ipad-pro-em-website-acidentalmente/98183)
 - [Com preço bom, Huawei Band 4 chega ao Brasil para competir com Mi Band](https://tecnologia.ig.com.br/olhar-digital/2020-03-17/com-preco-bom-huawei-band-4-chega-ao-brasil-para-competir-com-mi-band.html)
 - [Startup oferece teste grátis de coronavírus para idosos](https://www.metropoles.com/brasil/startup-oferece-teste-gratis-de-coronavirus-para-idosos)
+- [Covid-19: epidemia faz com que Amazon aumente salários e gere empregos](https://olhardigital.com.br/coronavirus/noticia/covid-19-epidemia-faz-com-que-amazon-aumente-salarios-e-gere-empregos/98150)
 
 **MARÇO 18**
 
