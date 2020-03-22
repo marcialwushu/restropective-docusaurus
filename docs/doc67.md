@@ -169,6 +169,7 @@ title: MARÇO
 **MARÇO 19**
 
 - [Digital influencer de Brusque recém-chegada da Itália testa negativo ao Coronavírus](https://omunicipio.com.br/andre-groh-digital-influencer-de-brusque-recem-chegada-da-italia-testa-negativo-ao-coronavirus/)
+- [Internet brasileira ainda apresenta aumento leve de tráfego](https://olhardigital.com.br/coronavirus/video/internet-brasileira-ainda-apresenta-aumento-leve-de-trafego/98295)
 
 **MARÇO 20**
 
