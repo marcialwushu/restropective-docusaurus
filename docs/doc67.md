@@ -166,6 +166,7 @@ title: MARÇO
 - [Operadoras móveis adotam novas medidas em razão da pandemia](https://olhardigital.com.br/coronavirus/video/operadoras-moveis-adotam-novas-medidas-em-razao-da-pandemia/98172)
 - [Apple lista novos modelos do iPad Pro em website acidentalmente](https://olhardigital.com.br/noticia/apple-lista-novos-modelos-do-ipad-pro-em-website-acidentalmente/98183)
 - [Com preço bom, Huawei Band 4 chega ao Brasil para competir com Mi Band](https://tecnologia.ig.com.br/olhar-digital/2020-03-17/com-preco-bom-huawei-band-4-chega-ao-brasil-para-competir-com-mi-band.html)
+- [Startup oferece teste grátis de coronavírus para idosos](https://www.metropoles.com/brasil/startup-oferece-teste-gratis-de-coronavirus-para-idosos)
 
 **MARÇO 18**
 
