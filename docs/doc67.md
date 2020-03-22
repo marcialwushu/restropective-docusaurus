@@ -165,6 +165,7 @@ title: MARÇO
 - [Serviço do Nintendo Switch sai do ar em todo o mundo](https://olhardigital.com.br/coronavirus/video/servico-do-nintendo-switch-sai-do-ar-em-todo-o-mundo/98171)
 - [Operadoras móveis adotam novas medidas em razão da pandemia](https://olhardigital.com.br/coronavirus/video/operadoras-moveis-adotam-novas-medidas-em-razao-da-pandemia/98172)
 - [Apple lista novos modelos do iPad Pro em website acidentalmente](https://olhardigital.com.br/noticia/apple-lista-novos-modelos-do-ipad-pro-em-website-acidentalmente/98183)
+- [Com preço bom, Huawei Band 4 chega ao Brasil para competir com Mi Band](https://tecnologia.ig.com.br/olhar-digital/2020-03-17/com-preco-bom-huawei-band-4-chega-ao-brasil-para-competir-com-mi-band.html)
 
 **MARÇO 18**
 
