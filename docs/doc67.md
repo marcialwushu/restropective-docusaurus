@@ -172,6 +172,7 @@ title: MARÇO
 - [Internet brasileira ainda apresenta aumento leve de tráfego](https://olhardigital.com.br/coronavirus/video/internet-brasileira-ainda-apresenta-aumento-leve-de-trafego/98295)
 - [Smartphones da Nokia voltarão a ser vendidos no Brasil, anuncia CEO](https://olhardigital.com.br/noticia/smartphones-da-nokia-voltarao-a-ser-vendidos-no-brasil-anuncia-ceo/98276)
 - [Existem infinitos anéis de luz em volta dos buracos negros](https://olhardigital.com.br/ciencia-e-espaco/noticia/existem-infinitos-aneis-de-luz-em-volta-dos-buracos-negros/98269)
+- [O que é o Google Play Protect e o seu programa de proteção avançado](https://olhardigital.com.br/dicas_e_tutoriais/noticia/o-que-e-o-google-play-protect-e-o-seu-programa-de-protecao-avancado/98253)
 
 **MARÇO 20**
 
