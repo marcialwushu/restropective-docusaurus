@@ -170,6 +170,7 @@ title: MARÇO
 
 - [Digital influencer de Brusque recém-chegada da Itália testa negativo ao Coronavírus](https://omunicipio.com.br/andre-groh-digital-influencer-de-brusque-recem-chegada-da-italia-testa-negativo-ao-coronavirus/)
 - [Internet brasileira ainda apresenta aumento leve de tráfego](https://olhardigital.com.br/coronavirus/video/internet-brasileira-ainda-apresenta-aumento-leve-de-trafego/98295)
+- [Smartphones da Nokia voltarão a ser vendidos no Brasil, anuncia CEO](https://olhardigital.com.br/noticia/smartphones-da-nokia-voltarao-a-ser-vendidos-no-brasil-anuncia-ceo/98276)
 
 **MARÇO 20**
 
