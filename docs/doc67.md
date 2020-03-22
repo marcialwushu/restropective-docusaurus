@@ -175,6 +175,7 @@ title: MARÇO
 - [Microsoft rastreia coronavírus: confira a evolução da pandemia em tempo real](https://tecnologia.ig.com.br/olhar-digital/2020-03-18/microsoft-rastreia-coronavirus-confira-a-evolucao-da-pandemia-em-tempo-real.html)
 - [Hands on do Roller Champions: um novo jogo focado em eSports](https://olhardigital.com.br/games-e-consoles/noticia/hands-on-do-roller-champions-um-novo-jogo-focado-em-esports/98217)
 - [Criançada em casa? Spotify lança versão kids do aplicativo](https://tecnologia.ig.com.br/olhar-digital/2020-03-18/criancada-em-casa-spotify-lanca-versao-kids-do-aplicativo.html)
+- [5 serviços para você realizar videoconferências com o celular ou PC](https://olhardigital.com.br/dicas_e_tutoriais/noticia/5-servicos-para-voce-realizar-videoconferencias-com-o-celular-ou-pc/98199)
 
 **MARÇO 19**
 
