@@ -190,6 +190,8 @@ title: MARÇO
 
 **MARÇO 22**
 
+- [Um app que dá movimento às suas fotos](https://olhardigital.com.br/noticia/um-app-que-da-movimento-as-suas-fotos/79332)
+
 **MARÇO 23**
 
 **MARÇO 24**
