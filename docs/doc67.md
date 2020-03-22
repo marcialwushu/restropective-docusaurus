@@ -166,6 +166,7 @@ title: MARÇO
 
 - [[**EVENTO**] GDCA 2020 - 20th Annual Game Developers Choice Awards](http://gamechoiceawards.com/?MCAID=77FB1CFE532B22840A490D45@AdobeOrg)
 - [Estudo diz que tipo sanguíneo pode afetar vulnerabilidade de pacientes](https://olhardigital.com.br/coronavirus/video/estudo-diz-que-tipo-sanguineo-pode-afetar-vulnerabilidade-de-pacientes/98228)
+- [WhatsApp anuncia iniciativas para auxiliar o combate ao coronavírus](https://olhardigital.com.br/coronavirus/noticia/whatsapp-anuncia-iniciativas-para-auxiliar-o-combate-ao-coronavirus/98196)
 
 **MARÇO 19**
 
