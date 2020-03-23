@@ -149,6 +149,7 @@ title: MARÇO
 - Microsoft, Nintendo, Ubisoft Replace E3 With Digital Events
 - KAWS Launches a New Augmented Reality Project Called, 'EXPANDED HOLIDAY'
 - [Antheus nega vazamento de milhões de dados biométricos de brasileiros](https://olhardigital.com.br/noticia/vazamento-expoe-dados-biometricos-de-76-mil-cidadaos-brasileiros/97915)
+- [Temendo coronavírus, Google cancela evento para 10 mil pessoas em SP](https://olhardigital.com.br/coronavirus/noticia/temendo-coronavirus-google-cancela-evento-para-10-mil-pessoas-em-sp/97933)
 
 
 **MARÇO 13**
