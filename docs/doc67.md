@@ -150,6 +150,7 @@ title: MARÇO
 - KAWS Launches a New Augmented Reality Project Called, 'EXPANDED HOLIDAY'
 - [Antheus nega vazamento de milhões de dados biométricos de brasileiros](https://olhardigital.com.br/noticia/vazamento-expoe-dados-biometricos-de-76-mil-cidadaos-brasileiros/97915)
 - [Temendo coronavírus, Google cancela evento para 10 mil pessoas em SP](https://olhardigital.com.br/coronavirus/noticia/temendo-coronavirus-google-cancela-evento-para-10-mil-pessoas-em-sp/97933)
+- [Covid-19: os riscos que o home office traz à produtividade e relações](https://olhardigital.com.br/coronavirus/noticia/covid-19-os-riscos-que-o-home-office-traz-a-produtividade-e-relacoes/97892)
 
 
 **MARÇO 13**
