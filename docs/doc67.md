@@ -148,6 +148,7 @@ title: MARÇO
 - Google's G Suite cracks 2 billion users
 - Microsoft, Nintendo, Ubisoft Replace E3 With Digital Events
 - KAWS Launches a New Augmented Reality Project Called, 'EXPANDED HOLIDAY'
+- [Antheus nega vazamento de milhões de dados biométricos de brasileiros](https://olhardigital.com.br/noticia/vazamento-expoe-dados-biometricos-de-76-mil-cidadaos-brasileiros/97915)
 
 
 **MARÇO 13**
