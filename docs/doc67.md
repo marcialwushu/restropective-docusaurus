@@ -38,6 +38,7 @@ title: MARÇO
 - [Samsung Galaxy Note 20 ganha renderizações inéditas](https://olhardigital.com.br/noticia/samsung-galaxy-note-20-ganha-renderizacoes-ineditas/97446)
 - [Protótipo da Starship implode durante teste de pressurização; assista](https://olhardigital.com.br/ciencia-e-espaco/noticia/prototipo-da-starship-implode-durante-teste-de-pressurizacao-assista/97454)
 - [Oppo anuncia Reno3 Pro com câmera de selfie dupla de 44 MP](https://olhardigital.com.br/noticia/oppo-anuncia-reno3-pro-com-camera-de-selfie-dupla-de-44-mp/97455)
+- [OMS entra no TikTok para combater desinformação sobre o Coronavírus](https://olhardigital.com.br/coronavirus/noticia/oms-entra-no-tiktok-para-combater-desinformacao-sobre-o-coronavirus/97458)
 
 
 **MARÇO 03**
