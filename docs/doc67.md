@@ -43,6 +43,7 @@ title: MARÇO
 - [Youtubers pregam pegadinha usando piloto automático da Tesla](https://olhardigital.com.br/fique_seguro/noticia/youtubers-pregam-pegadinha-usando-piloto-automatico-da-tesla/97456)
 - [Xiaomi anuncia lançamento do Redmi Note 9](https://olhardigital.com.br/noticia/xiaomi-anuncia-lancamento-do-redmi-note-9/97465)
 - [Fábrica da Sharp produzirá máscaras de proteção contra coronavírus](https://olhardigital.com.br/coronavirus/noticia/fabrica-da-sharp-produzira-mascaras-de-protecao-contra-coronavirus/97469)
+- [Xiaomi suspende Android 10 para Mi A3 após relatos de falhas graves](https://olhardigital.com.br/noticia/xiaomi-suspende-android-10-para-mi-a3-apos-relatos-de-falhas-graves/97483)
 
 
 **MARÇO 03**
