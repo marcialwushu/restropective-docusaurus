@@ -45,6 +45,7 @@ title: MARÇO
 - [Fábrica da Sharp produzirá máscaras de proteção contra coronavírus](https://olhardigital.com.br/coronavirus/noticia/fabrica-da-sharp-produzira-mascaras-de-protecao-contra-coronavirus/97469)
 - [Xiaomi suspende Android 10 para Mi A3 após relatos de falhas graves](https://olhardigital.com.br/noticia/xiaomi-suspende-android-10-para-mi-a3-apos-relatos-de-falhas-graves/97483)
 - [Facebook Messenger para iOS fica menor e até duas vezes mais rápido](https://olhardigital.com.br/noticia/facebook-messenger-para-ios-fica-menor-e-ate-duas-vezes-mais-rapido/97484)
+- [Apple bloqueia aplicativo da Clearview AI para iPhone](https://olhardigital.com.br/fique_seguro/noticia/apple-bloqueia-aplicativo-da-clearview-ai-para-iphone/97475)
 
 
 **MARÇO 03**
