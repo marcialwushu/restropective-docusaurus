@@ -48,6 +48,7 @@ title: MARÇO
 - [Apple bloqueia aplicativo da Clearview AI para iPhone](https://olhardigital.com.br/fique_seguro/noticia/apple-bloqueia-aplicativo-da-clearview-ai-para-iphone/97475)
 - [Oppo anuncia lançamento de seu primeiro smartwatch](https://olhardigital.com.br/noticia/oppo-anuncia-lancamento-de-seu-primeiro-smartwatch/97492)
 - [Nova atualização do Windows 10 causa tela azul em algumas máquinas](https://olhardigital.com.br/noticia/nova-atualizacao-do-windows-10-causa-tela-azul-em-algumas-maquinas/97463)
+- [Represa Billings recebe primeira usina fotovoltaica flutuante de SP](https://olhardigital.com.br/noticia/represa-billings-recebe-primeira-usina-fotovoltaica-flutuante-de-sp/97464)
 
 
 **MARÇO 03**
