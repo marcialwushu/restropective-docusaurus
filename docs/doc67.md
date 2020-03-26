@@ -36,6 +36,7 @@ title: MARÇO
 - [Facebook's Download-Your-Data Tool Is Incomplete](https://bit.ly/2Ie2S96)
 - [Museu da internet reúne pérolas dos anos 90 em VHS](https://olhardigital.com.br/noticia/museu-da-internet-reune-perolas-dos-anos-90-em-vhs/97431)
 - [Samsung Galaxy Note 20 ganha renderizações inéditas](https://olhardigital.com.br/noticia/samsung-galaxy-note-20-ganha-renderizacoes-ineditas/97446)
+- [Protótipo da Starship implode durante teste de pressurização; assista](https://olhardigital.com.br/ciencia-e-espaco/noticia/prototipo-da-starship-implode-durante-teste-de-pressurizacao-assista/97454)
 
 
 **MARÇO 03**
