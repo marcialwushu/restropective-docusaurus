@@ -37,6 +37,7 @@ title: MARÇO
 - [Museu da internet reúne pérolas dos anos 90 em VHS](https://olhardigital.com.br/noticia/museu-da-internet-reune-perolas-dos-anos-90-em-vhs/97431)
 - [Samsung Galaxy Note 20 ganha renderizações inéditas](https://olhardigital.com.br/noticia/samsung-galaxy-note-20-ganha-renderizacoes-ineditas/97446)
 - [Protótipo da Starship implode durante teste de pressurização; assista](https://olhardigital.com.br/ciencia-e-espaco/noticia/prototipo-da-starship-implode-durante-teste-de-pressurizacao-assista/97454)
+- [Oppo anuncia Reno3 Pro com câmera de selfie dupla de 44 MP](https://olhardigital.com.br/noticia/oppo-anuncia-reno3-pro-com-camera-de-selfie-dupla-de-44-mp/97455)
 
 
 **MARÇO 03**
