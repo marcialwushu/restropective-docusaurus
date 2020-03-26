@@ -41,6 +41,7 @@ title: MARÇO
 - [OMS entra no TikTok para combater desinformação sobre o Coronavírus](https://olhardigital.com.br/coronavirus/noticia/oms-entra-no-tiktok-para-combater-desinformacao-sobre-o-coronavirus/97458)
 - [Sony enfrenta impasse para precificar o PlayStation 5](https://olhardigital.com.br/games-e-consoles/noticia/sony-enfrenta-problemas-para-precificar-o-playstation-5/97457)
 - [Youtubers pregam pegadinha usando piloto automático da Tesla](https://olhardigital.com.br/fique_seguro/noticia/youtubers-pregam-pegadinha-usando-piloto-automatico-da-tesla/97456)
+- [Xiaomi anuncia lançamento do Redmi Note 9](https://olhardigital.com.br/noticia/xiaomi-anuncia-lancamento-do-redmi-note-9/97465)
 
 
 **MARÇO 03**
