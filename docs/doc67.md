@@ -46,6 +46,7 @@ title: MARÇO
 - [Xiaomi suspende Android 10 para Mi A3 após relatos de falhas graves](https://olhardigital.com.br/noticia/xiaomi-suspende-android-10-para-mi-a3-apos-relatos-de-falhas-graves/97483)
 - [Facebook Messenger para iOS fica menor e até duas vezes mais rápido](https://olhardigital.com.br/noticia/facebook-messenger-para-ios-fica-menor-e-ate-duas-vezes-mais-rapido/97484)
 - [Apple bloqueia aplicativo da Clearview AI para iPhone](https://olhardigital.com.br/fique_seguro/noticia/apple-bloqueia-aplicativo-da-clearview-ai-para-iphone/97475)
+- [Oppo anuncia lançamento de seu primeiro smartwatch](https://olhardigital.com.br/noticia/oppo-anuncia-lancamento-de-seu-primeiro-smartwatch/97492)
 
 
 **MARÇO 03**
