@@ -47,6 +47,7 @@ title: MARÇO
 - [Facebook Messenger para iOS fica menor e até duas vezes mais rápido](https://olhardigital.com.br/noticia/facebook-messenger-para-ios-fica-menor-e-ate-duas-vezes-mais-rapido/97484)
 - [Apple bloqueia aplicativo da Clearview AI para iPhone](https://olhardigital.com.br/fique_seguro/noticia/apple-bloqueia-aplicativo-da-clearview-ai-para-iphone/97475)
 - [Oppo anuncia lançamento de seu primeiro smartwatch](https://olhardigital.com.br/noticia/oppo-anuncia-lancamento-de-seu-primeiro-smartwatch/97492)
+- [Nova atualização do Windows 10 causa tela azul em algumas máquinas](https://olhardigital.com.br/noticia/nova-atualizacao-do-windows-10-causa-tela-azul-em-algumas-maquinas/97463)
 
 
 **MARÇO 03**
