@@ -52,6 +52,7 @@ title: MARÇO
 - [Oppo anuncia lançamento de seu primeiro smartwatch](https://olhardigital.com.br/noticia/oppo-anuncia-lancamento-de-seu-primeiro-smartwatch/97492)
 - [Nova atualização do Windows 10 causa tela azul em algumas máquinas](https://olhardigital.com.br/noticia/nova-atualizacao-do-windows-10-causa-tela-azul-em-algumas-maquinas/97463)
 - [Represa Billings recebe primeira usina fotovoltaica flutuante de SP](https://olhardigital.com.br/noticia/represa-billings-recebe-primeira-usina-fotovoltaica-flutuante-de-sp/97464)
+- [Cientistas afirmam que células-tronco em óvulos não existem](https://olhardigital.com.br/noticia/cientistas-afirmam-que-celulas-tronco-em-ovulos-nao-existem/97489)
 
 
 **MARÇO 03**
