@@ -20,6 +20,7 @@ title: MARÇO
 - [PLATAFORMA OLHAR DE CINEMA+ LANÇA SERVIÇO DE CONSULTORIA PARA ARGUMENTOS, ROTEIRO E MONTAGEM](http://prodview.com.br/2020/03/01/plataforma-olhar-de-cinema-lanca-servico-de-consultoria-para-argumentos-roteiro-e-montagem/)
 - [Steven Seagal recebe multa de US$ 314 mil por promover moeda digital](https://www.portaltvcariri.com.br/steven-seagal-recebe-multa-de-us-314-mil-por-promover-moeda-digital/)
 - [EL PAÍS lança sua assinatura digital](https://brasil.elpais.com/sociedade/2020-03-01/el-pais-lanca-sua-assinatura-digital.html)
+- [Expodireto abre sua 21ª edição, mais global e digital](https://www.correiodopovo.com.br/not%C3%ADcias/rural/expodireto/expodireto-abre-sua-21%C2%AA-edi%C3%A7%C3%A3o-mais-global-e-digital-1.402344)
 
 
 **MARÇO 02**
