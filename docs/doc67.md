@@ -284,6 +284,7 @@ title: MARÇO
 - [ADV200006 | Type 1 Font Parsing Remote Code Execution Vulnerability](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/adv200006)
 - [Social Bluebook was hacked, exposing 217,000 influencers’ accounts](https://techcrunch.com/2020/03/27/social-bluebook-hacked/)
 - [Architect in Italy turns shipping containers into hospitals for treating Covid-19](https://www.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19)
+- [China and Huawei propose reinvention of the internet](https://www.ft.com/content/c78be2cf-a1a1-40b1-8ab7-904d7095e0f2)
 
 **MARÇO 28**
 
