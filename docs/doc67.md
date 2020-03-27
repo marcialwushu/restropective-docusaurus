@@ -254,6 +254,7 @@ title: MARÇO
 **MARÇO 27**
 
 - [Inside China’s controversial mission to reinvent the internet](https://www.ft.com/content/ba94c2bc-6e27-11ea-9bca-bf503995cd6f)
+- [Overhead scanners screen bystanders for signs of COVID-19](https://www.zdnet.com/article/overhead-scanners-screen-bystanders-for-signs-of-covid-19/?ftag=COS-05-10aaa0g&taid=5e7e62715ef3770001784e73&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
 
 **MARÇO 28**
 
