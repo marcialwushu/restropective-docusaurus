@@ -263,6 +263,7 @@ title: MARÇO
 - [The RetroBeat: Games Done Quick will hold a special marathon to help with COVID-19 relief](https://venturebeat.com/2020/03/27/the-retrobeat-games-done-quick-will-hold-a-special-marathon-to-help-with-covid-19-relief/)
 - [Covid-19: FBI promove seu aplicativo de exercícios em casa](https://olhardigital.com.br/coronavirus/noticia/covid-19-fbi-promove-seu-aplicativo-de-exercicios-em-casa/98650)
 - [Teste rápido para coronavírus estará em farmácias](https://olhardigital.com.br/coronavirus/video/teste-rapido-para-coronavirus-estara-em-farmacias/98624)
+- [US finally has plans for the pandemic it now leads in infections](https://arstechnica.com/science/2020/03/us-now-top-site-of-corona-infections-as-a-control-plan-emerges/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social)
 
 **MARÇO 28**
 
