@@ -256,6 +256,7 @@ title: MARÇO
 - [Inside China’s controversial mission to reinvent the internet](https://www.ft.com/content/ba94c2bc-6e27-11ea-9bca-bf503995cd6f)
 - [Overhead scanners screen bystanders for signs of COVID-19](https://www.zdnet.com/article/overhead-scanners-screen-bystanders-for-signs-of-covid-19/?ftag=COS-05-10aaa0g&taid=5e7e62715ef3770001784e73&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
 - [Netflix Party permite que usuários vejam séries juntos à distância](https://olhardigital.com.br/cinema-e-streaming/noticia/netflix-party-permite-que-usuarios-vejam-series-juntos-a-distancia/98657)
+- [Trump Invokes Production Act Compelling GM to Make Ventilators](https://www.bloomberg.com/news/articles/2020-03-27/trump-invokes-production-act-compelling-gm-to-make-ventilators?sref=qy3lHBlv&utm_content=business&utm_source=twitter&cmpid=socialflow-twitter-business&utm_medium=social&utm_campaign=socialflow-organic)
 
 **MARÇO 28**
 
