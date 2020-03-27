@@ -54,6 +54,7 @@ title: MARÇO
 - [Represa Billings recebe primeira usina fotovoltaica flutuante de SP](https://olhardigital.com.br/noticia/represa-billings-recebe-primeira-usina-fotovoltaica-flutuante-de-sp/97464)
 - [Cientistas afirmam que células-tronco em óvulos não existem](https://olhardigital.com.br/noticia/cientistas-afirmam-que-celulas-tronco-em-ovulos-nao-existem/97489)
 - [Microsoft revela duas novas versões de controles do Xbox One](https://olhardigital.com.br/games-e-consoles/noticia/microsoft-revela-duas-novas-versoes-de-controles-do-xbox-one/97480)
+- [Carro 'transformer' da Renault se estica para ganhar bateria extra](https://olhardigital.com.br/carros-e-tecnologia/noticia/carro-transformer-da-renault-se-estica-para-ganhar-bateria-extra/97472)
 
 
 **MARÇO 03**
