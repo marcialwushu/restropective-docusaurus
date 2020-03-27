@@ -182,6 +182,7 @@ title: MARÇO
 - [Antheus nega vazamento de milhões de dados biométricos de brasileiros](https://olhardigital.com.br/noticia/vazamento-expoe-dados-biometricos-de-76-mil-cidadaos-brasileiros/97915)
 - [Temendo coronavírus, Google cancela evento para 10 mil pessoas em SP](https://olhardigital.com.br/coronavirus/noticia/temendo-coronavirus-google-cancela-evento-para-10-mil-pessoas-em-sp/97933)
 - [Covid-19: os riscos que o home office traz à produtividade e relações](https://olhardigital.com.br/coronavirus/noticia/covid-19-os-riscos-que-o-home-office-traz-a-produtividade-e-relacoes/97892)
+- [AUGMENTED REALITY AIDS IN THE FIGHT AGAINST COVID-19](https://hackaday.com/2020/03/12/augmented-reality-aids-in-the-fight-against-covid-19/)
 
 
 **MARÇO 13**
