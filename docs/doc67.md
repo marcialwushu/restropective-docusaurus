@@ -26,6 +26,7 @@ title: MARÇO
 **MARÇO 02**
 
 - [Firefox is showing the way back to a world that’s private by default](https://bit.ly/2TeE2MF)
+- [Smartphone hacks: How companies can protect executives](https://www.zdnet.com/article/smartphone-hacks-how-companies-can-protect-executives/)
 - [Epistemic standards for “Why did it take so long to invent X?”](https://bit.ly/389ViqF)
 - [Little Known Features of iTerm2](https://bit.ly/2Tdchnt)
 - [Economists study what happens when people stop using Facebook](https://bit.ly/3cyeHF8)
