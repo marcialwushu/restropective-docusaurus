@@ -258,6 +258,7 @@ title: MARÇO
 - [Netflix Party permite que usuários vejam séries juntos à distância](https://olhardigital.com.br/cinema-e-streaming/noticia/netflix-party-permite-que-usuarios-vejam-series-juntos-a-distancia/98657)
 - [Trump Invokes Production Act Compelling GM to Make Ventilators](https://www.bloomberg.com/news/articles/2020-03-27/trump-invokes-production-act-compelling-gm-to-make-ventilators?sref=qy3lHBlv&utm_content=business&utm_source=twitter&cmpid=socialflow-twitter-business&utm_medium=social&utm_campaign=socialflow-organic)
 - [Google-parent Alphabet to donate $800 million in response to coronavirus crisis](https://www.reuters.com/article/us-health-coronavirus-alphabet-idUSKBN21E30E?taid=5e7e5dd3e370aa0001623162&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
+- [The RetroBeat: Games Done Quick will hold a special marathon to help with COVID-19 relief](https://venturebeat.com/2020/03/27/the-retrobeat-games-done-quick-will-hold-a-special-marathon-to-help-with-covid-19-relief/)
 
 **MARÇO 28**
 
