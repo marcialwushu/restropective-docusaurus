@@ -245,6 +245,8 @@ title: MARÇO
 
 **MARÇO 25**
 
+- [Norwegian Consumer Council Says Ad Tech in Dating Apps is ‘Out of Control’](https://futureofsex.net/dating-relationships/norwegian-consumer-council-says-ad-tech-in-dating-apps-is-out-of-control/)
+
 **MARÇO 26**
 
 - [Ao vivo | Grupo de pacientes vai começar a testar hidroxicloroquina no Brasil | 26/03/2020 #OlharDig](https://www.youtube.com/watch?v=V_44C0wW2w4)
