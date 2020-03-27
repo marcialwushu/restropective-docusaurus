@@ -53,6 +53,7 @@ title: MARÇO
 - [Nova atualização do Windows 10 causa tela azul em algumas máquinas](https://olhardigital.com.br/noticia/nova-atualizacao-do-windows-10-causa-tela-azul-em-algumas-maquinas/97463)
 - [Represa Billings recebe primeira usina fotovoltaica flutuante de SP](https://olhardigital.com.br/noticia/represa-billings-recebe-primeira-usina-fotovoltaica-flutuante-de-sp/97464)
 - [Cientistas afirmam que células-tronco em óvulos não existem](https://olhardigital.com.br/noticia/cientistas-afirmam-que-celulas-tronco-em-ovulos-nao-existem/97489)
+- [Microsoft revela duas novas versões de controles do Xbox One](https://olhardigital.com.br/games-e-consoles/noticia/microsoft-revela-duas-novas-versoes-de-controles-do-xbox-one/97480)
 
 
 **MARÇO 03**
