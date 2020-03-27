@@ -221,6 +221,7 @@ title: MARÇO
 - [Criançada em casa? Spotify lança versão kids do aplicativo](https://tecnologia.ig.com.br/olhar-digital/2020-03-18/criancada-em-casa-spotify-lanca-versao-kids-do-aplicativo.html)
 - [5 serviços para você realizar videoconferências com o celular ou PC](https://olhardigital.com.br/dicas_e_tutoriais/noticia/5-servicos-para-voce-realizar-videoconferencias-com-o-celular-ou-pc/98199)
 - [Estudo diz que sangue tipo 'A' pode ser mais vulnerável à Covid-19; infectologista contesta](https://olhardigital.com.br/coronavirus/noticia/estudo-diz-que-sangue-tipo-a-pode-ser-mais-vulneravel-a-covid-19-infectologista-contesta/98193)
+- [WELCOME TO PWN2OWN 2020 - THE SCHEDULE AND LIVE RESULTS](https://www.zerodayinitiative.com/blog/2020/3/17/welcome-to-pwn2own-2020-the-schedule-and-live-results)
 
 **MARÇO 19**
 
