@@ -322,6 +322,7 @@ title: NOVEMBRO
 - Amazon Web Services begins using more efficient ARM-based server chips
 - YouTube is offering discounted Premium, Music subscriptions to students
 - OnePlus shutters device seeding program for custom ROM developers
+- [You Can Sleep With the Latest Sex Robots at This Brothel—But Only if They Say ‘Yes’](https://observer.com/2018/11/sex-robots-hollywood-brothel-requires-consent-real-doll/)
 
 **NOVEMBRO 28**
 
