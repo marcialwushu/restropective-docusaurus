@@ -56,6 +56,7 @@ title: MARÇO
 - [Microsoft revela duas novas versões de controles do Xbox One](https://olhardigital.com.br/games-e-consoles/noticia/microsoft-revela-duas-novas-versoes-de-controles-do-xbox-one/97480)
 - [Carro 'transformer' da Renault se estica para ganhar bateria extra](https://olhardigital.com.br/carros-e-tecnologia/noticia/carro-transformer-da-renault-se-estica-para-ganhar-bateria-extra/97472)
 - [Apple pagará até US$ 500 milhões em indenizações por iPhones lentos](https://olhardigital.com.br/noticia/apple-pagara-ate-us-500-milhoes-em-indenizacoes-por-iphones-lentos/97488)
+- [Ascensão e queda: como a Microsoft 'rebaixou' a assistente Cortana em 6 anos](https://olhardigital.com.br/noticia/ascensao-e-queda-como-a-microsoft-rebaixou-a-assistente-cortana-em-6-anos/97498)
 
 
 **MARÇO 03**
