@@ -163,6 +163,8 @@ title: MARÇO
 
 **MARÇO 10**
 
+- [Facebook Awards $55,000 for Flaw That Could Lead to Account Hijacking](https://www.securityweek.com/facebook-awards-55000-flaw-could-lead-account-hijacking)
+
 **MARÇO 11**
 
 **MARÇO 12**
