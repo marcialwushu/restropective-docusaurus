@@ -265,6 +265,7 @@ title: MARÇO
 - [Covid-19: FBI promove seu aplicativo de exercícios em casa](https://olhardigital.com.br/coronavirus/noticia/covid-19-fbi-promove-seu-aplicativo-de-exercicios-em-casa/98650)
 - [Teste rápido para coronavírus estará em farmácias](https://olhardigital.com.br/coronavirus/video/teste-rapido-para-coronavirus-estara-em-farmacias/98624)
 - [US finally has plans for the pandemic it now leads in infections](https://arstechnica.com/science/2020/03/us-now-top-site-of-corona-infections-as-a-control-plan-emerges/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social)
+- [FBI takes down hacker platform Deer.io](https://nakedsecurity.sophos.com/2020/03/27/fbi-takes-down-russia-based-hacker-platform-deer-io/)
 
 **MARÇO 28**
 
