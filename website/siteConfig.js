@@ -16,8 +16,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'Retrospectiva na Tecnologia' /* title for your website */,
+  tagline: 'Uma coletânea de noticias tecnologicas',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
@@ -52,7 +52,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+    ' Retrospective Tecnology',
   // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
   // projectName: 'test-site', // or set an env variable PROJECT_NAME
   highlight: {
