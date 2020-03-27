@@ -308,6 +308,7 @@ title: NOVEMBRO
 - Apple patent describes simple system to make iPhone buttons feel clicky through a case
 - Russia may fine Google for failing to remove banned websites
 - Google will answer some questions instead of loading search results
+- [Can Sex Robots Give Consent?](https://www.rollingstone.com/culture/culture-news/sex-doll-robots-consent-760101/)
 
 **NOVEMBRO 27**
 
