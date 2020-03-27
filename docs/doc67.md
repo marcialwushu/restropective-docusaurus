@@ -283,6 +283,7 @@ title: MARÇO
 - [BOSCH DEVELOPS RAPID TEST TO COMBAT COVID-19](https://analyticsindiamag.com/bosch-develops-rapid-test-to-combat-covid-19/)
 - [ADV200006 | Type 1 Font Parsing Remote Code Execution Vulnerability](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/adv200006)
 - [Social Bluebook was hacked, exposing 217,000 influencers’ accounts](https://techcrunch.com/2020/03/27/social-bluebook-hacked/)
+- [Architect in Italy turns shipping containers into hospitals for treating Covid-19](https://www.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19)
 
 **MARÇO 28**
 
