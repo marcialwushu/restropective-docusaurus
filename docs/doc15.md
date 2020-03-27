@@ -309,6 +309,7 @@ title: NOVEMBRO
 - Russia may fine Google for failing to remove banned websites
 - Google will answer some questions instead of loading search results
 - [Can Sex Robots Give Consent?](https://www.rollingstone.com/culture/culture-news/sex-doll-robots-consent-760101/)
+- [A Cult Leader Is Trying to Open a Sex Robot Brothel](https://www.cosmopolitan.com/sex-love/a25307037/unicole-unicron-sex-robot-brothel-west-hollywood/?utm_campaign=socialflowTWCOS&src=socialflowTW&utm_source=twitter&utm_medium=social-media)
 
 **NOVEMBRO 27**
 
