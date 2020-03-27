@@ -18,6 +18,7 @@ title: MARÇO
 - [Aleph is a tool for indexing large amounts of both documents and structured data](https://bit.ly/38hnYxH)
 - [How I Did It: From Psych Degree to VP of Data Science at Top Startup](https://bit.ly/2TuV6Nc)
 - [PLATAFORMA OLHAR DE CINEMA+ LANÇA SERVIÇO DE CONSULTORIA PARA ARGUMENTOS, ROTEIRO E MONTAGEM](http://prodview.com.br/2020/03/01/plataforma-olhar-de-cinema-lanca-servico-de-consultoria-para-argumentos-roteiro-e-montagem/)
+- [Steven Seagal recebe multa de US$ 314 mil por promover moeda digital](https://www.portaltvcariri.com.br/steven-seagal-recebe-multa-de-us-314-mil-por-promover-moeda-digital/)
 
 
 **MARÇO 02**
