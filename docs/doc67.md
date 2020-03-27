@@ -183,6 +183,8 @@ title: MARÇO
 
 **MARÇO 13**
 
+- [Alert (AA20-073A) Enterprise VPN Security](https://www.us-cert.gov/ncas/alerts/aa20-073a)
+
 **MARÇO 14**
 
 - [GDC 2020 The Game Developers Conference March 16-20, 2020 | San Francisco, CA](https://www.gdconf.com/)
