@@ -167,6 +167,7 @@ title: MARÇO
 - [Unpatched Microsoft Exchange Servers Vulnerable to CVE-2020-0688](https://www.us-cert.gov/ncas/current-activity/2020/03/10/unpatched-microsoft-exchange-servers-vulnerable-cve-2020-0688)
 - [Agencies Warn of Coronavirus-Related Scams ](https://www.nextgov.com/cio-briefing/2020/03/agencies-warn-coronavirus-related-scams/163662/)
 - [Firefox 74 Released: Security Fixes, Improvements, and Fixes](https://www.bleepingcomputer.com/news/software/firefox-74-released-security-fixes-improvements-and-fixes/#.Xmf7LdUND7w.twitter)
+- [What is open threat intelligence and what is driving it?](https://www.helpnetsecurity.com/2020/03/10/open-threat-intelligence/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+HelpNetSecurity+%28Help+Net+Security%29)
 
 **MARÇO 11**
 
