@@ -164,6 +164,7 @@ title: MARÇO
 **MARÇO 10**
 
 - [Facebook Awards $55,000 for Flaw That Could Lead to Account Hijacking](https://www.securityweek.com/facebook-awards-55000-flaw-could-lead-account-hijacking)
+- [Unpatched Microsoft Exchange Servers Vulnerable to CVE-2020-0688](https://www.us-cert.gov/ncas/current-activity/2020/03/10/unpatched-microsoft-exchange-servers-vulnerable-cve-2020-0688)
 
 **MARÇO 11**
 
