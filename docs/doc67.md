@@ -229,6 +229,7 @@ title: MARÇO
 - [Empresas cancelam participação na GDC por causa do coronavírus](https://olhardigital.com.br/coronavirus/noticia/empresas-cancelam-participacao-na-gdc-por-causa-do-coronavirus/97390)
 - [Inteligência artificial analisa 29 mil pesquisas sobre coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-03-19/inteligencia-artificial-analisa-29-mil-pesquisas-sobre-coronavirus.html)
 - [Ao vivo | Cloroquina: Trump quer testar medicamento contra o coronavírus](https://www.facebook.com/olhardigital/videos/521091232162321/)
+- [Sex robot firm selling 'anti-bacterial' dolls for coronavirus self-isolation](https://www.dailystar.co.uk/news/latest-news/sex-robot-firm-selling-anti-21725476)
 
 **MARÇO 21**
 
