@@ -253,6 +253,8 @@ title: MARÇO
 
 **MARÇO 27**
 
+- [Inside China’s controversial mission to reinvent the internet](https://www.ft.com/content/ba94c2bc-6e27-11ea-9bca-bf503995cd6f)
+
 **MARÇO 28**
 
 **MARÇO 29**
