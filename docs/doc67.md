@@ -250,6 +250,7 @@ title: MARÇO
 **MARÇO 25**
 
 - [Norwegian Consumer Council Says Ad Tech in Dating Apps is ‘Out of Control’](https://futureofsex.net/dating-relationships/norwegian-consumer-council-says-ad-tech-in-dating-apps-is-out-of-control/)
+- [Apple Releases Security Updates](https://www.us-cert.gov/ncas/current-activity/2020/03/25/apple-releases-security-updates)
 
 **MARÇO 26**
 
