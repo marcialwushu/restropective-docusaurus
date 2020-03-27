@@ -5,27 +5,27 @@ authorURL: https://www.wordfence.com/weekly/wordfence-weekly-october-02-2019-oct
 authorFBID: 100002976521003
 ---
 
-<section class="hero hero-report">
-	<div class="container container-tall">
+<section class="">
+	<div class="">
 		<h1>Wordfence Weekly October 02 2019 – October 08 2019</h1>
-		<div class="hero-report-subhead">
-							<p class="subhead">A weekly report of noteworthy threat data by the Defiant threat intelligence team.</p>
+		<div class="">
+							<p class="">A weekly report of noteworthy threat data by the Defiant threat intelligence team.</p>
 					</div>
 	</div>
 </section>
 
-<div class="the-content add-bottom"><div class="container container-short">
+<div class=""><div class="">
 <h2>Notable Vulnerabilities</h2>
-<div class="report-vulnerabilities">
-<div class="vulnerability"><strong>Name</strong>: <a href="https://blog.nintechnet.com/stored-xss-vulnerability-in-wordpress-download-plugins-and-themes-from-dashboard-plugin/" target="_blank" rel="noopener noreferrer">Download Plugins and Themes from Dashboard &lt;= 1.5.0 - Unauthenticated Stored XSS</a><br>
+<div class="">
+<div class=""><strong>Name</strong>: <a href="https://blog.nintechnet.com/stored-xss-vulnerability-in-wordpress-download-plugins-and-themes-from-dashboard-plugin/" target="_blank" rel="noopener noreferrer">Download Plugins and Themes from Dashboard &lt;= 1.5.0 - Unauthenticated Stored XSS</a><br>
 <strong>Description</strong>: Unauthenticated attackers can inject XSS payloads into the administrator dashboard of affected sites.<br>
 <strong>Type</strong>: <a href="https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)">A7 – Cross-Site Scripting (XSS)</a></div>
 </div>
 </div>
-<div class="container container-short">
+<div class="">
 <h2>Most Common New Infections</h2>
 <p>Malware samples identified on the greatest count of newly infected sites.</p>
-<div class="responsive-table">
+<div class="">
 <table>
 <thead>
 <tr>
