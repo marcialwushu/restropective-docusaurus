@@ -166,6 +166,7 @@ title: MARÇO
 - [Facebook Awards $55,000 for Flaw That Could Lead to Account Hijacking](https://www.securityweek.com/facebook-awards-55000-flaw-could-lead-account-hijacking)
 - [Unpatched Microsoft Exchange Servers Vulnerable to CVE-2020-0688](https://www.us-cert.gov/ncas/current-activity/2020/03/10/unpatched-microsoft-exchange-servers-vulnerable-cve-2020-0688)
 - [Agencies Warn of Coronavirus-Related Scams ](https://www.nextgov.com/cio-briefing/2020/03/agencies-warn-coronavirus-related-scams/163662/)
+- [Firefox 74 Released: Security Fixes, Improvements, and Fixes](https://www.bleepingcomputer.com/news/software/firefox-74-released-security-fixes-improvements-and-fixes/#.Xmf7LdUND7w.twitter)
 
 **MARÇO 11**
 
