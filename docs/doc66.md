@@ -143,6 +143,7 @@ title: FEVEREIRO
 **FEVEREIRO 21**
 
 - [Vazamento em massa! 470 mil grupos do WhatsApp estão expostos no Google](https://www.tudocelular.com/seguranca/noticias/n152819/vazamento-470-mil-grupos-whatsapp-expostos-google.html)
+- [Canadian City Takes Legal Action to Close Sex Doll Brothel](https://futureofsex.net/robots/canadian-city-files-charges-against-aura-dolls-sex-doll-brothel/)
 
 **FEVEREIRO 22**
 
