@@ -274,6 +274,7 @@ title: MARÇO
 - [Microsoft vai eliminar Painel de Controle do Windows 10](https://olhardigital.com.br/video/microsoft-vai-eliminar-painel-de-controle-do-windows-10/98613)
 - [Homebound Workers Close to Overwhelming Internet Junctions](https://www.bloomberg.com/news/articles/2020-03-26/homebound-workers-are-close-to-overwhelming-internet-bottlenecks?utm_medium=social&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-tech&utm_content=tech&utm_source=twitter)
 - [Covid-19: Governo não tem planos para monitorizar pessoas através dos telemóveis](https://visao.sapo.pt/exameinformatica/2020-03-26-covid-19-governo-nao-tem-planos-para-monitorizar-pessoas-atraves-dos-telemoveis/)
+- [Hacker rouba e divulga código-fonte da gráfica da Xbox Series X](https://visao.sapo.pt/exameinformatica/noticias-ei/mercados/2020-03-26-hacker-rouba-e-divulga-codigo-fonte-da-grafica-da-xbox-series-x/)
 
 **MARÇO 27**
 
