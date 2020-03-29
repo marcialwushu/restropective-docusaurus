@@ -297,6 +297,7 @@ title: MARÇO
 - [Coronavírus: o que a Ciência diz sobre o uso da cloroquina contra a covid-19](https://noticias.r7.com/saude/coronavirus-o-que-a-ciencia-diz-sobre-o-uso-da-cloroquina-contra-a-covid-19-27032020)
 - [Anacom publica boas práticas para uso da Internet e Telefone em quarentena](https://visao.sapo.pt/exameinformatica/2020-03-27-anacom-publica-boas-praticas-para-uso-da-internet-e-telefone-em-quarentena/)
 - [Ensino à distância: Há alunos sem computador e ‘anarquia’ nas tecnologias de ensino](https://visao.sapo.pt/exameinformatica/noticias-ei/mercados/2020-03-27-ensino-a-distancia-ha-alunos-sem-computador-e-anarquia-nas-tecnologias-de-ensino/)
+- [Min. da Educação está a fazer “levantamento pormenorizado” de alunos sem computador e internet](https://visao.sapo.pt/exameinformatica/noticias-ei/internet/2020-03-27-ministerio-educacao-responde-alunos-sem-computador-e-internet/)
 
 **MARÇO 28**
 
