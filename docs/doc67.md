@@ -306,4 +306,6 @@ title: MARÇO
 
 **MARÇO 29**
 
+- [Telemedicina: 7 perguntas sobre consulta online durante a pandemia](https://noticias.r7.com/saude/coronavirus/telemedicina-7-perguntas-sobre-consulta-online-durante-a-pandemia-29032020)
+
 **MARÇO 30**
