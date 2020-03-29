@@ -253,6 +253,8 @@ title: MARÇO
 
 **MARÇO 23**
 
+- [Coronavírus: Rio usará sinal de celular para detectar aglomerações de pessoas](https://extra.globo.com/noticias/rio/coronavirus-rio-usara-sinal-de-celular-para-detectar-aglomeracoes-de-pessoas-24323258.html)
+
 **MARÇO 24**
 
 **MARÇO 25**
