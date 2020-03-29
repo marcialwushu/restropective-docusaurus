@@ -294,6 +294,7 @@ title: MARÇO
 - [UFRJ desenvolve ventilador pulmonar que pode ser fabricado em massa](https://noticias.r7.com/ufrj-desenvolve-ventilador-pulmonar-que-pode-ser-fabricado-em-massa-27032020)
 - [Equipes da F-1 vão produzir respiradores para ajudar no combate ao coronavírus](https://esportes.r7.com/equipes-da-f-1-vao-produzir-respiradores-para-ajudar-no-combate-ao-coronavirus-27032020)
 - [Coronavírus: o que a Ciência diz sobre o uso da cloroquina contra a covid-19](https://noticias.r7.com/saude/coronavirus-o-que-a-ciencia-diz-sobre-o-uso-da-cloroquina-contra-a-covid-19-27032020)
+- [Anacom publica boas práticas para uso da Internet e Telefone em quarentena](https://visao.sapo.pt/exameinformatica/2020-03-27-anacom-publica-boas-praticas-para-uso-da-internet-e-telefone-em-quarentena/)
 
 **MARÇO 28**
 
