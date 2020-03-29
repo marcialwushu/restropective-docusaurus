@@ -300,6 +300,7 @@ title: MARÇO
 - [É #FAKE que governador do DF determinou volta às aulas e abertura total do comércio na segunda, 30](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-que-governador-do-df-determinou-volta-as-aulas-e-abertura-total-do-comercio-na-segunda-30.ghtml)
 - [É #FAKE que início do surto de H1N1 no Brasil, em 2009, matou mais que o do novo coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/03/25/e-fake-que-inicio-do-surto-de-h1n1-no-brasil-em-2009-matou-mais-que-o-do-novo-coronavirus.ghtml)
 - [Veja o que é #FATO ou #FAKE sobre o coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/01/28/veja-o-que-e-fato-ou-fake-sobre-o-coronavirus.ghtml)
+- [Ministério da Ciência anuncia R$ 100 milhões para pesquisa em saúde](https://noticias.r7.com/brasil/ministerio-da-ciencia-anuncia-r-100-milhoes-para-pesquisa-em-saude-28032020)
 
 **MARÇO 29**
 
