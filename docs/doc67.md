@@ -265,6 +265,7 @@ title: MARÇO
 - [Apple Releases Security Updates](https://www.us-cert.gov/ncas/current-activity/2020/03/25/apple-releases-security-updates)
 - [Adobe Releases Security Update for Creative Cloud Desktop Application](https://www.us-cert.gov/ncas/current-activity/2020/03/25/adobe-releases-security-update-creative-cloud-desktop-application)
 - [Adobe Releases Security Update for Creative Cloud Desktop Application](https://www.us-cert.gov/ncas/current-activity/2020/03/25/adobe-releases-security-update-creative-cloud-desktop-application)
+- [É legal usar o telemóvel para monitorizar pessoas em quarentena?](https://www.facebook.com/watch/?v=722884054911050)
 
 **MARÇO 26**
 
