@@ -290,6 +290,7 @@ title: MARÇO
 - [Architect in Italy turns shipping containers into hospitals for treating Covid-19](https://www.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19)
 - [China and Huawei propose reinvention of the internet](https://www.ft.com/content/c78be2cf-a1a1-40b1-8ab7-904d7095e0f2)
 - [UFRJ desenvolve ventilador pulmonar que pode ser fabricado em massa](https://noticias.r7.com/ufrj-desenvolve-ventilador-pulmonar-que-pode-ser-fabricado-em-massa-27032020)
+- [Equipes da F-1 vão produzir respiradores para ajudar no combate ao coronavírus](https://esportes.r7.com/equipes-da-f-1-vao-produzir-respiradores-para-ajudar-no-combate-ao-coronavirus-27032020)
 
 **MARÇO 28**
 
