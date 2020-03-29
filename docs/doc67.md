@@ -266,6 +266,7 @@ title: MARÇO
 - [Adobe Releases Security Update for Creative Cloud Desktop Application](https://www.us-cert.gov/ncas/current-activity/2020/03/25/adobe-releases-security-update-creative-cloud-desktop-application)
 - [Adobe Releases Security Update for Creative Cloud Desktop Application](https://www.us-cert.gov/ncas/current-activity/2020/03/25/adobe-releases-security-update-creative-cloud-desktop-application)
 - [É legal usar o telemóvel para monitorizar pessoas em quarentena?](https://www.facebook.com/watch/?v=722884054911050)
+- [Kioxk: fazer a pré-triagem ao Covid-19 online para não sobrecarregar o SNS24](https://visao.sapo.pt/exameinformatica/noticias-ei/internet/2020-03-25-kioxk-fazer-a-pre-triagem-ao-covid-19-online-para-nao-sobrecarregar-o-sns24/)
 
 **MARÇO 26**
 
