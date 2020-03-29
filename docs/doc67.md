@@ -293,6 +293,7 @@ title: MARÇO
 **MARÇO 28**
 
 - [É #FAKE que pesquisa do MIT concluiu que o coronavírus não é transmitido em locais com temperaturas acima de 20ºC](https://g1.globo.com/fato-ou-fake/noticia/2020/03/28/e-fake-que-pesquisa-do-mit-concluiu-que-o-coronavirus-nao-e-transmitido-em-locais-com-temperaturas-acima-de-20oc.ghtml)
+- [É #FAKE que vídeo mostre saque a supermercado no Brasil após restrições por conta do coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-que-video-mostre-saque-a-supermercado-no-brasil-apos-restricoes-por-conta-do-coronavirus.ghtml)
 
 **MARÇO 29**
 
