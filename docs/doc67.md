@@ -257,6 +257,8 @@ title: MARÇO
 
 **MARÇO 24**
 
+- [Recife rastreia 700 mil celulares para monitorar isolamento social e direcionar ações contra coronavírus](https://g1.globo.com/pe/pernambuco/noticia/2020/03/24/recife-rastreia-700-mil-celulares-para-monitorar-isolamento-social-e-direcionar-acoes-contra-coronavirus.ghtml)
+
 **MARÇO 25**
 
 - [Norwegian Consumer Council Says Ad Tech in Dating Apps is ‘Out of Control’](https://futureofsex.net/dating-relationships/norwegian-consumer-council-says-ad-tech-in-dating-apps-is-out-of-control/)
