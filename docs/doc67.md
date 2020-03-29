@@ -273,6 +273,7 @@ title: MARÇO
 - [Ao vivo | Grupo de pacientes vai começar a testar hidroxicloroquina no Brasil | 26/03/2020 #OlharDig](https://www.youtube.com/watch?v=V_44C0wW2w4)
 - [Microsoft vai eliminar Painel de Controle do Windows 10](https://olhardigital.com.br/video/microsoft-vai-eliminar-painel-de-controle-do-windows-10/98613)
 - [Homebound Workers Close to Overwhelming Internet Junctions](https://www.bloomberg.com/news/articles/2020-03-26/homebound-workers-are-close-to-overwhelming-internet-bottlenecks?utm_medium=social&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-tech&utm_content=tech&utm_source=twitter)
+- [Covid-19: Governo não tem planos para monitorizar pessoas através dos telemóveis](https://visao.sapo.pt/exameinformatica/2020-03-26-covid-19-governo-nao-tem-planos-para-monitorizar-pessoas-atraves-dos-telemoveis/)
 
 **MARÇO 27**
 
