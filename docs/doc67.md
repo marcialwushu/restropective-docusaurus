@@ -297,6 +297,7 @@ title: MARÇO
 - [É #FAKE mensagem que fala em saque do fundo previdenciário para ajudar população por conta do coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-mensagem-que-fala-em-saque-do-fundo-previdenciario-para-ajudar-populacao-por-conta-do-coronavirus.ghtml)
 - [É #FAKE mensagem que fala em cadastro para receber de R$ 600 a R$ 1.200 de auxílio emergencial por causa do coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-mensagem-que-fala-em-cadastro-para-receber-de-r-600-a-r-1200-de-auxilio-emergencial-por-causa-do-coronavirus.ghtml)
 - [É #FAKE que Israel adotou apenas o isolamento de idosos para enfrentar o coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-que-israel-adotou-apenas-o-isolamento-de-idosos-para-enfrentar-o-coronavirus.ghtml)
+- [É #FAKE que governador do DF determinou volta às aulas e abertura total do comércio na segunda, 30](https://g1.globo.com/fato-ou-fake/noticia/2020/03/27/e-fake-que-governador-do-df-determinou-volta-as-aulas-e-abertura-total-do-comercio-na-segunda-30.ghtml)
 
 **MARÇO 29**
 
