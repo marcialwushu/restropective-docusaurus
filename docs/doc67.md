@@ -324,3 +324,4 @@ title: MARÇO
 - [Samsung vai encerrar produção de telas LCD no final deste ano](https://g1.globo.com/economia/tecnologia/noticia/2020/03/31/samsung-vai-encerrar-producao-de-telas-lcd-no-final-deste-ano.ghtml)
 - [Padre transmite oração com filtros e vira meme 'sem querer'](https://olhardigital.com.br/noticia/padre-transmite-oracao-com-filtros-e-vira-meme-sem-querer/98799)
 - [Instituto desenvolve modelo de respirador com tecnologia nacional e prevê 100 unidades em 8 semanas](https://g1.globo.com/sp/campinas-regiao/noticia/2020/03/31/instituto-desenvolve-modelo-de-respirador-com-tecnologia-nacional-e-preve-100-unidades-em-8-semanas.ghtml)
+- [Hackers enviam pen drives e ursinhos de pelúcia por correio para invadir redes de empresas](https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/03/31/hackers-enviam-pen-drives-e-ursinhos-de-pelucia-por-correio-para-invadir-redes-de-empresas.ghtml)
