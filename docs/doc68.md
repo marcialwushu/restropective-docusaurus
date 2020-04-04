@@ -5,6 +5,8 @@ title: ABRIL
 
 **ABRIL 01**
 
+- [App de videoconferência Zoom remove código do Facebook após denúncia de coleta de dados](https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/04/01/app-de-videoconferencia-zoom-remove-codigo-do-facebook-apos-denuncia-de-coleta-de-dados.ghtml)
+
 **ABRIL 02**
 
 **ABRIL 03**
