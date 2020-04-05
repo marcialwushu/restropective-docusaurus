@@ -14,6 +14,7 @@ title: ABRIL
 - [Senado aprova adiamento da Lei Geral de Proteção de Dados (LGPD) para janeiro](https://www.ecommercebrasil.com.br/noticias/lei-geral-de-protecao-de-dados-postergada-janeiro-coronavirus/)
 - [Senado aprova PL 1179/2020](https://www.jota.info/legislativo/senado-aprova-pl-1179-2020-03042020)
 - [Governo lança aplicativo para denunciar violência doméstica](https://olhardigital.com.br/noticia/governo-lanca-aplicativo-para-denunciar-violencia-domestica/98997)
+- [Xerox desiste de comprar HP por crise decorrente do coronavírus](https://olhardigital.com.br/pro/noticia/xerox-desiste-de-comprar-hp-por-crise-decorrente-do-coronavirus/98989)
 
 **ABRIL 04**
 
