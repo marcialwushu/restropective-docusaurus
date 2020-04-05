@@ -320,6 +320,8 @@ title: MARÇO
 
 **MARÇO 30**
 
+- [Facebook e Instagram seguem Twitter e excluem vídeo de Bolsonaro](https://olhardigital.com.br/coronavirus/noticia/facebook-e-instagram-seguem-twitter-e-excluem-video-de-bolsonaro/98762)
+
 **MARÇO 31**
 
 - [Cuidado! Novo golpe diz que usuário tem coronavírus para atacar computadores](https://tecnologia.ig.com.br/olhar-digital/2020-03-31/cuidado-novo-golpe-diz-que-usuario-tem-coronavirus-para-atacar-computadores.html)
