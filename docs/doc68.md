@@ -12,6 +12,22 @@ title: ABRIL
 - [Ask HN: Who is hiring? (April 2020)](https://bit.ly/39BBPzL)
 - [Yoshua Wuyts: State Machines in Rust](https://bit.ly/2wQWbYk)
 - [Planning and Managing Layoffs](https://bit.ly/3bEbkuW)
+- [**Facebook apagou post de Bolsonaro por alegação falsa de cura para coronavírus**.Sem nenhuma comprovação científica, a afirmação do presidente de que o medicamento hidroxicloroquina está "dando certo em todo lugar" no tratamento contra a Covid-19 fez o Facebook e o Instagram apagarem um vídeo que ele havia postado. Folha:](https://folha.com/mua1pxjv)
+- [**Ignore a receita caseira para fazer álcool em gel com gelatina que chegou no seu WhatsApp**. Conselho Federal de Química: "A depender do que se utiliza como espessante, em vez de eliminar micro-organismos, pode-se potencializar sua proliferação". Correio Braziliense:](https://bit.ly/2ydE1jT)
+- [**Não procede que Nostradamus previu coronavírus em livro de 1555**. O boato surgiu após uma publicação feita pelo argentino Cristian Dzwonik, o Nik, cartunista criador do gato Gaturro. G1:](https://glo.bo/3bsM2Qj)
+- [**Vídeo que fala em desabastecimento em BH publicado por Bolsonaro é fake**. O presidente usou o Twitter para divulgar vídeo em que trabalhador critica isolamento. A CBN, porém, constatou que a Ceasa da capital mineira tem, inclusive, produtos em excesso por causa da baixa procura.](https://glo.bo/2Uz06lJ)
+- [**Hidroxicloroquina não é garantia de cura do coronavírus, diferentemente do que circula nas redes**. Ainda não há remédio capaz de prevenir ou curar o novo coronavírus. Folha:](https://folha.com/k3wezihx)
+- [**Olavo de Carvalho mente ao dizer que não há mortes confirmadas por coronavírus**. Guru do bolsonarismo, o escritor divulgou informações falsas e inseriu a pandemia de coronavírus numa teoria conspiratória durante live. Estado de Minas:](https://bit.ly/33QGQ6t)
+- [**É falso que Gleisi orientou militantes do PT a recusar ajuda do governo na pandemia**. Agência Lupa:](https://bit.ly/2V47Efx)
+- [**Não, cocaína não mata o coronavírus**. Para a médica infectologista Rosana Ritchmann do Hospital Emílio Ribas, o boato "beira o absurdo". Uol:](https://bit.ly/2vWuSLZ)
+- [**Flávio Bolsonaro posta imagem fora de contexto para afirmar falsamente que paciente foi curado da Covid-19 com hidroxicloroquina**. Usado para sustentar a mentira, Walter Hugo Balestra Palombo foi internado em 2019 e não tem diagnóstico compatível com o novo coronavírus. Estadão:](https://bit.ly/39tfdS3)
+- [**É mentira que governo russo soltou leões nas ruas para fazer com que a população fique em casa devido ao coronavírus**. A imagem que circula é montagem e trata-se de uma filmagem que ocorreu na África do Sul. G1:](https://glo.bo/2WHCs86 )
+- [**É falso que Israel conseguiu combater o coronavírus isolando apenas idosos**. Já foram aprovados medidas de emergência que restringem a circulação de pessoas de todas as idades no país. Aos Fatos:](https://bit.ly/2wHLszn)
+- [**Vídeo em que Drauzio Varella fala que coronavírus é inofensivo está desatualizado**. "A situação mudou drasticamente. E vai continuar mudando, pois a pandemia é dinâmica. Orientações antigas não servem para este momento", diz nota no Portal Drauzio Varella:](https://bit.ly/2QAigkC)
+- [**Bolsonaro tira de contexto fala de diretor-geral da OMS para defender confinamento parcial durante pandemia**. Diretor da OMS defende que os governos tenham políticas sociais para que pessoas sem renda fiquem em casa "com dignidade" durante o isolamento social. G1:](https://glo.bo/3dIKUKn)
+- [**É falsa a notícia de que aposentadoria de idosos que estiverem na rua será suspensa**. Agora:](https://folha.com/rkmdf3ns) 
+- [**Receita de etanol combustível com água é tóxica e não deve ser usada para desinfectar as mãos e nem superfícies**. O álcool vendido em postos de gasolina tem produtos nocivos para a saúde humana, incluindo metanol e hidrocarbonetos. Agência Lupa:](https://bit.ly/2Jjol0G)
+- [**É mentira que vacina para cachorro combate novo coronavírus**. As vacinas V8 e V10, as quais a fake news cita, agem no combate de várias doenças, como cinomose e a infecção pelo coronavírus canino da espécie CCov. O coronavírus que estamos enfrentando é o SARS-CoV2. Governo do Estado de SP:](https://bit.ly/2JnrYTu)
 
 **ABRIL 02**
 
