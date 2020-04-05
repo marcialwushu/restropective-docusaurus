@@ -15,6 +15,7 @@ title: ABRIL
 - [Senado aprova PL 1179/2020](https://www.jota.info/legislativo/senado-aprova-pl-1179-2020-03042020)
 - [Governo lança aplicativo para denunciar violência doméstica](https://olhardigital.com.br/noticia/governo-lanca-aplicativo-para-denunciar-violencia-domestica/98997)
 - [Xerox desiste de comprar HP por crise decorrente do coronavírus](https://olhardigital.com.br/pro/noticia/xerox-desiste-de-comprar-hp-por-crise-decorrente-do-coronavirus/98989)
+- [Alunos da rede estadual de SP terão aulas à distância por aplicativo](https://olhardigital.com.br/coronavirus/noticia/alunos-da-rede-estadual-de-sp-terao-aulas-a-distancia-por-aplicativo/99013)
 
 **ABRIL 04**
 
