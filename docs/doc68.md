@@ -55,5 +55,13 @@ title: ABRIL
 - [**São falsos áudios sobre arrastões de usuários da Cracolândia durante pandemia**. Secretaria de Segurança Pública e ONG Centro de Convivência É de Lei, que atua na região, dizem que relatos não são compatíveis com a realidade. Portas de bares e lanchonetes não foram estourados. Agência Lupa:](https://bit.ly/2UGWBdd)
 - [**Médica que vendia falso soro da imunidade contra coronavírus no Instagram terá que pagar multa de R$ 18 mil**. Profissional dividirá a quantia em quatro vezes; dinheiro vai direto para o Fundo Municipal de Defesa dos Direitos Humanos de Ribeirão Preto. Agora:](https://folha.com/opq5w7xf)
 - [**Não procede que ingerir bebidas mornas cura ou previne de coronavírus**. Carece de comprovação científica. Governo do Estado de SP:](https://bit.ly/2UUJJ1S)
+- Apple eliminates iPhone camera hijack; pays hacker $75,000
+- EPIX Available for Free Through Apple TV Channels Until May 2, No Subscription Required
+- Forget Zoom: Skype unveils free ‘Meet Now’ video calls
+- Grab teams up with ministry to provide free online COVID-19 screening
+- Mast fire probe amid 5G coronavirus claims
+- The Samsung Galaxy Note was mocked and predicted to flop at launch
+- Razer’s gorgeous Raptor 27 monitor now on sale at Amazon
+- Thousands of private Zoom recordings are available for anyone to watch online
 
 
