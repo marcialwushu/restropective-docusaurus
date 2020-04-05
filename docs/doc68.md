@@ -74,6 +74,18 @@ title: ABRIL
 - [App de chamadas de vídeo Zoom será investigado nos EUA por falhas de segurança e privacidade](https://gizmodo.uol.com.br/zoom-investigado-eua-seguranca-privacidade/)
 - [Você deveria usar máscara facial se for entrar em contato com outras pessoas](https://gizmodo.uol.com.br/devo-usar-mascara-pandemia-coronavirus/)
 - [Apple compra startup cuja tecnologia pode melhorar bem a Siri](https://gizmodo.uol.com.br/apple-startup-melhorar-siri/)
+- [Ten Things I Hate About PostgreSQL](https://bit.ly/2JEBORa)
+- [How We reduced our Google Maps API cost by 94%](https://bit.ly/2xLvrIX)
+- [How to trim video clips instantly without reencoding](https://bit.ly/2V1q6VL)
+- [The highest paid athlete of all time was a Roman Charioteer](https://bit.ly/3bQ0Jgs)
+- [React in 33 lines](https://bit.ly/2UVr2uY)
+- [Clues to Covid-19 coronavirus’s vulnerability emerge from antibody against SARS](https://bit.ly/2wSx4ol)
+- [Startups Are Pummeled in the ‘Great Unwinding’](https://bit.ly/3484hrZ)
+- [Apple's treatment of Developers is neither fair nor consistent](https://bit.ly/2wQZYoN)
+- [Gov.uk Notify reliably sends text messages to users](https://bit.ly/34eqNj0)
+- [Yet another novel I will no longer write – Charles Stross](https://bit.ly/3dTgwx1)
+- [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://bit.ly/2xMiWNh)
+- [The US has 727M barrels of oil hidden in underground salt caverns](https://bit.ly/3bKEhW2)
 
 
 
