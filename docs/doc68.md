@@ -63,5 +63,14 @@ title: ABRIL
 - The Samsung Galaxy Note was mocked and predicted to flop at launch
 - Razer’s gorgeous Raptor 27 monitor now on sale at Amazon
 - Thousands of private Zoom recordings are available for anyone to watch online
+- [Minería de Bitcoin podría verse afectada por halving de BCH y BSV esta semana](https://www.criptonoticias.com/mineria-bitcoin-criptomonedas/mineria-bitcoin-afectada-halving-bch-bsv/)
+- [Brasileños tendrán más tiempo para declarar operaciones con bitcoin y otras criptomonedas](https://www.criptonoticias.com/gobierno/brasilenos-tiempo-declarar-operaciones-bitcoin-criptomonedas/)
+- [“El dólar está muriendo”, Robert Kiyosaki recomienda invertir en bitcoin](https://www.criptonoticias.com/comunidad/adopcion/dolar-muriendo-robert-kiyosaki-invertir-en-bitcoin/)
+- [Regulador financiero de Italia prohíbe operaciones con criptomonedas de Airbit Club](https://www.criptonoticias.com/seguridad-bitcoin/robo-fraude/regulador-italia-prohibe-operaciones-airbit-club/)
+- [Zoom y privacidad: higiene digital en tiempos de coronavirus](https://www.criptonoticias.com/opinion/zoom-privacidad-higiene-digital-coronavirus/)
+- [Criptomonedas que usan consenso PoS registran retornos de inversión menores](https://www.criptonoticias.com/mercados/criptomonedas-consenso-pos-registran-retorno-inversion-menores/)
+- [Clientes impulsan adopción de criptomonedas en instituciones financieras tradicionales](https://www.criptonoticias.com/comunidad/adopcion/clientes-impulsan-adopcion-criptomonedas-instituciones-financieras/)
+- [CoinJoin Day: todo un día para promover la privacidad en Bitcoin ](https://www.criptonoticias.com/comunidad/curiosidades/coinjoin-day-un-dia-promover-privacidad-bitcoin/)
+
 
 
