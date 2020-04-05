@@ -321,6 +321,7 @@ title: MARÇO
 **MARÇO 30**
 
 - [Facebook e Instagram seguem Twitter e excluem vídeo de Bolsonaro](https://olhardigital.com.br/coronavirus/noticia/facebook-e-instagram-seguem-twitter-e-excluem-video-de-bolsonaro/98762)
+- [Brasil libera participação da Huawei no leilão 5G](https://olhardigital.com.br/pro/noticia/brasil-libera-participacao-da-huawei-no-leilao-5g/98711)
 
 **MARÇO 31**
 
