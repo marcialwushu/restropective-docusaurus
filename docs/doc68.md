@@ -6,6 +6,12 @@ title: ABRIL
 **ABRIL 01**
 
 - [App de videoconferência Zoom remove código do Facebook após denúncia de coleta de dados](https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/04/01/app-de-videoconferencia-zoom-remove-codigo-do-facebook-apos-denuncia-de-coleta-de-dados.ghtml)
+- [OBS Studio: open-source software for video recording and live streaming](https://bit.ly/2R20mrj)
+- [Zoom has a signed binary that runs any unsigned script](https://bit.ly/2JxaAvw)
+- [1.1.1.1 for Families](https://bit.ly/3aLBoEB)
+- [Ask HN: Who is hiring? (April 2020)](https://bit.ly/39BBPzL)
+- [Yoshua Wuyts: State Machines in Rust](https://bit.ly/2wQWbYk)
+- [Planning and Managing Layoffs](https://bit.ly/3bEbkuW)
 
 **ABRIL 02**
 
