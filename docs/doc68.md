@@ -13,3 +13,7 @@ title: ABRIL
 
 - [Senado aprova adiamento da Lei Geral de Proteção de Dados (LGPD) para janeiro](https://www.ecommercebrasil.com.br/noticias/lei-geral-de-protecao-de-dados-postergada-janeiro-coronavirus/)
 - [Senado aprova PL 1179/2020](https://www.jota.info/legislativo/senado-aprova-pl-1179-2020-03042020)
+
+**ABRIL 04**
+
+- [Como a vacina para tuberculose poderia ajudar no combate à Covid-19?](https://olhardigital.com.br/coronavirus/noticia/como-a-vacina-para-tuberculose-poderia-ajudar-no-combate-a-covid-19/98973)
