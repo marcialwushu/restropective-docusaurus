@@ -71,6 +71,10 @@ title: ABRIL
 - [Criptomonedas que usan consenso PoS registran retornos de inversión menores](https://www.criptonoticias.com/mercados/criptomonedas-consenso-pos-registran-retorno-inversion-menores/)
 - [Clientes impulsan adopción de criptomonedas en instituciones financieras tradicionales](https://www.criptonoticias.com/comunidad/adopcion/clientes-impulsan-adopcion-criptomonedas-instituciones-financieras/)
 - [CoinJoin Day: todo un día para promover la privacidad en Bitcoin ](https://www.criptonoticias.com/comunidad/curiosidades/coinjoin-day-un-dia-promover-privacidad-bitcoin/)
+- [App de chamadas de vídeo Zoom será investigado nos EUA por falhas de segurança e privacidade](https://gizmodo.uol.com.br/zoom-investigado-eua-seguranca-privacidade/)
+- [Você deveria usar máscara facial se for entrar em contato com outras pessoas](https://gizmodo.uol.com.br/devo-usar-mascara-pandemia-coronavirus/)
+- [Apple compra startup cuja tecnologia pode melhorar bem a Siri](https://gizmodo.uol.com.br/apple-startup-melhorar-siri/)
+
 
 
 
