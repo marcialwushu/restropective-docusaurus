@@ -313,6 +313,7 @@ title: MARÇO
 - [Veja o que é #FATO ou #FAKE sobre o coronavírus](https://g1.globo.com/fato-ou-fake/noticia/2020/01/28/veja-o-que-e-fato-ou-fake-sobre-o-coronavirus.ghtml)
 - [Ministério da Ciência anuncia R$ 100 milhões para pesquisa em saúde](https://noticias.r7.com/brasil/ministerio-da-ciencia-anuncia-r-100-milhoes-para-pesquisa-em-saude-28032020)
 - [Microsoft volta atrás e não vai mais aumentar preço do pacote Office](https://olhardigital.com.br/coronavirus/noticia/microsoft-aumenta-preco-do-pacote-office-em-meio-a-pandemia/98652)
+- [Fiocruz testará diferentes tratamentos contra a Covid-19 pela OMS](https://www.maisfm.com/fiocruz-testara-diferentes-tratamentos-contra-a-covid-19-pela-oms/)
 
 **MARÇO 29**
 
