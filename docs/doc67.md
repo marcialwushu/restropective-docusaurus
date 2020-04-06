@@ -319,6 +319,7 @@ title: MARÇO
 **MARÇO 29**
 
 - [Telemedicina: 7 perguntas sobre consulta online durante a pandemia](https://noticias.r7.com/saude/coronavirus/telemedicina-7-perguntas-sobre-consulta-online-durante-a-pandemia-29032020)
+- [OMS vai lançar app com informações sobre a Covid-19 para iOS e Android](https://tecnologia.ig.com.br/olhar-digital/2020-03-29/oms-vai-lancar-app-com-informacoes-sobre-a-covid-19-para-ios-e-android.html)
 
 **MARÇO 30**
 
