@@ -300,6 +300,7 @@ title: MARÇO
 - [Anacom publica boas práticas para uso da Internet e Telefone em quarentena](https://visao.sapo.pt/exameinformatica/2020-03-27-anacom-publica-boas-praticas-para-uso-da-internet-e-telefone-em-quarentena/)
 - [Ensino à distância: Há alunos sem computador e ‘anarquia’ nas tecnologias de ensino](https://visao.sapo.pt/exameinformatica/noticias-ei/mercados/2020-03-27-ensino-a-distancia-ha-alunos-sem-computador-e-anarquia-nas-tecnologias-de-ensino/)
 - [Min. da Educação está a fazer “levantamento pormenorizado” de alunos sem computador e internet](https://visao.sapo.pt/exameinformatica/noticias-ei/internet/2020-03-27-ministerio-educacao-responde-alunos-sem-computador-e-internet/)
+- [Astrofísicos se dividem em relação a candidata à matéria escura](https://olhardigital.com.br/ciencia-e-espaco/noticia/astrofisicos-se-dividem-em-relacao-a-candidata-a-materia-escura/98662)
 
 **MARÇO 28**
 
