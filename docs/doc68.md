@@ -117,6 +117,7 @@ title: ABRIL
 
 - [Coronavírus: robô da OMS no Whatsapp ganha versão em português](https://olhardigital.com.br/coronavirus/noticia/coronavirus-robo-da-oms-no-whatsapp-ganha-versao-em-portugues/99056)
 - [Milhares de gravações de videoconferências do Zoom são expostas online](https://www.defesa.tv.br/milhares-de-gravacoes-de-videoconferencias-do-zoom-sao-expostas-online/)
+- [Justiça Federal de SP proíbe corte em serviços de telecomunicação](https://olhardigital.com.br/noticia/justica-federal-de-sp-proibe-corte-em-servicos-de-telecomunicacao/99037)
 
 
 
