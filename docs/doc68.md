@@ -120,6 +120,7 @@ title: ABRIL
 - [Justiça Federal de SP proíbe corte em serviços de telecomunicação](https://olhardigital.com.br/noticia/justica-federal-de-sp-proibe-corte-em-servicos-de-telecomunicacao/99037)
 - [Caixa terá app para trabalhadores informais receberem benefício emergencial](https://olhardigital.com.br/coronavirus/noticia/caixa-tera-app-para-trabalhadores-informais-receberem-beneficio-emergencial/99044)
 - [CEO da Zoom admite erros na proteção aos dados de usuários do app](https://olhardigital.com.br/coronavirus/noticia/ceo-da-zoom-admite-erros-na-protecao-aos-dados-de-usuarios-do-app/99052)
+- [Google derruba recurso para evitar queda de sites de combate à pandemia](https://tecnologia.ig.com.br/olhar-digital/2020-04-06/google-derruba-recurso-para-evitar-queda-de-sites-de-combate-a-pandemia.html)
 
 
 
