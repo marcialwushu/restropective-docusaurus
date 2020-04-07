@@ -109,6 +109,12 @@ title: ABRIL
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://bit.ly/2xMiWNh)
 - [The US has 727M barrels of oil hidden in underground salt caverns](https://bit.ly/3bKEhW2)
 
+**ABRIL 05**
+
+**ABRIL 06**
+
+- [Coronavírus: robô da OMS no Whatsapp ganha versão em português](https://olhardigital.com.br/coronavirus/noticia/coronavirus-robo-da-oms-no-whatsapp-ganha-versao-em-portugues/99056)
+
 
 
 
