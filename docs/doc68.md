@@ -111,6 +111,8 @@ title: ABRIL
 
 **ABRIL 05**
 
+- [iPhone subaquático? Apple registra patente com recursos curiosos](https://tecnologia.ig.com.br/olhar-digital/2020-04-05/iphone-subaquatico-apple-registra-patente-com-recursos-curiosos.html)
+
 **ABRIL 06**
 
 - [Coronavírus: robô da OMS no Whatsapp ganha versão em português](https://olhardigital.com.br/coronavirus/noticia/coronavirus-robo-da-oms-no-whatsapp-ganha-versao-em-portugues/99056)
