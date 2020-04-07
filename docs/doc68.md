@@ -116,6 +116,7 @@ title: ABRIL
 **ABRIL 06**
 
 - [Coronavírus: robô da OMS no Whatsapp ganha versão em português](https://olhardigital.com.br/coronavirus/noticia/coronavirus-robo-da-oms-no-whatsapp-ganha-versao-em-portugues/99056)
+- [Milhares de gravações de videoconferências do Zoom são expostas online](https://www.defesa.tv.br/milhares-de-gravacoes-de-videoconferencias-do-zoom-sao-expostas-online/)
 
 
 
