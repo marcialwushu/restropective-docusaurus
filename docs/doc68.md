@@ -123,6 +123,12 @@ title: ABRIL
 - [Google derruba recurso para evitar queda de sites de combate à pandemia](https://tecnologia.ig.com.br/olhar-digital/2020-04-06/google-derruba-recurso-para-evitar-queda-de-sites-de-combate-a-pandemia.html)
 - [Incêndio na região de Chernobyl eleva o nível de radiação na área](https://olhardigital.com.br/noticia/incendio-na-regiao-de-chernobyl-eleva-o-nivel-de-radiacao-na-area/99084)
 
+**ABRIL 07**
+
+**ABRIL 08**
+
+- [[**EVENTO**]GTC Digital: NVIDIA Enterprise amplia conteúdo gratuito com atualizações semanais até 24 de abril](https://www.segs.com.br/info-ti/225268-gtc-digital-nvidia-enterprise-amplia-conteudo-gratuito-com-atualizacoes-semanais-ate-24-de-abril)
+
 
 
 
