@@ -267,6 +267,7 @@ title: MARÇO
 - [Adobe Releases Security Update for Creative Cloud Desktop Application](https://www.us-cert.gov/ncas/current-activity/2020/03/25/adobe-releases-security-update-creative-cloud-desktop-application)
 - [É legal usar o telemóvel para monitorizar pessoas em quarentena?](https://www.facebook.com/watch/?v=722884054911050)
 - [Kioxk: fazer a pré-triagem ao Covid-19 online para não sobrecarregar o SNS24](https://visao.sapo.pt/exameinformatica/noticias-ei/internet/2020-03-25-kioxk-fazer-a-pre-triagem-ao-covid-19-online-para-nao-sobrecarregar-o-sns24/)
+- [GTC Digital dá acesso gratuito à palestras, podcasts e outros conteúdos sobre tecnologia](https://mundoconectado.com.br/noticias/v/12953/gtc-digital-da-acesso-gratuito-a-palestras-podcasts-e-outros-conteudos-sobre-tecnologia)
 
 **MARÇO 26**
 
