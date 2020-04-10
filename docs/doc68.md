@@ -125,6 +125,7 @@ title: ABRIL
 - [Brecha no sistema de transporte da Grande Vitória expôs dados de estudantes](https://canaltech.com.br/seguranca/brecha-no-sistema-de-transporte-da-grande-vitoria-expos-dados-de-estudantes-162854/)
 - [Justiça determina que Rappi e iFood paguem entregadores afastados pela COVID-19](https://canaltech.com.br/apps/justica-determina-que-rappi-e-ifood-paguem-entregadores-afastados-pela-covid-19-162908/)
 - [Looke: como funciona o serviço de streaming que é a 'Netflix' brasileira](https://canaltech.com.br/entretenimento/looke-como-funciona/)
+- [Huawei Ainda Não Conseguiu Criar Um Celular Sem Nenhuma Peça Dos EUA](https://technanet.com.br/2020/04/06/huawei-ainda-nao-conseguiu-criar-um-celular-sem-nenhuma-peca-dos-eua/)
 
 **ABRIL 07**
 
