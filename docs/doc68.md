@@ -126,6 +126,7 @@ title: ABRIL
 - [Justiça determina que Rappi e iFood paguem entregadores afastados pela COVID-19](https://canaltech.com.br/apps/justica-determina-que-rappi-e-ifood-paguem-entregadores-afastados-pela-covid-19-162908/)
 - [Looke: como funciona o serviço de streaming que é a 'Netflix' brasileira](https://canaltech.com.br/entretenimento/looke-como-funciona/)
 - [Huawei Ainda Não Conseguiu Criar Um Celular Sem Nenhuma Peça Dos EUA](https://technanet.com.br/2020/04/06/huawei-ainda-nao-conseguiu-criar-um-celular-sem-nenhuma-peca-dos-eua/)
+- [Smartphone vicia? Conheça o impacto que o aparelho causa no seu cérebro](https://canaltech.com.br/saude/smartphone-vicia-conheca-o-impacto-que-o-aparelho-causa-no-seu-cerebro-161894/)
 
 **ABRIL 07**
 
