@@ -122,6 +122,7 @@ title: ABRIL
 - [CEO da Zoom admite erros na proteção aos dados de usuários do app](https://olhardigital.com.br/coronavirus/noticia/ceo-da-zoom-admite-erros-na-protecao-aos-dados-de-usuarios-do-app/99052)
 - [Google derruba recurso para evitar queda de sites de combate à pandemia](https://tecnologia.ig.com.br/olhar-digital/2020-04-06/google-derruba-recurso-para-evitar-queda-de-sites-de-combate-a-pandemia.html)
 - [Incêndio na região de Chernobyl eleva o nível de radiação na área](https://olhardigital.com.br/noticia/incendio-na-regiao-de-chernobyl-eleva-o-nivel-de-radiacao-na-area/99084)
+- [Brecha no sistema de transporte da Grande Vitória expôs dados de estudantes](https://canaltech.com.br/seguranca/brecha-no-sistema-de-transporte-da-grande-vitoria-expos-dados-de-estudantes-162854/)
 
 **ABRIL 07**
 
