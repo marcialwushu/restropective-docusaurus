@@ -145,6 +145,7 @@ title: ABRIL
 - [Apple e Google se unem para usar Bluetooth para rastrear coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-04-10/apple-e-google-se-unem-para-usar-bluetooth-para-rastrear-coronavirus.html)
 - [Cientistas alteram textura de metais e os tornam letais para bactérias](https://olhardigital.com.br/noticia/tecnica-muda-textura-de-metais-para-inibir-proliferacao-de-bacterias/99312)
 - [Influenciador digital se desculpa após pedir auxílio emergencial do governo](https://www.uai.com.br/app/noticia/e-mais/2020/04/10/noticia-e-mais,257431/influenciador-digital-se-desculpa-apos-pedir-auxilio-emergencial-do-go.shtml)
+- [Governo de SP envia alertas por SMS a regiões que ignorarem quarentena](https://tecnologia.ig.com.br/olhar-digital/2020-04-10/governo-de-sp-envia-alertas-por-sms-a-regioes-que-ignorarem-quarentena.html)
 
 **ABRIL 11**
 
