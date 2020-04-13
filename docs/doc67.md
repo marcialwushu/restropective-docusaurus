@@ -316,6 +316,7 @@ title: MARÇO
 - [Ministério da Ciência anuncia R$ 100 milhões para pesquisa em saúde](https://noticias.r7.com/brasil/ministerio-da-ciencia-anuncia-r-100-milhoes-para-pesquisa-em-saude-28032020)
 - [Microsoft volta atrás e não vai mais aumentar preço do pacote Office](https://olhardigital.com.br/coronavirus/noticia/microsoft-aumenta-preco-do-pacote-office-em-meio-a-pandemia/98652)
 - [Fiocruz testará diferentes tratamentos contra a Covid-19 pela OMS](https://www.maisfm.com/fiocruz-testara-diferentes-tratamentos-contra-a-covid-19-pela-oms/)
+- [**New Mado STOP Ransomware variant**. Michael Gillespie found a new variant of the STOP Ransomware that appends the .mado extension to encrypted files.](https://twitter.com/demonslay335/status/1244423588037505026)
 
 **MARÇO 29**
 
@@ -326,6 +327,7 @@ title: MARÇO
 
 - [Facebook e Instagram seguem Twitter e excluem vídeo de Bolsonaro](https://olhardigital.com.br/coronavirus/noticia/facebook-e-instagram-seguem-twitter-e-excluem-video-de-bolsonaro/98762)
 - [Brasil libera participação da Huawei no leilão 5G](https://olhardigital.com.br/pro/noticia/brasil-libera-participacao-da-huawei-no-leilao-5g/98711)
+- [**New Jigsaw Ransomware**. JAMESWT found a new Jigsaw Ransomware variant targeted Italian users and appending the .math extension to encrypted files.](https://twitter.com/JAMESWT_MHT/status/1244582740462391302)
 
 **MARÇO 31**
 
@@ -343,3 +345,8 @@ title: MARÇO
 - [Supercomputador é disponibilizado de graça para acelerar pesquisas sobre coronavírus na Bahia](https://g1.globo.com/ba/bahia/noticia/2020/03/31/supercomputador-e-disponibilizado-para-acelerar-pesquisas-sobre-coronavirus-na-bahia.ghtml)
 - [Rede de voluntários doa protetores faciais produzidos em impressora 3D para hospital de combate ao coronavírus em Manaus](https://g1.globo.com/am/amazonas/noticia/2020/03/31/rede-de-voluntarios-doa-protetores-faciais-produzidos-em-impressora-3d-para-hospital-de-combate-ao-coronavirus-em-manaus.ghtml)
 - [Nos EUA, brasileiro lidera estudo de tratamento contra o Coronavírus](https://olhardigital.com.br/coronavirus/noticia/nos-eua-brasileiro-lidera-estudo-de-tratamento-contra-o-coronavirus/98820)
+- [**ILELECTION2020 Ransomware discovered**. MalwareHunterTeam found a new Stupid Ransomware variant called ILELECTION2020 that targets Israelis and appends the .likud extension to encrypted files.](https://twitter.com/malwrhunterteam/status/1244959294480670720)
+- [**New BB Ransomware**. dnwls0719 found the BB Ransomware that appends the .encryptedbyBB extension to encrypted files.](https://twitter.com/fbgwls245/status/1244944466097475584)
+- [**Aurora Ransomware decrypted updated**. Emsisoft updated their Aurora decryptor to support the .CoronaLock extension.](https://www.emsisoft.com/ransomware-decryption-tools/aurora)
+- [**Nephilim Ransomware fixes spelling mistake**. dnwls0719 spotted the Nephilim ransomware, which was previously using a different and uncommon spelling of Nefilim in the past. This variant uses the .NEPHILIM extension and drops a ransom note named NEPHILIM-DECRYPT.txt.](https://twitter.com/fbgwls245/status/1245184543218229248)
+- [**REvil Ransomware-as-a-Service – An analysis of a ransomware affiliate operation**. REvil aka Sodinokibi, Sodin is a ransomware family operated as a ransomware-as-a-service (RaaS). Deployments of REvil first were observed in April 2019, where attackers leveraged a vulnerability in Oracle WebLogic servers tracked as CVE-2019-2725.](https://blog.intel471.com/2020/03/31/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/)
