@@ -141,6 +141,7 @@ title: ABRIL
 **ABRIL 10**
 
 - [Apple e Google se unem para usar Bluetooth para rastrear coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-04-10/apple-e-google-se-unem-para-usar-bluetooth-para-rastrear-coronavirus.html)
+- [Cientistas alteram textura de metais e os tornam letais para bactérias](https://olhardigital.com.br/noticia/tecnica-muda-textura-de-metais-para-inibir-proliferacao-de-bacterias/99312)
 
 **ABRIL 11**
 
