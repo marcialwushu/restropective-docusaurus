@@ -128,6 +128,7 @@ title: ABRIL
 - [Looke: como funciona o serviço de streaming que é a 'Netflix' brasileira](https://canaltech.com.br/entretenimento/looke-como-funciona/)
 - [Huawei Ainda Não Conseguiu Criar Um Celular Sem Nenhuma Peça Dos EUA](https://technanet.com.br/2020/04/06/huawei-ainda-nao-conseguiu-criar-um-celular-sem-nenhuma-peca-dos-eua/)
 - [Smartphone vicia? Conheça o impacto que o aparelho causa no seu cérebro](https://canaltech.com.br/saude/smartphone-vicia-conheca-o-impacto-que-o-aparelho-causa-no-seu-cerebro-161894/)
+- [Anvisa bloqueia uso da ferramenta de videoconferência Zoom e cita possíveis falhas](https://www.uol.com.br/tilt/noticias/reuters/2020/04/06/anvisa-para-de-usar-ferramenta-de-videoconferencia-zoom-cita-possiveis-falhas-de-seguranca.htm)
 
 **ABRIL 07**
 
