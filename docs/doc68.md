@@ -135,6 +135,7 @@ title: ABRIL
 
 - [[**EVENTO**]GTC Digital: NVIDIA Enterprise amplia conteúdo gratuito com atualizações semanais até 24 de abril](https://www.segs.com.br/info-ti/225268-gtc-digital-nvidia-enterprise-amplia-conteudo-gratuito-com-atualizacoes-semanais-ate-24-de-abril)
 - [Golpe! Mais de 100 sites falsos prometem auxílio emergencial; saiba se proteger](https://tecnologia.ig.com.br/olhar-digital/2020-04-08/golpe-mais-de-100-sites-falsos-prometem-auxilio-emergencial-saiba-se-proteger.html)
+- [Cofundador do Twitter anuncia doação de US$ 1 bi para ajudar no combate ao coronavírus](https://www1.folha.uol.com.br/equilibrioesaude/2020/04/cofundador-do-twitter-anuncia-doacao-de-us-1-bi-para-ajudar-no-combate-ao-coronavirus.shtml)
 
 **ABRIL 09**
 
