@@ -143,6 +143,7 @@ title: ABRIL
 **ABRIL 11**
 
 - [Hisense vai lançar smartphone com tela e-Ink colorida](https://olhardigital.com.br/ces-2020/noticia/hisense-vai-lancar-smartphone-com-tela-e-ink-colorida/99331)
+- [O uso do dinheiro em espécie está perto do fim?](https://olhardigital.com.br/video/o-uso-do-dinheiro-em-especie-esta-perto-do-fim/99326)
 
 **ABRIL 12**
 
