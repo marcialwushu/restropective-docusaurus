@@ -136,6 +136,20 @@ title: ABRIL
 - [[**EVENTO**]GTC Digital: NVIDIA Enterprise amplia conteúdo gratuito com atualizações semanais até 24 de abril](https://www.segs.com.br/info-ti/225268-gtc-digital-nvidia-enterprise-amplia-conteudo-gratuito-com-atualizacoes-semanais-ate-24-de-abril)
 - [Golpe! Mais de 100 sites falsos prometem auxílio emergencial; saiba se proteger](https://tecnologia.ig.com.br/olhar-digital/2020-04-08/golpe-mais-de-100-sites-falsos-prometem-auxilio-emergencial-saiba-se-proteger.html)
 
+**ABRIL 09**
+
+**ABRIL 10**
+
+**ABRIL 11**
+
+- [Hisense vai lançar smartphone com tela e-Ink colorida](https://olhardigital.com.br/ces-2020/noticia/hisense-vai-lancar-smartphone-com-tela-e-ink-colorida/99331)
+
+**ABRIL 12**
+
+**ABRIL 13**
+
+
+
 
 
 
