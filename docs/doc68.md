@@ -140,6 +140,8 @@ title: ABRIL
 
 **ABRIL 10**
 
+- [Apple e Google se unem para usar Bluetooth para rastrear coronavírus](https://tecnologia.ig.com.br/olhar-digital/2020-04-10/apple-e-google-se-unem-para-usar-bluetooth-para-rastrear-coronavirus.html)
+
 **ABRIL 11**
 
 - [Hisense vai lançar smartphone com tela e-Ink colorida](https://olhardigital.com.br/ces-2020/noticia/hisense-vai-lancar-smartphone-com-tela-e-ink-colorida/99331)
