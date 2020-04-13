@@ -144,6 +144,7 @@ title: ABRIL
 
 - [Hisense vai lançar smartphone com tela e-Ink colorida](https://olhardigital.com.br/ces-2020/noticia/hisense-vai-lancar-smartphone-com-tela-e-ink-colorida/99331)
 - [O uso do dinheiro em espécie está perto do fim?](https://olhardigital.com.br/video/o-uso-do-dinheiro-em-especie-esta-perto-do-fim/99326)
+- [Em 45 dias, Covid-19 já matou mais no Brasil que a gripe no ano inteiro de 2019](https://olhardigital.com.br/coronavirus/noticia/em-45-dias-covid-19-ja-matou-mais-no-brasil-que-a-gripe-no-ano-inteiro-de-2019/99333)
 
 **ABRIL 12**
 
