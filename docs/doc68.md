@@ -63,6 +63,7 @@ title: ABRIL
 - [**Ford e Mercedes começam a fabricar máscara e respirador contra coronavírus**. Volkswagen vai fazer a manutenção para a frota das secretarias de Saúde de SP e PR e GM está consertando respiradores. Agora:](https://folha.com/1seij39r) 
 - [**É mentira que está comprovado que beber vinho combate o novo coronavírus**. "Há estudos demonstrando os benefícios do vinho para a saúde, mas nada especificamente para o novo coronavírus", afirma o infectologista Leonardo Weissmann. G1:](https://glo.bo/2RogDqT)
 - [**Ordem no Ministério da Saúde é ignorar falas de Bolsonaro**. A ordem interna é não rebater e seguir o trabalho de combate à Covid-19, a exemplo do que faz Mandetta. Estadão:](https://bit.ly/39E7Qr4)
+- [Ignite, evento para desenvolvedores da Microsoft, vai acontecer online](https://olhardigital.com.br/coronavirus/noticia/ignite-evento-para-desenvolvedores-da-microsoft-vai-acontecer-online/99022)
 
 **ABRIL 04**
 
