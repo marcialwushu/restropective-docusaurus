@@ -28,6 +28,9 @@ title: ABRIL
 - [**É falsa a notícia de que aposentadoria de idosos que estiverem na rua será suspensa**. Agora:](https://folha.com/rkmdf3ns) 
 - [**Receita de etanol combustível com água é tóxica e não deve ser usada para desinfectar as mãos e nem superfícies**. O álcool vendido em postos de gasolina tem produtos nocivos para a saúde humana, incluindo metanol e hidrocarbonetos. Agência Lupa:](https://bit.ly/2Jjol0G)
 - [**É mentira que vacina para cachorro combate novo coronavírus**. As vacinas V8 e V10, as quais a fake news cita, agem no combate de várias doenças, como cinomose e a infecção pelo coronavírus canino da espécie CCov. O coronavírus que estamos enfrentando é o SARS-CoV2. Governo do Estado de SP:](https://bit.ly/2JnrYTu)
+- [**Microsoft is Alerting Hospitals Vulnerable to Ransomware Attacks**. Microsoft has started to send targeted notifications to dozens of hospitals about vulnerable public-facing VPN devices and gateways located on their network.](https://www.bleepingcomputer.com/news/security/microsoft-is-alerting-hospitals-vulnerable-to-ransomware-attacks/)
+- [**New WannaCash variant utilizes a COVID-19 theme**. Alex Svirid found a new variant of the WannaCash Ransomware that appends the COVID-19 themed extension of .WANNACASH NCOV v310320.](https://twitter.com/thyrex2002/status/1245376533126098950)
+- [**New Rogue Ransomware**. GrujaRS found the new HiddenTear ransomware named Rogue Ransomware that appends the .rogue extension and impersonates](https://twitter.com/GrujaRS/status/1245461942040506379)
 
 **ABRIL 02**
 
@@ -41,6 +44,7 @@ title: ABRIL
 - Spotify now works with Siri on the Apple Watch
 - Google to lift advertising ban on coronavirus topics
 - Google's Art App Now Turns Your Selfies Into Famous Masterpieces
+- [**New Boruta Ouroboros Ransomware variant**. Michael Gillespie found a new Boruta Ouroboros Ransomware variant that appends the .Boruta extension.](https://twitter.com/demonslay335/status/1245725188169371651)
 
 **ABRIL 03**
 
@@ -64,6 +68,8 @@ title: ABRIL
 - [**É mentira que está comprovado que beber vinho combate o novo coronavírus**. "Há estudos demonstrando os benefícios do vinho para a saúde, mas nada especificamente para o novo coronavírus", afirma o infectologista Leonardo Weissmann. G1:](https://glo.bo/2RogDqT)
 - [**Ordem no Ministério da Saúde é ignorar falas de Bolsonaro**. A ordem interna é não rebater e seguir o trabalho de combate à Covid-19, a exemplo do que faz Mandetta. Estadão:](https://bit.ly/39E7Qr4)
 - [Ignite, evento para desenvolvedores da Microsoft, vai acontecer online](https://olhardigital.com.br/coronavirus/noticia/ignite-evento-para-desenvolvedores-da-microsoft-vai-acontecer-online/99022)
+- [**New MrDec Ransomware**. S```!```Ri found the MrDec Ransomware that appends the ```.[ID]```_RSA extension](https://twitter.com/siri_urz/status/1245979724041478144)
+- [**New MSPLT Dharma Ransomware variant**. dnwls0719 found a new Dharma Ransomware variant that appends the .MSPLT extension to encrypted files.](https://twitter.com/fbgwls245/status/1245941375582892035)
 
 **ABRIL 04**
 
@@ -109,6 +115,7 @@ title: ABRIL
 - [Yet another novel I will no longer write – Charles Stross](https://bit.ly/3dTgwx1)
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://bit.ly/2xMiWNh)
 - [The US has 727M barrels of oil hidden in underground salt caverns](https://bit.ly/3bKEhW2)
+- [**New Jope STOP Ransomware variant**. Michael Gillespie found new STOP Ransomware variant that appends the .jope extension to encrypted files.](https://twitter.com/demonslay335/status/1246578064970125312?s=19)
 
 **ABRIL 05**
 
@@ -129,16 +136,27 @@ title: ABRIL
 - [Huawei Ainda Não Conseguiu Criar Um Celular Sem Nenhuma Peça Dos EUA](https://technanet.com.br/2020/04/06/huawei-ainda-nao-conseguiu-criar-um-celular-sem-nenhuma-peca-dos-eua/)
 - [Smartphone vicia? Conheça o impacto que o aparelho causa no seu cérebro](https://canaltech.com.br/saude/smartphone-vicia-conheca-o-impacto-que-o-aparelho-causa-no-seu-cerebro-161894/)
 - [Anvisa bloqueia uso da ferramenta de videoconferência Zoom e cita possíveis falhas](https://www.uol.com.br/tilt/noticias/reuters/2020/04/06/anvisa-para-de-usar-ferramenta-de-videoconferencia-zoom-cita-possiveis-falhas-de-seguranca.htm)
+- [**Interpol: Ransomware attacks on hospitals are increasing**. The INTERPOL (International Criminal Police Organisation) warns that cybercriminals are increasingly attempting to lockout hospitals out of critical systems by attempting to deploy ransomware on their networks despite the currently ongoing COVID-19 outbreak.](https://www.bleepingcomputer.com/news/security/interpol-ransomware-attacks-on-hospitals-are-increasing/)
+- [**New BlackOrchid Ransomware variant**. GrujaRS found anew BlackOrchid Ransomware variant that appends the .shinya extension to encrypted files.](https://twitter.com/GrujaRS/status/1247057907264434177)
 
 **ABRIL 07**
+
+- [**New Revon Phobos variant**. dnwls0719 found a new Phobos Ransomware variant that appends the .revon extension and drops ransom notes named info.txt and info.hta](https://twitter.com/fbgwls245/status/1247502897870327808)
 
 **ABRIL 08**
 
 - [[**EVENTO**]GTC Digital: NVIDIA Enterprise amplia conteúdo gratuito com atualizações semanais até 24 de abril](https://www.segs.com.br/info-ti/225268-gtc-digital-nvidia-enterprise-amplia-conteudo-gratuito-com-atualizacoes-semanais-ate-24-de-abril)
 - [Golpe! Mais de 100 sites falsos prometem auxílio emergencial; saiba se proteger](https://tecnologia.ig.com.br/olhar-digital/2020-04-08/golpe-mais-de-100-sites-falsos-prometem-auxilio-emergencial-saiba-se-proteger.html)
 - [Cofundador do Twitter anuncia doação de US$ 1 bi para ajudar no combate ao coronavírus](https://www1.folha.uol.com.br/equilibrioesaude/2020/04/cofundador-do-twitter-anuncia-doacao-de-us-1-bi-para-ajudar-no-combate-ao-coronavirus.shtml)
+- [**New Corona Virus IQ Ransomware**. MalwareHunterTeam found a new "Corona Virus IQ" Ransomware from Iraqthat appends the .corona extension to encrypted files.](https://twitter.com/malwrhunterteam/status/1247863434756198402)
+- [**New Joke (?) Ransomware decrypts if you win a game**. S!Ri found a new ransomware that states it will decrypt your files if you win a game.](https://twitter.com/siri_urz/status/1247864721975336960)
+- [**New Gibberish variant spread through RIG-EK**. FaLcon Intelligence found that a new variant of the Gibberish Ransomware is being spread through the RIG exploit kit.](https://twitter.com/FaLconIntel/status/1248088357843791874)
 
 **ABRIL 09**
+
+- [**Dharma Ransomware Variant Malspam Targeting COVID-19**. One such spear-phishing campaign is being used by the Dharma ransomware variant (Crysis). First noted in 2016, Dharma ransomware has been around for almost five years now and keeps popping out with a new variant, periodically. The threat actors want to leverage every scenario to escape detection and deliver the payload.](https://blogs.quickheal.com/dharma-targeting-covid-19/)
+- [**New Jope Mpaj Ransomware variant**. Michael Gillespie found new STOP Ransomware variant that appends the .mpaj extension to encrypted files.](https://twitter.com/demonslay335/status/1248312049635078144)
+- [**Travelex Reportedly Paid $2.3 Million Ransom to Restore Operations**. Travelex reportedly paid a $2.3 million ransom payment to get their systems back online after being encrypted by a Sodinokibi ransomware attack.](https://www.bleepingcomputer.com/news/security/travelex-reportedly-paid-23-million-ransom-to-restore-operations/)
 
 **ABRIL 10**
 
@@ -146,6 +164,10 @@ title: ABRIL
 - [Cientistas alteram textura de metais e os tornam letais para bactérias](https://olhardigital.com.br/noticia/tecnica-muda-textura-de-metais-para-inibir-proliferacao-de-bacterias/99312)
 - [Influenciador digital se desculpa após pedir auxílio emergencial do governo](https://www.uai.com.br/app/noticia/e-mais/2020/04/10/noticia-e-mais,257431/influenciador-digital-se-desculpa-apos-pedir-auxilio-emergencial-do-go.shtml)
 - [Governo de SP envia alertas por SMS a regiões que ignorarem quarentena](https://tecnologia.ig.com.br/olhar-digital/2020-04-10/governo-de-sp-envia-alertas-por-sms-a-regioes-que-ignorarem-quarentena.html)
+- [**New BearCrypt Ransomware**. GrujaRS found a new ransomware called BearCrypt that only targets .jpg and .png files. When encrypted it appends the .crypt extension and drops a ransom note named Readme.txt.  Appears to be in-dev.](https://twitter.com/GrujaRS/status/1248694622768988160)
+- [**NewAurora Ransomware variant**. GrujaRS found a new Aurora Ransomware variant that appends the .bukyak extension.](https://twitter.com/GrujaRS/status/1248527758608732160)
+- [**Ransomware scumbags leak Boeing, Lockheed Martin, SpaceX documents after contractor refuses to pay**. Internal confidential documents belonging to some of the largest aerospace companies in the world have been stolen from an industrial contractor and leaked online.](https://www.theregister.co.uk/2020/04/10/lockheed_martin_spacex_ransomware_leak/)
+
 
 **ABRIL 11**
 
