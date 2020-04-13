@@ -22,9 +22,9 @@ const siteConfig = {
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
+    {doc: 'doc1', label: 'News'},
+    {doc: 'doc4', label: 'Feed'},
+    {page: 'help', label: 'Ajuda'},
     {blog: true, label: 'Blog'},
   ],
   users,
@@ -61,7 +61,7 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/marcialwushu/restropective-docusaurus',
   /* On page navigation for the current documentation page */
   // onPageNav: 'separate',
 };
