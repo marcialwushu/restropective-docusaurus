@@ -185,6 +185,13 @@ title: ABRIL
 - [**New BearCrypt Ransomware**. GrujaRS found a new ransomware called BearCrypt that only targets .jpg and .png files. When encrypted it appends the .crypt extension and drops a ransom note named Readme.txt.  Appears to be in-dev.](https://twitter.com/GrujaRS/status/1248694622768988160)
 - [**NewAurora Ransomware variant**. GrujaRS found a new Aurora Ransomware variant that appends the .bukyak extension.](https://twitter.com/GrujaRS/status/1248527758608732160)
 - [**Ransomware scumbags leak Boeing, Lockheed Martin, SpaceX documents after contractor refuses to pay**. Internal confidential documents belonging to some of the largest aerospace companies in the world have been stolen from an industrial contractor and leaked online.](https://www.theregister.co.uk/2020/04/10/lockheed_martin_spacex_ransomware_leak/)
+- Apple and Google are building a coronavirus tracking system into iOS and Android
+- Analyst Expects Apple to Launch New iPhone SE in Mid-April, 6.7-Inch iPhone 12 in October
+- Apple Makes Several Apple TV+ Shows Available to Stream for Free for a Limited Time
+- Google just added its logo to Gboard’s spacebar and people are losing their minds
+- Everyone can now access their Instagram DMs on the web
+- Cyberpunk 2077 to get free Xbox Series X upgrade after console launch
+- 2019 Mac Pro Now Available Through Apple’s Refurbished Store With Up to $4000 in Savings
 
 
 **ABRIL 11**
