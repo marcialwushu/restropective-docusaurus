@@ -236,6 +236,15 @@ title: ABRIL
 
 **ABRIL 15**
 
+- Apple iPhone SE 2020 launched, India price starts Rs 42,500
+- Aarogya Setu beats ‘Pokémon GO’ record, crosses 50 million downloads in 13 Days
+- YouTube launches UPI as payment mode in India
+- Apple now sells Mac Pro wheels and feet from $299 to $699
+- Magic Keyboard for iPad Pro now available to order, ships next week
+- Google Classroom app flooded with 1-star reviews as students react to working from home
+- iPhone 8 and iPhone 8 Plus Discontinued
+- Instagram adds stickers for restaurants to sell gift cards and food delivery
+
 **ABRIL 16**
 
 **ABRIL 17**
