@@ -166,6 +166,15 @@ title: ABRIL
 - [**Dharma Ransomware Variant Malspam Targeting COVID-19**. One such spear-phishing campaign is being used by the Dharma ransomware variant (Crysis). First noted in 2016, Dharma ransomware has been around for almost five years now and keeps popping out with a new variant, periodically. The threat actors want to leverage every scenario to escape detection and deliver the payload.](https://blogs.quickheal.com/dharma-targeting-covid-19/)
 - [**New Jope Mpaj Ransomware variant**. Michael Gillespie found new STOP Ransomware variant that appends the .mpaj extension to encrypted files.](https://twitter.com/demonslay335/status/1248312049635078144)
 - [**Travelex Reportedly Paid $2.3 Million Ransom to Restore Operations**. Travelex reportedly paid a $2.3 million ransom payment to get their systems back online after being encrypted by a Sodinokibi ransomware attack.](https://www.bleepingcomputer.com/news/security/travelex-reportedly-paid-23-million-ransom-to-restore-operations/)
+- Microsoft thinks coronavirus will forever change the way we work and learn
+- Mahindra Scorpio To Get New BS-VI Variant Line-up Post Lockdown
+- Broadband Internet Speed in India Takes a Beating Due to Lockdown
+- Microsoft says video calls in Teams grew 1,000% in March
+- Galaxy S9 gets new update with April security patch
+- New Watchsmith app lets you take charge of Apple Watch complications
+- Tesla sales in China hit record high during the pandemic, represent 25% of country’s EV sales
+- Google’s midrange Pixel 4A could launch soon, and there may not be an XL version
+- Fleeceware apps discovered on the iOS App Store
 
 **ABRIL 10**
 
