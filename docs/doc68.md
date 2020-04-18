@@ -211,8 +211,51 @@ title: ABRIL
 
 **ABRIL 13**
 
+- Samsung Galaxy S21 to reportedly feature selfie camera with OIS
+- Users report autofocus, heating problems with Exynos Galaxy S20 Ultra
+- Instagram redesigns IGTV with creators as the focus
+- You can now drag and drop files between Samsung phones and Windows 10 PCs
+- The Next Generation of iPhones Could Look a Lot Like the iPhone 5
+- Google is replacing some Android apps in Chrome OS with web apps
+- Motorola teases flagship phone announcement on April 22
+- Raspberry Pi will power ventilators for COVID-19 patients
+
+**ABRIL 14**
+
+**ABRIL 15**
+
+**ABRIL 16**
+
+**ABRIL 17**
+
+**ABRIL 18**
+
+**ABRIL 19**
+
+**ABRIL 20**
+
+**ABRIL 21**
+
+**ABRIL 22**
+
+**ABRIL 23**
+
+**ABRIL 24**
+
+**ABRIL 25**
+
+**ABRIL 26**
+
+**ABRIL 27**
+
+**ABRIL 28**
+
+**ABRIL 29**
+
+**ABRIL 30**
 
 
+**ABRIL 31**
 
 
 
