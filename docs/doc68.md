@@ -222,6 +222,18 @@ title: ABRIL
 
 **ABRIL 14**
 
+- Apple makes user location data from Apple Maps available to help COVID-19 relief efforts
+- OnePlus’ 30W Warp Charge wireless charger promises ultra-fast speeds
+- ora ito unveils ‘elegant and impactful’ superyacht design for perini navi
+- Mazda6 rumored to get straight-six and rear-wheel drive
+- Google said to be preparing its own chips for use in Pixel phones and Chromebooks
+- Over 500,000 Zoom Accounts Sold on the Dark Web and Hacker Forums
+- GitHub is now free for all teams
+- Facebook debuts experimental Apple Watch app ‘Kit’ for robust Messenger communication
+- The OnePlus 8 5G is coming to Verizon for $799
+- Popular note-taking app GoodNotes launches universal version for iPhone, iPad, and Mac
+- AMD launches new series of Epyc processors for the enterprise
+
 **ABRIL 15**
 
 **ABRIL 16**
