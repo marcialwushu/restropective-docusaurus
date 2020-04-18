@@ -142,6 +142,15 @@ title: ABRIL
 **ABRIL 07**
 
 - [**New Revon Phobos variant**. dnwls0719 found a new Phobos Ransomware variant that appends the .revon extension and drops ransom notes named info.txt and info.hta](https://twitter.com/fbgwls245/status/1247502897870327808)
+- India asks TikTok, Facebook to remove users spreading coronavirus misinformation
+- Pinterest adds new ‘Shop’ tabs connected to in-stock inventory, style guides and more
+- All Microsoft events will be digital-only until July 2021
+- Honda, Nissan to lay off 10,000 workers each as coronavirus hits economy
+- Apple releases iOS 13.4.1 and iPadOS 13.4.1 with FaceTime and Bluetooth bug fixes, more
+- Apple publishes new details for its Face Shield designed to help health workers avoid coronavirus
+- Pixelmator Photo for iPad adds trackpad support, Split View, Match Colors feature
+- WhatsApp now limiting ‘frequent’ forwards to one per chat to fight coronavirus fake news
+- Samsung ends support for the Galaxy S7 and S7 Edge, four years after launch
 
 **ABRIL 08**
 
