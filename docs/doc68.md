@@ -302,6 +302,19 @@ title: ABRIL
 - [**Argentina recomenda sexo virtual e masturbação para solteiros durante pandemia**. "É preciso lavar as mãos e os órgãos genitais antes e depois, assim como desinfetar as telas de computador ou os brinquedos sexuais usados durante o ato", recomenda um infectologista. Folha:](https://folha.com/va2sy8xg)
 - [**Com repertório especial, Roberto Carlos fará live neste domingo; TV Globo vai transmitir as duas primeiras músicas**. Rei cantará pelo YouTube por 45 minutos para comemorar seus 79 anos e evitar aglomeração de fãs na porta de casa. Apresentação será às 19h45. Diário do Grande ABC:](https://bit.ly/2wPbsJn)
 - [**Coronanews no Zap60, o podcast para quem é 60+**. Falei sobre como surgiu esta zapletter. Ouve ae:](https://spoti.fi/2xwmzHD)
+- [Show HN: A basketball hoop to maximize shots that go in video](https://bit.ly/3cyGjct)
+- [X410 – X Server for Windows 10](https://bit.ly/2RMAxvz)
+- [Crank.js – Write JSX-driven components with functions, promises and generators](https://bit.ly/2Vgb53K)
+- [Writing Python inside your Rust code](https://bit.ly/3bmaHqi)
+- [Why editorial illustrations look so similar these days (2019)](https://bit.ly/3beGzwO)
+- [Exceptionally gifted children: long-term outcomes of acceleration (2006) pdf](https://bit.ly/2VH8MFW )
+- [TablePlus – Modern, Native Tool for Database Management](https://bit.ly/2KlcEqN)
+- [Show HN: I've been writing TILs for 5 years](https://bit.ly/3adeFjy)
+- [It’s Time to Build](https://bit.ly/3eyLFGk)
+- [Scuttlebot: Peer-to-peer database, identity provider, and messaging system](https://bit.ly/2XH9Mg2)
+- [We've Built Cities We Can't Afford](https://bit.ly/34NTgwo)
+- [Show HN: Gentle is a social app where you give and get kindness (TestFlight)](https://bit.ly/2KeFolb)
+
 
 
 **ABRIL 19**
