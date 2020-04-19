@@ -258,6 +258,17 @@ title: ABRIL
 - Tesla completes massive expansion of its ‘world’s biggest battery’
 - Microsoft’s new Spotlight-like launcher for Windows 10 will arrive in May
 - Coronavirus scammers are flooding social media with fake cures and tests
+- [**Sim, autores de pesquisa sobre cloroquina no Amazonas recebem ameaças; estudo foi suspenso anteriormente**. Pesquisadores receberam mensagens como: "Filho da puta maldito. Deve ser espancado quando pisar na rua!!" e "Assassino comunista fdp". A polícia investiga. Folha:](https://folha.com/x9ve8h67)
+- [**Brasil tem 2.141 mortes e 33.682 casos de coronavírus**. Dados são oficiais do Ministério da Saúde. Quinta (16/04): 1.924 mortos. Quarta (15/04): 1.735. Terça (14/04): 1.532. Segunda (13/04): 1.358. Domingo (12/04): 1.223. Sábado (11/04): 1.124. Sexta (10/04): 1.057. G1:](https://glo.bo/2xEpT39)
+- [**Bióloga falou que Cristiano Ronaldo e Messi devem encontrar a cura do coronavírus pois ganham muito dinheiro? Não**. Mulher usada na imagem fraudulenta é uma política espanhola que dava entrevista sobre as relações entre seu país e Marrocos. AFP:](https://bit.ly/2VybZYh)
+- [**É falso que médicos de 30 países confirmam a eficácia da cloroquina**. O post baseou-se no Barômetro em Tempo Real de Covid-19, uma pesquisa semanal com profissionais da saúde. Atualmente, o maior grau de eficiência apontado nas consultas é o do uso de plasma de pacientes que se recuperaram da doença ocasionada pelo SARS-CoV2, que chegou a 46% de aprovação. Agência Lupa:](https://bit.ly/2VgyaTS)
+- [**Bill Gates não escreveu carta que diz que "enquanto muitos veem o coronavírus como um grande desastre, prefiro vê-lo como um grande corretor"**. Conteúdo enganoso tem circulado em várias línguas. G1:](https://glo.bo/3etRq8f)
+- [**Não, desembargador e advogados não acionaram Forças Armadas contra STF e governadores**. Trata-se de invenção que antes circulou com nome do jurista Modesto Carvalhosa, que também negou que seja dele a proposta. Folha:](https://folha.com/03j64vw7)
+- [**Não procede que Mourão está convocando manifestação contra o STF neste fim de semana**. O vídeo é de 2018 e está sendo usado fora do contexto por grupos extremistas que, sem evidência, acusam a existência de um suposto golpe comunista em curso. Agência Lupa:](https://bit.ly/3evgQSP)
+- [**É montagem foto de Doria grafitando símbolo comunista em muro**. Governador de SP desenhou, em 2018, um coração e não a foice e o martelo. Aos Fatos:](https://bit.ly/34JltUW)
+- [**Periferia lidera número de mortos por Covid-19 em SP**. Distrito de Brasilândia está à frente de estatística de óbitos.  Agora:](https://folha.com/1hp30oe4)
+- [**Anvisa proíbe venda de Annita, remédio secreto anunciado por Marcos Pontes, sem receita**. Vermífugo à base de nitazoxanida está sendo testado para o tratamento de Covid-19 e ainda não tem eficácia comprovada. Folha:](https://folha.com/0kr9pg5t)
+- [**Compre e venda no seu bairro com a plataforma Pertinho de Casa**. Iniciativa conecta pequenos negócios aos seus clientes, sem taxas, através da geolocalização. Conheça:](https://tinyurl.com/y9tax2fs)
 
 **ABRIL 18**
 
