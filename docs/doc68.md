@@ -209,6 +209,20 @@ title: ABRIL
 
 **ABRIL 12**
 
+- [Nasty macOS flaw is bricking MacBooks: Don't install this update](https://bit.ly/2Xvkrdp)
+- [Bored? How about trying a Linux speed run?](https://bit.ly/2XuDXHi)
+- [Stop the Apple and Google contact tracing platform](https://bit.ly/2V3jfMI)
+- [Life Is Made of Unfair Coin Flips](https://bit.ly/3c86y9l)
+- [You're a Slave to Money, Then You Die](https://bit.ly/2JVzKEo)
+- [Blog of Inigo Quilez, Creator of Shadertoy](https://bit.ly/2yWvQJn)
+- [How to Speak MIT OCW](https://bit.ly/2ydDBKf)
+- [China clamping down on coronavirus research, deleted pages suggest](https://bit.ly/2wCm4ew)
+- [Show HN: Dashboard for tracking insider trading at S&P 500 companies](https://bit.ly/3ejI4vQ)
+- [Show HN: Write generative fine art in Rust](https://bit.ly/3eiorE3)
+- [So You Want to Be a (Compiler) Wizard](https://bit.ly/2xebue7)
+- [Foxconn’s Buildings in Wisconsin Are Still Empty, One Year Later](https://bit.ly/3b9UxjK)
+
+
 **ABRIL 13**
 
 - Samsung Galaxy S21 to reportedly feature selfie camera with OIS
