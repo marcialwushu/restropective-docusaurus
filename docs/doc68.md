@@ -261,6 +261,14 @@ title: ABRIL
 
 **ABRIL 18**
 
+- FBI says cybercrime reports quadrupled during COVID-19 pandemic
+- Newest iPhone SE is Apple's most affordable phone but doesn't feel cheap
+- Dodge Charger Hellcat Widebody Daytona Asking Price Marked Down to $107,145
+- Facebook introduces ‘care’ emoji to express support amid COVID-19 pandemic
+- Amazon deploys thermal cameras at warehouses to scan for fevers faster
+- Google Search now lists coronavirus testing locations near you
+- The World’s Best-Selling Sports Car In 2019 Was The Ford Mustang
+
 **ABRIL 19**
 
 **ABRIL 20**
