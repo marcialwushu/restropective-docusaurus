@@ -249,6 +249,16 @@ title: ABRIL
 
 **ABRIL 17**
 
+- Samsung Redesigned Its TV Boxes to be Easily Converted Into Cat Houses and Entertainment Centers
+- WhatsApp may soon extend the limit of participants in group video and audio calls
+- New iPhone SE Now Available to Pre-Order
+- Leaked Images Reveal Google Working on Apple Cash Card Competitor
+- Facebook to warn users who ‘liked’ coronavirus hoaxes
+- Resellers Using Checkout Bots Are Driving the Nintendo Switch Shortage
+- Tesla completes massive expansion of its ‘world’s biggest battery’
+- Microsoft’s new Spotlight-like launcher for Windows 10 will arrive in May
+- Coronavirus scammers are flooding social media with fake cures and tests
+
 **ABRIL 18**
 
 **ABRIL 19**
