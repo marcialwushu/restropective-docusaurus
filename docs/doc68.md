@@ -247,6 +247,18 @@ title: ABRIL
 
 **ABRIL 16**
 
+- [**Brasil soma 1.924 mortes e 30.425 casos de coronavírus**. Quarta (15/04): 1.735 mortes. Terça (14/04): 1.532. Segunda (13/04): 1.358. Domingo (12/04): 1.223. Sábado (11/04): 1.124. Sexta (10/04): 1.057. Quinta (09/04): 941. G1:](https://glo.bo/2VypUOe)
+- [**Como não cair em fake news sobre o novo coronavírus**. 1) Conheça a doença, os seus sintomas e a forma de contágio; 2) Afaste-se de teorias da conspiração; 3) Questione-se: quem criou esta publicação?; 4) Tente perceber que mensagem está a ser passada e 5) Interrogue-se: por qual motivo esta publicação foi criada?. Do português Polígrafo:](https://bit.ly/3bbku28)
+- [**Não procede que esposa de Tom Hanks disse ter se curado de Covid-19 graças a cloroquina**. Rita Wilson, que é atriz e cantora, afirmou justamente o contrário e fez críticas aos efeitos colaterais do medicamento. Agência Lupa:](https://bit.ly/2yho0tq)
+- [**Vídeo que mostra ação da PM em praia é antigo e sem relação com isolamento social**. Imagens foram gravadas em março de 2019 em Santa Catarina. Aos Fatos:](https://bit.ly/2V7Z4xb)
+- [**Tabela de mortes do Datasus compartilhada em redes sociais tem números falsos; intuito é minimizar impacto do coronavírus no país**. Post alega que dados são de janeiro a março de 2020, mas o portal do Ministério da Saúde só possui informações consolidadas até 2018. Estadão:](https://bit.ly/3esAjDy)
+- [**É falso que pandemia reduziu tráfego aéreo somente no Brasil e África**. A hipótese enganosa foi espalhada também por Olavo de Carvalho, o guru do bolsonarismo. A informação, porém, está descontextualizada e serve para criticar a política de isolamento social. Aos Fatos:](https://bit.ly/3esioNF)
+- [**Não, Marcelo Bretas não postou texto dizendo que hidroxicloroquina só é criticada porque atrapalha a corrupção**. Juiz nega autoria do texto em que se lê que o “problema” do medicamento é que ele torna desnecessária a compra de respiradores superfaturados e construção de hospitais. Agência Lupa:](https://bit.ly/3clB3bN)
+- [**Facebook não tirou página de Sérgio Moro do ar pois ele nunca teve conta lá**. São falsas as alegações de censura. O ministro utiliza apenas o Twitter e o Instagram. Estadão:](https://bit.ly/2K4VX30)
+- [**Autor de vídeo com fake news sobre inverídico desabastecimento da Ceasa de BH diz que agiu sozinho e nega envolvimento com partidos políticos**. Gravação foi republicada em 1º de abril por Jair Bolsonaro, que apagou a publicação no Twitter e pediu desculpas.]()
+- [**Como as epidemias da história moldaram o design atual da casa**. Armários, azulejos e até o hábito de varrer o chão foram incorporados ao longo dos anos como medidas sanitárias. Casa.com.br:](https://bit.ly/3abhguq)
+- [**Por que você está sonhando tanto durante a quarentena**. O neurocientista Sidarta Ribeiro explica que sonhos refletem desejos e temores. "As pessoas têm mais tempo pra ficar em casa, portanto, têm mais tempo pra dormir e pra sonhar. A segunda, e talvez mais relevante, é porque tá todo mundo com medo de morrer". Vice Brasil:](https://bit.ly/3ekOBGm)
+
 **ABRIL 17**
 
 - Samsung Redesigned Its TV Boxes to be Easily Converted Into Cat Houses and Entertainment Centers
