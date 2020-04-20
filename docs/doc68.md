@@ -296,6 +296,7 @@ title: ABRIL
 - [**Anvisa proíbe venda de Annita, remédio secreto anunciado por Marcos Pontes, sem receita**. Vermífugo à base de nitazoxanida está sendo testado para o tratamento de Covid-19 e ainda não tem eficácia comprovada. Folha:](https://folha.com/0kr9pg5t)
 - [**Compre e venda no seu bairro com a plataforma Pertinho de Casa**. Iniciativa conecta pequenos negócios aos seus clientes, sem taxas, através da geolocalização. Conheça:](https://tinyurl.com/y9tax2fs)
 - [Covid-19: ataques hackers contra empresas disparam durante a pandemia](https://olhardigital.com.br/coronavirus/noticia/covid-19-ataques-hackers-contra-empresas-disparam-durante-a-pandemia/99634)
+- [Zoom vai abrir escritório no Brasil no segundo semestre](https://olhardigital.com.br/coronavirus/noticia/zoom-vai-abrir-escritorio-no-brasil-no-segundo-semestre/99599)
 
 **ABRIL 18**
 
