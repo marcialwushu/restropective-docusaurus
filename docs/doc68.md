@@ -295,6 +295,7 @@ title: ABRIL
 - [**Periferia lidera número de mortos por Covid-19 em SP**. Distrito de Brasilândia está à frente de estatística de óbitos.  Agora:](https://folha.com/1hp30oe4)
 - [**Anvisa proíbe venda de Annita, remédio secreto anunciado por Marcos Pontes, sem receita**. Vermífugo à base de nitazoxanida está sendo testado para o tratamento de Covid-19 e ainda não tem eficácia comprovada. Folha:](https://folha.com/0kr9pg5t)
 - [**Compre e venda no seu bairro com a plataforma Pertinho de Casa**. Iniciativa conecta pequenos negócios aos seus clientes, sem taxas, através da geolocalização. Conheça:](https://tinyurl.com/y9tax2fs)
+- [Covid-19: ataques hackers contra empresas disparam durante a pandemia](https://olhardigital.com.br/coronavirus/noticia/covid-19-ataques-hackers-contra-empresas-disparam-durante-a-pandemia/99634)
 
 **ABRIL 18**
 
