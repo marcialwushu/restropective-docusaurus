@@ -338,6 +338,7 @@ title: ABRIL
 **ABRIL 20**
 
 - [Uber anuncia entrega de encomendas e itens de farmácias e petshops](https://tecnologia.ig.com.br/olhar-digital/2020-04-20/uber-anuncia-entrega-de-encomendas-e-itens-de-farmacias-e-petshops.html)
+- [Google bloqueia mais de 18 mi de e-mails com golpes sobre a Covid-19 por dia](https://tecnologia.ig.com.br/olhar-digital/2020-04-20/google-bloqueia-mais-de-18-mi-de-e-mails-com-golpes-sobre-a-covid-19-por-dia.html)
 
 **ABRIL 21**
 
