@@ -3,7 +3,6 @@ id: doc78
 title: Wolfram Community Insider - Quarter 1, 2019
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#dbdbdb;width:100%!important" width="100%"><tbody><tr><td align="center" style="padding-bottom:45px;padding-left:15px;padding-right:15px;padding-top:30px">
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="min-width:716px" width="716"><tbody><tr><td align="center" valign="top">
 <table border="0" cellpadding="0" cellspacing="0" style="width:100%!important" width="100%"><tbody><tr><td style="padding-bottom:10px">
 <table align="left" border="0" cellpadding="0" cellspacing="0" width="69.9%"><tbody><tr><td align="left" style="color:#222222;font-family:Arial,Helvetica,sans-serif;font-size:10px;line-height:13px">&nbsp;</td>
@@ -100,12 +99,11 @@ Need help with a current challenge?</strong></td>
 <span style="white-space:nowrap"><a href="http://www.wolfram.com/legal/privacy/wolfram-research.html" style="color:#333333;outline:none;text-decoration:none" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=http://www.wolfram.com/legal/privacy/wolfram-research.html&amp;source=gmail&amp;ust=1587616045733000&amp;usg=AFQjCNHmJBKLyDDao2enbgSlN-0OPx3goA">Privacy Policy</a></span>
 </td>
 </tr><tr><td align="left" style="color:#777777;font-family:Arial,Helvetica,sans-serif;font-size:10px;line-height:13px;padding-bottom:11px">This message was sent
-<span>to <a href="mailto:cleilsonpereira@aluno.fgf.edu.br" target="_blank">cleilsonpereira@aluno.fgf.edu.<wbr>br</a>&gt;</span>
+
 by
 <span style="white-space:nowrap">Wolfram Research, Inc. •</span>
 <span style="white-space:nowrap">100 Trade Center Dr. •</span>
 <span style="white-space:nowrap">Champaign, IL 61820, USA</span>
 </td>
-</tr></tbody></table></td>
 </tr></tbody></table></td>
 </tr></tbody></table>
