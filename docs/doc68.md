@@ -337,6 +337,8 @@ title: ABRIL
 
 **ABRIL 20**
 
+- [Uber anuncia entrega de encomendas e itens de farmácias e petshops](https://tecnologia.ig.com.br/olhar-digital/2020-04-20/uber-anuncia-entrega-de-encomendas-e-itens-de-farmacias-e-petshops.html)
+
 **ABRIL 21**
 
 **ABRIL 22**
