@@ -272,6 +272,7 @@ title: ABRIL
 - [**Autor de vídeo com fake news sobre inverídico desabastecimento da Ceasa de BH diz que agiu sozinho e nega envolvimento com partidos políticos**. Gravação foi republicada em 1º de abril por Jair Bolsonaro, que apagou a publicação no Twitter e pediu desculpas.]()
 - [**Como as epidemias da história moldaram o design atual da casa**. Armários, azulejos e até o hábito de varrer o chão foram incorporados ao longo dos anos como medidas sanitárias. Casa.com.br:](https://bit.ly/3abhguq)
 - [**Por que você está sonhando tanto durante a quarentena**. O neurocientista Sidarta Ribeiro explica que sonhos refletem desejos e temores. "As pessoas têm mais tempo pra ficar em casa, portanto, têm mais tempo pra dormir e pra sonhar. A segunda, e talvez mais relevante, é porque tá todo mundo com medo de morrer". Vice Brasil:](https://bit.ly/3ekOBGm)
+- [**PHP 7.4.5 Released**. The PHP development team announces the immediate availability of PHP 7.4.5. This is a security release which also contains several bug fixes. All PHP 7.4 users are encouraged to upgrade to this version](https://www.php.net/archive/2020.php#2020-04-16-2)
 
 **ABRIL 17**
 
