@@ -420,6 +420,8 @@ title: ABRIL
 
 **ABRIL 30**
 
+- [**Peter Brandt likens Tether to 'Nigerian Trinkets'**. Tether is as safe as holding ‘the Nigerian Trinket, according to trading veteren Peter Brandt ](https://cointelegraph.com/news/peter-brandt-likens-tether-to-nigerian-trinkets)
+
 
 **ABRIL 31**
 
