@@ -200,4 +200,6 @@ title: JANEIRO 2020
 
 **JANEIRO 30**
 
+- [[**EVENTO**]**php[tek] 2020**. Due to COVID-19, php[tek]2020 has been cancelled. The organizers hope that everyone stays safe and well during this unprecedented time. There are pre-conference activities as well, including an optional workshop day on May 19, and three different full-day training classes on May 18 on Laravel, Symfony 5, and Kubernetes.](https://tek.phparch.com/?utm_source=phpnet&utm_medium=web&utm_campaign=phpnet)
+
 **JANEIRO 31**
