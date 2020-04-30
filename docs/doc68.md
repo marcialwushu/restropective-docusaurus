@@ -422,6 +422,7 @@ title: ABRIL
 
 - [**Peter Brandt likens Tether to 'Nigerian Trinkets'**. Tether is as safe as holding ‘the Nigerian Trinket, according to trading veteren Peter Brandt ](https://cointelegraph.com/news/peter-brandt-likens-tether-to-nigerian-trinkets)
 - [**Blockchain Platform Waves Launches New COVID-19 Betting Market**. Waves launched it's second tokenized COVID-19 predictive betting market letting users bet on whether the number of new cases has peaked ](https://cointelegraph.com/news/blockchain-platform-waves-launches-new-covid-19-betting-market)
+- [**BTC Tops $9,000, Recovery Leaves Stock Market in the Dust**. Bitcoin just hit $9,000, marking a staggering recovery of more than 130% from its March bottom ](https://cointelegraph.com/news/btcs-tops-9-000-recovery-leaves-stock-market-in-the-dust)
 
 
 
