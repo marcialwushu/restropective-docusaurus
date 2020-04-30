@@ -356,6 +356,15 @@ title: ABRIL
 
 **ABRIL 23**
 
+- First version of Apple and Google’s contact tracing API should be available to developers next week
+- Google will make all advertisers prove their identities, so people can see who they are and which country they’re in
+- Zoom grows to 300 million users despite security backlash
+- Apple’s new Magic Keyboard for the iPad Pro is covered under AppleCare Plus
+- Space Force Unveils Its First Weapon, a Satellite Jammer
+- Latest Windows 10 cumulative update is now reportedly deleting files
+- Apple Music Is Coming to Samsung TVs
+- Apple to release first ARM Mac in 2021 with 5nm 12-core Apple processor
+
 **ABRIL 24**
 
 **ABRIL 25**
