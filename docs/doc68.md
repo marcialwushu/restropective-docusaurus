@@ -367,6 +367,16 @@ title: ABRIL
 
 **ABRIL 24**
 
+- Microsoft Word now flags double spaces as errors, ending the great space debate
+- Telegram adding secure group video calls this year
+- China dominates global blockchain patent applications
+- Apple downplays iOS Mail app security flaw, says ‘no evidence’ of exploits
+- Google, Apple adjust coronavirus tracking app to get ahead of privacy concerns
+- After 160,000 accounts are compromised, Nintendo shuts down NNID logins
+- AuthorDigital launches Adept Games with $5.5 million from Super.com
+- Binance’s new Bundle app brings social crypto payments to Africa
+- Zoom shares rise on announcement it will join Nasdaq 100 on April 30
+
 **ABRIL 25**
 
 **ABRIL 26**
