@@ -345,6 +345,15 @@ title: ABRIL
 
 **ABRIL 22**
 
+- Israeli security company finds vulnerable flaw in iPhones, iPads
+- Flaw in iPhone, iPads may have allowed hackers to steal data for years
+- Xiaomi says sales of its new 5G Mi 10 phones have exceeded 1 million in mainland China
+- Google Meet launches improved Zoom-like tiled layout, low-light mode and more
+- Fortnite reluctantly comes to Google Play store
+- Musicians can now link out to their own fundraisers on their Spotify landing pages
+- Facebook takes $5.7B stake in India digital platforms
+- Zoom 5.0 update will bring much-needed security upgrades
+
 **ABRIL 23**
 
 **ABRIL 24**
