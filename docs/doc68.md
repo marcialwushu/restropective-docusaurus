@@ -368,6 +368,7 @@ title: ABRIL
 - Latest Windows 10 cumulative update is now reportedly deleting files
 - Apple Music Is Coming to Samsung TVs
 - Apple to release first ARM Mac in 2021 with 5nm 12-core Apple processor
+- [**TechRepublic offered a list of the top 13** security certifications for both industry newcomers and experienced cybersecurity professionals.](https://www.techrepublic.com/article/the-13-best-security-certifications-for-newcomers-and-experienced-professionals/)
 
 **ABRIL 24**
 
