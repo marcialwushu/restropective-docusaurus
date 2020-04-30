@@ -247,6 +247,7 @@ title: ABRIL
 - The OnePlus 8 5G is coming to Verizon for $799
 - Popular note-taking app GoodNotes launches universal version for iPhone, iPad, and Mac
 - AMD launches new series of Epyc processors for the enterprise
+- [**Dutch PHP Conference 2020 – Online Edition**. Due to the COVID-19 pandemic we have transformed Dutch PHP Conference 2020 to an online event. On June 26th we will offer a 1-day, single-track event free of charge for all attendees! So mark your calendar for Friday, June 26th and we hope to virtually meet you at the online edition of DPC!](https://www.phpconference.nl)
 
 **ABRIL 15**
 
