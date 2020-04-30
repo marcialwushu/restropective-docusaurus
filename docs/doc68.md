@@ -381,6 +381,7 @@ title: ABRIL
 - Binance’s new Bundle app brings social crypto payments to Africa
 - Zoom shares rise on announcement it will join Nasdaq 100 on April 30
 - [**National Defense reported**, “Faced with outdated information technology and the growing threat of network attacks, the Coast Guard is steaming ahead with a new plan aimed at revolutionizing its cybersecurity and data management capabilities.”](https://www.nationaldefensemagazine.org/articles/2020/4/24/coast-guard-pursuing-ambitious-tech-revolution)
+- [**After ZecOps published a report claiming that researchers discovered vulnerabilities** in Apple’s email software that allowed hackers to access iPads and iPhones for years, Apple responded to the report’s claims on Twitter.](https://threatpost.com/apple-pushes-back-against-zero-day-exploit-claims/155108/)
 
 **ABRIL 25**
 
