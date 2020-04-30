@@ -299,6 +299,7 @@ title: ABRIL
 - [**Compre e venda no seu bairro com a plataforma Pertinho de Casa**. Iniciativa conecta pequenos negócios aos seus clientes, sem taxas, através da geolocalização. Conheça:](https://tinyurl.com/y9tax2fs)
 - [Covid-19: ataques hackers contra empresas disparam durante a pandemia](https://olhardigital.com.br/coronavirus/noticia/covid-19-ataques-hackers-contra-empresas-disparam-durante-a-pandemia/99634)
 - [Zoom vai abrir escritório no Brasil no segundo semestre](https://olhardigital.com.br/coronavirus/noticia/zoom-vai-abrir-escritorio-no-brasil-no-segundo-semestre/99599)
+- [**PHP 7.2.30 Release Announcement**. The PHP development team announces the immediate availability of PHP 7.2.30. This is a security release. All PHP 7.2 users are encouraged to upgrade to this version.](https://www.php.net/archive/2020.php#2020-04-17-1)
 
 **ABRIL 18**
 
