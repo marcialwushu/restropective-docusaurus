@@ -369,6 +369,7 @@ title: ABRIL
 - Apple Music Is Coming to Samsung TVs
 - Apple to release first ARM Mac in 2021 with 5nm 12-core Apple processor
 - [**TechRepublic offered a list of the top 13** security certifications for both industry newcomers and experienced cybersecurity professionals.](https://www.techrepublic.com/article/the-13-best-security-certifications-for-newcomers-and-experienced-professionals/)
+- [**Krebs on Security shared some sound advice** for those who think they might be the target of a phone-based phishing scam: “When in Doubt: Hang Up, Look Up & Call Back.”](https://krebsonsecurity.com/2020/04/when-in-doubt-hang-up-look-up-call-back/)
 
 **ABRIL 24**
 
