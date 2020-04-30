@@ -380,6 +380,7 @@ title: ABRIL
 - AuthorDigital launches Adept Games with $5.5 million from Super.com
 - Binance’s new Bundle app brings social crypto payments to Africa
 - Zoom shares rise on announcement it will join Nasdaq 100 on April 30
+- [**National Defense reported**, “Faced with outdated information technology and the growing threat of network attacks, the Coast Guard is steaming ahead with a new plan aimed at revolutionizing its cybersecurity and data management capabilities.”](https://www.nationaldefensemagazine.org/articles/2020/4/24/coast-guard-pursuing-ambitious-tech-revolution)
 
 **ABRIL 25**
 
