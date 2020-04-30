@@ -379,6 +379,12 @@ title: ABRIL
 
 **ABRIL 25**
 
+- Mylab collaborates with Kiran Mazumdar Shaw’s Syngene International
+- Apple to Sell Redesigned Macbook With Its Own Chips Beginning 2021
+- Halide Camera adds full iPhone SE support, including Portrait mode for all objects
+- 33× More 2019 Audi A3 & A4 Than Tesla Model 3 On Used Car Market Per Car Sold
+- Apple reportedly cuts 5G iPhone orders on fears of global recession
+
 **ABRIL 26**
 
 **ABRIL 27**
