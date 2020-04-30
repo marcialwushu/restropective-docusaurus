@@ -143,6 +143,7 @@ title: JANEIRO 2020
 **JANEIRO 17**
 
 - [[**EVENTO**]: DigiHealthSouth 2020 : DigiHealthSouth 2020 - EAI International Conference on Digital Healthcare Technologies for the Global South](http://digihealthsouth.org/)
+- [[**EVENTO**] **SunshinePHP 2020**. In February 2020 come to Miami, Florida and escape the cold to learn more about PHP and speak with other developers, like you, to see what others are doing. The SunshinePHP 2020 speaker list has been announced, and we've assembled a great line-up with the most current PHP related topics for you. Come celebrate our 8th year from February 6th to 8th, 2020 in sunny Miami, Florida. There will be a full tutorial day featuring 3-hour sessions followed by 2 days of 1-hour talks and inspirational keynotes.](https://sunshinephp.com/)
 
 **JANEIRO 18**
 
