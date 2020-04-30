@@ -389,6 +389,17 @@ title: ABRIL
 
 **ABRIL 27**
 
+- WhatsApp says its forwarding limits have cut the spread of viral messages by 70 percent
+- Microsoft Teams fixes funny Gifs cyber-attack flaw
+- NHS rejects Apple-Google coronavirus app plan
+- Navy Officially Releases Controversial UFO Videos
+- Germany ditches centralized approach to app for COVID-19 contacts tracing
+- VW admits Tesla’s lead in software and self-driving in internal leak
+- Google’s redesigned Pixel Buds are now available for $179
+- Microsoft is now pushing Edge in Windows Search
+- WhatsApp set to roll out Facebook Messenger Rooms integration
+- Microsoft wins five-year deal with Coca-Cola to supply business software
+
 **ABRIL 28**
 
 **ABRIL 29**
