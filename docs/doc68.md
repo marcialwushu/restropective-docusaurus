@@ -402,6 +402,20 @@ title: ABRIL
 
 **ABRIL 28**
 
+- Nokia bags Rs 7,500 cr deal from Airtel to deploy 5G network across 9 service areas in India
+- Bounce launches ScooterHero to help
+- WhatsApp ups limit on video calls to eight people
+- Tesla is working on pay-as-you-go subscription to its self-driving package
+- Microsoft says Surface devices don’t have Thunderbolt due to security concerns
+- Twitter is winding down its SMS-based system for delivering tweets
+- Google Stadia gets PUBG, with Star Wars, Madden, and FIFA arriving later this year
+- PhantomLance spying campaign breaches Google Play security
+- Google Releases Its Second-Gen Pixel Buds
+- Shopify launches Shop, a new mobile app
+- Xbox’s ‘Project xCloud’ starts rolling out to testers in Western Europe
+- China now has over 900 million internet users thanks to the pandemic
+
+
 **ABRIL 29**
 
 **ABRIL 30**
