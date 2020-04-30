@@ -424,6 +424,8 @@ title: ABRIL
 
 **ABRIL 29**
 
+- [[**EVENTO**] **The PHP Online Conference**. We – Sebastian Bergmann, Arne Blankerts, and Stefan Priebsch – are taking our conference contributions that were scheduled for the spring conference season online. Without further ado, we announce "The Online PHP Conference" that will take place on Tuesday, May 26 2020, and Wednesday, May 27, 2020 with a pre-conference workshop on Monday, May 25 2020. Grab your favourite browser and come along as we invite you into our homes.](https://thephp.cc/training/the-online-php-conference)
+
 **ABRIL 30**
 
 - [**Peter Brandt likens Tether to 'Nigerian Trinkets'**. Tether is as safe as holding ‘the Nigerian Trinket, according to trading veteren Peter Brandt ](https://cointelegraph.com/news/peter-brandt-likens-tether-to-nigerian-trinkets)
