@@ -19,6 +19,16 @@ title: MAIO
 
 **MAIO 04**
 
+- Amazon VP quits over whistleblower firings in scathing blog post
+- Facebook-backed Jio leaked trove of coronavirus app data because it didn’t have a password
+- Apple and Google provide sample code and concepts for COVID-19 exposure notification apps
+- PewDiePie signs exclusive live-streaming deal with YouTube
+- One UI 2.1 update for Galaxy Note 9 scheduled to arrive in June
+- Microsoft officially acknowledges Windows 10X is coming first to single-screen devices
+- Google Meet starts rolling out in Gmail, continuing Google’s quest to unseat Zoom
+- Google Drive adds Face ID and Touch ID protection on iPhone and iPad
+- Tesla Gigafactory Shanghai is about to double in size as it commits to Model Y
+
 **MAIO 05**
 
 **MAIO 06**
