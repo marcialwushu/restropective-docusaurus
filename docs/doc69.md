@@ -7,6 +7,14 @@ title: MAIO
 
 **MAIO 02**
 
+- Disney to donate $1 million from sales of its character-themed face masks to charity
+- COVID-19 could convince Apple to put pulse oximeter in Apple Watch
+- Hacker leaks 15 million records from Tokopedia, Indonesia's largest online store
+- Spotify Faces Litigation for Allegedly Stealing Trade Secrets
+- Gojek acquires point-of-sale start-up Moka
+- Google Meet, Microsoft Teams, and WebEx are collecting more customer data than they appear to be
+- Raspberry Pi launches camera with interchangeable lens system for $50
+
 **MAIO 03**
 
 **MAIO 04**
