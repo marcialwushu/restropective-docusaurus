@@ -55,6 +55,14 @@ title: MAIO
 
 **MAIO 13**
 
+- US accuses China of trying to hack coronavirus vaccine research
+- Google tests iMessage-like emoji reactions for RCS Messages
+- Parsec closes $7 million funding round
+- Slack updates iOS and Android apps with new navigation features
+- Tesla Model 3 owner locks carjacking suspect inside with app
+- The UK accidentally left secret plans for its COVID-19 contact-tracing app on an open Google Drive
+- CyberArk snaps up identity startup Idaptive for $70M
+
 **MAIO 14**
 
 - [**IPPS and LTCH PPS: FY 2021 Proposed Rule**: On May 11, the Trump Administration proposed changes for acute care and long term care hospitals that build on the progress made over the last three years and further the agency’s priority to transform the health care delivery system through competition and innovation while providing patients with better value and results. The proposed rule would update Medicare payment policies for hospitals paid under the Inpatient Prospective Payment System (IPPS) and the Long-Term Care Hospital (LTCH) Prospective Payment System (PPS) for FY 2021](https://www.federalregister.gov/documents/2020/05/29/2020-10122/medicare-programs-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the)
