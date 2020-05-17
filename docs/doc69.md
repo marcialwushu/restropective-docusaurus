@@ -78,6 +78,14 @@ title: MAIO
 
 **MAIO 15**
 
+- Facebook is buying Giphy and integrating it with Instagram
+- OnePlus’ 8 Pro has an accidental X-ray vision filter that sees through plastic and clothes
+- Apple’s Chipmaker TSMC Announces Plan to Build Arizona Factory
+- Facebook to build a subsea cable to improve connectivity in Africa
+- Club Penguin Online shuts down after receiving copyright claim from Disney
+- Apple Glasses Could Be Unveiled in Mid 2021 and Made Available to Order in 2022
+- Netflix restoring streaming quality in Europe after Apple TV+ did the same
+
 **MAIO 16**
 
 **MAIO 17**
