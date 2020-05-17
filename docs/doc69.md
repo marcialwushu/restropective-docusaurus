@@ -66,6 +66,15 @@ title: MAIO
 **MAIO 14**
 
 - [**IPPS and LTCH PPS: FY 2021 Proposed Rule**: On May 11, the Trump Administration proposed changes for acute care and long term care hospitals that build on the progress made over the last three years and further the agency’s priority to transform the health care delivery system through competition and innovation while providing patients with better value and results. The proposed rule would update Medicare payment policies for hospitals paid under the Inpatient Prospective Payment System (IPPS) and the Long-Term Care Hospital (LTCH) Prospective Payment System (PPS) for FY 2021](https://www.federalregister.gov/documents/2020/05/29/2020-10122/medicare-programs-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the)
+- Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance
+- Matty Healy Goes Undercover on Reddit, YouTube and Twitter
+- Mophie unveils new Powerstation XL with USB-C and Lightning, Qi charging, more
+- Facebook is building a huge undersea cable around Africa to boost internet access in the continent
+- Apple Releases Safari Technology Preview 106 With Bug Fixes and Performance Improvements
+- Google will soon block battery-draining ads from loading in Chrome
+- Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G
+- Nintendo Releases Free 'Animal Crossing' Wallpapers for Video Calls
+- Headspace is now free for people who are unemployed in the US
 
 **MAIO 15**
 
