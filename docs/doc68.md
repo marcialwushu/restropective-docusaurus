@@ -435,6 +435,16 @@ title: ABRIL
 - [**Peter Brandt likens Tether to 'Nigerian Trinkets'**. Tether is as safe as holding ‘the Nigerian Trinket, according to trading veteren Peter Brandt ](https://cointelegraph.com/news/peter-brandt-likens-tether-to-nigerian-trinkets)
 - [**Blockchain Platform Waves Launches New COVID-19 Betting Market**. Waves launched it's second tokenized COVID-19 predictive betting market letting users bet on whether the number of new cases has peaked ](https://cointelegraph.com/news/blockchain-platform-waves-launches-new-covid-19-betting-market)
 - [**BTC Tops $9,000, Recovery Leaves Stock Market in the Dust**. Bitcoin just hit $9,000, marking a staggering recovery of more than 130% from its March bottom ](https://cointelegraph.com/news/btcs-tops-9-000-recovery-leaves-stock-market-in-the-dust)
+- Xiaomi Mi Note 10 Lite debuts globally alongside Redmi Note 9, Note 9 Pro
+- Microsoft’s big Xbox Game Pass bet is starting to pay off
+- Quibi’s email verification process reportedly sent data to multiple ad firms
+- iPhone 12 Lineup With OLED Displays Predicted to Start at $649, Breaking the $999 Barrier
+- WhatsApp Officially Launches New, 8-Person Group Video Chat Option
+- Microsoft to demo Xbox Series X games on May 7th
+- Zoom admits it doesn’t have 300 million users, corrects misleading claims
+- fostla.de Details and Refines Brabus' 700 WIDESTAR G-Wagon
+- Google Cloud opens its Las Vegas region
+- Intel's 'Comet Lake-S' Desktop CPUs Offer Up to 10 Cores of Computing Muscle
 
 
 
