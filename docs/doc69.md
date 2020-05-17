@@ -37,6 +37,14 @@ title: MAIO
 
 **MAIO 08**
 
+- BMW launches 8 Series Gran Coupe, M8 Coupe in India
+- Apple’s Plan to Introduce New AirPods Later This Year Reportedly Delayed
+- Chinese tech giant Tencent reportedly surveilled foreign users of WeChat to help censorship at home
+- Microsoft to add new cloud regions in Italy, New Zealand and Poland
+- Microsoft updates its emulator for its dual-screen Surface Duo device
+- Microsoft to Add Trackpad Support to Word, Excel, and PowerPoint Apps on iPad
+- Sun-Times to launch free ‘La Voz Chicago’ Spanish-language news website
+
 **MAIO 09**
 
 **MAIO 10**
