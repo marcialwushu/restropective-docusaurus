@@ -106,6 +106,12 @@ title: MAIO
 
 **MAIO 25**
 
+- [**Japan suspects HGV missile data leak in Mitsubishi security breach**. Japan continues to investigate a cyberattack that hit this year Mitsubishi Electric Corp., it suspects a possible leak of data including details of a prototype missile. Japan is still investigating a cyberattack that was disclosed by Mitsubishi Electric Corp. early this year. In January, the company disclosed a security breach that might have exposed personal and confidential corporate data](https://securityaffairs.co/wordpress/103547/data-breach/mitsubishi-data-breach.html)
+- [**Cyber-Criminal espionage Operation insists on Italian Manufacturing**. ZLab researchers spotted a new malicious espionage activity targeting Italian companies operating worldwide in the manufacturing sector. securityaffairs.co](https://securityaffairs.co/wordpress/103639/hacking/cyber-espionage-italian-manufacturing.html)
+- [**Asnarök attackers twice modified attack midstream**. LCID values taken from the Ragnarok JSON configuration file Protection available. Sophos XG firewall administrators with questions should refer to the guidance from the Knowledge Base entry on this topic.. The EternalBlue exploit, as implemented by the attackers in this attack, cannot infect computers running Windows 8.1 or Windows 10.](https://news.sophos.com/en-us/2020/05/21/asnarok2/)
+- [**Microsoft warns of “massive campaign” using COVID-19 themed emails**. Experts from the Microsoft Security Intelligence team provided some details on a new “massive campaign” using COVID-19 themed emails. Researchers from the Microsoft Security Intelligence team provided some details on a new massive phishing campaign using COVID-19 themed emails. The messages used weaponized Excel documents](https://securityaffairs.co/wordpress/103626/cyber-crime/massive-phishing-covid-19-campaign.html)
+
+
 **MAIO 26**
 
 **MAIO 27**
