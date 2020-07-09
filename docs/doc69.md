@@ -101,6 +101,16 @@ title: MAIO
 
 **MAIO 20**
 
+- Sphero, makers of Disney’s BB-8 toy, spins off new robotics startup for police and military clients
+- AT&T Might Finally Ditch ‘5GE’ Marketing Following National Advertising Board Recommendation
+- Hulu’s biggest redesign in years offers a more standardized experience, improved navigation and discovery
+- Apple whistleblower goes public over 'lack of action'
+- Verizon Turns on 5G Uploads in 34 Cities
+- Amazon, IBM, other tech giants urge US military to embrace blockchain
+- Microsoft adds new Learn TV video channel for daily technical content
+- TikTok-owner ByteDance said to surpass US$100 billion in private market value
+
+
 **MAIO 21**
 
 **MAIO 22**
