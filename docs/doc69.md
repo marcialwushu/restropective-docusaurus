@@ -88,6 +88,11 @@ title: MAIO
 
 **MAIO 16**
 
+- Edison Mail vulnerability allowing unauthorized access to email accounts of other users
+- TED Is Inviting Recent Graduates to Upload Their Own TED Talks
+- Apple’s AirPods Pro Drop to New Low Price of $219 at Verizon ($30 Off)
+- Facebook’s Giphy acquisition might have big implications for iMessage and Twitter
+
 **MAIO 17**
 
 **MAIO 18**
