@@ -165,6 +165,14 @@ title: MAIO
 
 **MAIO 29**
 
+- Apple Maintains Supremacy in Wearables Market With 21.2 Million Units Shipped in Q1 2020
+- Sony announces PS5 event for June 4th
+- Audi announces upcoming new ‘highly efficient electric car’
+- Ford kills COVID-19 with ingenious car heater hack
+- Google Chrome is getting a new feature that blocks misleading and intrusive website notifications
+- Facebook to Verify the ID of Suspiciously Popular Accounts
+- China’s Xpeng ‘copies’ Tesla’s website after allegedly ‘stealing’ Autopilot source code
+
 **MAIO 30**
 
 - [[**EVENTO**]: CAIML 2020 : International Conference on Artificial Intelligence and Machine Learning](https://itcse2020.org/caiml/index.html)
