@@ -115,6 +115,13 @@ title: MAIO
 
 **MAIO 22**
 
+- Microsoft Solitaire turns 30 years old today and still has 35 million monthly players
+- iOS 13 App Store bug temporarily preventing apps like YouTube from launching for some
+- Apple’s ‘Bounce’ AirPods Ad Wins ‘Best of Advertising’ Award
+- Paul Walker's BMW M3 E30 Sells for $150,000 USD
+- Mustang Mach-E delayed for Europe but still set for late 2020 in US
+- Researchers claim new internet speed record of 44.2 Tbps
+
 **MAIO 23**
 
 **MAIO 24**
