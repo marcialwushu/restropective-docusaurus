@@ -176,6 +176,15 @@ title: MAIO
 **MAIO 30**
 
 - [[**EVENTO**]: CAIML 2020 : International Conference on Artificial Intelligence and Machine Learning](https://itcse2020.org/caiml/index.html)
+- Microsoft 'to replace journalists with robots'
+- Google postpones Android 11 event, beta release from June 3
+- Galaxy Note 20 battery might be almost as big as Galaxy Note 20+
+- Facebook CEO Mark Zuckerberg defends handling of Trump posts on protests
+- Zoom paid accounts reportedly will get strong encryption for calls
+- Facebook declines to take action against Trump statements
+- SpaceX’s Starship SN4 launch vehicle prototype explodes after static engine fire test
+- Twitter Rolls Out Native Scheduling Within the Tweet Composer Window on Desktop
+- Govt will pay you up to Rs 4 lakh for your suggestions to improve Aarogya Setu app
 
 **MAIO 31**
 
