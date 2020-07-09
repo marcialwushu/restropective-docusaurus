@@ -132,6 +132,18 @@ title: MAIO
 - [**Cyber-Criminal espionage Operation insists on Italian Manufacturing**. ZLab researchers spotted a new malicious espionage activity targeting Italian companies operating worldwide in the manufacturing sector. securityaffairs.co](https://securityaffairs.co/wordpress/103639/hacking/cyber-espionage-italian-manufacturing.html)
 - [**Asnarök attackers twice modified attack midstream**. LCID values taken from the Ragnarok JSON configuration file Protection available. Sophos XG firewall administrators with questions should refer to the guidance from the Knowledge Base entry on this topic.. The EternalBlue exploit, as implemented by the attackers in this attack, cannot infect computers running Windows 8.1 or Windows 10.](https://news.sophos.com/en-us/2020/05/21/asnarok2/)
 - [**Microsoft warns of “massive campaign” using COVID-19 themed emails**. Experts from the Microsoft Security Intelligence team provided some details on a new “massive campaign” using COVID-19 themed emails. Researchers from the Microsoft Security Intelligence team provided some details on a new massive phishing campaign using COVID-19 themed emails. The messages used weaponized Excel documents](https://securityaffairs.co/wordpress/103626/cyber-crime/massive-phishing-covid-19-campaign.html)
+- Food delivery giant Meituan Dianping posts quarterly revenue decline amid Covid-19 disruptions
+- Germany, Switzerland, Latvia, and Estonia said to have adopted Apple/Google API
+- Future AirPods to Include ‘Ambient Light Sensors’ Possibly Related to Rumored Health Features
+- Work collaboration unicorn Notion is blocked in China
+- Supreme Teases Collaborative Mac Tools Workstation Release
+- Tesla files to sell new Model 3 with cheaper lithium iron phosphate batteries
+- App Store releasing repeat app updates, likely to fix bug that prevented apps from launching
+- SpaceX Crew Dragon will carry its first astronauts on Wednesday
+- You can now add nostalgic app icons to your iPhone
+- TikTok's In-App Revenue Skyrockets During Lockdowns
+- Galaxy Note 20+ leak reveals a larger camera bump than the S20+
+- Realme announces its first smartwatch and TVs
 
 
 **MAIO 26**
