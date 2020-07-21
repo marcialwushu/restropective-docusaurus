@@ -47,7 +47,7 @@ title: JULHO
 **JULHO 20**
 
 - [**Iran-linked APT35 accidentally exposed 40 GB associated with their operations** - Researchers at IBM X-Force Incident Response Intelligence Services (IRIS) discovered an unsecured server belonging to Iran-linked APT35 group (aka ITG18, Charming Kitten, Phosphorous, and NewsBeef) containing data for many domains managed by […]](https://securityaffairs.co/wordpress/106032/apt/apt35-data-leak.html)
-- [**The Secret Service Tried to Catch a Hacker With a Malware Booby-Trap** - ](The attempt failed, but so-called "network investigative techniques" are not limited to the FBI, according to newly unsealed court records.)
+- [**The Secret Service Tried to Catch a Hacker With a Malware Booby-Trap** - The attempt failed, but so-called "network investigative techniques" are not limited to the FBI, according to newly unsealed court records. ](https://www.vice.com/en_us/article/wxqz54/secret-service-network-investigative-technique-ransomware)
 
 
 **JULHO 21**
