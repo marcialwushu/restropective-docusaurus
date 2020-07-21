@@ -11,10 +11,10 @@ title: JUNHO
 
 - [[**EVENTO**]Industrial Control Systems (ICS) Cyber Security Conference | Singapore](https://www.icscybersecurityconference.com/)
 
-**JUNHO 16**
+**JUNHO 17**
 
 - [[**EVENTO**]Industrial Control Systems (ICS) Cyber Security Conference | Singapore](https://www.icscybersecurityconference.com/)
 
-**JUNHO 16**
+**JUNHO 18**
 
 - [[**EVENTO**]Industrial Control Systems (ICS) Cyber Security Conference | Singapore](https://www.icscybersecurityconference.com/)
