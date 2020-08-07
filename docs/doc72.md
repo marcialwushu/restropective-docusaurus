@@ -13,6 +13,8 @@ title: AGOSTO
 
 **AGOSTO 05**
 
+- [**PicPay expande e abre 100 vagas para Tecnologia** O PicPay, aplicativo de pagamentos do Brasil, está com processo de seleção aberto. A companhia pretende contratar cerca de 100 profissionais das áreas de Tecnologia e Operação de Crédito e Cartão, para atuação remota ou presencial, nas cidades de São Paulo e Vitória. As inscrições estão abertas e vão até 31 de agosto.](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=54443&sid=46#.XyzlS4hKjIW)
+
 **AGOSTO 06**
 
 - [**LGPD tem vigência imediata com reviravolta da MP 959** Para o relator, Damião Feliciano (PDT/PB), Lei Geral de Proteção de Dados “tornou-se uma necessidade premente”. Se a MP não for votada no Congresso, LGPD entra em vigor a partir do dia 14.](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=54448&sid=4)
