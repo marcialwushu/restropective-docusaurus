@@ -29,7 +29,7 @@ title: AGOSTO
 - [**Entidades vão à Justiça contra Decreto que muda telefonia e permite renovação de frequências** Sete organizações, como Intervozes, Idec e Clube de Engenharia, pedem a anulação dos critérios sobre bens reversíveis e a prorrogação das autorizações de uso de radiofrequência](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=54451&sid=8)
 - [**MP 983: novo texto transforma certificado digital em carimbo de cartório** O Convergência Digital  teve acesso ao texto do Relator Lucas Vergilio, de Goiás, que alterou a proposta para exigir certificado digital em qualquer transação público-privada e mesmo para atos corriqueiros, como vender um carro ou um imóvel. Mas texto embute uma reviravolta ao dar poder máximo aos cartórios.](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=54435&sid=9)
 - [**Huawei usa robôs em centro de distribuição no Brasil com uso do 5G industrial** Centro de Distribuição de Sorocaba-SP foi 100% digitalizado e ganhou maior capacidade de transferência de dados e a menor latência da nova geração tecnológica. Fabricante diz que houve um ganho de eficiência de 30%. ](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=54449&sid=17)
-
+- [**Instituto tem mais de 10 mil bolsas em bootcamps para formar profissionais de TI em dois meses** IGTI tem 500 vagas em cada um dos 22 cursos ligados a diversas áreas de tecnologia, entre elas a de desenvolvedor full stack, cientista de dados e analista de marketing digital.](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=54459&sid=46)
 
 **AGOSTO 07**
 
