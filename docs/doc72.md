@@ -37,6 +37,7 @@ title: AGOSTO
 - [Computer Network Infrastructure Vulnerable to Windows 7 End of Life Status, Increasing Potential for Cyber Attacks](http://www.documentcloud.org/documents/7013778-FBI-PIN-alert-on-Windows-7-End-of-Life.html)
 - [Windows 7 support ended on January 14, 2020](https://support.microsoft.com/en-us/help/4057281/windows-7-support-ended-on-january-14-2020)
 - [NSA Warns Smartphones Leak Location Data](https://threatpost.com/nsa-warns-smartphones-leak-location-data/158040/)
+- [Beware of find-my-phone, Wi-Fi, and Bluetooth, NSA tells mobile users](https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/)
 
 **AGOSTO 08**
 
