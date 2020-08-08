@@ -39,6 +39,7 @@ title: AGOSTO
 - [NSA Warns Smartphones Leak Location Data](https://threatpost.com/nsa-warns-smartphones-leak-location-data/158040/)
 - [Beware of find-my-phone, Wi-Fi, and Bluetooth, NSA tells mobile users](https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/)
 - [NSA warns that mobile device location services constantly compromise snoops and soldiers](https://www.theregister.com/2020/08/05/nsa_location_data_guide/)
+- [Here's the NSA's advice for reducing the exposure of cellphone location data](https://www.cyberscoop.com/nsa-cellphone-location-data-guidance/)
 
 **AGOSTO 08**
 
