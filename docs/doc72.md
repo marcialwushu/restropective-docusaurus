@@ -41,6 +41,7 @@ title: AGOSTO
 - [NSA warns that mobile device location services constantly compromise snoops and soldiers](https://www.theregister.com/2020/08/05/nsa_location_data_guide/)
 - [Here's the NSA's advice for reducing the exposure of cellphone location data](https://www.cyberscoop.com/nsa-cellphone-location-data-guidance/)
 - [Limiting Location Data Exposure (PDF)](https://media.defense.gov/2020/Aug/04/2002469874/-1/-1/0/CSI_LIMITING_LOCATION_DATA_EXPOSURE_FINAL.PDF)
+- [Canon confirms ransomware attack in internal memo](https://www.bleepingcomputer.com/news/security/canon-confirms-ransomware-attack-in-internal-memo/)
 
 **AGOSTO 08**
 
