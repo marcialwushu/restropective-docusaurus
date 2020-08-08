@@ -47,6 +47,7 @@ title: AGOSTO
 - [Canon Admits Ransomware Attack in Employee Note, Report](https://threatpost.com/canon-ransomware-attack-employee-note/158157/)
 - [Cyberattack causes Lafayette computer outage; officials pay $45,000 ransom](https://www.dailycamera.com/2020/08/04/cyberattack-causes-lafayette-computer-outage-officials-pay-45000-ransom/)
 - [Colorado City Pays $45,000 Ransom After Cyber-Attack](https://www.securityweek.com/colorado-city-pays-45000-ransom-after-cyber-attack)
+- [Cyberattack causes City computer outage](https://cityoflafayette.com/civicalerts.aspx?AID=5729)
 
 **AGOSTO 08**
 
