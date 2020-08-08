@@ -45,6 +45,7 @@ title: AGOSTO
 - [Canon not firing on all cylinders: Fledgling cloud loses people's pics'n'vids, then 'Maze ransomware' hits](https://www.theregister.com/2020/08/06/canon_cloud_down/)
 - [Suspicious Canon outage leads to image.canon data loss](https://www.bleepingcomputer.com/news/technology/suspicious-canon-outage-leads-to-imagecanon-data-loss/)
 - [Canon Admits Ransomware Attack in Employee Note, Report](https://threatpost.com/canon-ransomware-attack-employee-note/158157/)
+- [Cyberattack causes Lafayette computer outage; officials pay $45,000 ransom](https://www.dailycamera.com/2020/08/04/cyberattack-causes-lafayette-computer-outage-officials-pay-45000-ransom/)
 
 **AGOSTO 08**
 
