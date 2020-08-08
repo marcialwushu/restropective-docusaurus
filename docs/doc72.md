@@ -33,6 +33,8 @@ title: AGOSTO
 
 **AGOSTO 07**
 
+- [FBI issues warning over Windows 7 end-of-life](https://www.zdnet.com/article/fbi-issues-warning-over-windows-7-end-of-life/)
+
 **AGOSTO 08**
 
 **AGOSTO 09**
