@@ -42,6 +42,7 @@ title: AGOSTO
 - [Here's the NSA's advice for reducing the exposure of cellphone location data](https://www.cyberscoop.com/nsa-cellphone-location-data-guidance/)
 - [Limiting Location Data Exposure (PDF)](https://media.defense.gov/2020/Aug/04/2002469874/-1/-1/0/CSI_LIMITING_LOCATION_DATA_EXPOSURE_FINAL.PDF)
 - [Canon confirms ransomware attack in internal memo](https://www.bleepingcomputer.com/news/security/canon-confirms-ransomware-attack-in-internal-memo/)
+- [Canon not firing on all cylinders: Fledgling cloud loses people's pics'n'vids, then 'Maze ransomware' hits](https://www.theregister.com/2020/08/06/canon_cloud_down/)
 
 **AGOSTO 08**
 
