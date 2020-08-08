@@ -36,6 +36,7 @@ title: AGOSTO
 - [FBI issues warning over Windows 7 end-of-life](https://www.zdnet.com/article/fbi-issues-warning-over-windows-7-end-of-life/)
 - [Computer Network Infrastructure Vulnerable to Windows 7 End of Life Status, Increasing Potential for Cyber Attacks](http://www.documentcloud.org/documents/7013778-FBI-PIN-alert-on-Windows-7-End-of-Life.html)
 - [Windows 7 support ended on January 14, 2020](https://support.microsoft.com/en-us/help/4057281/windows-7-support-ended-on-january-14-2020)
+- [NSA Warns Smartphones Leak Location Data](https://threatpost.com/nsa-warns-smartphones-leak-location-data/158040/)
 
 **AGOSTO 08**
 
