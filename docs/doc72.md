@@ -9,6 +9,14 @@ title: AGOSTO
 
 **AGOSTO 03**
 
+- A Japanese robotics startup has invented a smart mask that translates into eight languages
+- Google announces Pixel 4a w/ hole-punch screen, 128GB storage, & new Assistant at $349
+- William English, Co-Creator of the Computer Mouse, Dies at 91
+- New Microsoft Store coming to Xbox Insiders on August 5
+- Apple Card now offers 3% Daily Cash at Panera Bread for in-store and online orders
+- Snapchat to take on TikTok with a new music-powered featuring rolling out this fall
+- Google Pay will support mobile checking accounts starting next year
+
 **AGOSTO 04**
 
 **AGOSTO 05**
