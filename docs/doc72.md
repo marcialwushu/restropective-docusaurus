@@ -51,6 +51,13 @@ title: AGOSTO
 
 **AGOSTO 08**
 
+- The Air Force just awarded a contract to develop a hypersonic Air Force One
+- Bill Gates calls Microsoft’s TikTok deal a poisoned chalice
+- Facebook Launches New $25 Million Program to Support Black Creators
+- The Mate 40 will be the last Huawei phone with a Kirin processor
+- WarnerMedia undergoes major reorganization as HBO Max gets higher priority
+- Zoom gets fun new filters, plus lighting, smoothing and audio tweaks
+
 **AGOSTO 09**
 
 **AGOSTO 10**
