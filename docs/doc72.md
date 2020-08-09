@@ -63,6 +63,7 @@ title: AGOSTO
 - [Cyberattack causes Lafayette computer outage; officials pay $45,000 ransom](https://www.dailycamera.com/2020/08/04/cyberattack-causes-lafayette-computer-outage-officials-pay-45000-ransom/)
 - [Colorado City Pays $45,000 Ransom After Cyber-Attack](https://www.securityweek.com/colorado-city-pays-45000-ransom-after-cyber-attack)
 - [Cyberattack causes City computer outage](https://cityoflafayette.com/civicalerts.aspx?AID=5729)
+- [Deus do Cibercrime: a ascensão e a queda do maior defacer do Brasil](https://canaltech.com.br/hacker/deus-do-cibercrime-a-ascensao-e-a-queda-de-vandathegod-o-maior-defacer-do-brasil-169529/)
 
 **AGOSTO 08**
 
