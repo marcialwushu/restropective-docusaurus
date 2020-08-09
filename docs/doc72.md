@@ -14,6 +14,13 @@ title: AGOSTO
 **AGOSTO 05**
 
 - [**PicPay expande e abre 100 vagas para Tecnologia** O PicPay, aplicativo de pagamentos do Brasil, está com processo de seleção aberto. A companhia pretende contratar cerca de 100 profissionais das áreas de Tecnologia e Operação de Crédito e Cartão, para atuação remota ou presencial, nas cidades de São Paulo e Vitória. As inscrições estão abertas e vão até 31 de agosto.](https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=54443&sid=46#.XyzlS4hKjIW)
+- Samsung appears to confirm three Android updates for the Note 20 series
+- Japanese engineers have created a smart mask that can speak 8 languages
+- Facebook’s Instagram Launches TikTok Copycat in Political Storm
+- Apple Releases New Version of 30W USB-C Power Adapter, But Changes Unclear
+- Samsung Galaxy Watch 3 heart monitoring feature secures FDA clearance
+- Microsoft’s xCloud Unavailable on iOS at Launch, Future Uncertain
+- Ninja returns to Twitch for first time since Mixer shut down
 
 **AGOSTO 06**
 
