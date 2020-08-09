@@ -78,6 +78,7 @@ title: AGOSTO
 
 - [**Analistas esperam que o Chainlink (LINK) caia para US $ 14 após um spread de 50%** - 
 Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 14 pela primeira vez. No momento em que este artigo foi escrito, o ativo estava sendo negociado a $ 14,40, o que significa que subiu quase 20% nas últimas 24 horas. Este ativo teve um desempenho melhor do que outras moedas porque Bitcoin, Ethereum e outros ativos de criptomoeda principais permaneceram estagnados nas máximas locais. Alguns analistas disseram que LINK está pronto para sair daqui ](https://ar.0xzx.com/20200810103761.html)
+- [**Ripple News Today - Apoiadores de Bitcoin e Ethereum atacam o exército XRP em guerra de criptomoedas no Twitter - 7 de agosto de 2020** - O exército XRP foi atingido pelo resto do mercado de criptomoedas em todos os negócios de criptomoedas. O preço do XRP permaneceu no nível de suporte em $ 0,1300](https://ar.0xzx.com/20200810103759.html)
 
 **AGOSTO 10**
 
