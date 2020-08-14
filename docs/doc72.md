@@ -89,6 +89,7 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 **AGOSTO 13**
 
 - [**Governo vai às compras para multinuvem para órgãos federais** - Está na praça a intenção de registro de preços para colher o interesse dos órgãos públicos em participar desta segunda edição da nuvem governamental. Expectativa é triplicar a adesão](http://r20.rs6.net/tn.jsp?f=001AQ2VXQHUE3d99I0GO-VBcWSD9QXNmQjzi17mnI-LtYNsB9S5uk0XWwhjVBVQlq7eP2wzaED-RtKaACX2YdRLrf_KAtqpCOdNAFwookHBD0xQZyl1cuAZJw9nznEF35Q_Q7X2cTCPAlbSHR3YD8Zd1aRHz9liEgV_W_4BtaCuXzmX1Dt77VXHBybPKwppmHu_tuoQJCfJlrMxyt31tSL7QmT06tq2CKKcAwcpymZQG_9qsghcZlXh8A==&c=FLRVtLdTQAIXe0RLw5nKHQR-MuF9HAb8ZzvJIyX8fneUF0P-WP2y4w==&ch=be4uGy6mr7peZF5X2PgFl2clsUIPc2ZOf9pm2w64tavWlGWGJeqCMQ==)
+- [**ABRANET alega risco de segurança e quer adiar adesão obrigatória ao PIX para agosto de 2021** - Entidade argumenta que é preciso fazer mais testes para prevenir possíveis fraudes. **Banco Central**: PIX não será uma 'TED vitaminada' ](http://r20.rs6.net/tn.jsp?f=001AQ2VXQHUE3d99I0GO-VBcWSD9QXNmQjzi17mnI-LtYNsB9S5uk0XWwhjVBVQlq7ei8ej0tMOHWCWRt_hPTcrBkdl2140KAdUEJV6t6pufTNZfGiCXw385pwXUj_KwBtQeOcmsQgQI_OiypFr3hx3YlZCjQ_oqkNVp2ixgQ5dQXFA8uBNBkIEnG9QW5bgE1vgbTvirH3niIAnfG7Rv_i4ddUXLH-bkLKvlGNW178pl69YHZ1PJKD39w==&c=FLRVtLdTQAIXe0RLw5nKHQR-MuF9HAb8ZzvJIyX8fneUF0P-WP2y4w==&ch=be4uGy6mr7peZF5X2PgFl2clsUIPc2ZOf9pm2w64tavWlGWGJeqCMQ==)
 
 **AGOSTO 14**
 
