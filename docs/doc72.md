@@ -94,6 +94,8 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 14**
 
+- [**Sony obtêm lucros com a sua gama Xperia** - A área de negócios do modelo Xperia da Sony têm apresentado constantemente desde alguns anos prejuízos financeiros. Mas felizmente, a marca nunca baixou os braços ou perdeu a esperança. Com uma estratégia derradeira de redução da produção e diminuição de preços nos últimos trimestres, os resultados positivos finalmente surgiram. Assim, e foi com bastante orgulho](http://info.mkt.maistecnologia.com/go/1c4a3f53ec96f74245d48a642156-92dca8cf4c87e589a647639e1eUZHeryLFenze4nSqs)
+
 **AGOSTO 15**
 
 **AGOSTO 16**
