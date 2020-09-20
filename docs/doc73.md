@@ -86,6 +86,7 @@ title: SETEMBRO
 **SETEMBRO 19**
 
 - [**Blockchain Capital se junta a Libra enquanto executivo é dispensado da UBS** - Mais recentemente, a Libra aproveitou a Blockchain Capital, uma empresa de consultoria e investimento em blockchain com mais de $ 300 milhões em ativos sob gestão, para juntar-se às suas fileiras . Blockchain Capital é agora parte do projeto da Libra Association, juntando-se a empresas como Coinbase, Xapo e Union Square Ventures, bem como empresas não blockchain, incluindo Uber, Lyft e Spotify, para citar alguns](https://beincrypto.com.br/blockchain-capital-se-junta-a-libra-enquanto-executivo-e-dispensado-da-ubs/)
+- [**Banco Central permite o uso da tecnologia blockchain no mercado de câmbio** - O Banco Central do Brasil aprovou, nessa semana, o uso da tecnologia blockchain no mercado de câmbio. A mudança se deu através de uma alteração na regulamentação do setor. Através da Resolução BCB n° 16 de 17 de setembro de 2020, a entidade monetária alterou a Circular nº 3.691. O objetivo foi “aprimorar dispositivos sobre a assinatura eletrônica de contratos de câmbio e sobre a entrega e o recebimento dos reais em aquisições de bens e serviços por meio de empresa facilitadora de pagamentos internacionais”.](https://criptonizando.com/2020/09/19/banco-central-permite-o-uso-da-tecnologia-blockchain-no-mercado-de-cambio/)
 
 **SETEMBRO 20**
 
