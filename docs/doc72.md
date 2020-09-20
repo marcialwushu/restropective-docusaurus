@@ -131,6 +131,15 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 18**
 
+- SpaceX launched and landed a Falcon 9 rocket on a record-breaking sixth flight
+- iOS 14 beta 5 now available to download for developers
+- SpaceX Just Reused a Single Booster for the 6th Time
+- Google Maps is getting a lot more detail
+- Tesla is starting to expand its insurance business outside of California
+- SK Hynix Launches First 128 Layer 3D NAND SSD
+- Internet Explorer is dead as Microsoft kills off 25-year-old browser
+- Google asks for government approval to experiment with 6GHz Wi-Fi
+
 **AGOSTO 19**
 
 **AGOSTO 20**
