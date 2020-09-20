@@ -56,6 +56,17 @@ title: SETEMBRO
 
 **SETEMBRO 16**
 
+- Apple just made AppleCare Plus way better with more coverage and lower replacement fees
+- Spotify says Apple One bundle is a ‘threat to collective freedom’ 
+- Twitter suspends account of Chinese virologist who claimed coronavirus was made in a lab
+- Facebook’s first AR glasses will be Ray-Bans, coming next year
+- Google can now scan malicious files for Advanced Protection users
+- Microsoft rolling out dark mode to Windows 10 search experience
+- The GoPro Hero9 Is a Little Bigger and a Lot Better in Every Possible Way
+- Supported Samsung Galaxy phones can now use Android apps on Windows 10
+- Apple unveils colorful iPad Airs, 8th-gen iPad
+
+
 **SETEMBRO 17**
 
 **SETEMBRO 18**
