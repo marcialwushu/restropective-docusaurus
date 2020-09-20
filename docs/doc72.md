@@ -185,6 +185,17 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 29**
 
+- Chadwick Boseman, star of Black Panther, dies at 43 after four-year battle with cancer
+- Chainlink Buys Cornell University Tech to Make Oracles More Private
+- Apple Terminates Epic Games’ Developer Account
+- Stolen Fortnite accounts are being sold on the black market for hundreds of dollars
+- Chinese Bank Disables Digital Yuan Wallet After Soft Launch Draws Wide Attention
+- Tether moves 3 million USDT to OMG Network
+- Tesla Gigafactory worker in Nevada targeted by Russian in failed ransomware attack
+- YouTube Tests Native Picture-in-Picture Mode for iOS App
+- Walmart is teaming up with Microsoft on TikTok bid
+
+
 **AGOSTO 30**
 
 **AGOSTO 31**
