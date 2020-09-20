@@ -115,6 +115,13 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 - [**Sony obtêm lucros com a sua gama Xperia** - A área de negócios do modelo Xperia da Sony têm apresentado constantemente desde alguns anos prejuízos financeiros. Mas felizmente, a marca nunca baixou os braços ou perdeu a esperança. Com uma estratégia derradeira de redução da produção e diminuição de preços nos últimos trimestres, os resultados positivos finalmente surgiram. Assim, e foi com bastante orgulho](http://info.mkt.maistecnologia.com/go/1c4a3f53ec96f74245d48a642156-92dca8cf4c87e589a647639e1eUZHeryLFenze4nSqs)
 - [**Nissan GT-R tem prevista tecnologia híbrida para 2023** - Segundo é avançado pelo Automotive News, um relatório recente revela os planos da Nissan para o seu aclamado GT-R, ou Godzilla, se assim o preferirem chamar. É do conhecimento da maioria que a construtora japonesa tem passado por dificuldades, agravadas ainda mais pela pandemia de coronavírus, no entanto, parece que a marca não desiste do […] ](http://info.mkt.maistecnologia.com/go/1c4a3f53ec96f74245d48a642156-92dca8cf4c87e589a647639e1eUZHeryLFenze4nSqu)
+- Instagram kept deleted photos and messages on its servers for more than a year
+- Chinese loan app Moneed leaked over 350 mn India users data from server in China
+- Fortnite still available for Samsung Galaxy users
+- Google, Apple Remove Fortnite From Their App Stores
+- Spotify, Tinder owner support Fortnite’s fight against Apple ban
+- Facebook says it removed over 7M pieces of wrong COVID-19 content in quarter
+- Google will no longer respond to data requests from Hong Kong authorities
 
 **AGOSTO 15**
 
