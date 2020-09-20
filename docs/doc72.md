@@ -146,6 +146,19 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 21**
 
+- Samsung’s next budget phone could pack a tablet-sized battery
+- Samsung rolling out One UI 2.5 update for Galaxy S20 series
+- Electrified classic car firm Lunaz reveals two Rolls-Royce EVs
+- Adobe Lightroom Update Is Permanently Deleting Users' Photos on iOS
+- Gboard rolling out system-matching dark/light keyboard theme to beta users
+- Microsoft Flight Simulator 2020 to generate $2.6B in hardware sales
+- Apple reportedly using cheaper iPhone battery parts to offset 5G cost
+- Leaked Google Pixel 5 renders show dual rear cameras and fingerprint sensor
+- China is building a GitHub alternative called Gitee
+- Tesla is rolling out suspension update with real-time visualization
+- Facebook to Remove ‘Classic’ Web Design Option Next Month
+
+
 **AGOSTO 22**
 
 **AGOSTO 23**
