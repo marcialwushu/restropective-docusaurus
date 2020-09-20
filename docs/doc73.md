@@ -65,6 +65,7 @@ title: SETEMBRO
 - The GoPro Hero9 Is a Little Bigger and a Lot Better in Every Possible Way
 - Supported Samsung Galaxy phones can now use Android apps on Windows 10
 - Apple unveils colorful iPad Airs, 8th-gen iPad
+- [**O FBI adiciona 5 hackers APT41 chineses à sua lista dos mais procurados do Cyber** - Nomeado como APT41 e também conhecido como 'Barium', 'Winnti,' Wicked Panda 'e' Wicked Spider ', o grupo de espionagem cibernética opera desde pelo menos 2012 e não está apenas envolvido na coleta de inteligência estratégica de alvos valiosos em muitos setores, mas também por trás de ataques com motivação financeira contra a indústria de jogos online](https://thehackernews.com/2020/09/apt41-hackers-wanted-by-fbi.html)
 
 
 **SETEMBRO 17**
