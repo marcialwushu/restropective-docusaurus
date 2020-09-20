@@ -32,6 +32,16 @@ title: SETEMBRO
 
 **SETEMBRO 09**
 
+- Apple releases iOS 14 beta 8 to developers
+- Walmart is now delivering groceries via drones in North Carolina
+- Microsoft announces that it will end support for Adobe Flash Player by December 2020
+- Xbox Series X launches on November 10th for $499
+- Yubico’s latest security key uses NFC and USB-C for authentication
+- Tether launches on Solana blockchain
+- Epic Games accounts won’t be able to use Apple’s sign-in system as soon as September 11th
+- PUBG Corp says Tencent not to publish mobile game in India
+- Xbox Game Pass is adding EA’s Play subscription service at no extra cost
+
 **SETEMBRO 10**
 
 **SETEMBRO 11**
