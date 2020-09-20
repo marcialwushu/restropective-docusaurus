@@ -167,6 +167,16 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 25**
 
+- ICICI Bank will now use satellite data to assess farmers’ eligibility for credit
+- Microsoft brings transcriptions to Word
+- Facebook is bringing a Shop section to its app, while Instagram expands Live Shopping
+- Fitbit launches a $330 Apple Watch competitor
+- Apple updates iMovie for iPhone, iPad, and Mac with new filters, soundtracks, and more
+- PlayStation Wants To Hire People To Play Video Games For A Living
+- Apple makes Final Cut Pro X work better for remote and collaborative video editing
+- Fitbit’s new Sense smartwatch can take your skin’s temperature to help you manage stress
+- iPhone 12 Pro Likely to Ship With 60Hz Display, But Launch Delay to Add 120Hz Possible
+
 **AGOSTO 26**
 
 **AGOSTO 27**
