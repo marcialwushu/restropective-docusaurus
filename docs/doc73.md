@@ -85,6 +85,8 @@ title: SETEMBRO
 
 **SETEMBRO 19**
 
+- [**Blockchain Capital se junta a Libra enquanto executivo é dispensado da UBS** - Mais recentemente, a Libra aproveitou a Blockchain Capital, uma empresa de consultoria e investimento em blockchain com mais de $ 300 milhões em ativos sob gestão, para juntar-se às suas fileiras . Blockchain Capital é agora parte do projeto da Libra Association, juntando-se a empresas como Coinbase, Xapo e Union Square Ventures, bem como empresas não blockchain, incluindo Uber, Lyft e Spotify, para citar alguns](https://beincrypto.com.br/blockchain-capital-se-junta-a-libra-enquanto-executivo-e-dispensado-da-ubs/)
+
 **SETEMBRO 20**
 
 **SETEMBRO 21**
