@@ -84,6 +84,16 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 
 **AGOSTO 11**
 
+- Russia names new COVID-19 vaccine ‘Sputnik V’ in reference to Cold War space race
+- Boeing 747s Still Use Floppy Disks to Get Critical Software Updates
+- Apple doubles down on iOS 14 tracking privacy as Facebook panics
+- Gboard’s real-time translation feature now works with your voice
+- Twitter is for real rolling out its reply-limiting feature to all users
+- Google tests new profile cards that let you add yourself to search results
+- Huawei thinks all-screen fingerprint unlock is the future
+- Mozilla cuts 25% of workforce after pandemic hits revenue
+- Xiaomi announces Mi 10 Ultra with 120W fast charging
+
 **AGOSTO 12**
 
 **AGOSTO 13**
