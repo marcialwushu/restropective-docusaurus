@@ -71,6 +71,17 @@ title: SETEMBRO
 
 **SETEMBRO 18**
 
+- Google pulls India’s Paytm app from Play Store for repeat policy violations
+- TikTok and WeChat will be banned from US app stores on Sunday
+- Google and Facebook under pressure to ban children’s ads
+- Chime is now worth $14.5 billion, surging past Robinhood as the most valuable U.S. consumer fintech
+- Tata Nexon - India’s first car to be published on the IDIS
+- Microsoft enters the final stretch with Windows 10 20H2
+- Samsung’s Galaxy Z Fold 2, Tab S7, and Tab S7 Plus are available now
+- Apple’s all-new 8th Gen. iPad sees very first price cut to $299
+- Facebook Accused of Watching Instagram Users Through Cameras
+
+
 **SETEMBRO 19**
 
 **SETEMBRO 20**
