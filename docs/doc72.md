@@ -101,6 +101,15 @@ Na semana passada, a Chainlink (LINK) se recuperou e recentemente quebrou US $ 1
 - [**Governo vai às compras para multinuvem para órgãos federais** - Está na praça a intenção de registro de preços para colher o interesse dos órgãos públicos em participar desta segunda edição da nuvem governamental. Expectativa é triplicar a adesão](http://r20.rs6.net/tn.jsp?f=001AQ2VXQHUE3d99I0GO-VBcWSD9QXNmQjzi17mnI-LtYNsB9S5uk0XWwhjVBVQlq7eP2wzaED-RtKaACX2YdRLrf_KAtqpCOdNAFwookHBD0xQZyl1cuAZJw9nznEF35Q_Q7X2cTCPAlbSHR3YD8Zd1aRHz9liEgV_W_4BtaCuXzmX1Dt77VXHBybPKwppmHu_tuoQJCfJlrMxyt31tSL7QmT06tq2CKKcAwcpymZQG_9qsghcZlXh8A==&c=FLRVtLdTQAIXe0RLw5nKHQR-MuF9HAb8ZzvJIyX8fneUF0P-WP2y4w==&ch=be4uGy6mr7peZF5X2PgFl2clsUIPc2ZOf9pm2w64tavWlGWGJeqCMQ==)
 - [**ABRANET alega risco de segurança e quer adiar adesão obrigatória ao PIX para agosto de 2021** - Entidade argumenta que é preciso fazer mais testes para prevenir possíveis fraudes. **Banco Central**: PIX não será uma 'TED vitaminada' ](http://r20.rs6.net/tn.jsp?f=001AQ2VXQHUE3d99I0GO-VBcWSD9QXNmQjzi17mnI-LtYNsB9S5uk0XWwhjVBVQlq7ei8ej0tMOHWCWRt_hPTcrBkdl2140KAdUEJV6t6pufTNZfGiCXw385pwXUj_KwBtQeOcmsQgQI_OiypFr3hx3YlZCjQ_oqkNVp2ixgQ5dQXFA8uBNBkIEnG9QW5bgE1vgbTvirH3niIAnfG7Rv_i4ddUXLH-bkLKvlGNW178pl69YHZ1PJKD39w==&c=FLRVtLdTQAIXe0RLw5nKHQR-MuF9HAb8ZzvJIyX8fneUF0P-WP2y4w==&ch=be4uGy6mr7peZF5X2PgFl2clsUIPc2ZOf9pm2w64tavWlGWGJeqCMQ==)
 - [**Fake News faz um em cada oito internautas brasileiros ser vítima de ataque hacker** - O Brasil ficou no TOP 5 dos países mais afetados por phising no período da pandemia de Covid-19. Boa parte dos links maliciosos teve como tema o auxílio social para os mais pobres.](http://r20.rs6.net/tn.jsp?f=001AQ2VXQHUE3d99I0GO-VBcWSD9QXNmQjzi17mnI-LtYNsB9S5uk0XWwhjVBVQlq7e2RnSYA0oKmLcMkbE55ouOGZlWNBi4UcvR-I-WfowlHWmmxtYyMqaYzdoOdeCCfe-UTJLmzMdX4NOLxC7drmax1qRYVoiaqeJRtWARqtocjPOqeDzpzXxcJnCt9mp24k6VkctZ6uzkkvozgt3asGfw_G8zyD9yuIa5oErYE9y_7Z5PKbZjauLuQ==&c=FLRVtLdTQAIXe0RLw5nKHQR-MuF9HAb8ZzvJIyX8fneUF0P-WP2y4w==&ch=be4uGy6mr7peZF5X2PgFl2clsUIPc2ZOf9pm2w64tavWlGWGJeqCMQ==)
+- Apple to Launch Bundled Subscription Services Called ‘Apple One’
+- Cheap Electric Vehicles More Affordable Than Petrol Cars In UK
+- Hans Zimmer created an extended version of Netflix’s ‘ta-dum’ sound for theaters
+- ByteDance censored anti-China content in Indonesian news app
+- Fortnite Introduces Direct Payment Option on iOS Despite Apple’s App Store Review Guidelines
+- Apple may delay the iPhone 12 to the week of October 12
+- PS5 leak claims it might struggle to run games at 4K
+- Google Travel adds new pandemic-related travel planning information
+- Snapchat now has lenses specifically to be used in viral TikTok dance challenges
 
 **AGOSTO 14**
 
