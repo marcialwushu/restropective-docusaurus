@@ -99,6 +99,8 @@ title: SETEMBRO
 
 **SETEMBRO 21**
 
+- [**Unsecured Microsoft Bing Server Leaks Search Queries, Location Data** - An unsecured database has exposed sensitive data for users of Microsoft’s Bing search engine mobile application – including their location coordinates, search terms in clear text and more](https://threatpost.com/microsoft-bing-search-queries/159407/)
+
 **SETEMBRO 22**
 
 **SETEMBRO 23**
