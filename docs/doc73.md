@@ -94,6 +94,7 @@ title: SETEMBRO
 **SETEMBRO 20**
 
 - [**Indian state of Tamil Nadu announces blockchain infrastructure plan** - The Indian state of Tamil Nadu unveils new technology projects, including a blockchain infrastructure, to create easier government processes. Tamil Nadu chief minister Edapaddi K. Palaniswami announced Tamil Nadu's adoption of an ethical blockchain policy, according to The New Indian Express. ](https://cointelegraph.com/news/indian-state-of-tamil-nadu-announces-blockchain-infrastructure-plan)
+- [**Beijing ranks first among blockchain cities in China** - The Chinese Blockchain Innovation rankings were revealed at the China International Fair for Trade in Services Summit. The rankings comprehensively evaluates the blockchain technology and development of 83 Chinese cities and special zones, except Hong Kong, Macao and Taiwan.](https://coingeek.com/beijing-ranks-first-among-blockchain-cities-in-china/)
 
 **SETEMBRO 21**
 
