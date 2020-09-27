@@ -91,6 +91,8 @@ title: SETEMBRO
 
 **SETEMBRO 20**
 
+- [**Indian state of Tamil Nadu announces blockchain infrastructure plan** - The Indian state of Tamil Nadu unveils new technology projects, including a blockchain infrastructure, to create easier government processes. Tamil Nadu chief minister Edapaddi K. Palaniswami announced Tamil Nadu's adoption of an ethical blockchain policy, according to The New Indian Express. ](https://cointelegraph.com/news/indian-state-of-tamil-nadu-announces-blockchain-infrastructure-plan)
+
 **SETEMBRO 21**
 
 **SETEMBRO 22**
