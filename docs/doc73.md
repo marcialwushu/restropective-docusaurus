@@ -126,6 +126,17 @@ title: SETEMBRO
 
 **SETEMBRO 28**
 
+- Microsoft Targets Sale of More Telecom Cloud Services as 5G Gains Steam
+- Facebook is a haven for misleading, false ads about mail-in voting
+- Dell announces new XPS 13 and XPS 13 2-in-1 with Tiger Lake processors
+- Judge Temporarily Blocks US Ban on New TikTok Downloads
+- Sticky Widgets lets you put a virtual Post-It on your iPhone home screen
+- Binance unveils a new ‘decentralized’ stablecoin system, Venus
+- iPhone 12 May Launch Earlier Than Usual in South Korea
+- Amazon launches its own gaming service
+- Google Meet to limit meetings to 60 minutes on free plans September 30th
+- Twitter will soon call you out for retweeting articles you haven’t actually read
+
 **SETEMBRO 29**
 
 **SETEMBRO 30**
