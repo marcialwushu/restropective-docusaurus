@@ -141,5 +141,16 @@ title: SETEMBRO
 
 **SETEMBRO 30**
 
+- After breach, Twitter hires a new cybersecurity chief
+- Twitter Expands Rollout of Voice Tweets Feature for iOS Users
+- Apple working with Microsoft to bring Apple TV app to Xbox consoles
+- Microsoft touts Windows 10 on Arm advances, including 64-bit emulation
+- Messenger and Instagram chats now officially merged
+- Xiaomi’s new OnePlus 8 Pro rival has a 144Hz screen, 108MP camera
+- YouTube Permanently Bans Prominent Bitcoin Influencer
+- Apple to release new emojis with iOS 14.2
+
+
+
 
 
