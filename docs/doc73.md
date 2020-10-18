@@ -107,6 +107,17 @@ title: SETEMBRO
 
 **SETEMBRO 24**
 
+- Company With No Ventilator Model Got Rs 373 Cr PM CARES Order To Make 10,000 Ventilators
+- Google Maps now shows COVID-19 hot spots
+- Apple Releases iOS 14.0.1 With Fix for Bug That Resets Default Apps After Rebooting
+- US airline launches first COVID-19 testing program of its kind
+- New Version of Microsoft Office Coming Next Year That Won’t Require a Subscription
+- Amazon rolls out new ball-shaped Echo Dots, starting at $50
+- Nvidia's RTX 3090 Graphics Card Launch Is Another Letdown
+- OnePlus CEO Reveals 65W Charging Details
+- Green Pixel 5 leaks with new look at Chromecast with Google TV interface
+- Apple Removes 5W Power Adapter From Apple Watch Edition and Apple Watch Hermès
+
 **SETEMBRO 25**
 
 **SETEMBRO 26**
