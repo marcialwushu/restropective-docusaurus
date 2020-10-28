@@ -53,3 +53,24 @@ title: OUTUBRO
 
 **OUTUBRO 21**
 
+**OUTUBRO 22**
+
+**OUTUBRO 23**
+
+**OUTUBRO 24**
+
+**OUTUBRO 25**
+
+**OUTUBRO 26**
+
+**OUTUBRO 27**
+
+- [**MENA’s open banking platform, Tarabut Gateway, launches in UAE** - The company has opened an office in Abu Dhabi’s Hub71 and Dubai’s DIFC FinTech Hive](https://gulfbusiness.com/menas-open-banking-platform-tarabut-gateway-launches-in-uae/)
+
+**OUTUBRO 28**
+
+**OUTUBRO 29**
+
+**OUTUBRO 30**
+
+**OUTUBRO 31**
