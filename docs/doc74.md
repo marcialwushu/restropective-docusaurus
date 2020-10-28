@@ -67,6 +67,7 @@ title: OUTUBRO
 
 - [**MENA’s open banking platform, Tarabut Gateway, launches in UAE** - The company has opened an office in Abu Dhabi’s Hub71 and Dubai’s DIFC FinTech Hive](https://gulfbusiness.com/menas-open-banking-platform-tarabut-gateway-launches-in-uae/)
 - [**Exclusive: These are the top 50 London startups to work for** ](https://www.cityam.com/exclusive-these-are-the-top-50-london-startups-to-work-for/)
+- [**Saiba o que é open finance, a nova modalidade que vem substituir o open banking** - Recentemente, o Banco Central do Brasil (BC) anunciou que irá alterar o nome da nova regulação do sistema financeiro open banking para open finance, já que o método promete englobar não só produtos bancários, como também seguros e investimentos. O objetivo é iniciar o novo modelo até o final de 2021, o que deve aprimorar a competitividade no mercado financeiro](https://kontaazul.com.br/saiba-o-que-e-open-finance-a-nova-modalidade-que-vem-substituir-o-open-banking/)
 
 **OUTUBRO 28**
 
