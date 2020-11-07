@@ -63,6 +63,10 @@ title: NOVEMBRO
 
 **NOVEMBRO 06** 
 
+- [**Ataque de ransomware ao STJ é o mais grave da história no país**. O Superior Tribunal de Justiça (STJ), um dos quatro tribunais superiores do Brasil, acionou a Polícia Federal para investigar a ocorrência de um ataque hacker aos seus sistemas. Criminosos conseguiram criptografar totalmente a base de dados do Superior Tribunal de Justiça, deixando a instituição às escuras. Técnicos do STJ encontraram um pedido de resgate com um contato dos hackers para negociação](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-ataque-activity-6730455582404317184-Kk5B)
+- [**VMware lançou correção para uma falha de execução remota de código no ESXi.** A falha existe no recurso OpenSLP do VMware ESXi. ESXi é um hypervisor que usa software para abstrair recursos de processador, memória, armazenamento e rede em várias máquinas virtuais (VMs). Cada máquina virtual executa seu próprio sistema operacional e aplicativos. A falha estava relacionada à utilização incorreta da memória dinâmica durante a operação de um programa.](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-ataque-activity-6730455582404317184-Kk5B)
+- [**Autoridades russas prenderam um desenvolvedor de malware.** O desenvolvedor do malware cometeu o grave erro de implantar seu malware dentro das fronteiras da Rússia. De acordo com o Ministério de Assuntos Internos da Rússia, o suspeito é um jovem de 20 anos da região da Ossétia do Norte-Alânia.](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-ataque-activity-6730455582404317184-Kk5B)
+
 **NOVEMBRO 07** 
 
 **NOVEMBRO 08** 
