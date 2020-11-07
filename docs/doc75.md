@@ -30,6 +30,14 @@ title: NOVEMBRO
 
 **NOVEMBRO 03**
 
+- [The public has a right to know how companies that pay no taxes pull it off](https://bit.ly/2JxurOD)
+- [Ox is a fast text editor, written in Rust, that runs in your terminal](https://bit.ly/34OZXj8)
+- [eBay removing Raspberry Pi listings as they “encourage infringement”](https://bit.ly/35VUuGE)
+- [Voyager 2 is back online after eight months of radio silence](https://bit.ly/3kXjcwE)
+- ["I cannot disable the TeamViewer auto-renewal in advance"](https://bit.ly/387m9HA)
+- [Leaving OCaml](https://bit.ly/3237064)
+
+
 **NOVEMBRO 04** 
 
 - Rest in peace PUBG! Company pulls the plug on India operations
