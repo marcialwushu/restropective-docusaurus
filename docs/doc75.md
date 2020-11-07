@@ -5,6 +5,13 @@ title: NOVEMBRO
 
 **NOVEMBRO 01**
 
+- [Toronto-area lawyer had to flee Canada after taking on the tow truck industry](https://bit.ly/322dWjN)
+- [An ex-ARM engineer critiques RISC-V](https://bit.ly/35PPvYc)
+- [Visualizing Git Concepts with D3](https://bit.ly/2HWF1xB)
+- [The story of the PDF](https://bit.ly/2HM0tFD)
+- [Show HN: I made a database of TL;DR business strategies/case studies](https://bit.ly/35WmeuG)
+- [Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share](https://bit.ly/3mEEf7G )
+
 **NOVEMBRO 02**
 
 **NOVEMBRO 03**
