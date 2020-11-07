@@ -25,6 +25,13 @@ title: NOVEMBRO
 
 **NOVEMBRO 05** 
 
+- Fortnite to Return to iOS via Nvidia GeForce Now Streaming Service
+- WhatsApp now lets you post ephemeral messages that disappear after 7 days
+- iPhone 12 Said to be Facing Severe Shortage of Power Management Chips
+- Sony Announces the PlayStation 5 Will Not Be Available In-Store on Launch Day
+- Twitter restricts yet another Trump tweet for making up election rules
+- PS5 Seemingly Won’t Support Native 1440p Resolution
+
 **NOVEMBRO 06** 
 
 **NOVEMBRO 07** 
