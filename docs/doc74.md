@@ -51,6 +51,16 @@ title: OUTUBRO
 
 **OUTUBRO 20**
 
+- Apple Releases 14.1 Software for HomePod With Intercom and HomePod Mini Support
+- Jio, Qualcomm begin 5G trials, achieve over 1 Gbps speed
+- The US government has filed antitrust charges against Google
+- Huawei sanctions shrink founder Ren Zhengfei’s wealth while Xiaomi CEO Lei Jun’s net worth doubles
+- Gold Version of iPhone 12 Pro Apparently Has a More Fingerprint Resistant Stainless Steel Frame
+- Samsung seems to be exploring a phone with a pop-out display
+- Microsoft Azure announces its first region in Austria
+- Sweden bans Huawei, ZTE from upcoming 5G networks
+- Google launches free Stadia game demos to entice people into cloud gaming
+
 **OUTUBRO 21**
 
 **OUTUBRO 22**
