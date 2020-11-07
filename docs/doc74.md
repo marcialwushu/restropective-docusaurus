@@ -45,6 +45,17 @@ title: OUTUBRO
 
 **OUTUBRO 17**
 
+- Microsoft just force restarted my Windows PC again to install more unwanted apps
+- Facebook reportedly choked traffic for left-leaning news sites including Mother Jones
+- iPhone 12 deals highlight a renewed battle between wireless carriers
+- UK bans any use of mobile phones while driving
+- Oracle founder donated $250,000 to Graham PAC in final days of TikTok deal
+- DJI Osmo Pocket 2 appears to leak with improved camera
+- Apple Offering Free AirPods With iPhone 11 Purchase in India as Part of Diwali Celebration
+- Apple ditching chargers saves costs but not the planet
+- Reliable leaker suggests under-display Touch ID is coming to the iPhone
+- Tesla officially launches Model 3 2021 refresh with more range and features
+
 **OUTUBRO 18**
 
 **OUTUBRO 19**
