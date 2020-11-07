@@ -14,6 +14,14 @@ title: NOVEMBRO
 
 **NOVEMBRO 02**
 
+- [New youtube-dl release: v2020.11.01.1](https://bit.ly/322swIm)
+- [Raspberry Pi 400 Computer (Raspberry Pi 4 in Keyboard-Based Formfactor)](https://bit.ly/35XfUTM)
+- [Danish military intelligence uses XKEYSCORE to tap cables in co-op with the NSA](https://bit.ly/3eksLmL)
+- [Google users locked out after 15 years' use](https://bit.ly/320su3l)
+- [How Google Meet's background blur and replacement work](https://bit.ly/385yZWy)
+- [Winamp for Windows 10](https://bit.ly/3kNRbYv)
+
+
 **NOVEMBRO 03**
 
 **NOVEMBRO 04** 
