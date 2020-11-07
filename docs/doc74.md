@@ -84,6 +84,16 @@ title: OUTUBRO
 
 **OUTUBRO 26**
 
+- India ranks 131 in global mobile internet speed; fares worse than Nepal, Pakistan
+- OnePlus Nord N10 and N100 announced: First OnePlus phones with SD card support
+- You Can Finally Mute WhatsApp Conversations Forever
+- Apple TV Remote App Inspired Steve Jobs to Make Original Siri Remote
+- PlayStation 5 Unveils New Dedicated Remote for Console's Media Space
+- Facebook launches cloud games but says Apple won’t allow it on iOS
+- iPhone 12 launch causes NHS Covid-19 app confusion
+- Samsung chairman Lee Kun-hee dies at 78
+
+
 **OUTUBRO 27**
 
 - [**MENA’s open banking platform, Tarabut Gateway, launches in UAE** - The company has opened an office in Abu Dhabi’s Hub71 and Dubai’s DIFC FinTech Hive](https://gulfbusiness.com/menas-open-banking-platform-tarabut-gateway-launches-in-uae/)
