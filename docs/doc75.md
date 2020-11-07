@@ -20,6 +20,12 @@ title: NOVEMBRO
 - [Google users locked out after 15 years' use](https://bit.ly/320su3l)
 - [How Google Meet's background blur and replacement work](https://bit.ly/385yZWy)
 - [Winamp for Windows 10](https://bit.ly/3kNRbYv)
+- [“Before cancelling your subscription, you must agree to the following”](https://bit.ly/34POXCk)
+- [No More Google](https://bit.ly/385EfcE)
+- [Brave Browser Passes 20M Monthly Active Users and 7M Daily Active Users](https://bit.ly/3mF8awq)
+- [Ask HN: Who is hiring? (November 2020)](https://bit.ly/325rR8S)
+- [Dan Kohn has died](https://bit.ly/35Vzf7Y)
+- [Why Tunnels in the US Cost Much More Than Anywhere Else in the World](https://bit.ly/3jL1mLW)
 
 
 **NOVEMBRO 03**
