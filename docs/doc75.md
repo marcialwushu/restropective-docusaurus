@@ -60,6 +60,9 @@ title: NOVEMBRO
 - Sony Announces the PlayStation 5 Will Not Be Available In-Store on Launch Day
 - Twitter restricts yet another Trump tweet for making up election rules
 - PS5 Seemingly Won’t Support Native 1440p Resolution
+- [**Hackers iranianos usam e-mails falsificados para roubar dados eleitorais.**Alguns grupos de hackers patrocinados pelo estado iraniano têm tentado roubar dados de registro de eleitores de vários sites eleitorais nos Estados Unidos. O FBI compartilhou detalhes sobre vários TTPs usados por esses hackers.](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-hackers-activity-6730095557030748160-BIg0)
+- [**Blackbaud foi processada em 23 ações coletivas após ataque de ransomware.**O provedor líder de software em nuvem, Blackbaud, foi processado em 23 propostas de casos de ação coletiva do consumidor nos EUA e no Canadá, relacionadas ao ataque de ransomware que a empresa sofreu em maio de 2020. Blackbaud tem operações em países ao redor do mundo, incluindo os Estados Unidos, Reino Unido, Austrália e Canadá.](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-hackers-activity-6730095557030748160-BIg0)
+- [**Jogos na Microsoft Store podem ser explorados e permitem escalação de privilégios no Windows.** Um pesquisador do provedor de serviços de segurança cibernética IOActive identificou uma vulnerabilidade de escalação de privilégios no Windows que pode ser explorada através de jogos na Microsoft Store.](https://www.linkedin.com/posts/hackersec_boletim-di%C3%A1rio-de-ciberseguran%C3%A7a-hackers-activity-6730095557030748160-BIg0)
 
 **NOVEMBRO 06** 
 
