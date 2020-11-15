@@ -83,6 +83,8 @@ title: NOVEMBRO
 
 **NOVEMBRO 08** 
 
+- [**Após ataque hacker, STJ retoma trabalhos gradualmente nesta segunda-feira**- O Superior Tribunal de Justiça (STJ) confirmou neste domingo (8) que os principais sistemas do tribunal voltarão a operar a partir desta segunda-feira (9) de forma gradual. O primeiro a retomar será o Sistema Justiça, que dá acesso a processos eletrônicos em trâmite na corte.](https://g1.globo.com/politica/noticia/2020/11/08/apos-ataque-hacker-stj-retoma-trabalhos-gradualmente-nesta-segunda-feira.ghtml)
+
 **NOVEMBRO 09** 
 
 **NOVEMBRO 10** 
