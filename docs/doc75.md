@@ -91,6 +91,8 @@ title: NOVEMBRO
 
 **NOVEMBRO 09** 
 
+- [**Ataque hacker no STJ: peritos temem vazamento em massa de dados copiados** - Os sistemas do STJ (Superior Tribunal de Justiça) começarão a ser restabelecidos nesta segunda-feira (9) após invasão hacker ocorrida na última terça (3). O ataque resultou na interrupção de diversos julgamentos que ocorriam por videoconferência e na suspensão de prazos processuais. Apesar da tentativa de normalizar os sistemas, peritos que investigam o caso temem que o material ao qual o hacker teve acesso já tenha sido copiado e esteja em seu controle. A preocupação é de que o STJ seja alvo de um vazamento em massa, segundo informações do Estadão Conteúdo](https://www.uol.com.br/tilt/noticias/redacao/2020/11/09/ataque-no-stj-hacker-continua-com-o-controle-de-documentos-sigilosos.htm)
+
 **NOVEMBRO 10** 
 
 **NOVEMBRO 11** 
