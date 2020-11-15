@@ -88,6 +88,8 @@ title: NOVEMBRO
 
 **NOVEMBRO 11** 
 
+- [**Depois de STJ, TJRS é alvo de ataque hacker** - O Tribunal de Justiça do Rio Grande do Sul informou que na tarde desta quarta-feira, 11, o site com informações sobre o sistema de consulta e peticionamento aos processos da Corte foi 'adulterado por hackers'. Em nota, o Tribunal indicou que o ataque não atingiu processos e outros bancos de dados do Judiciário estadual e que o problema foi corrigido.](https://www.terra.com.br/noticias/brasil/politica/depois-de-stj-tjrs-e-alvo-de-ataque-hacker,f9c2056d32453f5f9b2fe41cdea61c3e21fgpk9w.html)
+
 **NOVEMBRO 12** 
 
 **NOVEMBRO 13** 
