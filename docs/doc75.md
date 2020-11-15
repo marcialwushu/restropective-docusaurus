@@ -94,6 +94,7 @@ title: NOVEMBRO
 **NOVEMBRO 09** 
 
 - [**Ataque hacker no STJ: peritos temem vazamento em massa de dados copiados** - Os sistemas do STJ (Superior Tribunal de Justiça) começarão a ser restabelecidos nesta segunda-feira (9) após invasão hacker ocorrida na última terça (3). O ataque resultou na interrupção de diversos julgamentos que ocorriam por videoconferência e na suspensão de prazos processuais. Apesar da tentativa de normalizar os sistemas, peritos que investigam o caso temem que o material ao qual o hacker teve acesso já tenha sido copiado e esteja em seu controle. A preocupação é de que o STJ seja alvo de um vazamento em massa, segundo informações do Estadão Conteúdo](https://www.uol.com.br/tilt/noticias/redacao/2020/11/09/ataque-no-stj-hacker-continua-com-o-controle-de-documentos-sigilosos.htm)
+- [**Ataque cibernético suspende aplicação de exame do Conselho Federal de Contabilidade** - O Conselho Federal de Contabilidade (CFC) suspendeu a segunda edição de seu exame de suficiência para a obtenção de registro profissional, previsto para ser realizado às 9h30 do último domingo (8/11). De acordo com o Conselho, o site da banca organizadora Consulplan sofreu um ataque cibernético e, as provas, que seriam feitas online, deverão ser remarcadas](https://blogs.correiobraziliense.com.br/papodeconcurseiro/ataque-cibertnetico-suspende-aplicacao-de-exame-do-conselho-federal-de-contabilidade/)
 
 **NOVEMBRO 10** 
 
