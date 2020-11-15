@@ -105,6 +105,8 @@ title: NOVEMBRO
 
 **NOVEMBRO 14** 
 
+- [**Prefeitura de Vitória sofre ataque hacker igual ao STJ** - A prefeitura de Vitória, Capital do Estado Espírito Santo, sofre com um ataque hacker na última semana. Em nota, a prefeitura informou que o ataque sofrido é semelhante ao realizado contra o STJ. Conforme anunciado pelo Livecoins, os ataques hackers se intensificaram na última semana. Os alvos são principalmente órgãos públicos, como STJ, Ministério da Saúde, entre outros.](https://livecoins.com.br/prefeitura-de-vitoria-sofre-ataque-hacker-igual-ao-stj/)
+
 **NOVEMBRO 15** 
 
 **NOVEMBRO 16** 
