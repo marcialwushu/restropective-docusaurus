@@ -11,6 +11,7 @@ title: NOVEMBRO
 - [The story of the PDF](https://bit.ly/2HM0tFD)
 - [Show HN: I made a database of TL;DR business strategies/case studies](https://bit.ly/35WmeuG)
 - [Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share](https://bit.ly/3mEEf7G )
+- [**Million Mask March to take place on the day national lockdown rules come into force** - The Million Mask March is set to take place on the same day national lockdown rules come into force next week. The annual event is described as a march “against austerity, the infringement of rights, war crimes, corrupt politicians and to reinstate liberty”, according to the Heart of London Business Alliance.](https://uk.news.yahoo.com/million-mask-march-national-lockdown-rules-121657027.html)
 
 **NOVEMBRO 02**
 
