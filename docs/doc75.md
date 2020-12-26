@@ -166,6 +166,13 @@ title: NOVEMBRO
 
 **NOVEMBRO 24** 
 
+- India bans 43 more Chinese apps over cybersecurity concerns
+- Elon Musk overtakes Bill Gates to become world’s second richest person behind Jeff Bezos
+- Tesla Semi electric truck to have up to 621 miles of range, says Elon Musk
+- Google says it’s got 400 games in the pipeline for Stadia
+- Australia’s spy agencies caught collecting COVID-19 app data
+- Snapchat officially launches in-app TikTok competitor called Spotlight
+
 **NOVEMBRO 25** 
 
 **NOVEMBRO 26** 
