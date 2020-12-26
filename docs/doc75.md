@@ -115,6 +115,15 @@ title: NOVEMBRO
 
 **NOVEMBRO 15** 
 
+- macOS Big Sur Update Bricking Some Older MacBook Pro Models
+- HomePod Mini Begins Shipping to Customers, First Orders Arrive November 16
+- Reliable Leaker Says Apple Plans to Introduce ‘Christmas Surprise’
+- Samsung Patents Surround Display Smartphone With a Sliding Camera
+- Twitter for Mac updated with macOS Big Sur optimizations, M1 chip support
+- US gives Qualcomm approval to sell 4G chips to Huawei despite sanctions
+- Twitter says it labeled 300K election tweets with misleading or disputed content
+- Google Photos is the latest “Unlimited” plan to impose hard limits
+
 **NOVEMBRO 16** 
 
 **NOVEMBRO 17** 
