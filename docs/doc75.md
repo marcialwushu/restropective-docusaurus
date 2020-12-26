@@ -177,6 +177,14 @@ title: NOVEMBRO
 
 **NOVEMBRO 26** 
 
+- Tasks app gets update with new features, macOS version, more
+- Apple will reportedly move iPad and MacBook production out of China
+- NVIDIA's RTX 3060 Ti Will Reportedly Sell for $400 USD
+- PlayStation 5: Amazon ‘really sorry’ after customers received cat food and other items instead of games console
+- Rumored 2021 High-End iPad Pro May Feature 5G With mmWave Support
+- Ford Mustang Mach-E — 230 to 300 Mile Range for $35,395, $39,500, or $42,300 (After Tax Credit)
+- Facebook fined in South Korea for sharing user data without consent
+
 **NOVEMBRO 27** 
 
 **NOVEMBRO 28** 
