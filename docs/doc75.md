@@ -157,6 +157,13 @@ title: NOVEMBRO
 
 **NOVEMBRO 23** 
 
+- Oxford University and AstraZeneca vaccine trial shows up to 90 percent effectiveness
+- Apple’s previous-gen. iPad Pro lineup discounted by as much as $430
+- Snap to Pay $1 Million a Day to Creators for Spotlight Videos
+- Tesla Model X gets hacked through new relay attack, Tesla says it is pushing a patch
+- iFixit Shares iPhone 12 Pro Max Teardown Revealing L-Shaped Battery and Bigger Camera Module
+- Tesla boosts Model S range again, now beating Lucid Air
+
 **NOVEMBRO 24** 
 
 **NOVEMBRO 25** 
