@@ -142,6 +142,13 @@ title: NOVEMBRO
 
 **NOVEMBRO 19** 
 
+- Google Messages end-to-end encryption launching in beta, coming soon to all
+- Stadia will be playable on iOS via Safari in the coming ‘weeks’
+- Amazon announces upgraded Echo Frames smart glasses as it opens availability to everyone
+- Tesla Model S no longer ‘recommended’ by Consumer Reports due to reliability concerns
+- Apple to pay $113m settlement after admitting slowing down older iPhones
+- Facebook Launches New Chat Feature With Animated BTS Characters
+
 **NOVEMBRO 20** 
 
 **NOVEMBRO 21** 
