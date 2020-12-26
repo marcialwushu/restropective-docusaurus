@@ -130,6 +130,16 @@ title: NOVEMBRO
 
 **NOVEMBRO 18** 
 
+- Apple will reduce App Store cut to 15 percent for most developers starting January 1st
+- Pixelmator Pro 2.0 Launches With All-New Design and Native Apple M1 Support
+- New Google Pay app is now available in early access w/ redesign, rewards, more
+- VMware's blockchain platform is ready for the enterprise
+- New 2022 Honda Civic prototype revealed in saloon form
+- Amazon Web Services’ new Network Firewall solution rolls out
+- GlobalComix Launches Digital Subscription Service
+- New Zoom feature can alert room owners of possible Zoombombing disruptions
+- AMD launches Instinct MI100 accelerator chips for scientific research
+
 **NOVEMBRO 19** 
 
 **NOVEMBRO 20** 
