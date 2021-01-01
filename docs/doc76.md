@@ -15,6 +15,10 @@ title: DEZEMBRO
 
 - [Building a Quantum Network Using Tiny Nanoscale Nodes](https://scitechdaily.com/building-a-quantum-network-using-tiny-nanoscale-nodes/)
 
+**DEZEMBRO 28**
+
+- [Lin Qi, CEO do estúdio de jogos Yoozoo, morre por envenenamento suspeito. O bilionário chinês Lin Qi, CEO dos estúdios Yoozoo, morreu aos 39 anos na noite de Natal (25), dias depois de beber um copo de chá que estava envenenado, segundo a polícia de Xangai, por um colega de trabalho da vítima, referido pela mídia chinesa apenas pelo sobrenome “Xu”.](https://olhardigital.com.br/2020/12/28/games-e-consoles/lin-qi-ceo-do-estudio-de-jogos-yoozoo-morre-por-envenenamento-suspeito/)
+
 **DEZEMBRO 29**
 
 - [Optimized Quantum Algorithms: Breakthrough Toward Quantum Advantage](https://scitechdaily.com/optimized-quantum-algorithms-breakthrough-toward-quantum-advantage/)
