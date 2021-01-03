@@ -17,6 +17,7 @@ title: DEZEMBRO
 - [Yet another macOS privacy protections bypass](https://bit.ly/3lAKGb7)
 - [macOS to FreeBSD migration a.k.a. why I left macOS](https://bit.ly/2VmzJzd)
 - [AWS costs are up 236% compared to colocation in 2020](https://bit.ly/2HW8PuH)
+- [Após vários incidentes, prato do telescópio de Arecibo desaba. Segundo autoridades e relatórios locais, a antena parabólica de 300 metros do Observatório de Arecibo, em Porto Rico, desabou na manhã desta terça-feira (1°). Há meses a plataforma estava em situação precária, quando um dos cabos de sustentação do telescópio principal se partiu. Depois, veio uma sucessão de novos incidentes, dificultando a estabilidade da estrutura.](https://gizmodo.uol.com.br/prato-telescopio-arecibo-desaba/)
  
  
 **DEZEMBRO 02**
