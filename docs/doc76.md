@@ -50,6 +50,16 @@ title: DEZEMBRO
 
 **DEZEMBRO 10**
 
+- Outages Reported Across Facebook, Instagram, WhatsApp, and Messenger
+- Google, Dell, and Intel form new computing group for transforming cloud and IT tools
+- Gmail will now let you edit Office documents directly from email attachments
+- AirPods Max headphones made in Vietnam, not China, suggests report
+- Entry-Level iPad With 10.5-Inch Display and A13 Chip Rumored for Spring 2021
+- Amazon launches big data service focused on health care
+- Shopping is coming to Instagram Reels globally, turning the whole app into a catalog
+- Adobe just released the last Flash update ever
+- YouTube will remove any new videos alleging Trump lost election because of fraud
+
 **DEZEMBRO 11**
 
 **DEZEMBRO 12**
