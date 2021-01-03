@@ -19,6 +19,22 @@ title: DEZEMBRO
 
 **DEZEMBRO 08**
 
+- Apple Launches $550 Over-Ear Headphones Into Crowded Market
+- Apple and Cloudflare team up to stop your ISP seeing which websites you visit
+- 5G services in India - Jio promises launch in the second half of 2021
+- Facebook adds carts to WhatsApp to make shopping easier
+- Xiaomi’s Mi to Launch ‘Made in India’ 55-inch QLED TV on 16 Dec
+- Motorola Launches Moto G9 Power With 6000mAh Battery in India
+- Snap announces $3.5M fund directed toward AR Lens creation
+- SpaceX gets almost $900 million in federal subsidies to deliver broadband to rural America
+- Hackers Impersonate Crypto Exchange Gemini on YouTube
+- Adobe releases Arm version of Lightroom for Windows and macOS
+- You will soon be able to control your Google Nest devices with Samsung SmartThings
+- Samsung’s One UI 3.0 (Android 11) update is rolling out to Galaxy S20 phones on T-Mobile
+- Apple Music is now available on Google Assistant speakers, smart displays
+- Apple is working on a 32-core high performance chip that could blow away Intel
+- iOS 14.2 Reportedly Causing Severe Battery Drain
+
 **DEZEMBRO 09**
 
 **DEZEMBRO 10**
