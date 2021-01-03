@@ -37,6 +37,17 @@ title: DEZEMBRO
 
 **DEZEMBRO 09**
 
+- AirPods Max Development Took 4 Years, According to Former Apple Engineer
+- New Apple Watch ECG Algorithm Version Included in iOS 14.3 and watchOS 7.2
+- Apple’s Online Store Starts Listing Exercise Gear Ahead of Fitness+ Launch
+- Toyota Says It May Finally Be Ready To Make An Electric Car
+- Aprilia to Launch 300-400cc Motorcycle in India by 2023
+- Google launches health research app
+- Microsoft xCloud Game Streaming Lands on iOS, PCs Next Spring
+- China’s Huawei tested A.I. software that could identify Uighur Muslims and alert police, report says
+- YouTube will now remove videos disputing Joe Biden’s election victory
+- Google Photos now lets you sync your liked images with Apple Photos on iOS
+
 **DEZEMBRO 10**
 
 **DEZEMBRO 11**
