@@ -93,6 +93,13 @@ title: DEZEMBRO
 
 **DEZEMBRO 22**
 
+- Google invests in Indian startups Glance and DailyHunt
+- OnePlus Nord SE might just be the same ol’ Nord with new clothes
+- Voice Life Charges into the Future with Verge Currency (XVG) and VergePAY
+- You can now play Microsoft’s Flight Simulator in VR
+- Facebook will offer new account security options in 2021
+- Apple set to launch electric car production by 2024
+
 **DEZEMBRO 23**
 
 **DEZEMBRO 24**
