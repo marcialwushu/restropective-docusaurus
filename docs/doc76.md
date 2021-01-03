@@ -5,6 +5,20 @@ title: DEZEMBRO
 
 **DEZEMBRO 01**
 
+- [Thank You Dang](https://bit.ly/3q8R9xs)
+- [Tony Hsieh Has Died](https://bit.ly/37ewm2K)
+- [DeepMind Solved Protein Folding](https://bit.ly/2JtRcD6)
+- [How to Think for Yourself](https://bit.ly/3lbts3C)
+- [A free-as-in-freedom re-implementation of Google’s Android user space](https://bit.ly/2Hqjc6W)
+- [AWS Announces macOS on EC2](https://bit.ly/3ljhc1a)
+- [Arecibo Observatory Collapsed](https://bit.ly/3qklZTC)
+- [Salesforce Signs Definitive Agreement to Acquire Slack](https://bit.ly/3lsV6cD)
+- [AWS Lambda pricing now per ms](https://bit.ly/36oEn5T)
+- [Yet another macOS privacy protections bypass](https://bit.ly/3lAKGb7)
+- [macOS to FreeBSD migration a.k.a. why I left macOS](https://bit.ly/2VmzJzd)
+- [AWS costs are up 236% compared to colocation in 2020](https://bit.ly/2HW8PuH)
+ 
+ 
 **DEZEMBRO 02**
 
 **DEZEMBRO 03**
