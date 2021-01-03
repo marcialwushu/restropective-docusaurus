@@ -74,6 +74,15 @@ title: DEZEMBRO
 
 **DEZEMBRO 17**
 
+- Solaris Rolls Its 20,000th Electric Bus Off The Line
+- Facebook hits back at Apple with second critical newspaper ad
+- Xiaomi’s Redmi 9 Power brings a 6,000mAh battery, Hi-Res Audio certified stereo speakers and more for just Rs 10,999
+- Google wins EU antitrust nod for $2.1 billion Fitbit deal
+- Apple AirPods Pro ‘Lite’ expected to launch as early as the first half of 2021
+- Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount
+- Netflix adds an audio-only mode to its Android app
+- Zoom lifts 40-minute call limit on free accounts over Christmas
+
 **DEZEMBRO 18**
 
 **DEZEMBRO 19**
