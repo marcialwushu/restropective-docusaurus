@@ -107,6 +107,13 @@ title: DEZEMBRO
 **DEZEMBRO 25**
 
 - [Tiny Quantum Computer Solves Real Logistics Optimization Problem](https://scitechdaily.com/tiny-quantum-computer-solves-real-logistics-optimization-problem/)
+- New HoloLens app lets you suspend virtual monitors in mid-air
+- Cyberpunk 2077 developer sued for allegedly lying about unfinished game
+- Apple rolls out lower App Store fees for ‘Small Business’ developers
+- Goldman Sachs says Apple doesn’t care about a car, rather the in-car experience
+- Canoo Is Looking To Save Overnight Delivery With 230-Mile Electric Van
+- Russian crypto-exchange Livecoin hacked after it lost control of its servers
+- Samsung’s deleting ads that mocked Apple for not including a charger in the box
 
 **DEZEMBRO 26**
 
