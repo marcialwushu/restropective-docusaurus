@@ -21,6 +21,19 @@ title: DEZEMBRO
  
 **DEZEMBRO 02**
 
+- [AWS S3 is now strongly consistent](https://bit.ly/37uk5Ho)
+- [Ask HN: What are the best advanced computer science courses online?](https://bit.ly/3lvyBUe)
+- [UK approves Pfizer/BioNTech Covid vaccine](https://bit.ly/3lyGSqC)
+- [QBE vs. LLVM](https://bit.ly/2Jyrihp)
+- [Front: The $1.3B Startup Slackifying Email](https://bit.ly/2Vmzvb8)
+- [Arecibo Observatory Telescope Collapses, Ending an Era of World-Class Research](https://bit.ly/2VrRJZ0)
+- [Google illegally spied on workers before firing them, US labor board alleges](https://bit.ly/3g0P7dN)
+- [Artist releases album called “Ok Google Play Music” on Spotify](https://bit.ly/36xDd8h)
+- [Kubernetes is deprecating Docker support](https://bit.ly/3qpGVJc)
+- [Microsoft apologises for feature criticised as workplace surveillance](https://bit.ly/37pwKeY)
+- [TSMC confirms 3nm tech for 2022, could enable epic 80B transistor GPUs](https://bit.ly/33Dbj8V)
+- [Materialize Raises a $32M Series B](https://bit.ly/3g1dyI8)
+
 **DEZEMBRO 03**
 
 **DEZEMBRO 04**
