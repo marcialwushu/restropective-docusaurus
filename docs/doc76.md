@@ -130,6 +130,13 @@ title: DEZEMBRO
 **DEZEMBRO 29**
 
 - [Optimized Quantum Algorithms: Breakthrough Toward Quantum Advantage](https://scitechdaily.com/optimized-quantum-algorithms-breakthrough-toward-quantum-advantage/)
+- Apple Researching Keyboards With Adaptive Displays on Each Key
+- Tesla will start selling cars in India next year, government says
+- The World's Smallest Portable Nintendo 64 Is Barely Larger Than a Cartridge
+- Korea’s Artificial Sun Breaks World Record Running For An Incredible 20 Seconds
+- Samsung could use two screens for its under-display camera phones
+- LG’s new ‘QNED’ TVs will have up to nearly 30,000 tiny LEDs behind the screen
+- Coinbase halts trading of XRP following SEC suit against Ripple
 
 **DEZEMBRO 30**
 
