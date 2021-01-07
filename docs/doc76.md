@@ -37,6 +37,19 @@ title: DEZEMBRO
 
 **DEZEMBRO 03**
 
+- [HTTP/2 Push is dead](https://bit.ly/2Vu6oTl)
+- [For every cycle a HW engineer saves, a SW engineer will add two instructions](https://bit.ly/3mBe8Pg)
+- [Mushrooms Can Eat Plastic, Petroleum and CO2](https://bit.ly/3mv5ZvM)
+- [U.S. states plan to sue Facebook next week: sources](https://bit.ly/3ly8IDm)
+- [Secret Trig Functions Your Math Teachers Never Taught You (2013)](https://bit.ly/3mAUuTw)
+- [Baby girl born from record-setting 27-year-old embryo](https://bit.ly/3mA6qoG)
+- [Amazon Reportedly Has Pinkerton Agents Surveil Workers Who Try to Form Unions](https://bit.ly/36Bs5Hp)
+- [Stripe Treasury](https://bit.ly/33FwYxv)
+- [Drone Footage of Arecibo Observatory Collapse](https://bit.ly/3omdWUI)
+- [Colombia Is Considering Legalizing Its Cocaine Industry](https://bit.ly/2VuzcLs)
+- [S&P Dow Jones Indices to launch cryptocurrency indexes in 2021](https://bit.ly/36xkjOS)
+- [The withering email that got an ethical AI researcher fired at Google](https://bit.ly/3oiRYlq)
+
 **DEZEMBRO 04**
 
 **DEZEMBRO 05**
