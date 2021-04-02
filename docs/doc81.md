@@ -27,3 +27,25 @@ sidebar_label: JANEIRO
 - WhatsApp is forcing users to share personal data with Facebook, and Elon Musk is urging people to switch to Signal, a smaller encrypted messaging app
 - Yamaha could be preparing to drastically increase electric two-wheelers in India
 - YouTube bans TalkRadio for allegedly breaching content policy
+
+**JANEIRO 08**
+
+**JANEIRO 09**
+
+**JANEIRO 10**
+
+**JANEIRO 11**
+
+**JANEIRO 12**
+
+- Samsung’s next flagship Exynos processor will have AMD GPU
+- OnePlus Band Launches in India
+- Samsung’s upcoming 65W USB-PD charger gets pictured
+- Nvidia announces $329 GeForce RTX 3060, available in February
+- You can now use Yelp to report businesses that aren't enforcing social distancing and mask use
+- WhatsApp clarifies it’s not giving all your data to Facebook after surge in Signal and Telegram users
+- Intel graphics chip will tap new version of TSMC 7-nanometer process
+
+**JANIERO 13**
+
+**JANEIRO 14**
