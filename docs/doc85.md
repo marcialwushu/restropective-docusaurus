@@ -40,6 +40,10 @@ sidebar_label: MAIO
 
 **MAIO 14**
 
+- [**Cibercriminosos se passam por membros do Ministério Público para aplicar golpes**.]() Um procedimento instaurado por meio da Comissão de Preservação da Autonomia do Ministério Público (CPAMP) está investigando uma série de golpes que usam imagens e a identidade do Ministério Público (MP) para roubar dados pessoais. As mensagens, enviadas através de WhatsApp e e-mail, intimam a vítima a comparecer a uma audiência e acompanham um link que, quando ativado, instala um software malicioso responsável pelo roubo de dados.
+- [**Colonial Pipeline pagou para cibercriminosos quase US$ 5 milhões em resgate**.]() A Colonial Pipeline pagou quase US$ 5 milhões a criminosos do Leste Europeu na sexta-feira, contradizendo relatórios no início desta semana de que a empresa não tinha intenção de pagar uma taxa de extorsão para ajudar a restaurar o maior gasoduto do país, de acordo com duas pessoas familiarizadas com a transação.
+- [**Transparent Tribe APT expande seu arsenal de malware para Windows**.]() Transparent Tribe, também conhecido como APT36 e Mythic Leopard, continua a criar domínios falsos que imitam organizações militares e de defesa legítimas como um componente central de suas operações.
+
 **MAIO 15**
 
 **MAIO 16**
