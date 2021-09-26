@@ -32,6 +32,13 @@ sidebar_label: FEVEREIRO
 
 **FEVEREIRO 10**
 
+- Kangana Ranaut threatens to leave Twitter, backs homegrown app Koo
+- SpaceX opens Starlink satellite internet pre-orders to the public
+- Exynos 2100 still can’t keep up with Snapdragon 888
+- Snap partners with ShareChat’s Moj to roll out Camera Kit
+- Apple reportedly developing next-gen ultra-thin displays for AR devices with TSMC
+- Twitter Says Trump Is Banned Forever, Even if He Becomes President Again in 2024
+
 **FEVEREIRO 11**
 
 **FEVEREIRO 12**
