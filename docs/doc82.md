@@ -72,6 +72,15 @@ sidebar_label: FEVEREIRO
 
 **FEVEREIRO 22**
 
+- Apple Surpassed Samsung as World’s Largest Smartphone Maker in Fourth Quarter
+- All Samsung devices from 2019 or later will get 4 years of security updates
+- WhatsApp to switch off messages for all who reject new terms
+- Netflix App Can Now Automatically Download Shows or Movies You May Be Interested In
+- 30,000 Macs infected with new Silver Sparrow malware
+- Google to lift political ad ban this week
+- Xiaomi launches OnePlus Bullets Wireless rival with ANC for under $30
+- Starlink Download Speeds to Double to 300Mbps This Year, Musk Says
+
 **FEVEREIRO 23**
 
 **FEVEREIRO 24**
