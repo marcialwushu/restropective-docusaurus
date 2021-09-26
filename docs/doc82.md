@@ -88,3 +88,12 @@ sidebar_label: FEVEREIRO
 **FEVEREIRO 25**
 
 **FEVEREIRO 26**
+
+- Apple forced to add iPhone and MacBook repairability scores to comply with French law
+- YouTube announces parent-approved accounts to keep teens and tweens away from violence, inappropriate content
+- Batman’s next comic series is a Fortnite crossover
+- EulerBeats Generate $1.1 Million in Royalties in First Week
+- #RIPTwitter trends after it unveils paid Super Follows subscription feature
+- Apple Begins Selling Refurbished M1 Mac Mini
+- PS4 and PS5 owners can get Final Fantasy VII Remake for free with PlayStation Plus in March
+
