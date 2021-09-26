@@ -49,3 +49,42 @@ sidebar_label: JANEIRO
 **JANIERO 13**
 
 **JANEIRO 14**
+
+**JANEIRO 15**
+
+- GoFuel starts doorstep fuel delivery in India
+- Signal appears to be down for some users after the messaging app saw a record spike in downloads
+- Snapchat is shelling out millions to young users to create viral content in an effort to compete against TikTok
+- Samsung's new Galaxy S21 smartphones won't come with a wall charger or headphones
+- Galaxy Active Watch 2 gets SmartThings Find in feature-packed update
+- Apple uses Shazam data to predict hot artists for 2021
+- YouTube is suspending President Donald Trump’s channel
+- Windows 10X is now Microsoft’s true answer to Chrome OS
+
+**JANEIRO 16**
+
+**JANEIRO 17**
+
+**JANEIRO 18**
+
+**JANEIRO 19**
+
+**JANEIRO 20**
+
+**JANEIRO 21**
+
+**JANEIRO 22**
+
+**JANEIRO 23**
+
+**JANEIRO 24**
+
+**JANEIRO 25**
+
+**JANEIRO 26**
+
+**JANEIRO 27**
+
+**JANEIRO 28**
+
+**JANEIRO 29**
