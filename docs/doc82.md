@@ -55,6 +55,15 @@ sidebar_label: FEVEREIRO
 
 **FEVEREIRO 18**
 
+- NVIDIA to Launch Processor Tailor Made for Ethereum Mining
+- Phishing attack targets Indian officials through rogue email from government ID
+- Prime minister Scott Morrison attacks Facebook for 'arrogant' move to 'unfriend Australia'
+- Nvidia to Restrict the RTX 3060's Ability to Mine Cryptocurrency
+- Tesla Powerwalls and other home battery packs proving more than useful in Texas blackouts
+- Microsoft Starts Automatically Removing Flash From Windows
+- Safari for Mac to Support WebM Video Playback 11 Years After Its Launch
+- Apple’s latest iOS 14.5 beta 2 update introduces 200 new emoji, swipe gesture for Apple Music and more
+
 **FEVEREIRO 19**
 
 **FEVEREIRO 20**
