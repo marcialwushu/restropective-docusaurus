@@ -64,6 +64,18 @@ sidebar_label: MARÇO
 
 **MARÇO 17**
 
+- OnePlus CEO confirms the OnePlus Watch doesn’t run Wear OS
+- BMW unveils the exterior of the i4, its first electric sedan
+- Samsung’s midrange phones now feature fast refresh rate screens, stabilized cameras
+- Samsung says it might skip the Galaxy Note this year
+- T-Mobile customers will get access to a better version of Pandora, free of charge
+- Android 12 Developer Preview 2 available
+- Twitch makes it easier for streamers to wipe out their old videos to avoid copyright strikes
+- Apple Silicon iMac Potentially Surfaces in Xcode Crash Log
+- EA Play will be available to Xbox Game Pass PC subscribers on March 18th
+- Lucid Air will be the world’s first vehicle to integrate Dolby Atmos
+- Facebook says it’ll start punishing group members who break its rules
+
 **MARÇO 18**
 
 **MARÇO 19**
