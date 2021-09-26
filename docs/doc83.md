@@ -53,6 +53,15 @@ sidebar_label: MARÇO
 
 **MARÇO 16**
 
+- Instagram will no longer let adults message teens who don’t follow them
+- Signal messenger stops working in China
+- Dropbox will have a free password manager in April — if you’ve got 50 or fewer passwords
+- The Demon Slayer movie is finally coming to the US after breaking records in Japan
+- Tinder is giving away free mail-in COVID-19 tests
+- iPhone 12 is slower than every major Android phone in 5G speed test, new study shows
+- Zoom Escaper lets you sabotage your own meetings with audio problems, crying babies, and more
+- Intel’s 11th Gen desktop chips are here with faster speeds but fewer cores
+
 **MARÇO 17**
 
 **MARÇO 18**
