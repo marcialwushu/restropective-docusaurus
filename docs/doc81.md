@@ -67,6 +67,15 @@ sidebar_label: JANEIRO
 
 **JANEIRO 18**
 
+- Samsung Galaxy M62 to Have 7000 mAh Battery, Check Specifications
+- In challenge to Tesla, Chinese electric carmaker Xpeng releases autonomous features for highway driving
+- Billionaire Branson’s Virgin Orbit Sends Satellites Into Space
+- Apple is Reportedly Redesigning the iMac
+- Apple sued for not removing Telegram from App Store over violent content and hate groups
+- WhatsApp delays controversial update after user backlash
+- Nintendo Switch made up 87 per cent of all consoles sold in Japan in 2020
+- Apple Extends 13-Inch MacBook Pro Backlight Repair Program
+
 **JANEIRO 19**
 
 **JANEIRO 20**
