@@ -90,6 +90,15 @@ sidebar_label: JANEIRO
 
 **JANEIRO 25**
 
+- Spotify now hosts audiobook recordings from YouTuber David Dobrik and actress Hilary Swank
+- Tesla partners with Samsung on new 5nm chip for full self-driving
+- Windows 10X install image for Surface Pro 7 released
+- Apple officially launches new ‘Time to Walk’ feature for Apple Watch and Fitness+
+- Google Maps will soon display Covid-19 vaccination sites
+- Netflix update makes your Android phone’s crappy speakers sound better
+- Instagram adds ‘professional dashboard’ for businesses and creators
+- SpaceX breaks India’s record by launching 143 satellites on a single rocket
+
 **JANEIRO 26**
 
 **JANEIRO 27**
