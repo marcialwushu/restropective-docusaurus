@@ -42,6 +42,15 @@ sidebar_label: MARÇO
 
 **MARÇO 15**
 
+- Apple is killing off its $350 HomePod smart speaker, the second high-end product it's discontinued this month
+- Volkswagen to switch EV battery type, leaving supply deals in doubt
+- Apple releases iOS 14.5 beta 4 to developers and public beta users
+- Nvidia’s new beta driver unlocks RTX 3060 Ethereum cryptocurrency mining
+- Elon Musk changes his Tesla job title to 'technoking'
+- Apple Maps Could Feature Real-Time Crowd Data for Points of Interest
+- Avatar passes Avengers: Endgame to retake box office crown after China re-release
+- Netflix Tests Cracking Down on Password Sharing
+
 **MARÇO 16**
 
 **MARÇO 17**
