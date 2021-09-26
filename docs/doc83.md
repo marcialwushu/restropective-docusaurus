@@ -81,3 +81,23 @@ sidebar_label: MARÇO
 **MARÇO 19**
 
 **MARÇO 20**
+
+**MARÇO 21**
+
+**MARÇO 22**
+
+**MARÇO 23**
+
+**MARÇO 24**
+
+**MARÇO 25**
+
+- Final Fantasy VIII is now on iOS and Android
+- Tesla-inspired Swedish X Shore electric boat is now coming to America
+- The new Xiaomi Mi Mix will be the first smartphone to pack a liquid lens
+- Porsche is still undecided about making new 718 Cayman and Boxster battery electric or not
+- 15 Tesla Semi electric trucks are expected to be delivered to PepsiCo this year
+- Facebook, Google and Twitter CEOs face disinformation grilling in Congress 
+- Maps.me to Launch Financial Services of the Future to Millions of Users
+- Spotify redesigns Mac and web apps for a simpler experience
+- Motorola phones will now include endangered languages from Latin America
