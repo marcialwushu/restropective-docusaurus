@@ -13,6 +13,8 @@ title: JULHO
 
 **JULHO 05**
 
+- [**New variant of the BigLock ransomware** - dnwls0719 found a new variant of the BigLock ransomware that appends the **.nermer** extension and drops a ransom note named **PROTECT_INFO.TXT**.](https://twitter.com/fbgwls245/status/1400971422336311297)
+
 **JULHO 06**
 
 - Nintendo Switch OLED model will go on sale October 8th for $350
