@@ -24,6 +24,7 @@ title: JULHO
 - Audio editor Audacity denies spyware accusation
 - Fitbit's Fashionable New Fitness Tracker Is a Solid Alternative to a Smartwatch
 - People Now Spend More Time On TikTok Than YouTube, Facebook, Netflix
+- [**New Evil Corp ransomware mimics PayloadBin gang to evade US sanctions** - The new PayloadBIN ransomware has been attributed to the Evil Corp cybercrime gang, rebranding to evade sanctions imposed by the US Treasury Department's Office of Foreign Assets Control (OFAC).](https://www.bleepingcomputer.com/news/security/new-evil-corp-ransomware-mimics-payloadbin-gang-to-evade-us-sanctions/)
 
 **JULHO 07**
 
