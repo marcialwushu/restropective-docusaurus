@@ -27,6 +27,7 @@ title: JULHO
 - Fitbit's Fashionable New Fitness Tracker Is a Solid Alternative to a Smartwatch
 - People Now Spend More Time On TikTok Than YouTube, Facebook, Netflix
 - [**US warns of action against ransomware gangs if Russia refuses** - White House Press Secretary Jen Psaki says that the US will take action against cybercriminal groups from Russia if the Russian government refuses to do so.](https://www.bleepingcomputer.com/news/security/us-warns-of-action-against-ransomware-gangs-if-russia-refuses/)
+- [**Kaseya: Roughly 1,500 businesses hit by REvil ransomware attack** - Kaseya says the REvil supply-chain ransomware attack breached the systems of roughly 60 of its direct customers using the company's VSA on-premises product.](https://www.bleepingcomputer.com/news/security/kaseya-roughly-1-500-businesses-hit-by-revil-ransomware-attack/)
 
 **JULHO 07**
 
