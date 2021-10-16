@@ -25,6 +25,7 @@ title: JULHO
 - Fitbit's Fashionable New Fitness Tracker Is a Solid Alternative to a Smartwatch
 - People Now Spend More Time On TikTok Than YouTube, Facebook, Netflix
 - [**New Evil Corp ransomware mimics PayloadBin gang to evade US sanctions** - The new PayloadBIN ransomware has been attributed to the Evil Corp cybercrime gang, rebranding to evade sanctions imposed by the US Treasury Department's Office of Foreign Assets Control (OFAC).](https://www.bleepingcomputer.com/news/security/new-evil-corp-ransomware-mimics-payloadbin-gang-to-evade-us-sanctions/)
+- [**New Findnotefile ransomware** - Jirehlov Solace found a new Findnotefile ransomware variant that appends the .reddot extension.](https://twitter.com/Jirehlov/status/1401527399729090560)
 
 **JULHO 07**
 
