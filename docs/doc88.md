@@ -70,6 +70,14 @@ sidebar_label: AGOSTO
 
 **AGOSTO 28**
 
+- Samsung quietly revises 970 EVO Plus SSD with new Gen 4.0 controller
+- Microsoft won’t stop you installing Windows 11 on older PCs
+- Xbox engineer fixes user’s profile picture, makes the world a better place
+- TikTok bans 'milk crate challenge' from its app, citing concerns over dangerous acts
+- Apple Launches ‘No Sound’ Repair Program for iPhone 12 and 12 Pro Models
+- Cloudflare says it stopped the largest DDoS attack ever reported
+- Tesla files to become electric utility in Texas
+
 **AGOSTO 29**
 
 **AGOSTO 30**
