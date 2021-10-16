@@ -15,6 +15,7 @@ title: JULHO
 
 - [**REvil ransomware asks $70 million to decrypt all Kaseya attack victims** - REvil ransomware has set a price for decrypting all systems locked during the Kaseya supply-chain attack. The gang wants $70 million in Bitcoin for the tool that allows all affected businesses to recover their files.](https://www.bleepingcomputer.com/news/security/revil-ransomware-asks-70-million-to-decrypt-all-kaseya-attack-victims/)
 - [**CISA, FBI share guidance for victims of Kaseya ransomware attack** - CISA and the Federal Bureau of Investigation (FBI) have shared guidance for managed service providers (MSPs) and their customers impacted by the REvil supply-chain ransomware attack that hit the systems of Kaseya's cloud-based MSP platform.](https://www.bleepingcomputer.com/news/security/cisa-fbi-share-guidance-for-victims-of-kaseya-ransomware-attack/)
+- [**New STOP Djvu ransomware variants** - PCrisk found new STOP ransomware variants that append the .zqqw and .pooe extensions.](https://twitter.com/pcrisk/status/1411916269000003584)
 
 **JULHO 06**
 
