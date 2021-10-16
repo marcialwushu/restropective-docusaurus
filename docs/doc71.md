@@ -13,7 +13,7 @@ title: JULHO
 
 **JULHO 05**
 
-- [**New variant of the BigLock ransomware** - dnwls0719 found a new variant of the BigLock ransomware that appends the **.nermer** extension and drops a ransom note named **PROTECT_INFO.TXT**.](https://twitter.com/fbgwls245/status/1400971422336311297)
+- [**REvil ransomware asks $70 million to decrypt all Kaseya attack victims** - REvil ransomware has set a price for decrypting all systems locked during the Kaseya supply-chain attack. The gang wants $70 million in Bitcoin for the tool that allows all affected businesses to recover their files.](https://www.bleepingcomputer.com/news/security/revil-ransomware-asks-70-million-to-decrypt-all-kaseya-attack-victims/)
 
 **JULHO 06**
 
