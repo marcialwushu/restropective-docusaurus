@@ -15,6 +15,14 @@ title: JULHO
 
 **JULHO 06**
 
+- Nintendo Switch OLED model will go on sale October 8th for $350
+- All iPhone 14 Models May Feature 120Hz ProMotion Displays
+- Neighborhood social network Nextdoor is going public
+- Nothing’s debut earbuds will cost $99 and feature noise cancellation
+- Audio editor Audacity denies spyware accusation
+- Fitbit's Fashionable New Fitness Tracker Is a Solid Alternative to a Smartwatch
+- People Now Spend More Time On TikTok Than YouTube, Facebook, Netflix
+
 **JULHO 07**
 
 **JULHO 08**
