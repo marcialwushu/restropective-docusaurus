@@ -33,6 +33,8 @@ title: JULHO
 
 **JULHO 07**
 
+- [**Fake Kaseya VSA security update backdoors networks with Cobalt Strike** - Threat actors are trying to capitalize on the ongoing Kaseya ransomware attack crisis by targeting potential victims in a spam campaign pushing Cobalt Strike payloads disguised as Kaseya VSA security updates.](https://www.bleepingcomputer.com/news/security/fake-kaseya-vsa-security-update-backdoors-networks-with-cobalt-strike/)
+
 **JULHO 08**
 
 **JULHO 09**
