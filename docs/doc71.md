@@ -39,6 +39,14 @@ title: JULHO
 
 **JULHO 13**
 
+- Apple releases MagSafe Battery Pack for iPhone 12, available now for $99
+- Some iOS versions mysteriously refuse to show ‘69’ as the temperature in the iPhone Weather app
+- Apple Expecting High Demand for Upcoming MacBook Pros, Enlists Extra Mini-LED Display Supplier
+- Verizon and Mastercard team up to turn iPhones into NFC payment terminals
+- YouTube Shorts, Google’s version of TikTok, is now available worldwide
+- SpaceX to partner with Indian companies to manufacture satellite communications gear
+- YouTube deletes Trump video, freezes CPAC account
+
 **JULHO 14**
 
 **JULHO 15**
