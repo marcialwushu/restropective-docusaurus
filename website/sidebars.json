@@ -20,6 +20,7 @@
     "BossaBox Newsletter": ["doc64"],
     "Wolfram Insider": ["doc80", "doc78", "doc79"],
     "Open Infrastructure Foundation": ["doc95"],
-    "Talkwalker Alerts - Alert for IPFS": ["doc97", "doc98"]
+    "Talkwalker Alerts - Alert for IPFS": ["doc97", "doc98"],
+    "Talkwalker Alerts - Alert for Hyperledger": ["doc99"]
   }
 }
