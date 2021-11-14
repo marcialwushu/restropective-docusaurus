@@ -1,6 +1,6 @@
 ---
 id: doc62
-title: Ionic Dev Newsletter - Dec. 2018: ‘Tis the season for exciting updates!
+title: Ionic Dev Newsletter - Dec. 2018  ‘Tis the season for exciting updates!
 ---
 
 
