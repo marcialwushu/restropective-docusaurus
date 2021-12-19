@@ -21,6 +21,7 @@
     "Wolfram Insider": ["doc80", "doc78", "doc79"],
     "Open Infrastructure Foundation": ["doc95"],
     "Talkwalker Alerts - Alert for IPFS": ["doc97", "doc98"],
-    "Talkwalker Alerts - Alert for Hyperledger": ["doc99"]
+    "Talkwalker Alerts - Alert for Hyperledger": ["doc99"],
+    "Banco Central - Feeds do BC": ["doc100", "doc101", "doc102"]
   }
 }
