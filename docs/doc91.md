@@ -82,5 +82,14 @@ sidebar_label: NOVEMBRO
 
 **NOVEMBRO 26**
 
+- Kuo: Apple plans to replace the iPhone with AR in 10 years
+- Walmart launches drone-delivery system for customers in Arkansas
+- Samsung sells over a million units of The Frame TV in 2021
+- EU internet regulation to push Facebook to sanitise Metaverse platforms
+- Made-in-China Tesla Model Y Performance debuts with AMD Ryzen graphics chip
+- AT&T and Verizon agree to 5G power limits to resolve FAA safety concerns
+- Amazon faces Black Friday strikes in some regions
+
+
 
 
