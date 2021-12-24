@@ -70,6 +70,16 @@ sidebar_label: NOVEMBRO
 
 **NOVEMBRO 25**
 
+- Tesla offers $20k Model S Plaid Ceramic Brake Kit for optimized track handling
+- Spotify becomes latest to experiment with a TikTok-style video feed
+- Tesla begins Model Y Performance deliveries in China
+- SpaceX putting the finishing touches on Starship’s orbital launch pad
+- MetaWars Launchpad Revolutionizing the GameFi Industry as the ‘First’ Cross-Game Metaverse Launchpad
+- New CronRAT malware infects Linux systems using odd day cron jobs
+- Samsung sells over a million units of The Frame TV in 2021
+- News publishers seek right to negotiate collectively with Google and Facebook
+- Ripple to help create a CBDC for this tiny island-nation
+
 **NOVEMBRO 26**
 
 
