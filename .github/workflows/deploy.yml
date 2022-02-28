@@ -1,5 +1,3 @@
-# .github/workflows/deploy.yml
-
 name: GitHub Pages
 
 on:
