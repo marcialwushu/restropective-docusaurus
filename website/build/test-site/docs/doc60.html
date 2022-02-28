@@ -1,0 +1,1341 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Phrack Inc  Volume One - Issue Two · Retrospectiva na Tecnologia</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="```"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Phrack Inc  Volume One - Issue Two · Retrospectiva na Tecnologia"/><meta property="og:type" content="website"/><meta property="og:url" content="https://facebook.github.io/test-site/index.html"/><meta property="og:description" content="```"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/test-site/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://facebook.github.io/test-site/blog/atom.xml" title="Retrospectiva na Tecnologia Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://facebook.github.io/test-site/blog/feed.xml" title="Retrospectiva na Tecnologia Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/test-site/js/scrollSpy.js"></script><link rel="stylesheet" href="/test-site/css/main.css"/><script src="/test-site/js/codetabs.js"></script></head><body class="sideNavVisible"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/test-site/"><img class="logo" src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia"/><h2 class="headerTitleWithLogo">Retrospectiva na Tecnologia</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/test-site/docs/doc1.html" target="_self">News</a></li><li class="siteNavGroupActive"><a href="/test-site/docs/doc4.html" target="_self">Feed</a></li><li class=""><a href="/test-site/help.html" target="_self">Ajuda</a></li><li class=""><a href="/test-site/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Phrack Inc </span></h2></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">MSSQLTips</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc4.html">New Feature in SQL Server 2019 : Scalar UDF Inlining (MSSQLTips 11/12/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc5.html">Learn SQL Server Stored Procedures (MSSQLTips 11/9/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc41.html">Querying SQL Server Tables from .NET (MSSQLTips 11/14/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc42.html">SQL Server Transparent Data Encryption Alternative (MSSQLTips 11/16/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc43.html">Cost Effective SQL Server Encryption (MSSQLTips 11/19/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc44.html">Write More Compact SQL Server Code (MSSQLTips 11/20/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc63.html">SQL Server on Linux Tips (MSSQLTips 11/27/2018)</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">IT Forum 365</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc39.html">Confira as notícias que preparamos para você!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc40.html">Vem conferir o que preparamos para você  😉</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Feedspot Today</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc58.html">Serverless PHP on AWS Lamda</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc45.html">Interview with Josh Holmes, Interview with Josh Holmes, 405 Method Not Allowed</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc46.html">Security Vulnerability Announcement: Archive_Tar</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">ImmuniWeb</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc47.html">Cybercrime &amp; Application Security Weekly Briefing</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">InfoQ</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc52.html">Oracle fala sobre Blockchain, Bots e Serveless, JPA 2.2, RFC no React e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc51.html">9 perguntas sobre REST, Product Management no Nubank, Scrum em Escala e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc50.html">5 coisas que todo desenvolvedor deve saber, novo message broker da AWS , e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc49.html">Especial .NET e Plataformas Microsoft</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc48.html">Android Things, Kubernets, FPGAs, Github, Oreo Go, Nodejs e muito mais!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">JavaScript Weekly</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc53.html">JavaScript Weekly - 458 OCTOBER 11, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc54.html">JavaScript Weekly - 457 OCTOBER 4, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc77.html">Angular 9, a new decimal datatype for JS, and how to read specs</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Versioning</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc57.html">Versioning Front-end - Spellbound</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc56.html">Versioning Front-end - Scroll Lot of Love</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc93.html">Command and Conquer</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc94.html">Flying on Autopilot - 30 de jan de 2019</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Phrack Inc </h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/test-site/docs/doc60.html">Phrack Inc  Volume One - Issue Two</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc59.html">Phrack Inc  Volume One - Issue One</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Newsletter Ionic.IO</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc62.html">Ionic Dev Newsletter - Dec. 2018  ‘Tis the season for exciting updates!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc61.html">Tutorials &amp; Guides from the Ionic Community - December 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">BossaBox Newsletter</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc64.html">Metodologias Ágeis, Importância do SEO, Ferramentas all-in-one de Gestão, Desenvolvimento e Design e Melhores do Medium!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Wolfram Insider</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc80.html">Your Insider briefing - COVID-19 special edition</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc78.html">Wolfram Community Insider - Quarter 1, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc79.html">Wolfram Community Insider - Quarter 4, 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Open Infrastructure Foundation</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc95.html">Today&#x27;s OpenInfra News</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for IPFS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc97.html">Talkwalker Alerts - Alert for IPFS | 13 de novembro de 2021</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc98.html">Talkwalker Alerts - Alert for IPFS | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for Hyperledger</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc99.html">Talkwalker Alerts Alert for Hyperledger | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Banco Central - Feeds do BC</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc100.html">Notícias e notas - Notas técnicas</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc101.html">Notícias e notas - Nota à imprensa</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc102.html">Normativos - Resoluções</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc103.html">Normativos - Comunicados do Banco Central</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc104.html">Pix API Issue Github</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc105.html">Pix DICT API Issue Github</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">PYMNTS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc106.html">The Week in Review (Plus, It’s a Very Vending Machine Christmas)</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Phrack Inc  Volume One - Issue Two</h1></header><article><div><span><pre><code class="hljs">                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">1</span> of <span class="hljs-number">9</span>
+
+                                 Phrack Index
+                                 ~~~~~~ ~~~~~
+
+                 This issue of Phrack Inc. <span class="hljs-keyword">is</span> rather lengthy file-wise
+         compared to issue one.  Phrack Inc. can be found on the
+         following boards regularly:
+
+         Broadway Show                      <span class="hljs-number">718</span><span class="hljs-number">-615</span><span class="hljs-number">-0580</span>
+         Newsweek Elite                     <span class="hljs-number">617</span><span class="hljs-number">-341</span><span class="hljs-number">-2535</span>
+         Kleptic Palace AE/Catfur           <span class="hljs-number">314</span><span class="hljs-number">-527</span><span class="hljs-number">-5551</span>
+         Metal Shop Private                 Request only
+         Metal Shop AE                      Request only
+
+         ...as well as many other BBS<span class="hljs-string">'s and AE'</span>s around the country.
+         Be on the lookout <span class="hljs-keyword">for</span> issue three.  If you wish to submit an
+         article, <span class="hljs-keyword">get</span> <span class="hljs-keyword">in</span> touch with any member of Metal Shop Private
+         <span class="hljs-keyword">and</span> have a message transmitted to me.  Later on.
+
+                                              TARAN KING
+
+         This issue of Phrack Inc. includes the following philes:
+
+         <span class="hljs-number">1</span> Phrack Inc. Index  - Taran King
+         <span class="hljs-number">2</span> Prevention of the Billing Office Blues - Forest Ranger
+         <span class="hljs-number">3</span> Homemade Guns - Man-Tooth
+         <span class="hljs-number">4</span> Blowguns - The Pyro
+         <span class="hljs-number">5</span> Tac Dialups taken <span class="hljs-keyword">from</span> Arpanet - Phantom Phreak        
+         <span class="hljs-number">6</span> Universal Informational Services via ISDN - Taran King
+         <span class="hljs-number">7</span> MCI Overview - Knight Lightning
+         <span class="hljs-number">8</span> Hacking RSTS - Data Line
+         <span class="hljs-number">9</span> Phreak World News - Knight Lightning
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">2</span> <span class="hljs-keyword">of</span> <span class="hljs-number">9</span>
+
+                    Prevention <span class="hljs-keyword">of</span> the Billing Office Blues
+                           Editorial: Forest Ranger
+
+
+       <span class="hljs-keyword">In</span> an earlier article there were ways explained <span class="hljs-keyword">on</span> bullshiting the
+Billing Office at Bell. <span class="hljs-keyword">By</span> doing so one could disconnect a persons <span class="hljs-type">line</span>,
+<span class="hljs-keyword">add</span> <span class="hljs-keyword">call</span> forwarding, <span class="hljs-keyword">call</span> waiting, threeway calling, speed calling, <span class="hljs-keyword">or</span> other
+<span class="hljs-keyword">options</span> that might be available through Bell. Well, this can be very disturbing
+<span class="hljs-keyword">and</span> cause many problems so lets see how this can be prevented. First <span class="hljs-keyword">off</span>, it
+would be a very good idea <span class="hljs-keyword">to</span> <span class="hljs-keyword">call</span> the Billing office <span class="hljs-keyword">for</span> your exchange <span class="hljs-keyword">and</span> ask
+that <span class="hljs-keyword">all</span> inquires made <span class="hljs-keyword">on</span> the your <span class="hljs-type">line</span> be verified <span class="hljs-keyword">with</span> you. <span class="hljs-keyword">Is</span> what happens
+now <span class="hljs-keyword">is</span> that Bell marks down <span class="hljs-keyword">in</span> your file that <span class="hljs-keyword">if</span> you decide that you would <span class="hljs-keyword">like</span>
+a certain Bell <span class="hljs-keyword">option</span> added <span class="hljs-keyword">to</span> your <span class="hljs-type">line</span>; they will <span class="hljs-keyword">call</span> <span class="hljs-keyword">and</span> <span class="hljs-keyword">check</span> it <span class="hljs-keyword">out</span> <span class="hljs-keyword">with</span>
+you <span class="hljs-keyword">or</span> the person that pays the phone bill. So <span class="hljs-keyword">if</span> someone tries <span class="hljs-keyword">to</span> <span class="hljs-keyword">add</span>
+something onto your <span class="hljs-type">line</span> you will be notified <span class="hljs-keyword">before</span> hand. This has two
+advantages, one you will prevent <span class="hljs-keyword">any</span> occurences <span class="hljs-keyword">on</span> your <span class="hljs-type">line</span>, two you will know
+that someone <span class="hljs-keyword">is</span> attempting <span class="hljs-keyword">to</span> mess around <span class="hljs-keyword">with</span> your phone <span class="hljs-type">line</span>. But, <span class="hljs-keyword">in</span> the <span class="hljs-keyword">end</span>
+you will come <span class="hljs-keyword">out</span> <span class="hljs-keyword">on</span> top because you took the <span class="hljs-type">time</span> <span class="hljs-keyword">to</span> <span class="hljs-keyword">listen</span>. <span class="hljs-keyword">And</span> <span class="hljs-keyword">as</span> Smokey the
+Bear says, "Don't Shit in the woods I LIVE HERE!".
+
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">3</span> of <span class="hljs-number">9</span>
+
+                    :::::::::::::::::::::::::::::::::::::::
+                    :::::::::::::::::::::::::::::::::::::::
+                    @@@@       --] Man-Tooth [--       @@@@
+                    @@@@          presents...          @@@@
+                    @@@@:::::::::::::::::::::::::::::::@@@@
+                    @@@@      -- HOMEMADE GUNS --      @@@@
+                    @@@@:::::::::::::::::::::::::::::::@@@@
+                    @@@@             from              @@@@
+                    @@@@  <span class="hljs-string">"The Poor Man's James Bond"</span>  @@@@
+                    @@@@         by Kurt Saxon         @@@@
+                    :::::::::::::::::::::::::::::::::::::::
+                    :::::::::::::::::::::::::::::::::::::::
+
+
+
+          PIPE OR <span class="hljs-string">"ZIP"</span> GUNS
+          ------------------
+
+              Commonly known as <span class="hljs-string">"zip"</span> guns, guns made from pipe have
+          been used for years by juvenile punks.  Today's Militants
+          make them just for the hell of it or to shoot once in an
+          assassination or riot and throw away if there is any danger
+          of apprehension.
+
+              They can be used many times but with some, a length of
+          dowel is needed to force out the spent shell.
+
+              There are many variations but the illustration shows the
+          basic design.
+
+              First, a wooden stock is made and a groove is cut for
+          the barrel to rest in.  The barrel is then taped securely to
+          the stock with a good, strong tape.
+
+              The trigger is made from galvanized tin.  A slot is
+          punched in the trigger flap to hold a roofing, which is
+          wired or soldered onto the flap. The trigger is bent and
+          nailed to the stock on both sides.
+
+              The pipe is a short length of one-quarter inch steel gas
+          or water pipe with a bore that fits in a cartridge, yet
+          keeps the cartridge rim from passing through the pipe.
+
+              The cartridge is put in the pipe and the cap, with a
+          hole bored through it, is screwed on.  Then the trigger is
+          slowly released to let the nail pass through the hole and
+          rest on the primer.
+
+              To fire, the trigger is pulled back with the left hand
+          and held back with the thumb of the right hand.  The gun is
+          then aimed and the thumb releases the trigger and the thing
+          actually fires.
+
+              Pipes of different lengths and diameters are found in
+          any hardware store.  All caliber bullets, from the .<span class="hljs-number">22</span> to
+          the .<span class="hljs-number">45</span> are used in such guns.
+
+              Some zip guns are made from two or three pipes nested
+          within each other.  For instance, a .<span class="hljs-number">22</span> shell will fit
+          snugly into a length of a car's copper gas line.
+          Unfortunatey, the copper is too weak to withstand the
+          pressure of the firing.  So the length of gas line is spread
+          with glue and pushed into a wider length of pipe.  This is
+          spread with glue and pushed into a length of steel pipe with
+          threads and a cap.
+
+              Using this method, you can accomodate any cartridge,
+          even a rifle shell.  The first size of pipe for a rifle
+          shell accomodates the bullet.  The second accomodates its
+          wider powder chamber.
+
+              A <span class="hljs-number">12</span>-gauge shotgun can be made from a <span class="hljs-number">3</span>/<span class="hljs-number">4</span> inch steel
+          pipe.  If you want to comply with the gun laws, the barrel
+          should be at least eighteen inches long.
+
+              Its firing mechanism is the same as that for the pistol.
+          It naturally has a longer stock and its handle is lengthened
+          into a rifle butt.  Also, a small nail is driven half way
+          into each side of the stock about four inches in the front of
+          the trigger.  The rubber band is put over one nail and
+          brought around the trigger and snagged over the other nail.
+
+              In case you actually make a zip gun, you should test it
+          before firing it by hand.  This is done by first tying the
+          gun to a tree or post, pointed to where it will do no
+          damage.  Then a string is tied to the trigger and you go off
+          several yards.  The string is then pulled back and let go.
+          If the barrel does not blow up, the gun is safe to fire by
+          hand.
+
+              You should not attempt to register such a gun.
+
+
+
+
+
+                          Pipe Cap
+                             /
+                            /   Bullet     Tape       Pipe
+                           /        /      /   \        /
+                           v       /      /     \      /
+                         !----!   /       v     v      v
+               Nail--\  /   /-!---v-----!---!-!---!---------
+                      v ---  - - - - - -!- -!-!- -!- - - - !
+                    //----&gt;    ![][]\   !   ! !   !        !
+                   ^  ! !--\   ![][]/   !   ! !   !        !
+              Wire/   ! !   \-!- - - - -!- -!-!- -!- - - - !
+          Trigger---&gt; ! ! !---!         !   ! !   !     ::::
+                     /! !      /--------!---!-!---!--::::--!
+                    / :::::::::::::::::::::::::::::::: &lt;-\
+                   !  !-!   /                             \-- Rubber
+                   /       /                                    band
+                   !       !
+                   !      /
+                   !      !
+                   !      !
+                   !      !
+                   !------!
+
+
+
+                                  Z I P   G U N
+
+
+                                                       / &lt;---Nail
+                                                   !-!/
+           /------------------\              /-----!o!-----\
+          ! O        O       O !            ! ------------- !
+           \--------! !-------/             !!             !!
+                    !-!                     !!             !!
+                                            !!             !!
+                                            !!             !!
+          Trigger before bending       /--&gt; !!             !! &lt;--\
+                                     Place  !!             !!   Nail
+                                     nail                       hole
+                                     here
+
+                                                  Trigger
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">4</span> <span class="hljs-keyword">of</span> <span class="hljs-number">9</span>
+
+                         +<span class="hljs-comment">--------------------------+</span>
+                         !  How To Make Blow Darts  !
+                         !                          !
+                         !    Written <span class="hljs-keyword">by</span> The Pyro   !
+                         !                          !
+                         !                          !
+                         +<span class="hljs-comment">--------------------------+</span>
+Blow darts are easy <span class="hljs-keyword">to</span> make <span class="hljs-keyword">and</span> all <span class="hljs-keyword">the</span> materials can be found <span class="hljs-keyword">in</span> your own
+home. These darts can travel a long distance <span class="hljs-keyword">with</span> good penetration <span class="hljs-keyword">if</span>
+constructed correctly.
+
+Materials needed:
+
+A small piece <span class="hljs-keyword">of</span> wood
+A sewing machine needle
+A spool <span class="hljs-keyword">of</span> thread
+A couple nails
+Hammer
+Glue
+Scissors
+
+   Hammer <span class="hljs-keyword">the</span> two nails <span class="hljs-keyword">about</span> two inches apart <span class="hljs-keyword">on</span> <span class="hljs-keyword">the</span> board. Wrap <span class="hljs-keyword">the</span> thread
+tightly <span class="hljs-keyword">around</span> <span class="hljs-keyword">the</span> two nails. The <span class="hljs-built_in">number</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">times</span> <span class="hljs-keyword">the</span> thread <span class="hljs-keyword">is</span> wrapped <span class="hljs-keyword">around</span>
+<span class="hljs-keyword">the</span> nails will determine <span class="hljs-keyword">the</span> amount <span class="hljs-keyword">of</span> weight <span class="hljs-keyword">and</span> stability <span class="hljs-keyword">the</span> dart has. Once
+you have decided you have wrapped enough thread, cut <span class="hljs-keyword">it</span> close <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> nail <span class="hljs-keyword">at</span>
+<span class="hljs-keyword">around</span> a half inch. Take this small tuft <span class="hljs-keyword">of</span> thread <span class="hljs-keyword">and</span> <span class="hljs-keyword">put</span> a dab <span class="hljs-keyword">of</span> glue <span class="hljs-keyword">on</span> <span class="hljs-keyword">the</span>
+folded <span class="hljs-keyword">end</span>. The kind <span class="hljs-keyword">of</span> glue you use <span class="hljs-keyword">is</span> very important. I suggest <span class="hljs-keyword">that</span> you use
+a tacky kind <span class="hljs-keyword">of</span> glue (nothing runny, like Elmer's glue). Attach this <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span>
+needle <span class="hljs-keyword">and</span> hold <span class="hljs-keyword">until</span> <span class="hljs-keyword">it</span> <span class="hljs-keyword">is</span> dry.
+   Another kind <span class="hljs-keyword">of</span> dart can be made <span class="hljs-keyword">with</span> Q-tips. This kind <span class="hljs-keyword">of</span> dart doesn't work
+<span class="hljs-keyword">as</span> well <span class="hljs-keyword">as</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">first</span> one, <span class="hljs-keyword">but</span> <span class="hljs-keyword">it</span> <span class="hljs-keyword">is</span> sometimes easier <span class="hljs-keyword">to</span> make. <span class="hljs-keyword">first</span> you have <span class="hljs-keyword">to</span>
+<span class="hljs-keyword">get</span> <span class="hljs-keyword">the</span> kind <span class="hljs-keyword">of</span> Q-tips <span class="hljs-keyword">that</span> have a plastic stem. Cut <span class="hljs-keyword">the</span> Q-tip close <span class="hljs-keyword">to</span> one
+<span class="hljs-keyword">end</span>. Insert <span class="hljs-keyword">the</span> sewing needle <span class="hljs-keyword">into</span> <span class="hljs-keyword">the</span> Q-tip <span class="hljs-keyword">and</span> secure <span class="hljs-keyword">it</span> <span class="hljs-keyword">by</span> melting <span class="hljs-keyword">the</span>
+plastic slightly <span class="hljs-keyword">with</span> a lighter. This kind <span class="hljs-keyword">of</span> dart doesn't <span class="hljs-keyword">last</span> long because
+<span class="hljs-keyword">the</span> cotton come off easily.
+
+Blow Guns:
+
+   Ordinary straws make an excellent blow gun <span class="hljs-keyword">with</span> this kind <span class="hljs-keyword">of</span> dart. Another
+kind can be made <span class="hljs-keyword">with</span> a cheap pen <span class="hljs-keyword">by</span> taking apart <span class="hljs-keyword">the</span> pen <span class="hljs-keyword">and</span> using <span class="hljs-keyword">the</span> shell.
+Any long, cylindrical, object <span class="hljs-keyword">with</span> <span class="hljs-keyword">the</span> diameter <span class="hljs-keyword">of</span> a straw will work very well.
+
+
+        T h e  A l l i a n c e
+
+             <span class="hljs-number">618</span><span class="hljs-number">-667</span><span class="hljs-number">-3825</span>
+
+             <span class="hljs-number">7</span>pm. <span class="hljs-keyword">to</span> <span class="hljs-number">7</span>am.
+
+
+(&gt;
+=========================================================================
+Received: (<span class="hljs-keyword">from</span> UNKNOWN@HACKERVILLE <span class="hljs-keyword">for</span> HATCHET@VALHALLA via XTC)
+         (UNKNOWN<span class="hljs-number">-0481</span>;     <span class="hljs-number">185</span> LINES); Tun, <span class="hljs-number">07</span> Oct <span class="hljs-number">88</span> <span class="hljs-number">21</span>:<span class="hljs-number">12</span>:<span class="hljs-number">54</span> CDT
+Date:    Tun, <span class="hljs-number">07</span> Oct <span class="hljs-number">88</span> <span class="hljs-number">21</span>:<span class="hljs-number">12</span> CDT
+To:      HATCHET
+From:    UNKNOWN@HACKERVILLE
+
+Comment: converted <span class="hljs-keyword">from</span> FBICIADATA format <span class="hljs-keyword">at</span> <span class="hljs-number">666</span>
+
+</code></pre>
+<hr>
+<pre><code class="hljs">                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">5</span> of <span class="hljs-number">9</span>
+
+                        Updated <span class="hljs-keyword">from</span> November <span class="hljs-number">26</span>, <span class="hljs-number">1985</span>
+                        Tac Dialups taken <span class="hljs-keyword">from</span> Arpanet
+                              by Phantom Phreaker
+
+                   TAC DIALUPS SORTED BY LOCATION <span class="hljs-number">26</span>-NOV<span class="hljs-number">-85</span>
+
+  State/Country         <span class="hljs-number">300</span> Baud             <span class="hljs-number">1200</span> Baud                <span class="hljs-number">1200</span> Type
+  -------------      ---------------       -----------------          ---------
+
+  ALABAMA
+   Anniston Army Depot [M]
+   (ANNIS-MIL-TAC)   (<span class="hljs-number">205</span>) <span class="hljs-number">235</span><span class="hljs-number">-6285</span> (R4)    (<span class="hljs-number">205</span>) <span class="hljs-number">235</span><span class="hljs-number">-7650</span>               B/V
+                     (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5731</span> (R8)    (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5731</span> (R8)          B/V
+                     (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5770</span> (R8)    (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5779</span> (R8)          B/V
+                     (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5805</span> (R8)    (<span class="hljs-number">205</span>) <span class="hljs-number">237</span><span class="hljs-number">-5805</span> (R8)          B/V
+
+   *Please note:  When accessing the Anniston TAC you must first enter a
+   &lt;RETURN&gt;, then enter DDN &lt;RETURN&gt;.  After you receive CLASS DDN START,
+   proceed as normal.
+
+   Gunter AFS [M]
+   (GUNTER-TAC)      (<span class="hljs-number">205</span>) <span class="hljs-number">279</span><span class="hljs-number">-3576</span>
+                     (<span class="hljs-number">205</span>) <span class="hljs-number">279</span><span class="hljs-number">-4682</span>
+
+   Redstone Arsenal [M]
+   (MICOM-TAC)       [none known]
+
+  ARIZONA
+   Ft. Huachuca [M]
+   (HUAC-MIL-TAC)    [none known]
+
+   Yuma [M]
+   (YUMA-TAC)        (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2186</span>         (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2186</span>               B/V
+                     (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2187</span>         (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2187</span>               B/V
+                     (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2188</span>         (<span class="hljs-number">602</span>) <span class="hljs-number">328</span><span class="hljs-number">-2188</span>               B/V
+
+  CALIFORNIA (NORTHERN)
+   Alameda [M]
+   (ALAMEDA-MIL-TAC)     [none known]
+
+   Menlo Park [M]
+   (SRI-MIL-TAC)     (<span class="hljs-number">415</span>) <span class="hljs-number">327</span><span class="hljs-number">-5440</span> (R3)    (<span class="hljs-number">415</span>) <span class="hljs-number">327</span><span class="hljs-number">-5440</span> (R3)          B
+
+   (USGS3-TAC) [M]   [no dialups]
+
+   Moffett Field [M]
+   (AMES-TAC)        [no dialups; contact NSC <span class="hljs-keyword">for</span> access]
+                     William Jones - (<span class="hljs-number">415</span>) <span class="hljs-number">694</span><span class="hljs-number">-6482</span>
+                                     (FTS) <span class="hljs-number">494</span><span class="hljs-number">-6482</span>
+                                      (AV) <span class="hljs-number">359</span><span class="hljs-number">-6482</span>
+
+   Monterey [M]
+   (NPS-TAC)         [none known]
+
+   Sacsamento [M]
+   (MCCLELLAN1-MIL-TAC)   [none known]
+   (MCCLELLAN2-MIL-TAC)   [none known]
+
+   Stanford [A]
+   (SU-TAC)          (<span class="hljs-number">415</span>) <span class="hljs-number">327</span><span class="hljs-number">-5220</span>
+
+  CALIFORNIA (SOUTHERN)
+   China Lake [M]
+   (NWC-TAC)         [none known]
+
+
+   Edwards AFB [M]
+   (EDWARD-MIL-TAC)  [none known]
+
+   El Segundo [M]
+   (AFSC-SD-TAC)     (<span class="hljs-number">213</span>) <span class="hljs-number">643</span><span class="hljs-number">-9204</span>     (<span class="hljs-number">213</span>) <span class="hljs-number">643</span><span class="hljs-number">-9204</span>                  B/V
+
+   Los Angeles [A]
+   (USC-TAC)         (<span class="hljs-number">213</span>) <span class="hljs-number">749</span><span class="hljs-number">-5436</span>
+
+   Los Angeles [A]
+   (USC-ARPA-TAC)    [none known]
+
+   San Diego [M]
+   (ACCAT-TAC)   (<span class="hljs-number">619</span>) <span class="hljs-number">225</span><span class="hljs-number">-1641</span> (R4)    (<span class="hljs-number">619</span>) <span class="hljs-number">225</span><span class="hljs-number">-6903</span>                  V
+                 (<span class="hljs-number">619</span>) <span class="hljs-number">225</span><span class="hljs-number">-6946</span> (R3)
+                                        (<span class="hljs-number">619</span>) <span class="hljs-number">223</span><span class="hljs-number">-2148</span>                  V
+                 (<span class="hljs-number">619</span>) <span class="hljs-number">226</span><span class="hljs-number">-7884</span> (R2)
+
+   Santa Monica
+   (RAND-ARPA-TAC) [A]
+                 (<span class="hljs-number">213</span>) <span class="hljs-number">393</span><span class="hljs-number">-9230</span>
+                 (<span class="hljs-number">213</span>) <span class="hljs-number">393</span><span class="hljs-number">-9237</span>
+                 (<span class="hljs-number">213</span>) <span class="hljs-number">393</span><span class="hljs-number">-9238</span>
+                 (<span class="hljs-number">213</span>) <span class="hljs-number">393</span><span class="hljs-number">-9239</span>
+
+   (RAND2-MIL-TAC) [M]   [none known]
+
+  COLORADO
+   Denver Fed Ctr [M]
+   (USGS2-TAC)       (<span class="hljs-number">303</span>) <span class="hljs-number">232</span><span class="hljs-number">-0206</span>         (<span class="hljs-number">303</span>) <span class="hljs-number">232</span><span class="hljs-number">-0206</span>              B/V
+
+   Lowry Air Force Base [M]
+   (LOWRY-MIL-TAC)   [none known]
+
+  D.C.
+   Washington
+    [Andrews AFB] [M]
+   (AFSC-HQ-TAC)  (<span class="hljs-number">301</span>) <span class="hljs-number">967</span><span class="hljs-number">-7930</span> (R16)     (<span class="hljs-number">301</span>) <span class="hljs-number">967</span><span class="hljs-number">-7930</span> (R16)         B
+                  (<span class="hljs-number">301</span>) <span class="hljs-number">736</span><span class="hljs-number">-2990</span> (R4)      (<span class="hljs-number">301</span>) <span class="hljs-number">736</span><span class="hljs-number">-2990</span> (R4)          B
+                  (<span class="hljs-number">301</span>) <span class="hljs-number">736</span><span class="hljs-number">-2998</span> (R2)      (<span class="hljs-number">301</span>) <span class="hljs-number">736</span><span class="hljs-number">-2998</span> (R2)          B
+
+   (PENTAGON-TAC) (<span class="hljs-number">202</span>) <span class="hljs-number">553</span><span class="hljs-number">-0229</span> (R14)  (<span class="hljs-number">202</span>) <span class="hljs-number">553</span><span class="hljs-number">-0229</span> (R14)            B
+
+  FLORIDA
+   Eglin AFB [M]
+   (AFSC-AD-TAC)     (<span class="hljs-number">904</span>) <span class="hljs-number">882</span><span class="hljs-number">-8202</span>         (<span class="hljs-number">904</span>) <span class="hljs-number">882</span><span class="hljs-number">-8202</span>              B/V
+                     (<span class="hljs-number">904</span>) <span class="hljs-number">882</span><span class="hljs-number">-8201</span>         (<span class="hljs-number">904</span>) <span class="hljs-number">882</span><span class="hljs-number">-8201</span>              V
+
+   MacDill AFB [M]
+   (MACDILL-MIL-TAC)  [none known]
+
+   Naval Air Station - Jacksonville [M]
+    (JAX1-MIL-TAC)    [none known]
+
+   Naval Air Station - Orlando [M]
+    (ORLANDO-MIL-TAC) [none known]
+
+  GEORGIA
+   Robins AFB [M]
+   (ROBINS-TAC)      (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-2725</span>         (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-2725</span>              B/V
+                     (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-2726</span>
+                     (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-3231</span>
+                     (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-3232</span>
+                     (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-2204</span>         (<span class="hljs-number">912</span>) <span class="hljs-number">926</span><span class="hljs-number">-2204</span>              B/V
+   HAWAII
+   Camp H.M. Smith [M]
+   (HAWAII2-TAC)     (<span class="hljs-number">808</span>) <span class="hljs-number">487</span><span class="hljs-number">-5545</span>         (<span class="hljs-number">808</span>) <span class="hljs-number">487</span><span class="hljs-number">-5545</span>              B
+
+  ILLINOIS
+   Scott AFB [M]
+   (SCOTT-TAC)       [none known]
+
+   (SCOTT2-MIL-TAC)  [none known]
+
+  KANSAS
+   Ft. Leavenworth [M]
+   (LVN-MIL-TAC)     (<span class="hljs-number">913</span>) <span class="hljs-number">651</span><span class="hljs-number">-7041</span> (R8)  (<span class="hljs-number">913</span>) <span class="hljs-number">651</span><span class="hljs-number">-7041</span> (R8)           B
+
+  LOUISIANA
+   Navy Regional Data Automation Center [M]
+   (NORL-MIL-TAC)    (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7940</span>       (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7940</span>                B
+                     (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7948</span> (R2)  (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7948</span> (R2)           B
+                     (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7951</span> (R5)  (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-7951</span> (R5)           B
+                     (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-8702</span> (R8)  (<span class="hljs-number">504</span>) <span class="hljs-number">944</span><span class="hljs-number">-8702</span> (R8)           B
+
+  MARYLAND
+   Aberdeen Proving Ground [M]
+   (BRL-TAC)      (<span class="hljs-number">301</span>) <span class="hljs-number">278</span><span class="hljs-number">-6916</span> (R4)   (<span class="hljs-number">301</span>) <span class="hljs-number">278</span><span class="hljs-number">-6916</span> (R4)             B/V
+
+   Bethesda [M]
+   (DAVID-TAC)    (<span class="hljs-number">202</span>) <span class="hljs-number">227</span><span class="hljs-number">-3526</span> (R16)  (<span class="hljs-number">202</span>) <span class="hljs-number">227</span><span class="hljs-number">-3526</span> (R16)            B/V
+
+   Patuxent River [M]
+   (PAX-RV-TAC)      (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-4815</span>        (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-4815</span>               B/V
+                     (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-4816</span>        (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-4816</span>               B/V
+                     (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-5750</span> (R6)   (<span class="hljs-number">301</span>) <span class="hljs-number">863</span><span class="hljs-number">-5750</span> (R6)          B/V
+
+   Silver Spring [M]
+   (WHITEOAK-MIL-TAC)   (<span class="hljs-number">301</span>) <span class="hljs-number">572</span><span class="hljs-number">-5960</span> (R10)   (<span class="hljs-number">301</span>) <span class="hljs-number">572</span><span class="hljs-number">-5960</span> (R10)     B
+                        (<span class="hljs-number">301</span>) <span class="hljs-number">572</span><span class="hljs-number">-5970</span> (R10)   (<span class="hljs-number">301</span>) <span class="hljs-number">572</span><span class="hljs-number">-5970</span> (R10)     B
+
+  MASSACHUSETTS
+   Hanscom AFB [M]
+   (AFGL-TAC)     (<span class="hljs-number">617</span>) <span class="hljs-number">861</span><span class="hljs-number">-3000</span> (R8)   (<span class="hljs-number">617</span>) <span class="hljs-number">861</span><span class="hljs-number">-3000</span> (R8)             B
+                  (<span class="hljs-number">617</span>) <span class="hljs-number">861</span><span class="hljs-number">-4965</span> (R8)   (<span class="hljs-number">617</span>) <span class="hljs-number">861</span><span class="hljs-number">-4965</span> (R8)
+
+   Cambridge
+   (BBN-MIL-TAC) [M]   [none known]
+
+   (BBN-ARPA-TAC) [A]  [no dialup capability]
+
+   (CCA-ARP-TAC) [A]   [none known]
+
+   (MIT-TAC) [A]
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5669</span>        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6224</span>            V
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5708</span>        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6225</span>            V
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5734</span>        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6227</span>            V
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5819</span>        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6248</span>            V
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5826</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5841</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-5849</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-6769</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-6772</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">491</span><span class="hljs-number">-6937</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6241</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6242</span>
+                        (<span class="hljs-number">617</span>) <span class="hljs-number">258</span><span class="hljs-number">-6243</span>
+
+  MICHIGAN
+   U.S. Army Tank Automotive Command (TACOM) - Warren [M]
+   (TACOM-TAC)       [none known]
+
+  MISSOURI
+   St. Louis [M]
+   (STLA-TAC)        [none known]
+
+  NEBRASKA
+   Offutt AFB [M]
+   (SAC1-MIL-TAC)    [none known]
+
+   (SAC2-MIL-TAC)    (<span class="hljs-number">402</span>) <span class="hljs-number">292</span><span class="hljs-number">-4638</span> (R10)   (<span class="hljs-number">402</span>) <span class="hljs-number">292</span><span class="hljs-number">-4638</span> (R10)         B
+
+   (SAC-ARPA-TAC) [A]
+                     (<span class="hljs-number">402</span>) <span class="hljs-number">294</span><span class="hljs-number">-2398</span>         (<span class="hljs-number">402</span>) <span class="hljs-number">294</span><span class="hljs-number">-2398</span>               B
+                     (<span class="hljs-number">402</span>) <span class="hljs-number">291</span><span class="hljs-number">-2018</span>         (<span class="hljs-number">402</span>) <span class="hljs-number">291</span><span class="hljs-number">-2018</span>               B
+                     (<span class="hljs-number">402</span>) <span class="hljs-number">292</span><span class="hljs-number">-7054</span>         (<span class="hljs-number">402</span>) <span class="hljs-number">292</span><span class="hljs-number">-7054</span>               B
+
+  NEW JERSEY
+   Dover [M]
+   (ARDC-TAC)        (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6731</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6731</span>               B/V
+                     (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6732</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6732</span>               B/V
+                     (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6733</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6733</span>               B/V
+                     (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6734</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">724</span><span class="hljs-number">-6734</span>               B/V
+
+   Fort Monmouth [M]
+   (FTMONMOUTH1-MIL-TAC)   (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2052</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2052</span>         B/V
+                           (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2062</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2062</span>         B/V
+                           (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2072</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2072</span>         B/V
+                           (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2396</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2396</span>         B/V
+                           (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2430</span>         (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2430</span>         B/V
+
+   (FTMONMOUTH2-MIL-TAC)   (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-4254</span> (R3)    (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2430</span>         B
+                                                  (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2636</span>         B
+                                                  (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2638</span>         B
+          (<span class="hljs-number">201</span>) <span class="hljs-number">544</span><span class="hljs-number">-2777</span>         B
+
+  NEW MEXICO
+   Albuquerque [M]
+   (AFWL-TAC)        [none known]
+
+  White Sands [M]
+   (WSMR-TAC)       [no dialups; contact NSC <span class="hljs-keyword">for</span> access]
+                    Claude (Skeet) Steffey - (<span class="hljs-number">505</span>) <span class="hljs-number">678</span><span class="hljs-number">-1271</span>
+                                             (FTS) <span class="hljs-number">898</span><span class="hljs-number">-1271</span>
+                                              (AV) <span class="hljs-number">258</span><span class="hljs-number">-1271</span>
+
+  NEW YORK
+   Griffiss AFB
+   (RADC-ARPA-TAC) [A] [no dialup capability]
+
+   (RADC-TAC) [M]
+                     (<span class="hljs-number">315</span>) <span class="hljs-number">339</span><span class="hljs-number">-4913</span> (R5)
+                     (<span class="hljs-number">315</span>) <span class="hljs-number">337</span><span class="hljs-number">-2004</span>           (<span class="hljs-number">315</span>) <span class="hljs-number">337</span><span class="hljs-number">-2004</span>              B/V
+                     (<span class="hljs-number">315</span>) <span class="hljs-number">337</span><span class="hljs-number">-2005</span>           (<span class="hljs-number">315</span>) <span class="hljs-number">337</span><span class="hljs-number">-2005</span>              B/V
+
+                     (<span class="hljs-number">315</span>) <span class="hljs-number">330</span><span class="hljs-number">-2294</span>           (<span class="hljs-number">315</span>) <span class="hljs-number">330</span><span class="hljs-number">-2294</span>  (FTS) <span class="hljs-number">952</span>   B/V
+
+                     (<span class="hljs-number">315</span>) <span class="hljs-number">330</span><span class="hljs-number">-3587</span>           (<span class="hljs-number">315</span>) <span class="hljs-number">330</span><span class="hljs-number">-3587</span>  (FTS) <span class="hljs-number">952</span>   B/V
+
+  NORTH CAROLINA
+   Ft. Bragg [A]
+   (BRAGG-ARPA-TAC)  (<span class="hljs-number">919</span>) <span class="hljs-number">396</span><span class="hljs-number">-1131</span> (R10)     (<span class="hljs-number">919</span>) <span class="hljs-number">396</span><span class="hljs-number">-1426</span>  (R5)        B/V
+                                              (<span class="hljs-number">919</span>) <span class="hljs-number">396</span><span class="hljs-number">-1491</span>  (R8)        B/V
+   Ft. Bragg [M]
+   (BRAGG-MIL-TAC)   [none known]
+
+  OHIO
+   Wright-Patterson AFB [M]
+   (WPAFB-TAC)       (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4218</span>
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4219</span>
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4987</span>
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4988</span>
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4989</span>
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">258</span><span class="hljs-number">-4990</span>
+
+   (WPAFB2-MIL-TAC)  (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-2172</span> (R8)     (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-2172</span> (R8)        B
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-2690</span> (R8)     (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-2690</span> (R8)        B
+                     (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-3625</span> (R8)     (<span class="hljs-number">513</span>) <span class="hljs-number">257</span><span class="hljs-number">-3625</span> (R8)        B
+
+  OKLAHOMA
+   Tinker AFB [M]
+   (TINKER-MIL-TAC)  [none known]
+
+
+  PENNSYLVANIA
+   New Cumberland Army Depot [M]
+   (NCAD-MIL-TAC)    [none known]
+
+   (NCAD2-MIL-TAC)   [none known]
+
+  TEXAS
+   Brooks AFB [M]
+   (BROOKS-AFB-TAC)  (<span class="hljs-number">512</span>) <span class="hljs-number">536</span><span class="hljs-number">-3081</span> (R6)  (<span class="hljs-number">512</span>) <span class="hljs-number">536</span><span class="hljs-number">-3081</span> (R6)              B/V
+
+   Richardson [A]
+   (COLLINS-TAC)     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2131</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2131</span>                   B
+                     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2143</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2143</span>                   B
+                     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2178</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2178</span>                   B
+                     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2204</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2204</span>                   B
+                     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2251</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2251</span>                   B
+                     (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2278</span>       (<span class="hljs-number">214</span>) <span class="hljs-number">235</span><span class="hljs-number">-2278</span>                   B
+
+  UTAH
+   Dugway Proving Ground [M]
+   (DUGWAY-MIL-TAC)  [none known]
+
+   Salt Lake City (University of Utah) [A]
+   (UTAH-TAC)        (<span class="hljs-number">801</span>) <span class="hljs-number">581</span><span class="hljs-number">-3486</span>       (<span class="hljs-number">801</span>) <span class="hljs-number">581</span><span class="hljs-number">-3486</span>                   B/V
+
+  VIRGINIA
+   Alexandria [M]
+   (DARCOM-TAC)      (<span class="hljs-number">202</span>) <span class="hljs-number">274</span><span class="hljs-number">-5300</span>       (<span class="hljs-number">202</span>) <span class="hljs-number">274</span><span class="hljs-number">-5300</span>                   B
+                     (<span class="hljs-number">202</span>) <span class="hljs-number">274</span><span class="hljs-number">-5320</span> (R6)  (<span class="hljs-number">202</span>) <span class="hljs-number">274</span><span class="hljs-number">-5320</span> (R6)              B
+
+   Arlington
+   (ARPA1-MIL-TAC) [M]   [none known]
+
+   (ARPA2-MIL-TAC) [M]   [none known]
+
+   (ARPA3-TAC) [A]   [no dialup capability]
+
+   Dahlgren [M]
+   (NSWC-TAC)        (<span class="hljs-number">703</span>) <span class="hljs-number">663</span><span class="hljs-number">-2162</span> (R8)     (<span class="hljs-number">703</span>) <span class="hljs-number">663</span><span class="hljs-number">-2162</span> (R8)          B
+
+   Langley Air Force Base [M]
+   (LANGLEY-MIL-TAC) [none known]
+
+   McLean [M]
+   (DDN-PMO-MIL-TAC) [none known]
+
+
+   (MITRE-TAC) [M]
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">442</span><span class="hljs-number">-8020</span> (R15)
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">893</span><span class="hljs-number">-0330</span> (R10)    (<span class="hljs-number">703</span>) <span class="hljs-number">893</span><span class="hljs-number">-0330</span> (R10)         B/V
+
+   Norfolk [M]
+   (NORFOLK-MILTAC)  (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0241</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0241</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0247</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0247</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0346</span> (R4)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0346</span> (R4)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0480</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0480</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0486</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0486</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0489</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0489</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0570</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0570</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0572</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0572</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0577</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0577</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0651</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0651</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0654</span> (R3)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0654</span> (R3)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0841</span> (R2)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0841</span> (R2)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0845</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0845</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0849</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0849</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0858</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0858</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0950</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0950</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0952</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0952</span>               B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0955</span> (R3)     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0955</span> (R3)          B
+                     (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0959</span>          (<span class="hljs-number">804</span>) <span class="hljs-number">423</span><span class="hljs-number">-0959</span>               B
+
+   Reston
+   (DCEC-ARPA-TAC) [A]   [no dialups available]
+
+   (DCEC-MIL-TAC) [M]
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2892</span> (R5)     (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2928</span>               B
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2925</span>          (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2929</span>               B
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2926</span>
+                     (<span class="hljs-number">703</span>) <span class="hljs-number">437</span><span class="hljs-number">-2927</span>
+
+  WASHINGTON
+   Seattle [A]
+   (WASHINGTON-TAC)  [no dialup capability]
+
+  ENGLAND [M]
+   (CROUGHTON-MIL-TAC)   [none known]
+
+  GERMANY [M]
+   (FRANKFURT-MIL-TAC)
+                     (M) <span class="hljs-number">2311</span><span class="hljs-number">-5641</span> (R8)                                   B
+
+   (RAMSTEIN2-MIL-TAC) [none known]
+
+  ITALY [M]
+   (AGNANO-MIL-TAC)
+
+  JAPAN [M]
+   (BUCKNER-MIL-TAC)
+
+   (ZAMA-MIL-TAC)
+
+  KOREA [M]
+   (KOREA-TAC)       (M) <span class="hljs-number">264</span><span class="hljs-number">-4951</span> (R8)                                    B
+
+  PHILIPPINES [M]
+   (CLARK-MIL-TAC)
+
+  SPAIN [M]
+   (MILNET-TJN-TAC)  [none known]
+
+   (ROTA-MIL-TAC)    [none known]
+
+  Notes:
+
+  <span class="hljs-number">1.</span>  <span class="hljs-string">"(R10)"</span> following phone number indicates a rotary with <span class="hljs-number">10</span> lines.
+
+  <span class="hljs-number">2.</span>  For alternate phone numbers, FTS=Federal Telephone System.
+  <span class="hljs-number">3.</span>  (M)=Military DoD Telephone System.
+
+  <span class="hljs-number">4.</span>  [M] denotes a MILNET TAC <span class="hljs-keyword">and</span> [A] denotes an ARPANET TAC.
+
+  <span class="hljs-number">5.</span>  <span class="hljs-string">"1200 Type"</span> <span class="hljs-built_in">ref</span>ers to the modem compatibility <span class="hljs-keyword">for</span> <span class="hljs-number">1200</span> baud only:
+       B/V =  Bell <span class="hljs-keyword">and</span> Vadic
+       B   =  Bell <span class="hljs-number">212</span>A only
+       V   =  Vadic <span class="hljs-number">3400</span> only
+
+  <span class="hljs-number">6.</span>  This list <span class="hljs-keyword">is</span> contained <span class="hljs-keyword">in</span> the file NETINFO:TAC-PHONES.LIST at
+      SRI-NIC.
+
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile 6 of 9
+
+                Toward Universal Information Services Via ISDN
+                ~~~~~~ ~~~~~~~~~ ~~~~~~~~~~~ ~~~~~~~~ ~~~ ~~~~
+                                 by Taran King
+
+                <span class="hljs-keyword">From</span> PROTO newsletter of AT&amp;T Bell Laboratories
+------------------------------------------------------------------------------
+         Phase one, the Present.
+         ~~~~~ ~~~~ ~~~ ~~~~~~~~
+         The local<span class="hljs-built_in"> network </span>of today, although still largely
+         voice-oriented, is already on the path <span class="hljs-keyword">to</span> Universal
+         Information Services.  Lightguide fiber is dramatically
+         expanding the capacity of local networks, helping <span class="hljs-keyword">to</span> lower
+         the costs <span class="hljs-keyword">and</span> increase the demand <span class="hljs-keyword">for</span> high-band width,
+         Information Age services.  <span class="hljs-keyword">And</span> public networks are
+         increasingly digital <span class="hljs-keyword">and</span> geared <span class="hljs-keyword">for</span> data <span class="hljs-keyword">and</span> special
+         services.  <span class="hljs-keyword">For</span> example:
+
+         o The AT&amp;T<span class="hljs-built_in"> Network </span>Systems 5ESS (TM &lt;riiiight&gt;) switch,
+         designed by Bell Laboratories, can serve as the hub of a
+         local deployment of remote modules at locations up <span class="hljs-keyword">to</span> 100
+         miles <span class="hljs-keyword">from</span> a host central office.
+
+         o The Integrated Special Services<span class="hljs-built_in"> Network </span>(ISSN) is a channel
+        <span class="hljs-built_in"> network </span>that provides special services,<span class="hljs-built_in"> customer </span>control
+         options <span class="hljs-keyword">and</span> digital private lines rearrangeable under
+         software control.  The ISSN incorporates digital carrier
+         terminating equipment such as the D4 Channel Bank, D5 Digital
+         Terminal<span class="hljs-built_in"> System </span><span class="hljs-keyword">and</span> Digital Access <span class="hljs-keyword">and</span> Cross-connect<span class="hljs-built_in"> System
+</span>         (DACS).
+
+         o The New Centrex is bringing greater levels of<span class="hljs-built_in"> customer
+</span>         control, improved services <span class="hljs-keyword">and</span> a broad range of data
+         capabilities <span class="hljs-keyword">to</span> the business customer.
+
+                 Today<span class="hljs-string">'s public networks consist of multiple or
+         overlay networks.  The public switched network, or circuit
+         network, mainly for voice, is the base network.  Two kinds of
+         overlay networks provide special services.  Channel networks
+         carry private lines leased by large customers and transmit
+         much of today'</span>s data <span class="hljs-keyword">and</span> image traffic; they also handle
+         traffic <span class="hljs-keyword">for</span><span class="hljs-built_in"> network </span>operations support.  Packet networks
+         carry data communications, <span class="hljs-keyword">while</span> packet switching is used
+         internally <span class="hljs-keyword">to</span> public networks <span class="hljs-keyword">for</span> common channel signaling <span class="hljs-keyword">to</span>
+         <span class="hljs-builtin-name">set</span> up,<span class="hljs-built_in"> route </span><span class="hljs-keyword">and</span> take down calls, <span class="hljs-keyword">or</span> <span class="hljs-keyword">to</span> give customers
+         information.
+                 <span class="hljs-string">"Overlay networks help telecommunications companies
+         efficiently meet growing demand for digital transmission and
+         special services,"</span> says Stan Johnston, Market Planning
+         Manager,<span class="hljs-built_in"> Network </span>Systems Evolution, <span class="hljs-keyword">in</span> AT&amp;T<span class="hljs-built_in"> Network </span>Systems.
+         <span class="hljs-string">"Their integration into a single network, however, would be
+         still more effective."</span>
+
+         Phase two, the Integrated Services Digital<span class="hljs-built_in"> Network </span>(ISDN).
+         ~~~~~ ~~~~ ~~~ ~~~~~~~~~~ ~~~~~~~~ ~~~~~~~ ~~~~~~~ ~~~~~~~
+         The ISDN is a concept <span class="hljs-keyword">to</span> which AT&amp;T is committed - <span class="hljs-keyword">and</span> it<span class="hljs-string">'s
+         the foundation for Universal Information Services.  The
+         central idea of ISDN, as AT&amp;T Network Systems sees it, is to
+         provide an individual user a link to the local central office
+         of generous band-width - a digital subscriber line that can
+         carry 144,000 bits per second (sure beats 2400 baud!).  The
+         band-width is subdivided into two 64,000-bit channels, which
+         may carry voice or data or both, and one 16,000-bit channel
+         for packetized signaling information or data transport.  Such
+         a link provides convenient "integrated" network access by
+         accommodating voice, data and signaling over a single line.
+                 The ISDN will make it easier for a customer to get
+         varied services from public and private networks.  More
+         bandwidth for big customers will be available through another
+         ISDN access standard, the extended digital subscriber line,
+         which provides 1.5 billion bits per second as 24 channels of
+         64,000 bits each.
+                 In 1986, new software from Bell Labs will enable the
+         5ESS switch to accommodate ISDN-sized 144,000-bit channels
+         that standardize and simplify subscribers'</span> use of local
+         networks.  AT&amp;T is committed <span class="hljs-keyword">to</span> future products that will
+         also be ISDN-compatible.  Other vendors, too, some of whom
+         already plan <span class="hljs-keyword">to</span> build premises, terminal, <span class="hljs-keyword">and</span> other
+         equipment <span class="hljs-keyword">to</span> ISDN standards, will make ISDN a cooperative
+         effort.
+                 By providing integrated digital access <span class="hljs-keyword">to</span> networks,
+         ISDN will make important progress toward the goal of
+         Universal Information Services.  But overlay networks will
+         continue <span class="hljs-keyword">to</span> divvy up the transport job.  <span class="hljs-keyword">And</span> messages needing
+         less than 144,000 bits per second will <span class="hljs-keyword">not</span> fill their
+         allotted bandwidth, leaving capacity underutilized.
+
+         Phase three, Universal Information Services.
+         ~~~~~ ~~~~~~ ~~~~~~~~~ ~~~~~~~~~~~ ~~~~~~~~~
+         Rooted <span class="hljs-keyword">in</span> the fertile ground of 5ESS switches, ISDN equipment
+         <span class="hljs-keyword">and</span> technologies such as wideband packet transport, Universal
+         Information Services will bear fruit during the 1990s.  <span class="hljs-keyword">From</span>
+         a single kind of<span class="hljs-built_in"> network </span>will hang services as different as
+         apples, oranges <span class="hljs-keyword">and</span> pears.  Just as<span class="hljs-built_in"> network </span>access was
+         integrated <span class="hljs-keyword">in</span> ISDN, transport functions will increasingly be
+         integrated by powerful new<span class="hljs-built_in"> network </span>equipment evolved <span class="hljs-keyword">from</span>
+         equipment developed <span class="hljs-keyword">for</span> the ISDN.  Where customers once got
+         standard-sized ISDN channels, they<span class="hljs-string">'ll get big bandwidth for
+         large jobs, little bandwitdh for small jobs.
+
+
+
+</span></code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile <span class="hljs-number">7</span> <span class="hljs-keyword">of</span> <span class="hljs-number">9</span>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@                                                                             @
+@                             _  _        _______                             @
+@                            | \/ |      / _____/                             @
+@                            |_||_|etal / /hop                                @
+@                            __________/ /                                    @
+@                           /___________/                                     @
+@                      Headquarters <span class="hljs-keyword">of</span> Phrack Newsletter                      @
+@                                                                             @
+@                               (<span class="hljs-number">314</span>) <span class="hljs-number">432</span><span class="hljs-number">-0756</span>                                @
+@                                                                             @
+@                              Proudly Presents                               @
+@                                                                             @
+@                                MCI Overview                                 @
+@                                                                             @
+@                             Written <span class="hljs-keyword">on</span> <span class="hljs-number">11</span>/<span class="hljs-number">16</span>/<span class="hljs-number">85</span>                             @
+@                                                                             @
+@                                     <span class="hljs-keyword">by</span>                                      @
+@                                                                             @
+@                        Knight Lightning &amp; Taran King                        @
+@                                                                             @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+MCI Communications Corporation, headquartered <span class="hljs-keyword">in</span> Washington, D.C., provides a
+full range <span class="hljs-keyword">of</span> domestic <span class="hljs-keyword">and</span> international telecommunications services, including
+voice <span class="hljs-keyword">and</span> data, telex <span class="hljs-keyword">and</span> cable, paging <span class="hljs-keyword">and</span> mobile telephone, <span class="hljs-keyword">and</span> <span class="hljs-built_in">time</span>
+sensitive message delivery.
+
+Since <span class="hljs-keyword">its</span> founding <span class="hljs-keyword">in</span> <span class="hljs-number">1968</span>, MCI has grown <span class="hljs-keyword">to</span> more than $<span class="hljs-number">1.6</span> billion <span class="hljs-keyword">in</span> annual
+sales <span class="hljs-keyword">and</span> serves more than <span class="hljs-number">1.9</span> million business, residential <span class="hljs-keyword">and</span> government
+customers <span class="hljs-keyword">through</span> <span class="hljs-keyword">its</span> four major business units:
+
+                            MCI Telecommunications
+
+                                 MCI Airsignal
+
+                               MCI International
+
+                       MCI Digital Information Services
+
+
+MCI TELECOMMUNICATIONS
+<span class="hljs-comment">----------------------</span>
+MCI Telecommunications provides domestic interstate long distance service
+throughout all <span class="hljs-number">50</span> states, plus Puerto Rico, <span class="hljs-keyword">the</span> U.S. Virgin Islands, <span class="hljs-keyword">and</span> major
+calling areas <span class="hljs-keyword">of</span> Canada.  It <span class="hljs-keyword">is</span> also authorized <span class="hljs-keyword">to</span> provide varying degrees <span class="hljs-keyword">of</span>
+intrastate long distance service <span class="hljs-keyword">in</span> <span class="hljs-keyword">some</span> states.
+
+MCIT also <span class="hljs-keyword">is</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">first</span> long distance carrier other than AT&amp;T <span class="hljs-keyword">to</span> offer direct
+dial service overseas.  International telephone service <span class="hljs-keyword">is</span> available <span class="hljs-keyword">to</span> all
+residential <span class="hljs-keyword">and</span> commercial customers (<span class="hljs-keyword">with</span> <span class="hljs-keyword">the</span> exception <span class="hljs-keyword">of</span> Private Line
+customers).  In October, <span class="hljs-number">1984</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">first</span> international service agreements were
+announced <span class="hljs-keyword">with</span> <span class="hljs-keyword">the</span> following countries:  Argentina, Belgium, Brazil, East
+Germany, Greece, United Arab Emirates, <span class="hljs-keyword">and</span> <span class="hljs-keyword">the</span> United Kingdom.
+
+Total capital investment <span class="hljs-keyword">in</span> MCI's long distance network <span class="hljs-keyword">is</span> approximately $<span class="hljs-number">2</span>
+billion.  MCI's network, <span class="hljs-keyword">the</span> <span class="hljs-keyword">second</span> largest <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> U.S., employs microwave
+optical fiber, satellite <span class="hljs-keyword">and</span> various digital transmission technologies.
+
+Subscribers - Domestic Long Distance (<span class="hljs-keyword">as</span> <span class="hljs-keyword">of</span> <span class="hljs-number">10</span>/<span class="hljs-number">84</span>)
+<span class="hljs-comment">-----------   ----------------------</span>
+Residential              <span class="hljs-number">1.4</span> million
+Commercial                <span class="hljs-number">.3</span> million
+     Total               <span class="hljs-number">1.7</span> million
+
+Operations - (<span class="hljs-keyword">as</span> <span class="hljs-keyword">of</span> <span class="hljs-number">10</span>/<span class="hljs-number">84</span>)
+Network Miles            <span class="hljs-number">20</span>,<span class="hljs-number">543</span>
+(microwave, optical fiber, satellite)
+
+Circuits                <span class="hljs-number">238</span>,<span class="hljs-number">000</span>
+Employees                 <span class="hljs-number">9</span>,<span class="hljs-number">500</span> (full-<span class="hljs-built_in">time</span>, approx.)
+
+
+MCI AIRSIGNAL
+<span class="hljs-comment">-------------</span>
+MCI Airsignal provides personal message delivery <span class="hljs-keyword">and</span> car telephone services.
+MCI Message Service <span class="hljs-keyword">is</span> offered <span class="hljs-keyword">in</span> more than <span class="hljs-number">50</span> metropolitan areas.  In <span class="hljs-number">1984</span>,
+service will commence <span class="hljs-keyword">in</span> New York City, Baltimore-Washington, Los Angeles, <span class="hljs-keyword">and</span>
+Chicago.  MCI car telephone service <span class="hljs-keyword">is</span> offered <span class="hljs-keyword">in</span> <span class="hljs-number">20</span> markets.
+
+Personal Message Delivery Service
+<span class="hljs-comment">---------------------------------</span>
+                         ALPHANUMERIC MESSAGE SERVICE
+
+    Displays up <span class="hljs-keyword">to</span> <span class="hljs-number">40</span>-<span class="hljs-built_in">character</span> message using letters <span class="hljs-keyword">and</span>/<span class="hljs-keyword">or</span> numbers.  Memory
+    <span class="hljs-keyword">and</span> recall ability.  Alerts subscriber <span class="hljs-keyword">with</span> a silent visual alert <span class="hljs-keyword">or</span> a soft
+    tone.
+
+                            DISPLAY MESSAGE SERVICE
+
+    Displays up <span class="hljs-keyword">to</span> <span class="hljs-number">24</span>-digit message (e.g., phone <span class="hljs-built_in">number</span>, stock quotes, sales
+    figures, coded messages).  Memory <span class="hljs-keyword">and</span> recall capability.  Alerts customer
+    <span class="hljs-keyword">to</span> message <span class="hljs-keyword">with</span> a silent visual alert <span class="hljs-keyword">or</span> a soft tone.
+
+                             TONE MESSAGE SERVICE
+
+    Notifies customer <span class="hljs-keyword">of</span> a message <span class="hljs-keyword">with</span> a soft tone.
+
+                             VOICE MESSAGE SERVICE
+
+    Receives message <span class="hljs-keyword">in</span> actual voice <span class="hljs-keyword">of</span> caller.
+
+                            EXPRESS MESSAGE SERVICE
+
+    Receives <span class="hljs-keyword">and</span> stores messages.  Instantly alerts subscriber via pager when
+    a message <span class="hljs-keyword">is</span> received.
+
+Car Telephone Service
+<span class="hljs-comment">---------------------</span>
+Enables customers <span class="hljs-keyword">to</span> place calls <span class="hljs-keyword">to</span> <span class="hljs-keyword">or</span> receive calls <span class="hljs-keyword">from</span> anywhere <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span>
+world, <span class="hljs-number">24</span> hours a <span class="hljs-built_in">day</span>, <span class="hljs-keyword">as</span> they travel <span class="hljs-keyword">in</span> their cars.  With <span class="hljs-keyword">the</span> advent <span class="hljs-keyword">of</span> new
+cellular technology, both <span class="hljs-keyword">the</span> quality <span class="hljs-keyword">and</span> <span class="hljs-keyword">the</span> accessibility <span class="hljs-keyword">of</span> car telephone
+service will vastly improve.
+
+MCI has thus far obtained franchises <span class="hljs-keyword">to</span> operate a new kind <span class="hljs-keyword">of</span> mobile phone
+service, cellular telephone, <span class="hljs-keyword">in</span> Minneapolis <span class="hljs-keyword">and</span> Pittsburgh, <span class="hljs-keyword">and</span> has received
+favorable decisions <span class="hljs-keyword">from</span> FCC administration law judges authorizing service <span class="hljs-keyword">in</span>
+Los Angeles, Denver-Boulder, <span class="hljs-keyword">and</span> Kansas City.  MCI has applied <span class="hljs-keyword">for</span> licenses <span class="hljs-keyword">to</span>
+provide cellular service <span class="hljs-keyword">in</span> <span class="hljs-number">81</span> metropolitan areas.
+
+MCI Airsignal Branch Sales Offices
+<span class="hljs-comment">----------------------------------</span>
+Personal Message Service/Conventional Mobile Phone Service
+
+            Birmingham                             (<span class="hljs-number">205</span>)  <span class="hljs-number">942</span><span class="hljs-number">-2924</span>
+            Sacramento                             (<span class="hljs-number">916</span>)  <span class="hljs-number">444</span><span class="hljs-number">-2350</span>
+            Memphis                                (<span class="hljs-number">901</span>)  <span class="hljs-number">682</span><span class="hljs-number">-9658</span>
+            Cleveland                              (<span class="hljs-number">216</span>)  <span class="hljs-number">464</span><span class="hljs-number">-7311</span>
+            Dallas                                 (<span class="hljs-number">214</span>)  <span class="hljs-number">788</span><span class="hljs-number">-5111</span>
+            Fresno                                 (<span class="hljs-number">209</span>)  <span class="hljs-number">486</span><span class="hljs-number">-7410</span>
+            Las Vegas                              (<span class="hljs-number">702</span>)  <span class="hljs-number">382</span><span class="hljs-number">-7461</span>
+            Denver                                 (<span class="hljs-number">303</span>)  <span class="hljs-number">778</span><span class="hljs-number">-7878</span>
+            Portland                               (<span class="hljs-number">503</span>)  <span class="hljs-number">227</span><span class="hljs-number">-2556</span>
+            Philadelphia                           (<span class="hljs-number">215</span>)  <span class="hljs-number">677</span><span class="hljs-number">-9845</span>
+            Atlanta                                (<span class="hljs-number">404</span>)  <span class="hljs-number">252</span><span class="hljs-number">-2114</span>
+            West Florida                           (<span class="hljs-number">813</span>)  <span class="hljs-number">875</span><span class="hljs-number">-3404</span>
+            Minneapolis                            (<span class="hljs-number">612</span>)  <span class="hljs-number">544</span><span class="hljs-number">-8175</span>
+            Kansas City                            (<span class="hljs-number">913</span>)  <span class="hljs-number">648</span><span class="hljs-number">-8090</span>
+            Miami                                  (<span class="hljs-number">305</span>)  <span class="hljs-number">491</span><span class="hljs-number">-0122</span>
+            Pittsburgh                             (<span class="hljs-number">412</span>)  <span class="hljs-number">343</span><span class="hljs-number">-1611</span>
+            Houston                                (<span class="hljs-number">713</span>)  <span class="hljs-number">464</span><span class="hljs-number">-2516</span>
+            Bakersfield                            (<span class="hljs-number">805</span>)  <span class="hljs-number">832</span><span class="hljs-number">-2346</span>
+
+Cellular Telephone Offices
+
+            Minneapolis-St. Paul                   (<span class="hljs-number">612</span>)  <span class="hljs-number">544</span><span class="hljs-number">-3312</span>
+            Los Angeles                            (<span class="hljs-number">714</span>)  <span class="hljs-number">527</span><span class="hljs-number">-0385</span>
+            Elsewhere <span class="hljs-keyword">in</span> California                (<span class="hljs-number">800</span>)  <span class="hljs-number">344</span><span class="hljs-number">-3455</span>
+
+            Headquarters - Washington, D.C.        (<span class="hljs-number">202</span>)  <span class="hljs-number">429</span><span class="hljs-number">-9660</span>
+
+
+MCI INTERNATIONAL
+<span class="hljs-comment">-----------------</span>
+MCI International provides private-line voice service <span class="hljs-keyword">to</span> several overseas
+countries, <span class="hljs-keyword">and</span> data <span class="hljs-keyword">and</span> message services, including telex, cablegram, leased
+channel, <span class="hljs-keyword">and</span> packet switching communications, <span class="hljs-keyword">to</span> more than <span class="hljs-number">200</span> overseas points.
+MCI has moved <span class="hljs-keyword">into</span> two new areas <span class="hljs-keyword">of</span> service:  International direct-dial
+telephone service <span class="hljs-keyword">and</span> international electronic mail <span class="hljs-keyword">and</span> hard-<span class="hljs-keyword">copy</span> delivery
+services.
+
+International Record Services
+<span class="hljs-comment">-----------------------------</span>
+TELEX SERVICE (domestic <span class="hljs-keyword">and</span> international) permits instantaneous, two-way,
+written communications <span class="hljs-keyword">with</span> other subscribers worldwide.  Customers can send
+messages <span class="hljs-keyword">at</span> any <span class="hljs-built_in">time</span>, even though <span class="hljs-keyword">the</span> receiving terminal may be unattended.
+MCI International offers access <span class="hljs-keyword">to</span> <span class="hljs-keyword">its</span> telex service <span class="hljs-keyword">from</span> a variety <span class="hljs-keyword">of</span>
+terminals <span class="hljs-keyword">and</span> networks; <span class="hljs-keyword">not</span> only subscribers <span class="hljs-keyword">with</span> telex terminals <span class="hljs-keyword">but</span> also
+those <span class="hljs-keyword">with</span> communicating <span class="hljs-built_in">word</span> processors, data terminals <span class="hljs-keyword">or</span> computers <span class="hljs-keyword">that</span>
+communicate <span class="hljs-keyword">over</span> telephone lines can take advantage <span class="hljs-keyword">of</span> MCI International telex
+service.  To subscribers connected <span class="hljs-keyword">to</span> <span class="hljs-keyword">its</span> own telex network, MCI International
+offers World Message Services<span class="hljs-comment">--a package of communications offerings including</span>
+telex, cablegram <span class="hljs-keyword">and</span> MCI Mail services.  Various service enhancements are
+available <span class="hljs-keyword">to</span> save <span class="hljs-built_in">time</span>, improve operating efficiency <span class="hljs-keyword">and</span> simplify records
+keeping <span class="hljs-keyword">for</span> telex users.
+
+CABLEGRAM SERVICE, <span class="hljs-keyword">the</span> traditional means <span class="hljs-keyword">of</span> international written
+communications, offers flexibility <span class="hljs-keyword">in</span> delivery <span class="hljs-keyword">and</span> economical rates <span class="hljs-keyword">for</span> shorter
+messages.  Cablegrams can be delivered <span class="hljs-keyword">to</span> virtually any overseas point.
+Subscribers <span class="hljs-keyword">with</span> telex terminals <span class="hljs-keyword">or</span> various other types <span class="hljs-keyword">of</span> equipment can access
+<span class="hljs-keyword">and</span> TELUS cablegram switch <span class="hljs-keyword">and</span> take advantage <span class="hljs-keyword">of</span> such service enhancements <span class="hljs-keyword">as</span>
+abbreviated addressing <span class="hljs-keyword">and</span> departmental billing.
+
+LEASED CHANNEL SERVICE provides an exclusive line <span class="hljs-keyword">between</span> a U.S. firm <span class="hljs-keyword">and</span> <span class="hljs-keyword">it</span>'s
+overseas office <span class="hljs-keyword">for</span> private communications <span class="hljs-number">24</span> hours a <span class="hljs-built_in">day</span>.  Each MCI
+International leased channel <span class="hljs-keyword">is</span> tailored <span class="hljs-keyword">to</span> meet <span class="hljs-keyword">the</span> needs <span class="hljs-keyword">of</span> a specific
+customer <span class="hljs-keyword">for</span> teleprinter, facsimile, voice <span class="hljs-keyword">and</span>/<span class="hljs-keyword">or</span> data traffic.  For
+subscribers <span class="hljs-keyword">with</span> several offices requiring private communications <span class="hljs-keyword">with</span> each
+other, MCI International offers a versatile message-switching service.
+Voice/data leases can be configured <span class="hljs-keyword">to</span> meet a whole array <span class="hljs-keyword">of</span> communicating
+needs; <span class="hljs-keyword">for</span> example, one channel might carry data traffic <span class="hljs-keyword">from</span> a computer <span class="hljs-keyword">at</span>
+night, voice communications during office hours, <span class="hljs-keyword">and</span> simultaneous teleprinter
+messages <span class="hljs-keyword">at</span> any <span class="hljs-built_in">time</span>.  Data channels can handle requirements <span class="hljs-keyword">for</span> traffic <span class="hljs-keyword">at</span> any
+speed <span class="hljs-keyword">from</span> <span class="hljs-number">1200</span> bits per <span class="hljs-keyword">second</span> <span class="hljs-keyword">to</span> <span class="hljs-number">1.544</span> megabits per <span class="hljs-keyword">second</span>.
+
+IMPACS SERVICE uses packet-switching technology <span class="hljs-keyword">to</span> provide international
+communications service <span class="hljs-keyword">between</span> data terminals <span class="hljs-keyword">and</span> computers.  Impacs offers
+<span class="hljs-keyword">on</span>-line, <span class="hljs-built_in">real</span>-<span class="hljs-built_in">time</span> connections <span class="hljs-keyword">and</span> enables many types <span class="hljs-keyword">of</span> incompatible systems
+<span class="hljs-keyword">to</span> communicate.  Impacs service offers virtually <span class="hljs-keyword">error</span>-free transmission
+because <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">error</span>-detection <span class="hljs-keyword">and</span> retransmission capability <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> network.
+
+INSTALINK SERVICE allows businesses overseas <span class="hljs-keyword">to</span> use regular telex equipment <span class="hljs-keyword">to</span>
+access remote computing systems <span class="hljs-keyword">and</span> databases <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> U.S.  Subscribers can
+retrieve data <span class="hljs-keyword">from</span> a computer-based information service <span class="hljs-keyword">or</span> use a computing
+system connecting <span class="hljs-keyword">to</span> a packet-switching network <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> U.S.
+
+INTERNATIONAL FACSIMILE SERVICE enables subscribers <span class="hljs-keyword">to</span> send duplicates <span class="hljs-keyword">of</span>
+original documents overseas quickly <span class="hljs-keyword">and</span> efficiently, even when neither <span class="hljs-keyword">the</span>
+sender nor <span class="hljs-keyword">the</span> receiver has facsimile transmission equipment, <span class="hljs-keyword">or</span> when <span class="hljs-keyword">the</span>
+sender <span class="hljs-keyword">and</span> receiver have incompatible equipment.
+
+DATEL SERVICE provides automatic <span class="hljs-keyword">or</span> voice-coordinated data transmission <span class="hljs-keyword">at</span>
+speeds up <span class="hljs-keyword">to</span> <span class="hljs-number">2400</span> bits per <span class="hljs-keyword">second</span>.  Either digital <span class="hljs-keyword">or</span> analog facsimile traffic
+can be transmitted via Datel.  Datel facilities are conditioned <span class="hljs-keyword">to</span> ensure
+high-quality transmission.  The MCI International switching center allows
+communications <span class="hljs-keyword">between</span> incompatible terminals.
+
+MARITIME SERVICES provide instant, high<span class="hljs-comment">--quality contact between ships at sea</span>
+<span class="hljs-keyword">or</span> offshore rigs, <span class="hljs-keyword">and</span> <span class="hljs-keyword">between</span> these vessels <span class="hljs-keyword">and</span> land-based subscribers
+worldwide.
+
+International Voice Services
+<span class="hljs-comment">----------------------------</span>
+PRIVATE LINE SERVICE provides, fast, easy access <span class="hljs-keyword">to</span> a single overseas location
+<span class="hljs-keyword">at</span> an economical monthly rate.  This technically efficient system maximizes <span class="hljs-keyword">the</span>
+use <span class="hljs-keyword">of</span> line capacity <span class="hljs-keyword">by</span> recognizing idle <span class="hljs-built_in">time</span> <span class="hljs-keyword">and</span> assigning a speaker <span class="hljs-keyword">to</span> a
+transmission path only when <span class="hljs-keyword">the</span> path <span class="hljs-keyword">is</span> needed.  Users can dial a four-digit
+extension <span class="hljs-keyword">from</span> a regular business phone <span class="hljs-keyword">to</span> reach a key overseas location.
+
+International Mail Services
+<span class="hljs-comment">---------------------------</span>
+WORLD MESSAGE SERVICE subscribers can access <span class="hljs-keyword">the</span> domestic electronic mail <span class="hljs-keyword">and</span>
+hard-<span class="hljs-keyword">copy</span> delivery offerings <span class="hljs-keyword">of</span> MCI Mail.  In addition, MCI International <span class="hljs-keyword">is</span>
+developing fast, low-cost services <span class="hljs-keyword">that</span> will deliver electronic messages <span class="hljs-keyword">and</span>
+high-quality printed documents worldwide.
+
+Customer Service
+<span class="hljs-comment">----------------</span>
+THE CUSTOMER TROUBLE REPORTING ASSISTANCE CENTER <span class="hljs-keyword">at</span> MCI International addresses
+customer concerns such <span class="hljs-keyword">as</span> equipment maintenance <span class="hljs-keyword">and</span> service performance
+questions.  Customer service specialists, <span class="hljs-keyword">on</span> duty <span class="hljs-number">24</span> hours a <span class="hljs-built_in">day</span> <span class="hljs-keyword">on</span> business
+days, answer questions <span class="hljs-keyword">and</span> electronically route service requests <span class="hljs-keyword">to</span> technicians
+nationwide.
+
+MCI DIGITAL INFORMATION SERVICES CORP.
+<span class="hljs-comment">--------------------------------------</span>
+MCI Digital Information Services, MCI's newest unit, provides high-speed,
+low-cost, <span class="hljs-built_in">time</span>-sensitive message delivery (MCI Mail), either electronically <span class="hljs-keyword">or</span>
+via hard <span class="hljs-keyword">copy</span>.
+
+MCI Mail provides <span class="hljs-built_in">time</span>-sensitive document delivery <span class="hljs-keyword">to</span> anyone, anywhere vial
+MCI's long-distance telephone network.  MCI Mail can reach a recipient
+instantly, <span class="hljs-keyword">in</span> four hours <span class="hljs-keyword">or</span> less, <span class="hljs-keyword">or</span> overnight <span class="hljs-keyword">by</span> noon <span class="hljs-keyword">the</span> next <span class="hljs-built_in">day</span>.  Prices
+are <span class="hljs-keyword">as</span> much <span class="hljs-keyword">as</span> <span class="hljs-number">90</span> percent lower than comparable <span class="hljs-built_in">time</span>-sensitive mail delivery
+services.  MCI Mail can be delivered electronically, terminal <span class="hljs-keyword">to</span> terminal, <span class="hljs-keyword">or</span>
+laser printed <span class="hljs-keyword">on</span> letterhead stationery <span class="hljs-keyword">with</span> <span class="hljs-keyword">the</span> customer's signature.
+
+MCI Mail customers can even order gifts <span class="hljs-keyword">and</span> services direct <span class="hljs-keyword">through</span> MCI Mail,
+ranging <span class="hljs-keyword">from</span> software <span class="hljs-keyword">and</span> paper <span class="hljs-keyword">for</span> personal computers <span class="hljs-keyword">to</span> investment advisory
+services <span class="hljs-keyword">to</span> travel specials.
+
+There are no sign-up, monthly service charges <span class="hljs-keyword">or</span> <span class="hljs-string">"connect time"</span> charges <span class="hljs-keyword">for</span> MCI
+Mail.  MCI Mail can be used <span class="hljs-keyword">by</span> virtually any personal computer, <span class="hljs-built_in">word</span> processor,
+electronic typewriter, data terminal, telex, <span class="hljs-keyword">or</span> other digital communications
+device.  The service <span class="hljs-keyword">is</span> accessed <span class="hljs-keyword">by</span> a <span class="hljs-keyword">local</span> telephone call <span class="hljs-keyword">or</span> <span class="hljs-number">800</span> <span class="hljs-built_in">number</span>.
+
+MCI Mail
+<span class="hljs-comment">--------</span>
+INSTANT delivery <span class="hljs-keyword">to</span> an <span class="hljs-string">"electronic"</span> mailbox.
+
+FOUR-HOUR paper delivery <span class="hljs-keyword">by</span> courier <span class="hljs-keyword">to</span> <span class="hljs-number">17</span> major metropolitan areas regardless
+<span class="hljs-keyword">of</span> point <span class="hljs-keyword">of</span> origin.
+
+OVERNIGHT paper delivery <span class="hljs-keyword">by</span> courier <span class="hljs-keyword">by</span> noon <span class="hljs-keyword">the</span> next <span class="hljs-built_in">day</span> <span class="hljs-keyword">in</span> <span class="hljs-number">20</span>,<span class="hljs-number">000</span> continental
+U.S. cities.
+
+MCI LETTER transmitted electronically <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> MCI digital postal center nearest
+<span class="hljs-keyword">its</span> destination, <span class="hljs-keyword">then</span> delivered locally <span class="hljs-keyword">by</span> <span class="hljs-keyword">the</span> U.S. Postal Service.
+
+TELEX DISPATCH enables MCI Mail subscribers <span class="hljs-keyword">to</span> transmit messages <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> more
+than <span class="hljs-number">1.6</span> million telex subscribers worldwide.
+
+VOLUME MAIL enables customers <span class="hljs-keyword">to</span> send large mailings <span class="hljs-keyword">in</span> a variety <span class="hljs-keyword">of</span> letter
+formats, <span class="hljs-keyword">at</span> substantial savings <span class="hljs-keyword">in</span> delivery <span class="hljs-built_in">time</span> <span class="hljs-keyword">and</span> expense.
+
+===============================================================================
+Look <span class="hljs-keyword">for</span> more MCI Files coming <span class="hljs-keyword">to</span> Metal Shop soon!
+
+                 This has been a Knight Lightning Presentation
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue Two, Phile 8 of 9
+
+
+                     The Hackers Guide <span class="hljs-keyword">to</span> RSTS-E 8.0
+
+                       Data Line.  TWX 650-240-6356
+
+
+            Rsts is one of the most versatile operating systems available <span class="hljs-keyword">for</span>
+the PDP-11 series of computers.  It can emulate both RSX <span class="hljs-keyword">and</span> RT-11 (though <span class="hljs-keyword">not</span>
+fully), <span class="hljs-keyword">and</span> is often a choice where multiple concurrent operating systems must
+be online.  I was a<span class="hljs-built_in"> system </span>manager on an 11-23 <span class="hljs-keyword">for</span> about a year <span class="hljs-keyword">and</span> learned a
+fair amount about the OS (perhaps forgetting a good deal <span class="hljs-keyword">in</span> the interim).  This
+phile applies <span class="hljs-keyword">to</span> release 8.0 <span class="hljs-keyword">and</span> the entire 7 series.  By the way, version 9.0
+is it - DEC is discontinuing RSTS with that release <span class="hljs-keyword">and</span> using 9.0 as a<span class="hljs-built_in"> bridge
+</span><span class="hljs-keyword">to</span> VMS <span class="hljs-keyword">for</span> the PDP-11 series.  The logon will tell which version you are
+hacking.
+
+        <span class="hljs-keyword">If</span> the SYSTAT-before-logon has been disabled (It probably has), <span class="hljs-literal">no</span> big
+worry.  Account 1,2 must be present on the<span class="hljs-built_in"> system </span><span class="hljs-keyword">and</span> contains most of the<span class="hljs-built_in">
+system </span>utilities.  On booting, the account is called at least 8 times <span class="hljs-keyword">to</span> put
+batch processors <span class="hljs-keyword">and</span> spoolers online.  Changing [1,2]<span class="hljs-string">'s passwords in the
+command file is a tedious process - most system managers are too lazy, so it
+won'</span>t change often.  Oh <span class="hljs-literal">yes</span>, the<span class="hljs-built_in"> default </span>PW <span class="hljs-keyword">for</span> 1,2 is SYSLIB.  This knowledge
+should cut hacking time considerably <span class="hljs-keyword">for</span> many systems. When you <span class="hljs-builtin-name">get</span> <span class="hljs-keyword">in</span>, <span class="hljs-builtin-name">RUN</span>
+<span class="hljs-variable">$MONEY</span>.  This gives all accounts, KCT<span class="hljs-string">'s (Billing units), accesses, time on
+system, and PASSWORDS, if you ask.  Don'</span>t reset the<span class="hljs-built_in"> system </span>when it asks, it
+merely zeroes the program <span class="hljs-keyword">and</span> <span class="hljs-keyword">not</span> the hardware, but could tip someone off that
+he<span class="hljs-built_in"> system </span>had been hacked.
+
+           Personally, I like running out of a new account, so <span class="hljs-builtin-name">RUN</span> <span class="hljs-variable">$REACT</span>.
+Pick a new account , making sure the first number (before the comma) is a <span class="hljs-string">"1"</span>
+<span class="hljs-keyword">to</span> <span class="hljs-builtin-name">get</span> full privilege.  Accept defaults <span class="hljs-keyword">for</span> disk placement.  As <span class="hljs-keyword">for</span> Cluster
+size, I prefer 4.  It<span class="hljs-string">'s large enough to get fast disk access, but small enough
+so that little space is wasted for small files.  Cluster size is shown (CLU or
+CLS) on MONEY and on DIR/FULL.  Follow conventions and you'</span>ll stand less chance
+of being noticed.
+
+        RSTS has some of the most complete HELP files short of a CDC mainframe.
+HELP HELP will give the forst<span class="hljs-built_in"> screen </span>of the nested menus.  Be sure <span class="hljs-keyword">to</span> <span class="hljs-keyword">do</span> this
+<span class="hljs-keyword">from</span> a privileged account <span class="hljs-keyword">or</span> you<span class="hljs-string">'ll miss about half of the best commands. HELP
+SYSTAT will give a thorough overview of the system setup &amp; status program.
+
+              RUN $SYSTAT (or just SYS if the Concise Command Language is set
+up normally).  On the left is a report of te system users including all
+background jobs (print spoolers, batch processors and the like), their
+keyboard, and what state they are in (RN=run, ^C=waiting for input, DCL=logged
+on, no program running, DR=Disk Read, DW=Disk Write).  To the right is a list
+of busy I/O devices.  At the end is a full report of Disk names (DR:=Hard, DU:=
+floppy), and space allocated/free.  To cause some havoc pick a target KB,
+preferrably one running a financial type program.  Note the Job 
+leftmost column.  Simply type UT KILL  and he'</span>s totally gone, without so much
+as a logoff message.  <span class="hljs-keyword">If</span> done during a Disk Write - <span class="hljs-builtin-name">get</span> out the backups!!
+
+        <span class="hljs-keyword">If</span> just tying up resources is more your game, <span class="hljs-builtin-name">RUN</span> <span class="hljs-variable">$VT50PY</span>.  It gives
+the utilization readout on a 20 second basis, <span class="hljs-keyword">or</span> whenever a key is struck.  The
+program itself uses a lot of CPU time, so when the Interval &lt;20&gt;? comes up,
+enter a 1 <span class="hljs-keyword">and</span> watch the EXEC percent go through the roof.
+
+        <span class="hljs-keyword">If</span> wasting paper is more your style, <span class="hljs-builtin-name">find</span> the KB: number of the printer
+(KB0: is the console) <span class="hljs-keyword">from</span> SYSTAT when it<span class="hljs-string">'s in use, or try LP1:.  Find a long
+text file (DIR [*,*]*.txt) and COPY LP1:=filename.  Don'</span>t forget the colon when
+referring <span class="hljs-keyword">to</span> keyboards <span class="hljs-keyword">or</span> printers.
+
+        Try DTR.  <span class="hljs-keyword">If</span> DATATRIEVE is online, you can <span class="hljs-builtin-name">set</span> up a database of huge
+proportions.  Again, full help is available.  <span class="hljs-builtin-name">SET</span> GUIDE (configure your
+terminal <span class="hljs-keyword">for</span> VT-100) <span class="hljs-keyword">and</span> it takes you through every <span class="hljs-keyword">step</span>.
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+<span class="hljs-code">                                ==Phrack Inc.==</span>
+<span class="hljs-code">                     Volume One, Issue Two, Phile 9 of 9</span>
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<span class="hljs-code">                               Phreak World News</span>
+<span class="hljs-code">                                  Compiled by</span>
+<span class="hljs-code">                      \\\\\=-{ Knight Lightning }-=/////</span>
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">Spitfire Hacker Leaves Phreak World
+-----------------------------------</span>
+
+Spitfire Hacker resigned from the phreaking world in December due to a lack of
+computer.  He now is holding a job and trying to earn enough money to get
+another computer.  He says that he plans to be back by November 1986.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">MCI Cracks Down
+---------------</span>
+
+Dr. Crash busted for MCI scanning.  In the early part of December, Dr. Crash
+ran a scanner on MCI, MCI traced him and told him to stop, unfortunately Dr.
+Hack, another 314er, started scanning the same port later that night.  MCI
+didn't trace it again and assumed it was Dr. Crash back at work.  All of his
+files were hidden away but MCI and authorities confiscated his Atari computer
+and his phone.  MCI security told Dr. Crash that he was part of an ongoing
+investigation.  Later that month he had a meeting with MCI security, where they
+questioned him about the incident.  His computer, they told him, will arrive in
+the mail soon.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+Also in this issues news, Jester Sluggo said his goodbyes to St.Louis and now
+has returned to his home in Cross-Bar Territory.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+Announcing...                    <span class="hljs-emphasis">_  _</span>        <span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>
+<span class="hljs-code">                                | \/ |      / ______/</span>
+<span class="hljs-code">                                |_||_|etal / /hop</span>
+<span class="hljs-code">                                __________/ /</span>
+<span class="hljs-code">                               /___________/  AE</span>
+<span class="hljs-code">                       300/1200/2400 Baud/20 Megs Online</span>
+<span class="hljs-code">                         24 hours a day/7 days a week</span>
+<span class="hljs-code">                              Sysop: Cheap Shades</span>
+<span class="hljs-code">                                (314) 256-7284</span>
+
+If you would like to become a member of this board please contact Cheap Shades,
+Knight Lightning, or Taran King for the general password.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">Metal Shop...PRIVATE
+--------------------</span>
+Metal Shop is now officially a private BBS.  On Jan. 2 Taran King and Knight
+Lightning purged 241 users from the Metal Shop userlist.  There are now general
+passwords and new user passwords to this system.  If you would like to become a
+member of Metal Shop, please contact Taran King, Knight Lightning, or Cheap
+Shades on any bbs they are on.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">Extasyy Elite Disbanded
+-----------------------</span>
+
+The following data has not been completely researched and may be considered as
+rumors. Bit Blitz busted for phreaking, the organization and enforcement
+agencies are unknown. However, $3000 worth of computer material (7 computers)
+were confiscated.  Also it is reported that The Mentor informed on him.
+
+The Mentor was busted for breaking into his school to steal 29 computers. Also
+it has been said that Poltergeist is in the hospital with leukemia.
+It is unknown if any other members were busted for any other reasons. However,
+all former members are apparently safe now.
+
+The Bit Blitz and Crustaceo Mutoid are supposedly forming a new group called
+Rising Force and The Mentor is starting an elite hacking group.
+
+<span class="hljs-code">     Much of this information has been supplied by former Extasyy member:</span>
+
+<span class="hljs-code">                                Kleptic Wizard</span>
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">Legion of Doom Vs. Stronghold East Elite
+----------------------------------------</span>
+Somehow The Maelstrom found the secret LOD VMS in 305, and decided to post
+about it on Stronghold East.  Knight Lightning spoke with Compu-Phreak of the
+LOD, and he said that he told Slave Driver, co-sysop of Stronghold East, to
+remove all posts concerning the LOD VMS, and the LOD itself.  He also
+threatened that failure to do so would bring down the wrath of the 6 most
+active members of the LOD.
+
+When last looked at Stronghold East still had the information online.
+
+The LOD VMS has 96 megs online and store information in a way similar to
+laserdisc.
+
+All readers are encouraged NOT to call it as Compu-Phreak is getting pissed
+and you don't have the passwords anyway.
+<span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-strong">_____</span><span class="hljs-emphasis">___</span>_
+
+<span class="hljs-section">Dartmouth Abandoned
+-------------------</span>
+With the destruction of the 58107s 12-27-65 password to the Dartmouth system,
+it seems to have been abandoned by phreaks.  This is good because basically it
+only causes trouble.  Many users get impersonated on that system and false
+rumors are constantly being started.  The best way to have a conference is a
+tele-conference...start one today!
+<span class="hljs-section">_______________________________________________________________________________
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</span>
+
+
+</code></pre>
+<hr>
+<p><a href="http://www.phrack.org/archives/issues/2/">PHRACK.ORG</a></p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/test-site/docs/doc94.html"><span class="arrow-prev">← </span><span>Flying on Autopilot - 30 de jan de 2019</span></a><a class="docs-next button" href="/test-site/docs/doc59.html"><span>Phrack Inc  Volume One - Issue One</span><span class="arrow-next"> →</span></a></div></div></div></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/test-site/" class="nav-home"><img src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia" width="66" height="58"/></a><div><h5>Docs</h5><a href="/test-site/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/test-site/docs/en/doc2.html">Guides (or other categories)</a><a href="/test-site/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/test-site/en/users.html">User Showcase</a><a href="http://stackoverflow.com/questions/tagged/" target="_blank">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/marcialwushu" target="_blank">Twitter</a></div><div><h5>More</h5><a href="/test-site/blog">Blog</a><a href="https://github.com/marcialwushu/restropective-docusaurus">GitHub</a><a class="github-button" href="https://github.com/marcialwushu/restropective-docusaurus" data-icon="octicon-star" data-count-href="/marcialwushu/restropective-docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://code.facebook.com/projects/" target="_blank" class="fbOpenSource"><img src="/test-site/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2022 Facebook Inc.</section></footer></div></body></html>

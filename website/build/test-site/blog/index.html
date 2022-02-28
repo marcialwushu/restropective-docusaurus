@@ -1,0 +1,266 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Blog · Retrospectiva na Tecnologia</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Uma coletânea de noticias tecnologicas"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Blog · Retrospectiva na Tecnologia"/><meta property="og:type" content="website"/><meta property="og:url" content="https://facebook.github.io/test-site/index.html"/><meta property="og:description" content="Uma coletânea de noticias tecnologicas"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/test-site/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://facebook.github.io/test-site/blog/atom.xml" title="Retrospectiva na Tecnologia Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://facebook.github.io/test-site/blog/feed.xml" title="Retrospectiva na Tecnologia Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/test-site/js/scrollSpy.js"></script><link rel="stylesheet" href="/test-site/css/main.css"/><script src="/test-site/js/codetabs.js"></script></head><body class="blog"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/test-site/"><img class="logo" src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia"/><h2 class="headerTitleWithLogo">Retrospectiva na Tecnologia</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/test-site/docs/doc1.html" target="_self">News</a></li><li class=""><a href="/test-site/docs/doc4.html" target="_self">Feed</a></li><li class=""><a href="/test-site/help.html" target="_self">Ajuda</a></li><li class="siteNavGroupActive siteNavItemActive"><a href="/test-site/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/blog/2017/10/24/new-version-1.0.0.html">New Version 1.0.0</a></li><li class="navListItem"><a class="navItem" href="/test-site/blog/2017/09/26/adding-rss.html">Adding RSS Support</a></li><li class="navListItem"><a class="navItem" href="/test-site/blog/2017/09/25/testing-rss.html">Adding RSS Support - RSS Truncation Test</a></li><li class="navListItem"><a class="navItem" href="/test-site/blog/2017/04/10/blog-post-two.html">Wordfence Weekly October 02 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/blog/2016/03/11/blog-post.html">Blog Title</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="posts"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/test-site/blog/2017/10/24/new-version-1.0.0.html">New Version 1.0.0</a></h1><p class="post-meta">October 24, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>This blog post will test file name parsing issues when periods are present.</p>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Ffeeds.feedburner.com%2FTechCrunch%2F&showtitle=false&type=js"></script>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/test-site/blog/2017/09/26/adding-rss.html">Adding RSS Support</a></h1><p class="post-meta">September 26, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/test-site/blog/2017/09/25/testing-rss.html">Adding RSS Support - RSS Truncation Test</a></h1><p class="post-meta">September 25, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+</span></div><div class="read-more"><a class="button" href="/test-site/blog/2017/09/25/testing-rss.html">Read More</a></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/test-site/blog/2017/04/10/blog-post-two.html">Wordfence Weekly October 02 2019</a></h1><p class="post-meta">April 10, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="https://www.wordfence.com/weekly/wordfence-weekly-october-02-2019-october-08-2019/" target="_blank" rel="noreferrer noopener">Wordfence</a></p><div class="authorPhoto"><a href="https://www.wordfence.com/weekly/wordfence-weekly-october-02-2019-october-08-2019/" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/100002976521003/picture/?height=200&amp;width=200" alt="Wordfence"/></a></div></div></header><article class="post-content"><div><span><section class="hero hero-report">
+    <div class="container container-tall">
+        <h1>Wordfence Weekly October 02 2019 – October 08 2019</h1>
+        <div class="hero-report-subhead">
+                            <p class="subhead">A weekly report of noteworthy threat data by the Defiant threat intelligence team.</p>
+                    </div>
+    </div>
+</section>
+<div class="the-content add-bottom"><div class="container container-short">
+<h2>Notable Vulnerabilities</h2>
+<div class="report-vulnerabilities">
+<div class="vulnerability"><strong>Name</strong>: <a href="https://blog.nintechnet.com/stored-xss-vulnerability-in-wordpress-download-plugins-and-themes-from-dashboard-plugin/" target="_blank" rel="noopener noreferrer">Download Plugins and Themes from Dashboard &lt;= 1.5.0 - Unauthenticated Stored XSS</a><br>
+<strong>Description</strong>: Unauthenticated attackers can inject XSS payloads into the administrator dashboard of affected sites.<br>
+<strong>Type</strong>: <a href="https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)">A7 – Cross-Site Scripting (XSS)</a></div>
+</div>
+</div>
+<div class="container container-short">
+<h2>Most Common New Infections</h2>
+<p>Malware samples identified on the greatest count of newly infected sites.</p>
+<div class="responsive-table">
+<table>
+<thead>
+<tr>
+<th>MD5</th>
+<th>Signature</th>
+<th>Description</th>
+<th>Example File Names</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CEC9A529B43D84F0A0E3624372CD9C51</td>
+<td>Backdoor:PHP/WP-VCD.5409</td>
+<td>Infected core file, triggers execution of another malicious script.</td>
+<td>post.php</td>
+</tr>
+<tr>
+<td>6AF2FE6DF46DD2BBC5B2FB743117C2A4</td>
+<td>Spam:PHP/oclasinsert.5483</td>
+<td>SEO spam code injector.</td>
+<td>wp-tmp.php</td>
+</tr>
+<tr>
+<td>7D9A88B33CD777B0949A3033512C1D08</td>
+<td>Backdoor:PHP/wp-vcd.5476</td>
+<td>Backdoor associated with SEO spam injections.</td>
+<td>wp-vcd.php</td>
+</tr>
+<tr>
+<td>AB5106155B93D614B93086291CA72051</td>
+<td>Spam:PHP/oclasinsert.5483</td>
+<td>SEO spam code injector.</td>
+<td>wp-tmp.php</td>
+</tr>
+<tr>
+<td>701CB9E0ACF43569D3C539B073DAAF2F</td>
+<td>Spam:PHP/oclasinsert.5483</td>
+<td>SEO spam code injector.</td>
+<td>wp-tmp.php</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="container container-short">
+<h2>IPs Attacking Most Sites</h2>
+<div class="responsive-table">
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Prev.</th>
+<th>IP Address</th>
+<th>ASN</th>
+<th>Country</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>6</td>
+<td>217.182.95.250</td>
+<td>16276 (OVH SAS)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/fr.png" alt="France"> FR</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td>165.227.48.147</td>
+<td>14061 (DigitalOcean, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+</tr>
+<tr>
+<td>3</td>
+<td>9</td>
+<td>198.27.69.176</td>
+<td>16276 (OVH SAS)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+</tr>
+<tr>
+<td>4</td>
+<td>—</td>
+<td>192.95.14.196</td>
+<td>16276 (OVH SAS)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+</tr>
+<tr>
+<td>5</td>
+<td>—</td>
+<td>192.169.159.241</td>
+<td>26496 (GoDaddy.com, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+</tr>
+<tr>
+<td>6</td>
+<td>4</td>
+<td>192.99.38.186</td>
+<td>16276 (OVH SAS)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/ca.png" alt="Canada"> CA</td>
+</tr>
+<tr>
+<td>7</td>
+<td>10</td>
+<td>159.203.86.82</td>
+<td>14061 (DigitalOcean, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+</tr>
+<tr>
+<td>8</td>
+<td>1</td>
+<td>178.128.193.158</td>
+<td>14061 (DigitalOcean, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/de.png" alt="Germany"> DE</td>
+</tr>
+<tr>
+<td>9</td>
+<td>8</td>
+<td>139.59.116.30</td>
+<td>14061 (DigitalOcean, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/sg.png" alt="Singapore"> SG</td>
+</tr>
+<tr>
+<td>10</td>
+<td>—</td>
+<td>157.245.112.139</td>
+<td>14061 (DigitalOcean, LLC)</td>
+<td class="report-country"><img src="/wp-content/themes/wordfence/img/flags/us.png" alt="United States"> US</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="container container-short">
+<h2>New Tracked Domains</h2>
+<div class="responsive-table">
+<table>
+<thead>
+<tr>
+<th>Domain Name</th>
+<th>Date Added</th>
+<th>Current Status</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>tds.narod.ru</td>
+<td>10/04/2019</td>
+<td>Up</td>
+<td>Referenced in malware samples.</td>
+</tr>
+<tr>
+<td>tdse.com</td>
+<td>10/04/2019</td>
+<td>Up</td>
+<td>Referenced in malware samples.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="container container-short">
+<h2>Subscribe To The Wordfence Weekly</h2>
+<div style="margin-top: -1em;"><!-- [if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]--><br>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script><br>
+<script data-hubspot-rendered="true">
+  hbspt.forms.create({
+    portalId: "4354010",
+    formId: "b01b131a-fda0-42ed-8251-3d7fcfaeacb8"
+});
+</script><div class="hbspt-form" id="hbspt-form-1634081325926-1274727915"><iframe id="hs-form-iframe-0" class="hs-form-iframe" scrolling="no" width="100%" style="width: 100%; position: static; border: none; display: block; overflow: hidden; height: 202.594px;" height="202.59375"></iframe></div></div>
+</div>
+</div>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/test-site/blog/2016/03/11/blog-post.html">Blog Title</a></h1><p class="post-meta">March 11, 2016</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener">Blog Author</a></p><div class="authorPhoto"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/100002976521003/picture/?height=200&amp;width=200" alt="Blog Author"/></a></div></div></header><article class="post-content"><div><span><p><h1 class="content-head__title" itemprop="headline">Retrospectiva 2018: privacidade em xeque e boatos marcam ano na tecnologia</h1> </div> <div class="medium-centered subtitle"> <meta itemprop="alternateName" content="Facebook, WhatsApp, Twitter, Lei Geral de Proteção de Dados. O ano foi marcado pela maneira como as empresas de tecnologia impactaram a sociedade.
+"> <h2 class="content-head__subtitle" itemprop="alternativeHeadline">Facebook, WhatsApp, Twitter, Lei Geral de Proteção de Dados. O ano foi marcado pela maneira como as empresas de tecnologia impactaram a sociedade. </h2> </div> </div></p>
+<p><img src="https://s2.glbimg.com/HyFqmntqgT_4i5EARHC4Ds3WC_4=/0x0:1600x546/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/a/Y/AzI7B7SOAjOJi3WToMMA/ilustra-retrospectiva-tec-2018.jpg" alt=""></p>
+<p>Em 2018, privacidade em xeque e mal uso de informações marcaram a indústria de tecnologia. — Foto: Alexandre Mauro/G1</p>
+<div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="24"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> O ano foi voraz para a tecnologia: menos por inovações técnicas e mais pelo impacto que ela passou a ter em nossas vidas. </p> </div> <div class="wall protected-content"> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="59"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Foi neste ano que muita gente entendeu que as gigantes da indústria <a href="https://g1.globo.com/economia/tecnologia/noticia/gigantes-da-internet-sabem-por-onde-voce-anda-que-lugares-frequenta-e-com-quem-fala-entenda.ghtml">sabem onde vamos, com quem falamos e o que fazemos</a>. E justamente por essa capacidade que as principais empresas do mercado de tecnologia estiveram em xeque — fosse com vazamento de informações, escândalos de interferência em eleições ou tentando conter a disseminação de boatos em suas plataformas. </p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="5"> <p class="content-text__container"><div class="content-intertitle"><h2>O ano infernal do Facebook</h2></div></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="61"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Em março, o ano de &quot;inferno astral&quot; da companhia começou. Investigações dos jornais “The New York Times” e “Guardian” apontaram que <a href="https://g1.globo.com/economia/tecnologia/noticia/entenda-o-escandalo-de-uso-politico-de-dados-que-derrubou-valor-do-facebook-e-o-colocou-na-mira-de-autoridades.ghtml">dados de mais de 50 milhões de usuários haviam sido usados pela empresa britânica Cambridge Analytica</a> para fazer análise política e influenciar as eleições americanas de 2016. Com esses dados, a consultoria pôde direcionar conteúdo e influenciar a campanha presidencial. </p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="27"> <p class="content-text__container"><blockquote class="content-blockquote theme-border-color-primary-before">Em abril, o Facebook afirmou que o número era maior — <a href="https://g1.globo.com/economia/tecnologia/noticia/facebook-eleva-para-87-milhoes-o-n-de-usuarios-que-tiveram-dados-explorados-pela-cambridge-analytica.ghtml">87 milhões de usuários tiveram dados explorados</a> pela Cambridge Analytica. Entre eles, quase 450 mil brasileiros.</blockquote></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="41"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Christopher Wylie, ex-diretor de pesquisa da Cambridge Analytica, responsável por trazer o caso à tona, disse que o mesmo sistema de coleta e uso de dados <a href="https://g1.globo.com/mundo/noticia/cambridge-analytica-teria-tido-papel-crucial-no-brexit-diz-ex-diretor-de-pesquisa.ghtml">teve papel crucial para influeciar no Brexit</a>, a saída do Reino Unido da União Europeia. </p> </div> <div class="content-ads content-ads--reveal" data-block-type="ads"> <div data-id="banner_materia2" class="tag-manager-publicidade-container mc-has-reveal mc-has-ad-lazyload"> </div> </div> 
+<p><img src="https://s2.glbimg.com/AcavI4uL_m__WW_pNAPK6cuDee8=/0x0:1600x3833/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/T/V/5fFBvHRU6rBHLVEcpZNQ/infografico-cambridge-analytica.png" alt=""></p>
+<p>Relembre como foi o escândalo envolvendo Cambridge Analytica e o Facebook. — Foto: Alexandre Mauro/G1</p>
+<p class="content-media__description "> Relembre como foi o escândalo envolvendo Cambridge Analytica e o Facebook. — Foto: Alexandre Mauro/G1 </p> </div> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="27"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> A Cambridge Analytica fechou as portas com perda de clientes diante do escândalo. Já o Facebook continua envolvido em casos de mal uso das informações dos usuários. </p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="23"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Neste mês, uma nova investigação mostrou que a empresa <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/19/acesso-a-dados-do-facebook-por-empresas-veja-perguntas-e-respostas.ghtml">forneceu dados de usuários a gigantes de tecnologia</a>, como Netflix, Microsoft, Amazon e Spotify. </p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="34"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Também em dezembro, o Facebook foi <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/19/procurador-em-washington-processa-facebook-por-caso-cambridge-analytica-diz-jornal.ghtml">processado por um procurador de Washington</a> pelo caso Cambridge Analytica e está sendo investigado pelo Departamento de Justiça e pela SEC, órgão que regula os mercados nos EUA. </p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="26"> <p class="content-text__container"><blockquote class="content-blockquote theme-border-color-primary-before">O impacto também foi financeiro: foi a <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/20/facebook-e-empresa-que-mais-perdeu-valor-de-mercado-nos-eua-em-2018.ghtml">empresa que mais perdeu valor de mercado nos EUA no ano</a>: US$ 129,8 bilhões até esta quinta (20).</blockquote></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="9"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Veja outras polêmicas que marcaram o ano do Facebook: </p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="47"> <p class="content-text__container"><ul class="content-unordered-list"><li>27/06: <a href="https://g1.globo.com/economia/noticia/2018/07/26/acoes-do-facebook-despencam-e-pressionam-bolsas-apos-previsao-de-receita-menor.ghtml">Sem conseguir aumentar número de usuários, Facebook perde valor de mercado</a></li><li>28/09:<a href="https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2018/09/29/vazamento-do-facebook-entenda-como-hackers-ganharam-acesso-a-50-milhoes-de-perfis.ghtml"> Ataque virtual afetou quase 50 milhões de perfis</a></li><li>12/10: <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/10/12/facebook-diz-que-hackers-roubaram-dados-de-29-milhoes-de-usuarios.ghtml">Hackers roubaram dados de 29 milhões de usuários</a></li><li>30/11: <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/11/22/facebook-admite-que-contratou-companhia-para-investigar-senadores-e-george-soros.ghtml">Facebook X George Soros</a></li><li>14/12: <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/14/facebook-afirma-que-nova-falha-permitiu-acesso-a-fotos-de-68-milhoes-de-usuarios.ghtml">Nova falha permitiu acesso a fotos de 6,8 milhões de usuários</a></li></ul></p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="5"> <p class="content-text__container"><div class="content-intertitle"><h2>A guerra contra os boatos</h2></div></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="38"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Não sobrou só para o Facebook em 2018. Twitter, Google e WhatsApp (que é uma empresa do Facebook) também tiveram que lidar com questionamentos sobre a influência de suas plataformas e sobre como elas disseminam informação falsa. </p> </div> <div class="content-ads content-ads--reveal" data-block-type="ads"> <div data-id="banner_materia__6e74c6e9-473a-4a45-a666-0c14441fd643" class="tag-manager-publicidade-container mc-has-reveal mc-has-ad-lazyload"> </div> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="134"> <p class="content-text__container"><ul class="content-unordered-list"><li><strong>No </strong><a href="http://g1.globo.com/tudo-sobre/twitter"><strong>Twitter</strong></a><strong> </strong>um dos principais assuntos do ano foram os perfis deletados. A empresa tirou do ar, em julho, milhões de perfis acusados de espalhar boatos e notícias falsas. A principal varredura chegou a <a href="https://g1.globo.com/economia/tecnologia/noticia/usuarios-mais-populares-do-twitter-perdem-em-media-2-de-seguidores-apos-mudanca-de-politica.ghtml">deletar 2% dos seguidores das contas mais populares</a>. </li><li><strong>No </strong><a href="http://g1.globo.com/tudo-sobre/facebook"><strong>Facebook</strong> </a>também houve atuação nesse sentido, inclusive durante as eleições no Brasil,<a href="https://g1.globo.com/politica/noticia/2018/10/22/facebook-bane-68-paginas-e-43-contas-de-grupo-que-divulgava-spam-politico-no-brasil.ghtml"> deletando perfis que espalhavam informações falsas por aqui</a>. A rede foi até <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/07/25/facebook-retira-do-ar-rede-de-fake-news-ligada-ao-mbl-antes-das-eleicoes-dizem-fontes.ghtml">acusada de censura </a>por movimentos políticos locais.</li><li><strong>No </strong><a href="http://g1.globo.com/tudo-sobre/whatsapp"><strong>WhatsApp </strong></a>houve explicações sobre desinformação no Brasil: <a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/19/whatsapp-bane-contas-de-empresas-suspeitas-de-disparar-mensagens-em-massa-durante-as-eleicoes.ghtml">a empresa baniu contas suspeitas durante as eleições</a> e negou que seria <a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/19/eleicoes-2018-novas-ferramentas-contra-fake-news-sao-impossiveis-a-uma-semana-da-votacao-diz-whatsapp.ghtml">impossível implementar novas ferramentas </a>antes do pleito.</li><li><strong>No </strong><a href="http://g1.globo.com/tudo-sobre/google"><strong>Google </strong></a>o chefão da empresa teve de dar explicações públicas sobre <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/12/em-audiencia-presidente-do-google-foi-questionado-sobre-privacidade-de-dados-e-vies-politico-da-empresa.ghtml">viés político nas buscas da plataforma</a> e sobre se a empresa estaria tentando voltar para a China com um <a href="https://g1.globo.com/economia/tecnologia/noticia/2018/12/12/google-nao-tem-planos-de-lancar-ferramenta-de-busca-na-china-diz-presidente.ghtml">buscador censurado</a>.</li></ul></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="30"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> A polêmica das empresas ainda repercute. Em dezembro, relatório do Senado dos Estados Unidos mostrou que &quot;trolls&quot; russos usaram redes sociais e plataformas dessas empresas para <a href="https://g1.globo.com/mundo/noticia/2018/12/17/trolls-russos-tentaram-dissuadir-eleitores-negros-nos-eua-diz-informe.ghtml">dissuadir pessoas de votar</a>. </p> </div> <div class="mc-column content-text active-extra-styles" data-block-type="raw" data-block-weight="4"> <p class="content-text__container"><div class="content-intertitle"><h2>Uma tentativa de controle</h2></div></p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Na esteira dos escândalos, <a href="https://g1.globo.com/economia/tecnologia/noticia/lei-da-uniao-europeia-que-protege-dados-pessoais-entra-em-vigor-e-atinge-todo-o-mundo-entenda.ghtml">entrou em vigor, em maio, a lei de proteção de dados na Europa, a GDPR</a>. </p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="30"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Criada para proteger os cidadãos europeus de sistemas de vigilância, a regulação caiu como uma luva numa época de maior preocupação com como as empresas lidam com nossas informações. </p> </div> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="23"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> E acabou inspirando a nossa própria versão, <a href="https://g1.globo.com/politica/noticia/senado-aprova-projeto-que-define-regras-para-protecao-de-dados-pessoais.ghtml">a Lei Geral de Proteção de Dados</a>, que uniu projetos que já tramitavam no Congresso. </p> </div> <div data-track-category="multicontent" data-track-action="ultimo chunk conteudo" data-track-noninteraction="false" data-track-scroll="view"> <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="44"> <p class="content-text__container " data-track-category="Link no Texto" data-track-links> Aprovada em agosto, a<a href="https://g1.globo.com/economia/tecnologia/noticia/entenda-o-que-muda-com-a-lei-que-protege-seus-dados-na-rede.ghtml"> regulação brasileira </a>tem punições um pouco mais brandas que a europeia, mas funciona de maneira semelhante para proteger os dados. Ela passa a valer somente em fevereiro de 2020, depois que terminar o prazo de adaptação para as empresas locais. </p> </div> </div> </div> </article> 
+</span></div></article></div><div class="docs-prevnext"></div></div></div></div></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/test-site/" class="nav-home"><img src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia" width="66" height="58"/></a><div><h5>Docs</h5><a href="/test-site/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/test-site/docs/en/doc2.html">Guides (or other categories)</a><a href="/test-site/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/test-site/en/users.html">User Showcase</a><a href="http://stackoverflow.com/questions/tagged/" target="_blank">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/marcialwushu" target="_blank">Twitter</a></div><div><h5>More</h5><a href="/test-site/blog">Blog</a><a href="https://github.com/marcialwushu/restropective-docusaurus">GitHub</a><a class="github-button" href="https://github.com/marcialwushu/restropective-docusaurus" data-icon="octicon-star" data-count-href="/marcialwushu/restropective-docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://code.facebook.com/projects/" target="_blank" class="fbOpenSource"><img src="/test-site/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2022 Facebook Inc.</section></footer></div></body></html>

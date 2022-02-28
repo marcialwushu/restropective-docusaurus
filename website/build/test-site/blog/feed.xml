@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Retrospectiva na Tecnologia Blog</title>
+        <link>https://facebook.github.io/test-site/blog</link>
+        <description>The best place to stay up-to-date with the latest Retrospectiva na Tecnologia news and events.</description>
+        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Retrospectiva na Tecnologia Blog</title>
+            <url>https://facebook.github.io/test-site/img/docusaurus.svg</url>
+            <link>https://facebook.github.io/test-site/blog</link>
+        </image>
+        <copyright>Copyright © 2022 Retrospective Tecnology</copyright>
+        <item>
+            <title><![CDATA[New Version 1.0.0]]></title>
+            <link>https://facebook.github.io/test-site/blog/2017/10/24/new-version-1.0.0.html</link>
+            <guid>https://facebook.github.io/test-site/blog/2017/10/24/new-version-1.0.0.html</guid>
+            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p>  ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adding RSS Support]]></title>
+            <link>https://facebook.github.io/test-site/blog/2017/09/26/adding-rss.html</link>
+            <guid>https://facebook.github.io/test-site/blog/2017/09/26/adding-rss.html</guid>
+            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+            <link>https://facebook.github.io/test-site/blog/2017/09/25/testing-rss.html</link>
+            <guid>https://facebook.github.io/test-site/blog/2017/09/25/testing-rss.html</guid>
+            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Wordfence Weekly October 02 2019]]></title>
+            <link>https://facebook.github.io/test-site/blog/2017/04/10/blog-post-two.html</link>
+            <guid>https://facebook.github.io/test-site/blog/2017/04/10/blog-post-two.html</guid>
+            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<section class="hero hero-report"> <div class="container container-tall"> <h1>Wordfence Weekly October 02 2019 – October 08 2019</h1> <div class="hero-report-subhead"> <p class="subhead">A weekly report of noteworthy threat data by the Defiant threat intelligence team.</p> </div> </div> </section> <div class="the-content add-bottom"><div class="container container-short"> <h2>Notable Vulnerabilities</h2> <div class="report-vulnerabilities"> <div class="vulnerability"><strong>Name</strong>: <a href="https://blog.nintechnet.com/stored-xss-vulnerability-in-wordpress-download-plugins-and-themes-from-dashboard-plugin/" target="_blank" rel="noopener noreferrer">Download Plugins and Themes from Dashboard &lt;= 1.5.0 - Unauthenticated Store...</a></div></div></div></div>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blog Title]]></title>
+            <link>https://facebook.github.io/test-site/blog/2016/03/11/blog-post.html</link>
+            <guid>https://facebook.github.io/test-site/blog/2016/03/11/blog-post.html</guid>
+            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p></p><h1 class="content-head__title" itemprop="headline">Retrospectiva 2018: privacidade em xeque e boatos marcam ano na tecnologia</h1> <div class="medium-centered subtitle"> <meta itemprop="alternateName" content="Facebook, WhatsApp, Twitter, Lei Geral de Proteção de Dados. O ano foi marcado pela maneira como as empresas de tecnologia impactaram a sociedade.
+"> <h2 class="content-head__subtitle" itemprop="alternativeHeadline">Facebook, WhatsApp, Twitter, Lei Geral de Proteção de Dados. O ano foi marcado pela maneira como as empresas de tecnologia impactaram a sociedade. </h2> </div> <p></p> <p><img src="https://s2.glbimg.com/HyFqmntqgT_4i5EARHC4Ds3WC_4=/0x0:1600x546/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/a/Y/AzI7B7SOAjOJi3WToMMA/ilustra-retrospectiva-tec-2018.jpg" alt></p> <p>Em 2018, privacidade e...</p>]]></description>
+        </item>
+    </channel>
+</rss>

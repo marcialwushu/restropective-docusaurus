@@ -1,0 +1,762 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Phrack Inc  Volume One - Issue One · Retrospectiva na Tecnologia</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="```"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Phrack Inc  Volume One - Issue One · Retrospectiva na Tecnologia"/><meta property="og:type" content="website"/><meta property="og:url" content="https://facebook.github.io/test-site/index.html"/><meta property="og:description" content="```"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/test-site/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://facebook.github.io/test-site/blog/atom.xml" title="Retrospectiva na Tecnologia Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://facebook.github.io/test-site/blog/feed.xml" title="Retrospectiva na Tecnologia Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/test-site/js/scrollSpy.js"></script><link rel="stylesheet" href="/test-site/css/main.css"/><script src="/test-site/js/codetabs.js"></script></head><body class="sideNavVisible"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/test-site/"><img class="logo" src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia"/><h2 class="headerTitleWithLogo">Retrospectiva na Tecnologia</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/test-site/docs/doc1.html" target="_self">News</a></li><li class="siteNavGroupActive"><a href="/test-site/docs/doc4.html" target="_self">Feed</a></li><li class=""><a href="/test-site/help.html" target="_self">Ajuda</a></li><li class=""><a href="/test-site/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Phrack Inc </span></h2></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">MSSQLTips</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc4.html">New Feature in SQL Server 2019 : Scalar UDF Inlining (MSSQLTips 11/12/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc5.html">Learn SQL Server Stored Procedures (MSSQLTips 11/9/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc41.html">Querying SQL Server Tables from .NET (MSSQLTips 11/14/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc42.html">SQL Server Transparent Data Encryption Alternative (MSSQLTips 11/16/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc43.html">Cost Effective SQL Server Encryption (MSSQLTips 11/19/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc44.html">Write More Compact SQL Server Code (MSSQLTips 11/20/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc63.html">SQL Server on Linux Tips (MSSQLTips 11/27/2018)</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">IT Forum 365</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc39.html">Confira as notícias que preparamos para você!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc40.html">Vem conferir o que preparamos para você  😉</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Feedspot Today</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc58.html">Serverless PHP on AWS Lamda</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc45.html">Interview with Josh Holmes, Interview with Josh Holmes, 405 Method Not Allowed</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc46.html">Security Vulnerability Announcement: Archive_Tar</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">ImmuniWeb</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc47.html">Cybercrime &amp; Application Security Weekly Briefing</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">InfoQ</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc52.html">Oracle fala sobre Blockchain, Bots e Serveless, JPA 2.2, RFC no React e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc51.html">9 perguntas sobre REST, Product Management no Nubank, Scrum em Escala e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc50.html">5 coisas que todo desenvolvedor deve saber, novo message broker da AWS , e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc49.html">Especial .NET e Plataformas Microsoft</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc48.html">Android Things, Kubernets, FPGAs, Github, Oreo Go, Nodejs e muito mais!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">JavaScript Weekly</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc53.html">JavaScript Weekly - 458 OCTOBER 11, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc54.html">JavaScript Weekly - 457 OCTOBER 4, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc77.html">Angular 9, a new decimal datatype for JS, and how to read specs</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Versioning</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc57.html">Versioning Front-end - Spellbound</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc56.html">Versioning Front-end - Scroll Lot of Love</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc93.html">Command and Conquer</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc94.html">Flying on Autopilot - 30 de jan de 2019</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Phrack Inc </h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc60.html">Phrack Inc  Volume One - Issue Two</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/test-site/docs/doc59.html">Phrack Inc  Volume One - Issue One</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Newsletter Ionic.IO</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc62.html">Ionic Dev Newsletter - Dec. 2018  ‘Tis the season for exciting updates!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc61.html">Tutorials &amp; Guides from the Ionic Community - December 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">BossaBox Newsletter</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc64.html">Metodologias Ágeis, Importância do SEO, Ferramentas all-in-one de Gestão, Desenvolvimento e Design e Melhores do Medium!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Wolfram Insider</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc80.html">Your Insider briefing - COVID-19 special edition</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc78.html">Wolfram Community Insider - Quarter 1, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc79.html">Wolfram Community Insider - Quarter 4, 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Open Infrastructure Foundation</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc95.html">Today&#x27;s OpenInfra News</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for IPFS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc97.html">Talkwalker Alerts - Alert for IPFS | 13 de novembro de 2021</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc98.html">Talkwalker Alerts - Alert for IPFS | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for Hyperledger</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc99.html">Talkwalker Alerts Alert for Hyperledger | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Banco Central - Feeds do BC</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc100.html">Notícias e notas - Notas técnicas</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc101.html">Notícias e notas - Nota à imprensa</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc102.html">Normativos - Resoluções</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc103.html">Normativos - Comunicados do Banco Central</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc104.html">Pix API Issue Github</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc105.html">Pix DICT API Issue Github</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">PYMNTS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc106.html">The Week in Review (Plus, It’s a Very Vending Machine Christmas)</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Phrack Inc  Volume One - Issue One</h1></header><article><div><span><pre><code class="hljs">
+                                  _  _       _______
+                                 | \/ |     / _____/
+                                 |_||_|etal/ /hop
+                                 _________/ /
+                                /__________/
+                                 (<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>
+                         <span class="hljs-number">24</span> Hours A Day, <span class="hljs-number">300</span>/<span class="hljs-number">1200</span> Baud
+
+                                  Presents....
+
+                                ==Phrack Inc.==
+                     Volume One, Issue One, Phile <span class="hljs-number">1</span> <span class="hljs-keyword">of</span> <span class="hljs-number">8</span>
+
+                                Introduction...
+
+Welcome <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> Phrack Inc. Philes.  Basically, we are a group <span class="hljs-keyword">of</span> phile writers
+who have combined our philes <span class="hljs-keyword">and</span> are distributing them <span class="hljs-keyword">in</span> a group.  This
+newsletter-type project <span class="hljs-keyword">is</span> home-based <span class="hljs-keyword">at</span> Metal Shop.  If you <span class="hljs-keyword">or</span> your group are
+interested <span class="hljs-keyword">in</span> writing philes <span class="hljs-keyword">for</span> Phrack Inc. you, your group, your BBS, <span class="hljs-keyword">or</span> any
+other credits will be included.  These philes may include articles <span class="hljs-keyword">on</span> telcom
+(phreaking/hacking), anarchy (guns <span class="hljs-keyword">and</span> death &amp; destruction) <span class="hljs-keyword">or</span> kracking.  Other
+topics will be allowed also <span class="hljs-keyword">to</span> an certain extent.  If you feel you have <span class="hljs-keyword">some</span>
+material <span class="hljs-keyword">that</span>'s original, please call <span class="hljs-keyword">and</span> we'll include <span class="hljs-keyword">it</span> <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> next issue
+possible.  Also, you are welcomed <span class="hljs-keyword">to</span> <span class="hljs-keyword">put</span> up these philes <span class="hljs-keyword">on</span> your BBS/AE/Catfur/
+Etc.  The philes will be regularly available <span class="hljs-keyword">on</span> Metal Shop.  If you wish <span class="hljs-keyword">to</span> <span class="hljs-built_in">say</span>
+<span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> philes <span class="hljs-keyword">that</span> your BBS will also be sponsering Phrack Inc., please leave
+feedback <span class="hljs-keyword">to</span> <span class="hljs-keyword">me</span>, Taran King stating you'd like your BBS <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> credits.  Later
+<span class="hljs-keyword">on</span>.
+
+                                            TARAN KING
+                                            <span class="hljs-number">2600</span> CLUB!
+                                         METAL SHOP SYSOP
+
+
+This issue <span class="hljs-keyword">is</span> Volume One, Issue One, released <span class="hljs-keyword">on</span> November <span class="hljs-number">17</span>, <span class="hljs-number">1985.</span>  Included
+are:
+<span class="hljs-number">1</span>  This Introduction <span class="hljs-keyword">to</span> Phrack Inc. <span class="hljs-keyword">by</span> Taran King
+<span class="hljs-number">2</span>  SAM Security Article <span class="hljs-keyword">by</span> Spitfire Hacker
+<span class="hljs-number">3</span>  Boot Tracing <span class="hljs-keyword">on</span> Apple <span class="hljs-keyword">by</span> Cheap Shades
+<span class="hljs-number">4</span>  The Fone Phreak's Revenge <span class="hljs-keyword">by</span> Iron Soldier
+<span class="hljs-number">5</span>  MCI International Cards <span class="hljs-keyword">by</span> Knight Lightning
+<span class="hljs-number">6</span>  How <span class="hljs-keyword">to</span> Pick Master Locks <span class="hljs-keyword">by</span> Gin Fizz <span class="hljs-keyword">and</span> Ninja NYC
+<span class="hljs-number">7</span>  How <span class="hljs-keyword">to</span> Make an Acetylene Bomb <span class="hljs-keyword">by</span> The Clashmaster
+<span class="hljs-number">8</span>  School/College Computer Dial-Ups <span class="hljs-keyword">by</span> Phantom Phreaker
+
+Call Metal Shop <span class="hljs-keyword">and</span> leave feedback saying <span class="hljs-keyword">the</span> phile topic <span class="hljs-keyword">and</span> <span class="hljs-keyword">where</span> you got
+these philes <span class="hljs-keyword">to</span> <span class="hljs-keyword">get</span> your article <span class="hljs-keyword">in</span> Phrack Inc.
+
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                   _  _       _______
+                                  | \/ |     / _____/
+                                  |_||_|etal/ /hop
+                                  _________/ /
+                                 /__________/
+                                 (314)432-0756
+                         24 Hours A Day, 300/1200 Baud
+
+                                  Presents<span class="hljs-built_in">..</span>.
+
+                                ==Phrack Inc.==
+                     Volume One, Issue One, Phile 2 of 8
+
+   ::&gt;Hacking SAM - A Description Of The Dial-Up Security System&lt;::
+                       ::&gt;Written by Spitfire Hacker&lt;::
+
+     SAM is a security<span class="hljs-built_in"> system </span>that is being used <span class="hljs-keyword">in</span> many colleges
+today as a security feature against intrusion <span class="hljs-keyword">from</span> the outside.  This<span class="hljs-built_in">
+system </span>utilizes a dial-back routine which is very effective.  <span class="hljs-keyword">To</span>
+access the computer, you must first dial the<span class="hljs-built_in"> port </span><span class="hljs-keyword">to</span> which SAM is
+hooked up.  The<span class="hljs-built_in"> port </span><span class="hljs-keyword">for</span> one such college is located at (818) 885-
+2082.  After you have called, SAM will answer the phone, but will make
+<span class="hljs-literal">no</span> other responses (<span class="hljs-literal">no</span> carrier signals).  At this point, you must
+punch <span class="hljs-keyword">in</span> a valid Login Identification Number on a push-button phone.
+The number is <span class="hljs-keyword">in</span> this format -- xxyyyy -- where xx is, <span class="hljs-keyword">for</span> the number
+mentioned above, 70.  <span class="hljs-string">'yyyy'</span> is the last 4 digits of the valid user<span class="hljs-string">'s
+telephone number.
+     If a valid LIN is entered, SAM will give one of 3 responses:
+1) A 1 second low tone
+2) A 1 second alternating high/low tone
+3) A tone burst
+
+Responses 1 and 2 indicate that SAM has accepted your passcode and is
+waiting for you to hang up.  After you hang up, it will dial the valid
+users phone number and wait for a second signal.
+
+Response 3 indicates that all of the outgoing lines are busy.
+
+If SAM accepts your passcode, you will have to tap into the valid
+users line and intercept SAM when it calls.  If you do this, then hit
+the '</span>*<span class="hljs-string">' key on your phone.  SAM will respond with a standard carrier,
+and you are in!
+
+That'</span>s all that I have hacked out so far, I will write more
+information on the subject later.
+
+     -%&gt;Spitfire Hacker&lt;%-
+           2600 Club!
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                ==Phrack Inc.==
+                     Volume One, Issue One, Phile 3 of 8
+
+//////////////////////////////////////////////////////////////////////////////
+/                                                                            /
+/                           Boot Tracing Made Easy                           /
+/                                 Written by                                 /
+/                              ________________                              /
+/                              \Cheap/ \Shades/                              /
+/                               \___/   \____/                               /
+/                                 2600 CLUB!                                 /
+/                                                                            /
+//////////////////////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\                                     \
+\           Be sure to <span class="hljs-keyword">call</span>           \
+\                                     \
+\  Kleptic Palice......(<span class="hljs-number">314</span>)<span class="hljs-number">527</span><span class="hljs-number">-5551</span>  \
+\    <span class="hljs-number">5</span> Meg BBS/AE/CF                  \
+\  Metal Shop..........(<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>  \
+\    Elite BBS  (Home <span class="hljs-keyword">of</span> <span class="hljs-number">2600</span> CLUB!   \
+\                <span class="hljs-keyword">and</span> Phrack Inc. )    \
+\                                     \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+About <span class="hljs-number">3</span> <span class="hljs-keyword">or</span> four <span class="hljs-keyword">years</span> ago, a <span class="hljs-built_in">real</span> good friend <span class="hljs-keyword">of</span> mine was teaching a ML
+Programming course <span class="hljs-keyword">for</span> the Apple <span class="hljs-number">2</span> series.  I, being a good friend <span class="hljs-keyword">and</span>
+quite bored, asked him about cracking Apple games.  He told me that he had
+spent the <span class="hljs-keyword">last</span> summer cracking programs.  He showed me a method that he came
+up <span class="hljs-keyword">with</span> entirely <span class="hljs-keyword">on</span> his own, boot tracing.  <span class="hljs-keyword">Little</span> did he know that this was
+already quite popular but he developed his own method <span class="hljs-keyword">for</span> doing it which <span class="hljs-keyword">from</span>
+reading other files about it, <span class="hljs-keyword">is</span> the simplest I<span class="hljs-string">'ve ever seen.  (To give you
+an idea, I had SN0GGLE (I'</span>ve <span class="hljs-keyword">never</span> played the game but a friend had it <span class="hljs-keyword">on</span>
+disk.) completely loaded <span class="hljs-keyword">into</span> <span class="hljs-keyword">memory</span> ready <span class="hljs-keyword">to</span> be dumped <span class="hljs-keyword">in</span> about <span class="hljs-number">12</span> minutes.)
+Ok, <span class="hljs-keyword">first</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">all</span>, <span class="hljs-keyword">ALL</span> programs can be boot traced. The <span class="hljs-keyword">only</span> thing <span class="hljs-keyword">is</span> that <span class="hljs-keyword">some</span>
+may <span class="hljs-keyword">not</span> be easily converted <span class="hljs-keyword">into</span> files.  The <span class="hljs-keyword">only</span> programs that you should try
+<span class="hljs-keyword">if</span> you aren<span class="hljs-string">'t real good at ML, are ones that load completely into memory. Also
+to do this you will need a cassette recorder. (don'</span>t worry the program we will
+<span class="hljs-keyword">save</span> won<span class="hljs-string">'t take too long to save, and if all goes well it will only be saved
+loaded once.) I hate learning the theory behind anything so I'</span>m <span class="hljs-keyword">not</span> gonna
+give <span class="hljs-keyword">any</span> theory behind this. <span class="hljs-keyword">If</span> you want the theory, <span class="hljs-keyword">read</span> <span class="hljs-keyword">some</span> other phile
+that does this the hard way.
+
+<span class="hljs-keyword">First</span> make sure your cassette recoder works <span class="hljs-keyword">by</span> BLOADing <span class="hljs-keyword">some</span> program <span class="hljs-keyword">and</span>
+typing:
+<span class="hljs-keyword">CALL</span> <span class="hljs-number">-151</span>
+AA60.AA73
+You<span class="hljs-string">'ll see something that looks like this:
+AA60-30 02 xx xx xx xx xx xx
+AA68-xx xx xx xx xx xx xx xx
+AA70-xx xx 00 08
+or whatever...The 30 02 is the length ($0230 bytes). The 00 08 is the starting
+address ($0800).  Oh well, now you need to try and save the program. Type:
+800.A2FW   (A2F=$800+$230-1)
+1000&lt;800.A2FM
+800:00 N 801&lt;800.A2FM
+800.A2FR
+1000&lt;800.A2FV
+
+Once you are sure that the cassette works, (by the way do be stupid and try
+that on a //c!) we can get to the good stuff...
+First move the ROM boot-up code into RAM...(all steps will be from the
+monitor * prompt.)
+8600&lt;C600.C6FFM
+86F9:5C FF
+(Now load in step 1 of the boot.)
+8600G
+C0E8  (turn the drive off)
+(Now you have successfully loaded in track 0 sector 0) Now since we won'</span>t want
+<span class="hljs-keyword">to</span> overwrite what we<span class="hljs-string">'ve loaded in this time, Type:
+8500&lt;800.8FFM
+86F9:01 85
+8501L
+Lets see what you'</span>ve gotten...
+<span class="hljs-keyword">First</span> see <span class="hljs-keyword">if</span> they <span class="hljs-keyword">move</span> this part <span class="hljs-keyword">into</span> the keyboard buffer. (A lot <span class="hljs-keyword">of</span> programs
+<span class="hljs-keyword">do</span> this <span class="hljs-keyword">and</span> the boot <span class="hljs-keyword">trace</span> files that I<span class="hljs-string">'ve read don'</span>t even deal <span class="hljs-keyword">with</span> this.)
+LDX <span class="hljs-number">00</span>
+LDA <span class="hljs-number">800</span>,X
+STA <span class="hljs-number">200</span>,X
+INX
+BNE $<span class="hljs-number">803</span>
+JMP $<span class="hljs-number">211</span>  (<span class="hljs-keyword">or</span> <span class="hljs-keyword">any</span> $<span class="hljs-number">2</span>xx)
+(sometimes done <span class="hljs-keyword">with</span> Y<span class="hljs-string">'s instead of X'</span>s.)
+<span class="hljs-keyword">Then</span> the <span class="hljs-keyword">next</span> part will scramble what<span class="hljs-string">'s in $08xx. but we don'</span>t have <span class="hljs-keyword">to</span> worry
+about that. Anyways find that JMP $<span class="hljs-number">2</span>xx <span class="hljs-keyword">and</span> <span class="hljs-keyword">change</span> it <span class="hljs-keyword">to</span> <span class="hljs-number">4</span>C xx <span class="hljs-number">85</span> leaving the
+xx the same. Usually this will be the <span class="hljs-keyword">next</span> address but just <span class="hljs-keyword">to</span> be safe...
+Ok, <span class="hljs-keyword">now</span> <span class="hljs-keyword">scan</span> the code <span class="hljs-keyword">for</span> <span class="hljs-keyword">any</span> other JMP<span class="hljs-string">'s if you find one that'</span>s direct
+(indirect ones have the address <span class="hljs-keyword">in</span> parenthesis) <span class="hljs-keyword">change</span> it <span class="hljs-keyword">to</span> <span class="hljs-number">4</span>C <span class="hljs-number">5</span>C FF, but
+write down the location that it used <span class="hljs-keyword">to</span> jump <span class="hljs-keyword">to</span> <span class="hljs-keyword">first</span> so you know <span class="hljs-keyword">where</span> <span class="hljs-keyword">to</span>
+look.  It<span class="hljs-string">'ll probably be 301 or B700. If it'</span>s the B700, you got lucky.  <span class="hljs-keyword">If</span> it<span class="hljs-string">'s
+the 301 then you'</span>ve got <span class="hljs-keyword">some</span> more <span class="hljs-keyword">work</span> ahead. <span class="hljs-keyword">If</span> it was an indirect JMP, most
+likely it was JMP ($<span class="hljs-number">003</span>E). <span class="hljs-keyword">No</span> <span class="hljs-keyword">if</span> you <span class="hljs-keyword">change</span> that <span class="hljs-keyword">to</span> <span class="hljs-number">4</span>C <span class="hljs-number">5</span>C FF <span class="hljs-keyword">then</span> <span class="hljs-keyword">check</span> <span class="hljs-number">3</span>E
+<span class="hljs-keyword">from</span> monitor you<span class="hljs-string">'ll find that 3E is 00 and 3F is 3E...Monitor uses that
+place in zero page for its current memory location. So what you need to do is
+8400:A5 3F 00 20 DA FD A5 3E 20 DA FD 4C 5C FF
+then change that indirect jump to
+85xx:4C 00 84
+(by the way if the indirect jump is anything other than 3E then most likely
+you can can just look at it from monitor if not write a little routine like
+the one above to print out the address hidden. (Oh, check the location after
+the next run. For now change it to 4C 5C FF.))
+Anyways this little game will probably go on no longer than 2 or 3 loads, each
+time just move the newly loaded part to another part of memory and change the
+jump to jump to monitor (4C 5C FF) and the jump from the part before it to
+go to the moved code.
+When you find the part that JMP'</span>s up <span class="hljs-keyword">to</span> a <span class="hljs-keyword">high</span> area <span class="hljs-keyword">of</span> <span class="hljs-keyword">memory</span> (usually $B700)
+you<span class="hljs-string">'re almost done. The exit routine of the will most likely be the start of
+the program.  Once you intercept it there, all you have to do now is save it to
+cassette and re-load DOS.  The starting address for saving should be the
+address that the B700 routine exits through. If this is higher than $6000 then
+start saving at $2000 to get the Hi-Res pictures. Using WXYZ as your starting
+address type:
+WXYZ.9CFFW   (This will have the main program.)
+800.WXYZW    (Save this are in case there is something needed down here we
+              don'</span>t have <span class="hljs-keyword">to</span> <span class="hljs-keyword">start</span> <span class="hljs-keyword">over</span> <span class="hljs-keyword">from</span> scratch.)
+Ok <span class="hljs-keyword">now</span> reboot:
+C600G   (<span class="hljs-keyword">with</span> a DOS disk <span class="hljs-keyword">in</span> the drive!)
+<span class="hljs-keyword">CALL</span> <span class="hljs-number">-151</span>
+WXYZ<span class="hljs-number">.9</span>CFFR
+Bsave PROGRAM,A$WXYZ,L$(Whatever <span class="hljs-number">9</span>CFF-WXYZ+<span class="hljs-number">1</span> <span class="hljs-keyword">is</span>)
+<span class="hljs-keyword">If</span> the it gives you an <span class="hljs-keyword">error</span> the <span class="hljs-keyword">file</span> <span class="hljs-keyword">is</span> too big. A <span class="hljs-keyword">quick</span> DOS <span class="hljs-keyword">patch</span> <span class="hljs-keyword">to</span> fix
+that <span class="hljs-keyword">is</span>:
+A964:FF
+<span class="hljs-keyword">and</span> try again.
+<span class="hljs-keyword">Now</span> that the program <span class="hljs-keyword">is</span> saved, try <span class="hljs-keyword">and</span> run it. (It<span class="hljs-string">'s a good idea to take the
+disk out of the drive, there'</span>s <span class="hljs-keyword">no</span> telling what the program might try <span class="hljs-keyword">and</span> <span class="hljs-keyword">do</span>
+<span class="hljs-keyword">if</span> it sees that DOS <span class="hljs-keyword">is</span> loaded in.)
+WXYZG
+(<span class="hljs-keyword">If</span> it works, just <span class="hljs-keyword">to</span> make sure that it<span class="hljs-string">'s a good crack, power down the system
+and try and BRUN it after a cold boot.)
+If your saved the pictures with the program, most likely, it won'</span>t run. You
+need <span class="hljs-keyword">to</span> <span class="hljs-keyword">add</span> a JMP <span class="hljs-keyword">at</span> <span class="hljs-number">1</span>FFD <span class="hljs-keyword">to</span> JMP <span class="hljs-keyword">to</span> the <span class="hljs-keyword">main</span> program. <span class="hljs-keyword">Then</span> re-BSAVE it <span class="hljs-keyword">with</span> a
+<span class="hljs-keyword">starting</span> address <span class="hljs-keyword">of</span> A$<span class="hljs-number">1</span>FFD, <span class="hljs-keyword">and</span> <span class="hljs-keyword">add</span> <span class="hljs-number">3</span> <span class="hljs-keyword">to</span> the length.  <span class="hljs-keyword">If</span> the program tries <span class="hljs-keyword">to</span>
+<span class="hljs-keyword">go</span> <span class="hljs-keyword">to</span> the drive <span class="hljs-keyword">while</span> its running, I<span class="hljs-string">'d suggest giving up unless you really
+understand non-DOS disk usage. (but if you did you probably wouldn'</span>t be
+reading this.)  <span class="hljs-keyword">If</span> you <span class="hljs-keyword">get</span> a break <span class="hljs-keyword">at</span> an address <span class="hljs-keyword">less</span> <span class="hljs-keyword">than</span> $<span class="hljs-number">2000</span> <span class="hljs-keyword">then</span> you need
+<span class="hljs-keyword">to</span> <span class="hljs-keyword">load</span> <span class="hljs-keyword">in</span> the <span class="hljs-keyword">second</span> program that you saved <span class="hljs-keyword">to</span> cassette. Put a jump <span class="hljs-keyword">in</span> <span class="hljs-keyword">at</span>
+$<span class="hljs-number">800</span> <span class="hljs-keyword">to</span> the <span class="hljs-keyword">main</span> program <span class="hljs-keyword">and</span> <span class="hljs-keyword">save</span> the whole damn thing. <span class="hljs-keyword">If</span> it still don<span class="hljs-string">'t work
+you'</span>re gonna need <span class="hljs-keyword">to</span> really <span class="hljs-keyword">get</span> fancy.
+<span class="hljs-keyword">Now</span> that you<span class="hljs-string">'ve got the thing running, it'</span>s <span class="hljs-built_in">time</span> <span class="hljs-keyword">to</span> figure <span class="hljs-keyword">out</span> what <span class="hljs-keyword">is</span> used <span class="hljs-keyword">and</span>
+what <span class="hljs-keyword">is</span> just wasted memory. This <span class="hljs-keyword">is</span> <span class="hljs-keyword">where</span> I really can<span class="hljs-string">'t help you but just
+make sure that you keep a working copy and before every test power down the
+machine to clear anything that might be remaining.
+
+Have phun and good luck.....
+                      ________________
+                      \Cheap/ \Shades/
+                       \___/   \____/
+                         2600 CLUB!
+
+Be sure and get a copy of PHRACK INC., available on finer BBS/AE'</span>s everywhere.
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">                                   _  _       _______
+                                  | \/ |     / _____/
+                                  |_||_|etal/ /hop
+                                  _________/ /
+                                 /__________/
+                                 (<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>
+                         <span class="hljs-number">24</span> Hours A Day, <span class="hljs-number">300</span>/<span class="hljs-number">1200</span> Baud
+
+                                  Presents...
+
+                                ==Phrack Inc.==
+
+                     Volume One, Issue One, Phile <span class="hljs-number">4</span> <span class="hljs-keyword">of</span> <span class="hljs-number">8</span>
+
+THE PHONE PHREAK'S FRY-UM GUIDE
+
+
+COMPILED BY THE IRON SOLDIER
+
+WITH HELP FROM DR. DOVE
+
+
+NOTE: THIS GUIDE IS STILL BEING COMPILED, AND AS PHONE PHREAKS LEARN
+      MORE IN THE ART OF VENGENCE IT WILL ALWAYS EXPAND.
+
+
+<span class="hljs-string">"Vengence is mine"</span>, says <span class="hljs-keyword">the</span> Phreak.
+
+
+        METHOD <span class="hljs-number">1</span>-PHONE LINE PHUN
+
+Call up <span class="hljs-keyword">the</span> business office.  It should be listed <span class="hljs-keyword">at</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">front</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> white
+    pages.  Say you wanted <span class="hljs-keyword">to</span> diconnect Scott Korman's line. DIAL <span class="hljs-number">800</span>-xxx-xxxx.
+    <span class="hljs-string">"Hello, this is Mr. Korman, I'm moving to California and would like to have
+    my phone service disconnected. I'm at the airport now.  I'm calling from a
+    payphone, my number is  [414] 445 5005. You can send my final bill to
+    :(somewhere in California.  Thank you."</span>
+
+
+        METHOD <span class="hljs-number">2</span>-PHONE BOOKS
+
+Call up <span class="hljs-keyword">the</span> business office <span class="hljs-keyword">from</span> a pay phone.  Say <span class="hljs-string">"Hello, I'd like to order a
+    Phone Book for Upper Volta (or any out-of-the way area with Direct
+    Dialing).  This is Scott Korman, ship to 3119 N. 44th St. Milwaukee, WI
+    53216.  Yes, I under stand it will cost $xx($25-$75!!). Thank you."</span>
+
+
+        METHOD <span class="hljs-number">3</span>-PHONE CALLS
+
+Call up a PBX, enter <span class="hljs-keyword">the</span> code <span class="hljs-keyword">and</span> <span class="hljs-keyword">get</span> an outside line.  Then dial <span class="hljs-number">0</span>+ <span class="hljs-keyword">the</span> <span class="hljs-built_in">number</span>
+    desired <span class="hljs-keyword">to</span> call.  You will hear a bonk <span class="hljs-keyword">and</span> <span class="hljs-keyword">then</span> an operator.  Say, <span class="hljs-string">"I'd
+    like to charge this to my home phone at 414-445-5005. Thank you."</span>  A friend
+    <span class="hljs-keyword">and</span> I did this <span class="hljs-keyword">to</span> a loser, I called him <span class="hljs-keyword">at</span> <span class="hljs-number">1</span>:<span class="hljs-number">00</span> AM <span class="hljs-keyword">and</span> we left <span class="hljs-keyword">the</span> fone off
+    <span class="hljs-keyword">the</span> hook all night.  I calculated <span class="hljs-keyword">that</span> <span class="hljs-keyword">it</span> cost him $<span class="hljs-number">168.</span>
+
+
+        METHOD <span class="hljs-number">4</span>-MISC SERVICES
+
+Call up <span class="hljs-keyword">the</span> business office once again <span class="hljs-keyword">from</span> a payfone.  Say you'd like call
+    waiting, forwarding, <span class="hljs-number">3</span> way, etc.  Once again you are <span class="hljs-keyword">the</span> famed loser Scott
+    Korman.  He pays-you laugh.  You don't know how funny <span class="hljs-keyword">it</span> was talking <span class="hljs-keyword">to</span>
+    him, <span class="hljs-keyword">and</span> wondering what those clicks he kept hearing were.
+
+
+        METHOD <span class="hljs-number">5</span>-CHANGED &amp; UNPUB
+
+Do <span class="hljs-keyword">the</span> same <span class="hljs-keyword">as</span> <span class="hljs-keyword">in</span> <span class="hljs-number">4</span>, <span class="hljs-keyword">but</span> <span class="hljs-built_in">say</span> you'd like <span class="hljs-keyword">to</span> change <span class="hljs-keyword">and</span> unlist your (Scott's)
+    <span class="hljs-built_in">number</span>.  Anyone calling him will <span class="hljs-keyword">get</span>:
+    <span class="hljs-string">"BEW BEW BEEP.  The number you have reached, 445-5005, has been changed to
+    a non-published number.  No further....."</span>
+
+
+        METHOD <span class="hljs-number">6</span>-FORWRDING
+
+    This required an accomplise <span class="hljs-keyword">or</span> two <span class="hljs-keyword">or</span> three.  Around Christmas <span class="hljs-built_in">time</span>, go <span class="hljs-keyword">to</span>
+    Toys 'R' Us.  Get everyone <span class="hljs-keyword">at</span> <span class="hljs-keyword">the</span> customer service <span class="hljs-keyword">or</span> manager's desk away
+    (<span class="hljs-string">"Hey, could you help me"</span>).  <span class="hljs-keyword">then</span> you <span class="hljs-keyword">get</span> <span class="hljs-keyword">on</span> their phone <span class="hljs-keyword">and</span> dial (usually
+    dial <span class="hljs-number">9</span> <span class="hljs-keyword">first</span>) <span class="hljs-keyword">and</span> <span class="hljs-keyword">the</span> business office again. This <span class="hljs-built_in">time</span>, <span class="hljs-built_in">say</span> you are <span class="hljs-keyword">from</span>
+    Toys 'R' Us, <span class="hljs-keyword">and</span> you'd like <span class="hljs-keyword">to</span> add call forwarding <span class="hljs-keyword">to</span> <span class="hljs-number">445</span><span class="hljs-number">-5005.</span>  Scott will
+    <span class="hljs-keyword">get</span> <span class="hljs-number">100</span><span class="hljs-number">-600</span> calls a <span class="hljs-built_in">day</span>!!!
+
+
+         METHOD <span class="hljs-number">7</span>-RUSSIAN CALLER
+
+    Call a payphone <span class="hljs-keyword">at</span> <span class="hljs-number">10</span>:<span class="hljs-number">00</span> PM.  Say <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> operator <span class="hljs-keyword">that</span> you'd like <span class="hljs-keyword">to</span> book a
+    call <span class="hljs-keyword">to</span> Russia.  Say you are calling <span class="hljs-keyword">from</span> a payphone, <span class="hljs-keyword">and</span> your <span class="hljs-built_in">number</span> <span class="hljs-keyword">is</span>
+    <span class="hljs-keyword">that</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> loser <span class="hljs-keyword">to</span> fry (e.g. <span class="hljs-number">445</span><span class="hljs-number">-5005</span>). She will <span class="hljs-built_in">say</span> <span class="hljs-keyword">that</span> she'll have <span class="hljs-keyword">to</span>
+    call ya <span class="hljs-keyword">back</span> <span class="hljs-keyword">in</span> <span class="hljs-number">5</span> hours, <span class="hljs-keyword">and</span> you ok <span class="hljs-keyword">that</span>.  Meanwhile <span class="hljs-keyword">the</span> loser (e.g.)
+    Scott, will <span class="hljs-keyword">get</span> a call <span class="hljs-keyword">at</span> <span class="hljs-number">3</span>:<span class="hljs-number">00</span> AM <span class="hljs-keyword">from</span> an operator saying <span class="hljs-keyword">that</span> <span class="hljs-keyword">the</span> call he
+    booked <span class="hljs-keyword">to</span> Russia <span class="hljs-keyword">is</span> ready.
+
+
+
+IF YOU HAVE ANY QUESTIONS LEAVE E-MAIL FOR ME ON ANY BOARD I'M ON.
+           The Iron Soldier
+      TSF-The Second Foundation!
+
+</code></pre>
+<hr>
+<pre><code class="hljs">                                   _  _       _______
+                                  | \/ |     / _____/
+                                  |_||_|etal/ /hop
+                                  _________/ /
+                                 /__________/
+                                 (314)432-0756
+                         24 Hours A Day, 300/1200 Baud
+
+                                  Presents<span class="hljs-built_in">..</span>.
+
+                                ==Phrack Inc.==
+                        Volume One, Issue One, Phile 5 of 8
+
+                            Using MCI Calling Cards
+                                      by
+                               Knight Lightning
+                                    of the
+                                  2600 Club!
+
+How <span class="hljs-keyword">to</span> dial international calls on MCI:
+
+               <span class="hljs-string">"Its easy to use MCI for international calling."</span>
+
+1.  Dial your MCI access number <span class="hljs-keyword">and</span> authorization code (code = 14 digit number,
+    however the first 10 digits are the card holders NPA+PRE+SUFF).
+
+2.  Dial 011
+
+3.  Dial the country code
+
+4.  Dial the city code <span class="hljs-keyword">and</span> the PRE+SUFF that you want.
+
+Countries served by MCI:
+
+Country                            code|Country                            code
+---------------------------------------|---------------------------------------
+Algeria<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>213 |New Zealand<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>64
+Argentina<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>54  |Northern Ireland<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.44
+Australia<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>61  |Oman<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.968
+Belgium<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>32  |Papua New Guinea<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.675
+Brazil<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.55  |Qatar<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>974
+Canada<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>Use<span class="hljs-built_in"> Area </span>Codes |Saudi Arabia<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.966
+Cyprus<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.357 |Scotland<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.44
+Denmark<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>45  |Senegal<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>221
+Egypt<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>20  |South Africa<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.27
+England<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>44  |Sri Lanka<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>94
+German Democratic Republic             |Sweden<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.46
+(East Germany)<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.37  |Taiwan<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.886
+Greece<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.30  |Tanzania<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.255
+Jordan<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.962 |Tunisa<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.216
+Kenya<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>254 |United Arab Emirates<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.971
+Kuwait<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.965 |Wales<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>44
+Malawi<span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span><span class="hljs-built_in">..</span>.265 |
+===============================================================================
+Thats 33 countries <span class="hljs-keyword">in</span> all.  <span class="hljs-keyword">To</span> <span class="hljs-builtin-name">get</span> the extender <span class="hljs-keyword">for</span> these calls dial 950-1022
+<span class="hljs-keyword">or</span> 1-800-624-1022.
+
+<span class="hljs-keyword">For</span> local calling:
+
+1.  Dial 950-1022 <span class="hljs-keyword">or</span> 1-800-624-1022
+
+2.  Wait <span class="hljs-keyword">for</span> tone
+
+3.  Dial <span class="hljs-string">"0"</span>, the<span class="hljs-built_in"> area </span>code, the phone number, <span class="hljs-keyword">and</span> the 14 digit authorization
+    code.  You will hear 2 more tones that let you know you are connected.
+
+  - Knight Lightning --&gt;  The 2600 Club!
+===============================================================================
+
+
+</code></pre>
+<hr>
+<pre><code class="hljs">                                   _  _       _______
+                                  | \/ |     / _____/
+                                  |_||_|etal/ /hop
+                                  _________/ /
+                                 /__________/
+                                 (<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>
+                         <span class="hljs-number">24</span> Hours A Day, <span class="hljs-number">300</span>/<span class="hljs-number">1200</span> Baud
+
+                                  Presents...
+
+                                ==Phrack Inc.==
+                     Volume One, Issue One, Phile <span class="hljs-number">6</span> <span class="hljs-keyword">of</span> <span class="hljs-number">8</span>
+
+                           How <span class="hljs-keyword">to</span> Pick Master Locks
+By Gin Fizz &amp; Ninja NYC
+
+    Have you ever tried <span class="hljs-keyword">to</span> impress your friends <span class="hljs-keyword">by</span> picking one <span class="hljs-keyword">of</span> those Master
+combination locks <span class="hljs-keyword">and</span> failed? Well <span class="hljs-keyword">then</span> <span class="hljs-built_in">read</span> <span class="hljs-keyword">on</span>. The Master lock company has
+made this kind <span class="hljs-keyword">of</span> lock <span class="hljs-keyword">with</span> a protection scheme. If you pull <span class="hljs-keyword">the</span> handle <span class="hljs-keyword">of</span> <span class="hljs-keyword">it</span>
+hard, <span class="hljs-keyword">the</span> knob won't turn. That was their biggest mistake...... Ok, now <span class="hljs-keyword">on</span> <span class="hljs-keyword">to</span>
+<span class="hljs-keyword">it</span>.
+
+    <span class="hljs-number">1</span>st <span class="hljs-built_in">number</span>.  Get out any <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> Master locks so you know what's going <span class="hljs-keyword">on</span>.
+<span class="hljs-number">1</span>: The handle part (<span class="hljs-keyword">the</span> part <span class="hljs-keyword">that</span> springs open when you <span class="hljs-keyword">get</span> <span class="hljs-keyword">the</span> combination),
+pull <span class="hljs-keyword">on</span> <span class="hljs-keyword">it</span>, <span class="hljs-keyword">but</span> <span class="hljs-keyword">not</span> enough so <span class="hljs-keyword">that</span> <span class="hljs-keyword">the</span> knob won't move. <span class="hljs-number">2</span>: While pulling <span class="hljs-keyword">on</span> <span class="hljs-keyword">it</span>
+turn <span class="hljs-keyword">the</span> knob <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> left <span class="hljs-keyword">until</span> <span class="hljs-keyword">it</span> won't move any more. Then add <span class="hljs-number">5</span> <span class="hljs-keyword">to</span> this
+<span class="hljs-built_in">number</span>. Congradulations, you now have <span class="hljs-keyword">the</span> <span class="hljs-number">1</span>st <span class="hljs-built_in">number</span>.
+
+    <span class="hljs-number">2</span>nd <span class="hljs-built_in">number</span>. (a lot tougher) Ok, spin <span class="hljs-keyword">the</span> dial <span class="hljs-keyword">around</span> a couple <span class="hljs-keyword">of</span> <span class="hljs-keyword">times</span>,
+<span class="hljs-keyword">then</span> go <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> <span class="hljs-number">1</span>st <span class="hljs-built_in">number</span> you got, <span class="hljs-keyword">then</span> turn <span class="hljs-keyword">it</span> <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> right, bypassing <span class="hljs-keyword">the</span> <span class="hljs-number">1</span>st
+<span class="hljs-built_in">number</span> once. WHEN you have bypassed. Start pulling <span class="hljs-keyword">the</span> handle <span class="hljs-keyword">and</span> turning <span class="hljs-keyword">it</span>.
+It will eventually fall <span class="hljs-keyword">into</span> <span class="hljs-keyword">the</span> groove <span class="hljs-keyword">and</span> lock. While <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> groove pull <span class="hljs-keyword">on</span>
+<span class="hljs-keyword">it</span> <span class="hljs-keyword">and</span> turn <span class="hljs-keyword">the</span> knob. If <span class="hljs-keyword">it</span> <span class="hljs-keyword">is</span> loose go <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> next groove; <span class="hljs-keyword">if</span> <span class="hljs-keyword">it</span>'s stiff you
+got <span class="hljs-keyword">the</span> <span class="hljs-keyword">second</span> <span class="hljs-built_in">number</span>.
+
+    <span class="hljs-number">3</span>rd <span class="hljs-built_in">number</span>: After getting <span class="hljs-keyword">the</span> <span class="hljs-number">2</span>nd, spin <span class="hljs-keyword">the</span> dial, <span class="hljs-keyword">then</span> enter <span class="hljs-keyword">the</span> <span class="hljs-number">2</span> numbers,
+<span class="hljs-keyword">then</span> <span class="hljs-keyword">after</span> <span class="hljs-keyword">the</span> <span class="hljs-number">2</span>nd, go <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> right <span class="hljs-keyword">and</span> <span class="hljs-keyword">at</span> all <span class="hljs-keyword">the</span> numbers pull <span class="hljs-keyword">on</span> <span class="hljs-keyword">it</span>. The lock
+will eventually open <span class="hljs-keyword">if</span> you did <span class="hljs-keyword">it</span> right. If can't do <span class="hljs-keyword">it</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">first</span> <span class="hljs-built_in">time</span>, be
+patient, <span class="hljs-keyword">it</span> takes <span class="hljs-built_in">time</span>.
+
+ Have phun...
+
+                            Gin Fizz/<span class="hljs-number">2600</span> Club!/TPM
+                                 Ninja NYC/TPM
+
+</code></pre>
+<hr>
+<pre><code class="hljs">
+                                   _  _       _______
+                                  | \/ |     / _____/
+                                  |_||_|etal/ /hop
+                                  _________/ /
+                                 /__________/
+                                 (<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>
+                         <span class="hljs-number">24</span> Hours A Day, <span class="hljs-number">300</span>/<span class="hljs-number">1200</span> Baud
+
+                                  Presents...
+
+                                ==Phrack Inc.==
+                     Volume One, Issue One, Phile <span class="hljs-number">7</span> of <span class="hljs-number">8</span>
+
+.-------------------------------------------------------------.
+<span class="hljs-comment">!                ///////                                      !
+!                 //                                          !
+!                // h e C l a s h m a s t e r ' s             !
+!               .===============================.             !
+!             &lt;        A C E T Y L E N E        &gt;             !
+!             &lt;        -&gt;B A L L O O N&lt;-        &gt;             !
+!             &lt;        ----&gt;B O M B&lt;----        &gt;             !
+!              `==============================='              !
+!                  Written exclusively for...                 !
+!                       The Phrack Inc.                       !
+!                         2600 Club                           !
+!                        Newsletter                   11/01/85!
+`-------------------------------------------------------------'
+
+
+          Imagine this. A great, inflated, green garbage bag
+slowly wafting down from a tall building. It gains some speed
+as it nears the ground. People look up and say, "What the....?"
+The garbage bag hits! *BOOM!!!* It explodes in a thundering
+fireball of green bits of plastic and flame!
+          "What is this?" you may ask. Well, this is the great
+"Acetylene Balloon Bomb." And here is how to make it.
+
+Ingredients:
+============
+(1&gt;       For a small bomb: a plastic bag. Not too big.
+          For something big(ger): a green, plastic garbage bag.
+
+(2&gt;       Some "Fun-Snaps". A dozen should be more than enough.
+
+(3&gt;       Some garbage bag twisties. String would also do.
+
+(4&gt;       A few rocks. Not too heavy, but depends on size of
+          bomb and desired velocity of balloon/bomb.
+
+(5&gt;       PRIME INGREDIENT: Acetylene. This is what is used in
+          acetylene torches. More on this substance later.
+
+(6&gt;       One or more eager Anarchists.
+
+NOTES:
+======
+Acetylene is a fairly dangerous substance. It is unstable upon
+contact with oxygen (air). For this reason, and for your
+safety, I recommend you keep all of the acetylene AWAY from any
+source of oxygen. This means don't let it get in touch with
+air.
+
+
+Construction:
+=============
+(1&gt;       Fill up a bathtub with cold water. Make it VERY full.
+(2&gt;       Now get put you garbage bag in the water and fill it
+          with water. Make sure ALL air/oxygen is out of the
+          bag before proceeding.
+(3&gt;       Now take your acetylene source (I used it straight
+          from the torch, and I recommend this way also.), and
+          fill the bag up with acetylene.
+(4&gt;       Now, being careful with the acetylene, take the bag
+          out of the tub and tie the opening shut with the
+          twisty or string. Let the balloon dry off now. (Put
+          it in a safe place.)
+(5&gt;       Okay. Now that it is dry and filled with acetlene,
+          open it up and drop a few rocks in there. Also add
+          some Fun-Snaps. The rocks will carry the balloon
+          down, and the Fun-Snaps will spark upon impact, thus
+          setting off the highly inflammable acetylene.
+          *BABOOM!*
+(6&gt;       Now put the twisty or string back on VERY tightly.
+          You now have a delicate but powerful balloon bomb.
+
+To use:
+=======
+Just drop off of a cliff, airplane, building, or whatever. It
+will hit the ground a explode in a fireball. Be careful you are
+not near the explosion site. And be careful you are not
+directly above the blast or the fireball may rise and give you
+a few nasty burns.
+
+Have fun!
+But be careful...
+
+<span class="hljs-doctag">NOTE:</span> I, The Clashmaster, am in NO WAY responsible for the use
+===== of this information in any way. This is for purely
+      informational purposes only!
+
+
+This has been a 2600 Club production.
+
+                 -=*Clash*=-
+                  2600 Club
+
+
+</span></code></pre>
+<hr>
+<pre><code class="hljs">
+               _  _       _______
+              | \/ |     / _____/
+              |_||_|etal/ /hop
+              _________/ /
+             /__________/
+             (<span class="hljs-number">314</span>)<span class="hljs-number">432</span><span class="hljs-number">-0756</span>
+     <span class="hljs-number">24</span> Hours A Day, <span class="hljs-number">300</span>/<span class="hljs-number">1200</span> Baud
+
+              Presents...
+
+            ==Phrack Inc.==
+ Volume One, Issue One, Phile <span class="hljs-number">8</span> of <span class="hljs-number">8</span>
+
+
+     Schools <span class="hljs-keyword">and</span> University Numbers
+     ``````````````````````````````
+Harvard University         <span class="hljs-number">617</span><span class="hljs-number">-732</span><span class="hljs-number">-1251</span>
+Yale                       <span class="hljs-number">203</span><span class="hljs-number">-436</span><span class="hljs-number">-2111</span>
+District <span class="hljs-number">214</span>               <span class="hljs-number">312</span><span class="hljs-number">-398</span><span class="hljs-number">-8170</span>
+Chicago Board of Education <span class="hljs-number">312</span><span class="hljs-number">-254</span><span class="hljs-number">-1919</span>
+Spence Schools             <span class="hljs-number">212</span><span class="hljs-number">-369</span><span class="hljs-number">-5114</span>
+University of Texas        <span class="hljs-number">214</span><span class="hljs-number">-688</span><span class="hljs-number">-1400</span>
+University of Missouri     <span class="hljs-number">314</span><span class="hljs-number">-341</span><span class="hljs-number">-2776</span>
+                           <span class="hljs-number">314</span><span class="hljs-number">-341</span><span class="hljs-number">-2910</span>
+                    (<span class="hljs-number">1200</span>) <span class="hljs-number">314</span><span class="hljs-number">-341</span><span class="hljs-number">-2141</span>
+Cal-Tech                   <span class="hljs-number">213</span><span class="hljs-number">-687</span><span class="hljs-number">-4662</span>
+University of Nevada       <span class="hljs-number">402</span><span class="hljs-number">-472</span><span class="hljs-number">-5065</span>
+Princeton University       <span class="hljs-number">609</span><span class="hljs-number">-452</span><span class="hljs-number">-6736</span>
+Stony Brook University     <span class="hljs-number">516</span><span class="hljs-number">-246</span><span class="hljs-number">-9000</span>
+Depaul                     <span class="hljs-number">312</span><span class="hljs-number">-939</span><span class="hljs-number">-8388</span>
+University of San Diego    <span class="hljs-number">619</span><span class="hljs-number">-452</span><span class="hljs-number">-6792</span>
+RPI School                 <span class="hljs-number">518</span><span class="hljs-number">-220</span><span class="hljs-number">-6603</span>
+William State University   <span class="hljs-number">313</span><span class="hljs-number">-577</span><span class="hljs-number">-0260</span>
+Harvard                    <span class="hljs-number">617</span><span class="hljs-number">-732</span><span class="hljs-number">-1802</span>
+Stockton                   <span class="hljs-number">209</span><span class="hljs-number">-944</span><span class="hljs-number">-4523</span>
+Northwestern               <span class="hljs-number">312</span><span class="hljs-number">-492</span><span class="hljs-number">-3094</span>
+Circle Campus              <span class="hljs-number">312</span><span class="hljs-number">-996</span><span class="hljs-number">-5100</span>
+                           <span class="hljs-number">312</span><span class="hljs-number">-996</span><span class="hljs-number">-6320</span>
+University of Mexico       <span class="hljs-number">505</span><span class="hljs-number">-588</span><span class="hljs-number">-3351</span>
+University of Florida      <span class="hljs-number">904</span><span class="hljs-number">-644</span><span class="hljs-number">-2261</span>
+Queens College             <span class="hljs-number">212</span><span class="hljs-number">-520</span><span class="hljs-number">-7719</span>
+University of Denver       <span class="hljs-number">303</span><span class="hljs-number">-753</span><span class="hljs-number">-2737</span>
+                           <span class="hljs-number">303</span><span class="hljs-number">-753</span><span class="hljs-number">-2733</span>
+University of Syracuse     <span class="hljs-number">315</span><span class="hljs-number">-423</span><span class="hljs-number">-1313</span>
+University of Illinois     <span class="hljs-number">312</span><span class="hljs-number">-996</span><span class="hljs-number">-5100</span>
+University of Virginia     <span class="hljs-number">703</span><span class="hljs-number">-328</span><span class="hljs-number">-8086</span>
+MIT Research             <span class="hljs-number">1</span><span class="hljs-number">-800</span><span class="hljs-number">-545</span><span class="hljs-number">-0085</span>
+St.Louis Community College <span class="hljs-number">314</span><span class="hljs-number">-645</span><span class="hljs-number">-1289</span>
+SIUE                       <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2400</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2401</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2402</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2403</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2404</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2405</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2406</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2407</span>
+                           <span class="hljs-number">618</span><span class="hljs-number">-692</span><span class="hljs-number">-2408</span>
+Universiti-------          <span class="hljs-number">215</span><span class="hljs-number">-787</span><span class="hljs-number">-1011</span>
+Willaim  --------          <span class="hljs-number">313</span><span class="hljs-number">-577</span><span class="hljs-number">-0260</span>
+University of Florida      <span class="hljs-number">904</span><span class="hljs-number">-392</span><span class="hljs-number">-5533</span>
+Col &amp; Union College        <span class="hljs-number">301</span><span class="hljs-number">-279</span><span class="hljs-number">-0632</span>
+Georgia State              <span class="hljs-number">404</span><span class="hljs-number">-568</span><span class="hljs-number">-2131</span>
+University of Mass.        <span class="hljs-number">413</span><span class="hljs-number">-545</span><span class="hljs-number">-1600</span>
+Purdue                     <span class="hljs-number">317</span><span class="hljs-number">-494</span><span class="hljs-number">-1900</span>
+Northwestern               <span class="hljs-number">312</span><span class="hljs-number">-492</span><span class="hljs-number">-7110</span>
+University of New Mexico   <span class="hljs-number">505</span><span class="hljs-number">-227</span><span class="hljs-number">-3351</span>
+University of Texas        <span class="hljs-number">214</span><span class="hljs-number">-688</span><span class="hljs-number">-1400</span>
+Temple University          <span class="hljs-number">215</span><span class="hljs-number">-787</span><span class="hljs-number">-1010</span>
+Melville High School       <span class="hljs-number">516</span><span class="hljs-number">-751</span><span class="hljs-number">-6806</span>
+UCSD                       <span class="hljs-number">619</span><span class="hljs-number">-452</span><span class="hljs-number">-6900</span>
+Oakland Schools            <span class="hljs-number">313</span><span class="hljs-number">-857</span><span class="hljs-number">-9500</span>
+University of Maryland     <span class="hljs-number">301</span><span class="hljs-number">-454</span><span class="hljs-number">-6111</span>
+California St. Fulerton    <span class="hljs-number">714</span><span class="hljs-number">-773</span><span class="hljs-number">-3111</span>
+N.Y.U.                     <span class="hljs-number">212</span><span class="hljs-number">-777</span><span class="hljs-number">-7600</span>
+University of San Diego    <span class="hljs-number">619</span><span class="hljs-number">-293</span><span class="hljs-number">-4510</span>
+University of Colorado     <span class="hljs-number">303</span><span class="hljs-number">-447</span><span class="hljs-number">-2540</span>
+University of Colorado     <span class="hljs-number">303</span><span class="hljs-number">-447</span><span class="hljs-number">-2538</span>
+MIT Research               <span class="hljs-number">617</span><span class="hljs-number">-258</span><span class="hljs-number">-6001</span>
+Dartmouth College          <span class="hljs-number">603</span><span class="hljs-number">-643</span><span class="hljs-number">-63</span>q0
+Spence School              <span class="hljs-number">212</span><span class="hljs-number">-369</span><span class="hljs-number">-5114</span>
+University of Washington   <span class="hljs-number">206</span><span class="hljs-number">-543</span><span class="hljs-number">-9713</span>
+University of Washington   <span class="hljs-number">206</span><span class="hljs-number">-543</span><span class="hljs-number">-9714</span>
+University of Washington   <span class="hljs-number">206</span><span class="hljs-number">-543</span><span class="hljs-number">-9715</span>
+University of Washington   <span class="hljs-number">206</span><span class="hljs-number">-543</span><span class="hljs-number">-9716</span>
+University of Washington   <span class="hljs-number">206</span><span class="hljs-number">-543</span><span class="hljs-number">-9717</span>
+University of NC           <span class="hljs-number">919</span><span class="hljs-number">-549</span><span class="hljs-number">-0881</span>
+Harvard-Law,Busi,Med Sch.  <span class="hljs-number">617</span><span class="hljs-number">-732</span><span class="hljs-number">-1251</span>
+Virginia University        <span class="hljs-number">703</span><span class="hljs-number">-328</span><span class="hljs-number">-8086</span>
+WVU      <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-2921</span> thru <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-2939</span>
+WVU      <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-4300</span> thru <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-4309</span>
+WVU(<span class="hljs-number">1200</span>)<span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-4701</span> thru <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-4708</span>
+WVU(<span class="hljs-number">1200</span>)<span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-5591</span> thru <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-5594</span>
+WVU(<span class="hljs-number">134.5</span> bps)             <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-3601</span>
+WVU(<span class="hljs-number">134.5</span> bps)             <span class="hljs-number">304</span><span class="hljs-number">-293</span><span class="hljs-number">-3602</span>
+Lake Wash. School          <span class="hljs-number">206</span><span class="hljs-number">-828</span><span class="hljs-number">-3499</span>
+University of San Diego    <span class="hljs-number">619</span><span class="hljs-number">-452</span><span class="hljs-number">-6792</span>
+RPL School                 <span class="hljs-number">518</span><span class="hljs-number">-220</span><span class="hljs-number">-6603</span>
+Another School             <span class="hljs-number">212</span><span class="hljs-number">-369</span><span class="hljs-number">-5114</span>
+Harvard                    <span class="hljs-number">617</span><span class="hljs-number">-732</span><span class="hljs-number">-1251</span>
+Harvard                    <span class="hljs-number">617</span><span class="hljs-number">-732</span><span class="hljs-number">-1802</span>
+William State University   <span class="hljs-number">313</span><span class="hljs-number">-577</span><span class="hljs-number">-0260</span>
+Florida University         <span class="hljs-number">904</span><span class="hljs-number">-644</span><span class="hljs-number">-2261</span>
+Wayne State                <span class="hljs-number">313</span><span class="hljs-number">-577</span><span class="hljs-number">-0260</span>
+U of F                     <span class="hljs-number">904</span><span class="hljs-number">-644</span><span class="hljs-number">-2261</span>
+High School                <span class="hljs-number">513</span><span class="hljs-number">-644</span><span class="hljs-number">-3840</span>
+</code></pre>
+<pre><code class="hljs"> File provided by the Alliance
+    6 1 8 - 6 6 7 - 3 8 2 5
+        7 p m  -  7 a m
+</code></pre>
+<pre><code class="hljs">Uploaded <span class="hljs-keyword">by</span> Phantom Phreaker
+
+
+</code></pre>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/test-site/docs/doc60.html"><span class="arrow-prev">← </span><span>Phrack Inc  Volume One - Issue Two</span></a><a class="docs-next button" href="/test-site/docs/doc62.html"><span>Ionic Dev Newsletter - Dec. 2018  ‘Tis the season for exciting updates!</span><span class="arrow-next"> →</span></a></div></div></div></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/test-site/" class="nav-home"><img src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia" width="66" height="58"/></a><div><h5>Docs</h5><a href="/test-site/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/test-site/docs/en/doc2.html">Guides (or other categories)</a><a href="/test-site/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/test-site/en/users.html">User Showcase</a><a href="http://stackoverflow.com/questions/tagged/" target="_blank">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/marcialwushu" target="_blank">Twitter</a></div><div><h5>More</h5><a href="/test-site/blog">Blog</a><a href="https://github.com/marcialwushu/restropective-docusaurus">GitHub</a><a class="github-button" href="https://github.com/marcialwushu/restropective-docusaurus" data-icon="octicon-star" data-count-href="/marcialwushu/restropective-docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://code.facebook.com/projects/" target="_blank" class="fbOpenSource"><img src="/test-site/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2022 Facebook Inc.</section></footer></div></body></html>
