@@ -52,6 +52,8 @@ sidebar_label: DEZEMBRO
 
 **DEZEMBRO 21**
 
+- [**FreeBSD SFile ransomware encryptor** - ESET discovered a new FreeBSD version of the SFile ransomware.](https://twitter.com/ESETresearch/status/1473282562420269056)
+
 **DEZEMBRO 22**
 
 **DEZEMBRO 23**
