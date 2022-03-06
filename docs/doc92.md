@@ -48,6 +48,7 @@ sidebar_label: DEZEMBRO
 **DEZEMBRO 20**
 
 - [**New STOP Ransomware variant** - PCrisk found a new STOP ransomware variant that appends the .nnqp extension to encrypted files.](https://twitter.com/pcrisk/status/1472827650095951874)
+- [**New Dharma Ransomware variant** - PCrisk found a new Dharma ransomware variant that appends the .C1024 extension to encrypted files.](https://twitter.com/pcrisk/status/1472827798905667584)
 
 **DEZEMBRO 21**
 
