@@ -5,7 +5,7 @@
     "2019": ["doc3","doc28","doc29","doc30","doc31","doc32","doc33","doc34","doc35","doc36","doc37","doc38"],
     "2020": ["doc65", "doc66", "doc67", "doc68", "doc69", "doc70", "doc71", "doc72", "doc73", "doc74", "doc75", "doc76"],
     "2021": ["doc81", "doc82", "doc83", "doc84", "doc85", "doc86", "doc87", "doc88", "doc89", "doc90", "doc91", "doc92"],
-    "2022": ["doc96"]
+    "2022": ["doc96", "doc107", "doc108"]
   },
   "docs-other": {
     "MSSQLTips": ["doc4", "doc5", "doc41", "doc42", "doc43","doc44", "doc63"],
