@@ -41,6 +41,8 @@ sidebar_label: DEZEMBRO
 
 **DEZEMBRO 18**
 
+- [**New Dharma Ransomware variant** - Jakub Kroustek found a new Dharma ransomware variant that appends the .ver extension.](https://twitter.com/JakubKroustek/status/1472315799075536902)
+
 **DEZEMBRO 19**
 
 **DEZEMBRO 20**
