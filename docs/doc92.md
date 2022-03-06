@@ -53,6 +53,7 @@ sidebar_label: DEZEMBRO
 **DEZEMBRO 21**
 
 - [**FreeBSD SFile ransomware encryptor** - ESET discovered a new FreeBSD version of the SFile ransomware.](https://twitter.com/ESETresearch/status/1473282562420269056)
+- [**PYSA ransomware behind most double extortion attacks in November** - Security analysts from NCC Group report that ransomware attacks in November 2021 increased over the past month, with double-extortion continuing to be a powerful tool in threat actors' arsenal.](https://www.bleepingcomputer.com/news/security/pysa-ransomware-behind-most-double-extortion-attacks-in-november/)
 
 **DEZEMBRO 22**
 
