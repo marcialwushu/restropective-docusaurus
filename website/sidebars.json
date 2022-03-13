@@ -24,6 +24,6 @@
     "Talkwalker Alerts - Alert for Hyperledger": ["doc99"],
     "Banco Central - Feeds do BC": ["doc100", "doc101", "doc102", "doc103", "doc104", "doc105"],
     "PYMNTS": ["doc106"],
-    "Finextra": ["doc109"]
+    "Finextra": ["doc109", "doc110"]
   }
 }
