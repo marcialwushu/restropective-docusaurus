@@ -22,7 +22,7 @@
     "Open Infrastructure Foundation": ["doc95"],
     "Talkwalker Alerts - Alert for IPFS": ["doc97", "doc98"],
     "Talkwalker Alerts - Alert for Hyperledger": ["doc99"],
-    "[Talkwalker Alerts] Alert for OSINT": ["doc111"],
+    "Talkwalker Alerts - Alert for OSINT": ["doc111"],
     "Banco Central - Feeds do BC": ["doc100", "doc101", "doc102", "doc103", "doc104", "doc105"],
     "PYMNTS": ["doc106"],
     "Finextra": ["doc109", "doc110"]
