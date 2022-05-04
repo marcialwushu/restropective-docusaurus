@@ -1,0 +1,479 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>CAPEC - Common Attack Pattern Enumerations and Classifications · Retrospectiva na Tecnologia</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="## 2021 Archive - CAPEC/CWE Podcast: “CWE and Hardware Security”"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="CAPEC - Common Attack Pattern Enumerations and Classifications · Retrospectiva na Tecnologia"/><meta property="og:type" content="website"/><meta property="og:url" content="https://facebook.github.io/test-site/index.html"/><meta property="og:description" content="## 2021 Archive - CAPEC/CWE Podcast: “CWE and Hardware Security”"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/test-site/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://facebook.github.io/test-site/blog/atom.xml" title="Retrospectiva na Tecnologia Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://facebook.github.io/test-site/blog/feed.xml" title="Retrospectiva na Tecnologia Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/test-site/js/scrollSpy.js"></script><link rel="stylesheet" href="/test-site/css/main.css"/><script src="/test-site/js/codetabs.js"></script></head><body class="sideNavVisible"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/test-site/"><img class="logo" src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia"/><h2 class="headerTitleWithLogo">Retrospectiva na Tecnologia</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/test-site/docs/doc1.html" target="_self">News</a></li><li class="siteNavGroupActive"><a href="/test-site/docs/doc4.html" target="_self">Feed</a></li><li class=""><a href="/test-site/help.html" target="_self">Ajuda</a></li><li class=""><a href="/test-site/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>CAPEC</span></h2></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">MSSQLTips</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc4.html">New Feature in SQL Server 2019 : Scalar UDF Inlining (MSSQLTips 11/12/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc5.html">Learn SQL Server Stored Procedures (MSSQLTips 11/9/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc41.html">Querying SQL Server Tables from .NET (MSSQLTips 11/14/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc42.html">SQL Server Transparent Data Encryption Alternative (MSSQLTips 11/16/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc43.html">Cost Effective SQL Server Encryption (MSSQLTips 11/19/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc44.html">Write More Compact SQL Server Code (MSSQLTips 11/20/2018)</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc63.html">SQL Server on Linux Tips (MSSQLTips 11/27/2018)</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">IT Forum 365</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc39.html">Confira as notícias que preparamos para você!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc40.html">Vem conferir o que preparamos para você  😉</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Feedspot Today</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc58.html">Serverless PHP on AWS Lamda</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc45.html">Interview with Josh Holmes, Interview with Josh Holmes, 405 Method Not Allowed</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc46.html">Security Vulnerability Announcement: Archive_Tar</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">ImmuniWeb</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc47.html">Cybercrime &amp; Application Security Weekly Briefing</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">InfoQ</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc52.html">Oracle fala sobre Blockchain, Bots e Serveless, JPA 2.2, RFC no React e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc51.html">9 perguntas sobre REST, Product Management no Nubank, Scrum em Escala e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc50.html">5 coisas que todo desenvolvedor deve saber, novo message broker da AWS , e mais!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc49.html">Especial .NET e Plataformas Microsoft</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc48.html">Android Things, Kubernets, FPGAs, Github, Oreo Go, Nodejs e muito mais!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">JavaScript Weekly</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc53.html">JavaScript Weekly - 458 OCTOBER 11, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc54.html">JavaScript Weekly - 457 OCTOBER 4, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc77.html">Angular 9, a new decimal datatype for JS, and how to read specs</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Versioning</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc57.html">Versioning Front-end - Spellbound</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc56.html">Versioning Front-end - Scroll Lot of Love</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc93.html">Command and Conquer</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc94.html">Flying on Autopilot - 30 de jan de 2019</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Phrack Inc </h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc60.html">Phrack Inc  Volume One - Issue Two</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc59.html">Phrack Inc  Volume One - Issue One</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Newsletter Ionic.IO</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc62.html">Ionic Dev Newsletter - Dec. 2018  ‘Tis the season for exciting updates!</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc61.html">Tutorials &amp; Guides from the Ionic Community - December 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">BossaBox Newsletter</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc64.html">Metodologias Ágeis, Importância do SEO, Ferramentas all-in-one de Gestão, Desenvolvimento e Design e Melhores do Medium!</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Wolfram Insider</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc80.html">Your Insider briefing - COVID-19 special edition</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc78.html">Wolfram Community Insider - Quarter 1, 2019</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc79.html">Wolfram Community Insider - Quarter 4, 2018</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Open Infrastructure Foundation</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc95.html">Today&#x27;s OpenInfra News</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for IPFS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc97.html">Talkwalker Alerts - Alert for IPFS | 13 de novembro de 2021</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc98.html">Talkwalker Alerts - Alert for IPFS | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for Hyperledger</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc99.html">Talkwalker Alerts Alert for Hyperledger | 12 de novembro de 2021</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Talkwalker Alerts - Alert for OSINT</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc111.html">Talkwalker Alerts | Alert for OSINT - 29 de abril de 2022</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc112.html">Talkwalker Alerts | Alert for OSINT - 28 de abril de 2022</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Banco Central - Feeds do BC</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc100.html">Notícias e notas - Notas técnicas</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc101.html">Notícias e notas - Nota à imprensa</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc102.html">Normativos - Resoluções</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc103.html">Normativos - Comunicados do Banco Central</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc104.html">Pix API Issue Github</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc105.html">Pix DICT API Issue Github</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">PYMNTS</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc106.html">The Week in Review (Plus, It’s a Very Vending Machine Christmas)</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Finextra</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc109.html">Finextra RSS Feeds - Payments</a></li><li class="navListItem"><a class="navItem" href="/test-site/docs/doc110.html">Finextra RSS Feeds - Developer</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">OSINT Newsletter</h3><ul class=""><li class="navListItem"><a class="navItem" href="/test-site/docs/doc113.html">OSINT Newsletter April 2022 - 26 de abr. de 2022</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">CAPEC</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/test-site/docs/doc114.html">CAPEC - Common Attack Pattern Enumerations and Classifications</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">CAPEC - Common Attack Pattern Enumerations and Classifications</h1></header><article><div><span><h2><a class="anchor" aria-hidden="true" id="2021-archive---capeccwe-podcast-cwe-and-hardware-security"></a><a href="#2021-archive---capeccwe-podcast-cwe-and-hardware-security" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2021 Archive - CAPEC/CWE Podcast: “CWE and Hardware Security”</h2>
+<td valign="top" id="Contentpane" width="100%" style="overflow-wrap: break-word; max-width: 1306px;">
+    <script type="text/javascript">
+        $("#Contentpane").css('max-width', ($(window).width()-230) + 'px');
+    </script>
+<p><h2 class="header">News &amp; Events</h2></p>
+<!--Begin TOC-->
+<!-- Begin /includes/topsubmenu_community.html -->
+<div class="top">
+<div id="PageContents">
+<a class="newspage" href="/news/index.html">Current News</a> | 
+<a href="https://twitter.com/CweCapec" target="_blank" rel="noopener noreferrer">Twitter<img src="/images/twitter_sm.png" width="14" height="14" border="0" title="Twitter" style="position:relative; vertical-align:bottom; padding-left:3px; top:-1px"></a> |
+<a href="https://www.linkedin.com/showcase/cve-cwe-capec" target="_blank" rel="noopener noreferrer">LinkedIn<img src="/images/linkedin_sm.jpg" width="14" height="14" alt="LinkedIn" style="position:relative; vertical-align:bottom; padding-left:3px; top:-1px"></a> |
+<a href="https://www.youtube.com/channel/UCpY9VIpRmFK4ebD6orssifA" target="_blank" rel="noopener noreferrer">YouTube<img src="/images/youtube.png" width="14" height="14" alt="YouTube" style="position:relative; vertical-align:bottom; padding-left:3px; top:-1px"></a> |
+<a href="https://outofbounds.buzzsprout.com/" target="_blank" rel="noopener noreferrer">Podcast<img src="/images/out_of_bounds_read_logo_B_W.png" width="16" height="16" alt="Out-of-Bounds-Read Podcast" style="position:relative; vertical-align:bottom; padding-left:3px; top:-1px"></a> |
+<a href="https://medium.com/@CWE_CAPEC" target="_blank" rel="noopener noreferrer">Blog<img src="/images/medium.png" width="14" height="14" alt="Medium" style="position:relative; vertical-align:bottom; padding-left:3px; top:-1px"></a> |
+<a class="archivepage" href="/news/archives/index.html">News Archive</a>
+</div>
+</div>
+<!-- End /includes/topsubmenu_community.html -->
+<!-- end page TOC -->
+<h3>2021 Archive</h3>
+<p><a name="november072021_CWE_CAPEC_Podcast_CWE_and_Hardware_Security" id="november072021_CWE_CAPEC_Podcast_CWE_and_Hardware_Security"></a></p>
+<p class="title">CAPEC/CWE Podcast: “CWE and Hardware Security”<br></p>
+<p class="tabletext">November 7, 2021 | <a href="/news/index.html#november072021_CWE_CAPEC_Podcast_CWE_and_Hardware_Security">Share this article</a></p>
+<p class="text">The CWE/CAPEC Program’s “<a target="_blank" rel="noopener noreferrer" href="https://cwe.mitre.org/news/podcast.html">Out-of-Bounds Read</a>” podcast is devoted to helping the community that protects systems by understanding weaknesses and attack patterns in software and hardware.</p>
+<p class="text">In our fifth episode, “<a target="_blank" href="https://www.youtube.com/watch?v=R4qDmRoUx7o">CWE and Hardware Security</a>,” hardware experts discuss hardware CWEs and the “<a href="/scoring/lists/2021_CWE_MIHW.html">2021 CWE™ Most Important Hardware Weaknesses List</a>,” including how the list will help the community, their favorite entries and surprising items on the list, and stories around hardware weaknesses. CAPEC is also a discussion topic.</p>
+<p class="text">Interviewees include Jason Fung, Director of Offensive Security Research and Academic Research Engagement at <a href="https://www.intel.com/" target="_blank">Intel</a>; Jason Oberg, Cofounder and Chief Technology Officer at <a target="_blank" href="https://tortugalogic.com/">Tortuga Logic</a>; Paul Wortman, Cybersecurity Research Scientist at <a target="_blank" href="https://wellsfargo.com/">Wells Fargo</a>; Jasper von Woudenberg, CTO of <a target="_blank" href=" https://www.riscure.com/">Riscure North America</a> and co-author of the “<a target="_blank" href="https://www.penguinrandomhouse.com/books/564697/the-hardware-hacking-handbook-by-colin-oflynn-and-jasper-van-woudenberg/">Hardware Hacking Handbook</a>”; and Nicole Fern, Senior Security Analyst at <a target="_blank" href=" https://www.riscure.com/">Riscure</a>.</p>
+<!-- Begin centered image -->
+<div style="width: 375px; margin: auto; text-align: center">
+<a target="_blank" href="https://www.youtube.com/watch?v=R4qDmRoUx7o"><img src="/images/out_of_bounds_read_logo.png" alt="Out of Bounds Read podcast episode 5 - CWE and Hardware" style="width:375px; height:350px;"></a>
+</div>
+<!-- End centered image -->
+<br>
+<p class="text">The podcast is available for free on the <a target="_blank" href="https://www.youtube.com/channel/UCpY9VIpRmFK4ebD6orssifA">CWE/CAPEC Program Channel on YouTube</a>, the <a target="_blank" href="https://outofbounds.buzzsprout.com/">Out-of-Bounds Read page on Buzzsprout</a>, or on podcast platforms.</p>
+<p class="text">Please give the podcast a listen and let us know what you think by commenting on Twitter at <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cwecapec">@cwecapec</a> or sending a direct message, or email us at <a href="mailto:cwe@mitre.org">cwe@.mitre.org</a> or <a href="mailto:capec@mitre.org">capec@.mitre.org</a>. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="november022021_CAPEC_CWE_Blog_Article_New_Math-Dont_Let_Real_Numbers_Cause_the_Loss_of_Real_Lives_or_Money" id="november022021_CAPEC_CWE_Blog_Article_New_Math-Dont_Let_Real_Numbers_Cause_the_Loss_of_Real_Lives_or_Money"></a></p>
+<p class="title">CAPEC/CWE Blog: “New Math: Don’t Let Real Numbers Cause the Loss of Real Lives or Money”<br></p>
+<p class="tabletext">November 2, 2021 | <a href="/news/index.html#november022021_CAPEC_CWE_Blog_Article_New_Math-Dont_Let_Real_Numbers_Cause_the_Loss_of_Real_Lives_or_Money">Share this article</a></p>
+<p class="text">The CAPEC/CWE Team’s “<a target="_blank" rel="noopener noreferrer" href="https://medium.com/@CWE_CAPEC/new-math-dont-let-real-numbers-cause-the-loss-of-real-lives-or-money-7e58e12bcd3e">New Math: Don’t Let Real Numbers Cause the Loss of Real Lives or Money</a>” blog article discusses the importance of making sure you know the limits of the problem you are trying to solve and of testing up to those limits.</p>
+<p class="text">Read the <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@CWE_CAPEC/new-math-dont-let-real-numbers-cause-the-loss-of-real-lives-or-money-7e58e12bcd3e">complete article</a> on the CAPEC/CWE Blog on Medium.</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="october212021_CAPEC_List_Version_3.6_Now_Available" id="october212021_CAPEC_List_Version_3.6_Now_Available"></a></p>
+<p class="title">CAPEC List Version 3.6 Now Available<br></p>
+<p class="tabletext">October 21, 2021 | <a href="/news/index.html#october212021_CAPEC_List_Version_3.6_Now_Available">Share this article</a></p>
+<p class="text"><a href="/data/index.html">CAPEC Version 3.6</a> has been posted on the CAPEC List page. A detailed <a href="/data/reports/diff_reports/v3.5_v3.6.html">report</a> is available that lists specific changes between Version 3.5 and Version 3.6.</p>
+<p class="text">Version 3.6 includes:
+   </p><ul style="font-size:85%">   
+        <li>Creating or updating Execution Flows for 63 attack patterns</li>                
+        <li>Adding six new attack patterns:
+            <ul>
+              &nbsp;Supply Chain Attack Patterns    
+              <li><a href="/data/definitions/677.html">CAPEC-677: Server Functionality Compromise</a></li> 
+              <li><a href="/data/definitions/678.html">CAPEC-678: System Build Data Maliciously Altered</a></li>
+              &nbsp;Access Control Attack Patterns related to Hardware
+              <li><a href="/data/definitions/679.html">CAPEC-679: Exploitation of Improperly Configured or Implemented Memory Protections</a></li>                    
+              <li><a href="/data/definitions/680.html">CAPEC-680: Improperly Controlled Registers</a></li> 
+              <li><a href="/data/definitions/681.html">CAPEC-681: Exploitation of Improperly Controlled Hardware Security Identifiers</a></li>
+              &nbsp;Other Attack Patterns     
+             <li><a href="/data/definitions/676.html">CAPEC-676: NoSQL Injection</a></li>               
+            </ul>
+        </li>    
+        <li>Revamping 4 CAPECs related to HTTP Splitting/Smuggling (<a href="/data/definitions/33.html">33</a>, <a href="/data/definitions/34.html">34</a>, <a href="/data/definitions/105.html">105</a>, <a href="/data/definitions/273.html">273</a>)</li>        
+        <li>Revamping 3 CAPECs related to Serialized Data with Nested Payloads (<a href="/data/definitions/230.html">230</a>, <a href="/data/definitions/197.html">197</a>, <a href="/data/definitions/491.html">491</a>)</li>
+        <li>Updating the CAPEC website main landing page with a new look to include the latest news, events, and community information, as well as quick access to the CAPEC List</li>
+  </ul> 
+<p class="text">The <a href="/data/xsd/ap_schema_v3.5.xsd">schema</a> was updated to add the Extended_Description property.</p>
+<p class="text" style="font-weight:bold">Summary</p>
+<p class="text">There are now <a href="/data/index.html">546</a> total attack patterns listed.</p>
+<p class="text">Changes for the new version release include the following:</p>
+<p class="text">
+</p><table style="width: 55%">
+        <tbody><tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">New Attack Patterns Added:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.5_v3.6.html#apnew">6</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Attack Patterns Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.5_v3.6.html#apmod">70</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Attack Patterns Deprecated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.5_v3.6.html#apdep">1</a></td>
+        </tr>
+       <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Categories Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#catmod">0</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Categories Deprecated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#catdep">0</a></td>
+        </tr>     
+       <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">New Views Added:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.5_v3.6.html#vnew">0</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Views Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.5_v3.6.html#vmod">0</a></td>
+        </tr>   
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CWE Mappings Added:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#capeccwenew">34</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CWE Mappings Removed:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#capeccwerem">42</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CAPEC Mappings Added:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#capeccapecnew">46</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CAPEC Mappings Removed:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:85%">
+                <a href="/data/reports/diff_reports/v3.5_v3.6.html#capeccapecrem">1</a></td>
+        </tr>       
+</tbody></table>
+<p></p>
+<p class="text">See the complete list of changes at <a href="/data/reports/diff_reports/v3.5_v3.6.html">https://capec.mitre.org/data/reports/diff_reports/v3.5_v3.6.html</a>.</p>
+<p class="text">Future updates will be noted here, on the <a href="/community/registration.html">CAPEC Research</a> email discussion list, <a href="https://www.linkedin.com/showcase/cve-cwe-capec" target="_blank" rel="noopener noreferrer">CAPEC page on LinkedIn</a>, and on <a href="https://twitter.com/cwecapec" target="_blank" rel="noopener noreferrer">@cwecapec on Twitter</a>. Please <a href="mailto:capec@mitre.org">contact us</a> with any comments or concerns.</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="october212021_CAPEC_Also_Discussed_in_The_CWE_15th_Anniversary_Special_Podcast" id="october212021_CAPEC_Also_Discussed_in_The_CWE_15th_Anniversary_Special_Podcast"></a></p>
+<p class="title">CAPEC Also Discussed in “The CWE 15th Anniversary Special” Podcast<br></p>
+<p class="tabletext">October 21, 2021 | <a href="/news/index.html#october212021_CAPEC_Also_Discussed_in_The_CWE_15th_Anniversary_Special_Podcast">Share this article</a></p>
+<p class="text">The CWE/CAPEC Program’s “<a target="_blank" href="https://cwe.mitre.org/news/podcast.html">Out-of-Bounds Read</a>” podcast is devoted to helping the community that protects systems by understanding weaknesses and attack patterns in software and hardware.</p>
+<p class="text">CAPEC is a main discussion topic in “<a target="_blank" href="https://www.youtube.com/watch?v=UefHpKZ-Crk">The CWE 15th Anniversary Special</a>” podcast episode, a special cybersecurity awareness month podcast where the 15-year history and future of the <a target="_blank" rel="noopener noreferrer" href="https://cwe.mitre.org/">CWE</a>/<a href="/">CAPEC</a> program are discussed with those who made significant contributions to both CAPEC and CWE: Bob Martin, Senior Principal Software and Supply Chain Assurance Engineer at MITRE; Joe Jarzombek, Director of Government and Critical Infrastructure Programs at Synopsis; Chris Eng, Chief Research Officer at Veracode; Chris Levendis, CWE/CAPEC Program Leader at MITRE; and Drew Buttner, Software Assurance Capability Area Lead at MITRE.</p>
+<!-- Begin centered image -->
+<div style="width: 375px; margin: auto; text-align: center">
+<a target="_blank" href="https://www.youtube.com/watch?v=UefHpKZ-Crk"><img src="/images/out_of_bounds_read_logo.png" alt="Out of Bounds Read podcast episode 4 - The CWE 15th Anniversary Special" style="width:375px; height:350px;"></a>
+</div>
+<!-- End centered image -->
+<br>
+<p class="text">The podcast is available for free on the <a target="_blank" href="https://www.youtube.com/channel/UCpY9VIpRmFK4ebD6orssifA">CWE/CAPEC Program Channel on YouTube</a>, the <a target="_blank" href="https://outofbounds.buzzsprout.com/">Out-of-Bounds Read page on Buzzsprout</a>, or on podcast platforms.</p>
+<p class="text">Please give the podcast a listen and let us know what you think by commenting on Twitter at <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cwecapec">@cwecapec</a> or sending a direct message, or email us at <a href="mailto:capec@mitre.org">capec@.mitre.org</a>. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="october072021_CAPEC_CWE_Blog_Article_The_Most_Important_CWEs_and_CAPEC_to_Pay_Attention_to_When_Building_Software" id="october072021_CAPEC_CWE_Blog_The_Most_Important_CWEs_and_CAPEC_to_Pay_Attention_to_When_Building_Software"></a></p>
+<p class="title">CAPEC/CWE Blog: “The Most Important CWEs and CAPECs to Pay Attention to When Building Software”<br></p>
+<p class="tabletext">October 7, 2021 | <a href="/news/index.html#october072021_CAPEC_CWE_Blog_Article_The_Most_Important_CWEs_and_CAPEC_to_Pay_Attention_to_When_Building_Software">Share this article</a></p>
+<p class="text">The CAPEC/CWE Team’s “<a target="_blank" rel="noopener noreferrer" href="https://medium.com/@CWE_CAPEC/the-most-important-cwes-and-capec-items-to-pay-attention-to-when-building-software-abcbea9ef2e0">The Most Important CWEs and CAPECs to Pay Attention to When Building Software</a>” blog article includes 5 checks for your development process.</p>
+<p class="text">Read the <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@CWE_CAPEC/the-most-important-cwes-and-capec-items-to-pay-attention-to-when-building-software-abcbea9ef2e0">complete article</a> on the CAPEC/CWE Blog on Medium.</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="september012021_CAPEC_CWE_Podcast_What_is_CAPEC_and_How_Can_it_Help_Me" id="september012021_CAPEC_CWE_Podcast_What_is_CAPEC_and_How_Can_it_Help_Me"></a></p>
+<p class="title">CAPEC/CWE Podcast: “What is CAPEC, Why is It important, and How Can it Help Me?”<br></p>
+<p class="tabletext">September 1, 2021 | <a href="/news/index.html#september012021_CAPEC_CWE_Podcast_What_is_CAPEC_and_How_Can_it_Help_Me">Share this article</a></p>
+<p class="text">The CAPEC/CWE Program’s “<a target="_blank" href="https://cwe.mitre.org/news/podcast.html">Out-of-Bounds Read</a>” podcast is devoted to helping the community that protects systems by understanding weaknesses and attack patterns in software and hardware.</p>
+<p class="text">In our “<a target="_blank" href="https://www.youtube.com/watch?v=WLK261ZSDvo">What is CAPEC, Why is It important, and How Can it Help Me?</a>” episode, Steve Battista of the CWE/CAPEC Program interviews Rich Piazza, the CAPEC Task Lead, about what <a href="/">Common Attack Pattern Enumeration and Classification (CAPEC™)</a> is and the problem it aims to solve, who can benefit from CAPEC and how to leverage it, the role of the community, how CAPEC has evolved over time, and possibilities for the future.</p>
+<!-- Begin centered image -->
+<div style="width: 375px; margin: auto; text-align: center">
+<a target="_blank" href="https://www.youtube.com/watch?v=WLK261ZSDvo"><img src="/images/out_of_bounds_read_logo.png" alt="Out of Bounds Read podcast episode 2 - What is CAPEC, Why is It important, and How Can it Help Me?" style="width:375px; height:350px;"></a>
+</div>
+<!-- End centered image -->
+<br>
+<p class="text">The podcast is available for free on the <a target="_blank" href="https://www.youtube.com/channel/UCpY9VIpRmFK4ebD6orssifA">CWE/CAPEC Program Channel on YouTube</a> and on other podcast platforms.</p>
+<p class="text">Please give the podcast a listen and let us know what you think by commenting on Twitter at <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cwecapec">@cwecapec</a> or sending a direct message, or email us at <a href="mailto:capec@mitre.org">capec@.mitre.org</a>. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="july092021_Riskaware_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC" id="july092021_Riskaware_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC"></a></p>
+<p class="title">Riskaware Added to “CAPEC Organization Usage” Page that Highlights How Vendors Are Using CAPEC<br></p>
+<p class="tabletext">July 9, 2021 | <a href="#july092021_Riskaware_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC">Share this article</a></p>
+<p class="text">The “<a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a>” page highlights how organizations are actively using CAPEC in their products. Each listing includes the company name, a summary statement of use, brief description, and a screen shot (when available).</p>
+<p class="text">One new organization added:</p>
+<div class="text" style="margin-left:50px">
+<div style="padding-bottom:12px"><strong><a href="/community/usage.html#riskaware">Riskaware</a></strong> – CyberAware Predict uses CAPEC to determine potential adversary techniques from scanned vulnerabilities and detected exploits.</div>
+</div>
+<p class="text">To view the complete listing, visit the <a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a> page.</p>
+<p class="text">We encourage any organization currently using CAPEC to <a href="mailto:capec@mitre.org">contact us</a> to be added to this page. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="june242021_CAPEC_List_Version_3.5_Now_Available" id="june242021_CAPEC_List_Version_3.5_Now_Available"></a></p>
+<p class="title">CAPEC List Version 3.5 Now Available<br></p>
+<p class="tabletext">June 24, 2021 | <a href="#june242021_CAPEC_List_Version_3.5_Now_Available">Share this article</a></p>
+<p class="text"><a href="/data/index.html">CAPEC Version 3.5</a> has been posted on the CAPEC List page. A detailed <a href="/data/reports/diff_reports/v3.4_v3.5.html">report</a> is available that lists specific changes between Version 3.4 and Version 3.5.</p>
+<p class="text">Version 3.5 includes:
+   </p><ul style="font-size:85%">        
+        <li>Adding fourteen new attack patterns:
+            <ul>
+              &nbsp;Supply Chain Attack Patterns
+              <li><a href="/data/definitions/669.html">CAPEC-669: Alteration of a Software Update</a></li> 
+              <li><a href="/data/definitions/670.html">CAPEC-670: Software Development Tools Maliciously Altered</a></li> 
+              <li><a href="/data/definitions/671.html">CAPEC-671: Requirements for ASIC Functionality Maliciously Altered</a></li> 
+              <li><a href="/data/definitions/672.html">CAPEC-672: Malicious Code Implanted During Chip Programming</a></li> 
+              <li><a href="/data/definitions/673.html">CAPEC-673: Developer Signing Maliciously Altered Software</a></li> 
+              <li><a href="/data/definitions/674.html">CAPEC-674: Design for FPGA Maliciously Altered</a></li> 
+              <li><a href="/data/definitions/675.html">CAPEC-675: Retrieve Data from Decommissioned Devices</a></li> 
+              &nbsp;Bluetooth Attack Patterns
+              <li><a href="/data/definitions/666.html">CAPEC-666: BlueSmacking</a></li> 
+              <li><a href="/data/definitions/667.html">CAPEC-667: Bluetooth Impersonation AttackS (BIAS)</a></li>
+              <li><a href="/data/definitions/668.html">CAPEC-668: Key Negotiation of Bluetooth Attack (KNOB)</a></li>
+              &nbsp;Other Attack Patterns                       
+              <li><a href="/data/definitions/662.html">CAPEC-662: Adversary in the Browser</a></li> 
+              <li><a href="/data/definitions/663.html">CAPEC-663: Exploitation of Transient Instruction Execution</a></li> 
+              <li><a href="/data/definitions/664.html">CAPEC-664: Server Side Request Forgery</a></li> 
+              <li><a href="/data/definitions/665.html">CAPEC-665: Exploitation of Thunderbolt Protection Flaws</a></li>
+            </ul>
+        </li>    
+        <li>Adding 21 <a href="https://capec.mitre.org/data/index.html">Common Attack Pattern Enumeration and Classification (CAPEC™)</a>-to-<a href="https://cwe.mitre.org/data/index.html">Common Weakness Enumeration (CWE™)</a> mappings. These mappings help inform a tighter integration between CWE and CAPEC.</li>
+        <li>Updating CAPEC-to-<a target="_blank" rel="noopener noreferrer" href="https://attack.mitre.org/">Adversarial Tactics, Techniques &amp; Common Knowledge (ATT&amp;CK™)</a> mappings to better align to the new versions of ATT&amp;CK.</li>        
+        <li>Increasing the number of can-precede/can-follow links. These links describe related chains of attack patterns that could be used together.</li>
+        <li>Website improvements:
+           <ul>
+              <li>Adding filtered views in <a href="/data/definitions/1000.html">CAPEC-1000</a> and <a href="/data/definitions/3000.html">CAPEC-3000</a> to focus on attack patterns related to a particular property (e.g., consequences).</li>          
+              <li>Adding a <a href="/about/new_to_capec.html">New to CAPEC?</a> web page to guide new visitors on how to navigate the CAPEC website.</li>       
+              <li>Changing the colors of the level icons to more closely correspond to CWE:</li>
+                 <ul>
+                   <li><a href="/about/glossary.html#Category">Category</a> <a href="/about/glossary.html#Category"><img src="/images/icons/category.gif" width="12" height="12" alt="Category icon"></a></li>
+                   <li><a href="/about/glossary.html#Meta_Attack_Pattern">Meta Attack Pattern</a> <a href="/about/glossary.html#Meta_Attack_Pattern"><img src="/images/icons/meta_ap.gif" width="12" height="12" alt="Meta Attack Pattern icon"></a></li>
+                   <li><a href="/about/glossary.html#Standard_Attack_Pattern">Standard Attack Pattern</a> <a href="/about/glossary.html#Standard_Attack_Pattern"><img src="/images/icons/standard_ap.gif" width="12" height="12" alt="Standard Attack Pattern icon"></a></li>
+                   <li><a href="/about/glossary.html#Detailed_Attack_Pattern">Detailed Attack Pattern</a> <a href="/about/glossary.html#Detailed_Attack_Pattern"><img src="/images/icons/detailed_ap.gif" width="12" height="12" alt="Detailed Attack Pattern icon"></a></li>
+                 </ul>
+           </ul>                                                 
+         </li>
+  </ul> 
+<p class="text">There were no <a href="/data/xsd/ap_schema_v3.4.xsd">schema</a> updates.</p>
+<p class="text" style="font-weight:bold">Summary</p>
+<p class="text">There are now <a href="/data/index.html">541</a> total attack patterns listed.</p>
+<p class="text">Changes for the new version release include the following:</p>
+<p class="text">
+</p><table style="width: 55%">
+        <tbody><tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">New Attack Patterns Added:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.4_v3.5.html#apnew">14</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Attack Patterns Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.4_v3.5.html#apmod">127</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Attack Patterns Deprecated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.4_v3.5.html#apdep">0</a></td>
+        </tr>
+       <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Categories Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#catmod">0</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Categories Deprecated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#catdep">0</a></td>
+        </tr>     
+       <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">New Views Added:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.4_v3.5.html#vnew">0</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">Existing Views Updated:</li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+        <a href="/data/reports/diff_reports/v3.4_v3.5.html#vmod">0</a></td>
+        </tr>   
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CWE Mappings Added:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#capeccwenew">46</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CWE Mappings Removed:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#capeccwerem">69</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CAPEC Mappings Added:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:80%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#capeccapecnew">46</a></td>
+        </tr>
+        <tr>
+                <td style="width: 349px">
+                <ul style="font-size:80%">
+                        <li style="margin-bottom:-6px">CAPEC-to-CAPEC Mappings Removed:
+                        </li>
+                </ul>
+                </td>
+                <td style="font-size:85%">
+                <a href="/data/reports/diff_reports/v3.4_v3.5.html#capeccapecrem">2</a></td>
+        </tr>       
+</tbody></table>
+<p></p>
+<p class="text">See the complete list of changes at <a href="/data/reports/diff_reports/v3.4_v3.5.html">https://capec.mitre.org/data/reports/diff_reports/v3.4_v3.5.html</a>.</p>
+<p class="text">Future updates will be noted here, on the <a href="/community/registration.html">CAPEC Research</a> email discussion list, <a href="https://www.linkedin.com/showcase/cve-cwe-capec" target="_blank" rel="noopener noreferrer">CAPEC page on LinkedIn</a>, and on <a href="https://twitter.com/cwecapec" target="_blank" rel="noopener noreferrer">@cwecapec on Twitter</a>. Please <a href="mailto:capec@mitre.org">contact us</a> with any comments or concerns.</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="may062021_Rapid7_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC" id="may062021_Rapid7_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC"></a></p>
+<p class="title">Rapid7 Added to “CAPEC Organization Usage” Page that Highlights How Vendors Are Using CAPEC<br></p>
+<p class="tabletext">May 6, 2021 | <a href="#may062021_Rapid7_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC">Share this article</a></p>
+<p class="text">The “<a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a>” page highlights how organizations are actively using CAPEC in their products. Each listing includes the company name, a summary statement of use, brief description, and a screen shot (when available).</p>
+<p class="text">One new organization added:</p>
+<div class="text" style="margin-left:50px">
+<div style="padding-bottom:12px"><strong><a href="/community/usage.html#rapid7">Rapid7</a></strong> – InsightAppSec leverages CAPEC to provide detailed references to its findings.</div>
+</div>
+<p class="text">To view the complete listing, visit the <a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a> page.</p>
+<p class="text">We encourage any organization currently using CAPEC to <a href="mailto:capec@mitre.org">contact us</a> to be added to this page. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="march102021_Virsec_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC" id="march102021_Virsec_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC"></a></p>
+<p class="title">Virsec Added to “CAPEC Organization Usage” Page that Highlights How Vendors Are Using CAPEC<br></p>
+<p class="tabletext">March 10, 2021 | <a href="#march102021_Virsec_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC">Share this article</a></p>
+<p class="text">The “<a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a>” page highlights how organizations are actively using CAPEC in their products. Each listing includes the company name, a summary statement of use, brief description, and a screen shot (when available).</p>
+<p class="text">One new organization added:</p>
+<div class="text" style="margin-left:50px">
+<div style="padding-bottom:12px"><strong><a href="/community/usage.html#virsec">Virsec</a></strong> – Virsec Web Attack Simulator fuzzes application URLs based on CAPEC attack patterns.</div>
+</div>
+<p class="text">To view the complete listing, visit the <a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a> page.</p>
+<p class="text">We encourage any organization currently using CAPEC to <a href="mailto:capec@mitre.org">contact us</a> to be added to this page. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<p><a name="february252021_AttackForge_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC" id="february252021_AttackForge_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC"></a></p>
+<p class="title">AttackForge Added to “CAPEC Organization Usage” Page that Highlights How Vendors Are Using CAPEC<br></p>
+<p class="tabletext">February 25, 2021 | <a href="#february252021_AttackForge_Added_to_CAPEC_Organization_Usage_Page_that_Highlights_How_Vendors_Are_Using_CAPEC">Share this article</a></p>
+<p class="text">The “<a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a>” page highlights how organizations are actively using CAPEC in their products. Each listing includes the company name, a summary statement of use, brief description, and a screen shot (when available).</p>
+<p class="text">One new organization added:</p>
+<div class="text" style="margin-left:50px">
+  <div style="padding-bottom:12px"><strong><a href="/community/usage.html#attackforge">AttackForge</a></strong> – includes a pre-populated CAPEC library to help manage pen testing.</div>
+</div>
+<p class="text">To view the complete listing, visit the <a href="/community/usage.html" target="_blank" rel="noopener noreferrer">CAPEC Organization Usage</a> page.</p>
+<p class="text">We encourage any organization currently using CAPEC to <a href="mailto:capec@mitre.org">contact us</a> to be added to this page. We look forward to hearing from you!</p>
+<div align="right" class="backtop"><a href="#top">Back to top</a></div>
+<pre><code class="hljs"> &lt;div id=&quot;More_Message&quot;&gt;
+</code></pre>
+<div style="background-color:#33332C; padding:2px; color:#ffffff; font-size:95%; text-align:center">More information is available — Please select a different filter.</div></div>
+<pre><code class="hljs">&lt;/td&gt;
+</code></pre>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/test-site/docs/doc113.html"><span class="arrow-prev">← </span><span>OSINT Newsletter April 2022 - 26 de abr. de 2022</span></a></div></div></div></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/test-site/" class="nav-home"><img src="/test-site/img/docusaurus.svg" alt="Retrospectiva na Tecnologia" width="66" height="58"/></a><div><h5>Docs</h5><a href="/test-site/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/test-site/docs/en/doc2.html">Guides (or other categories)</a><a href="/test-site/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/test-site/en/users.html">User Showcase</a><a href="http://stackoverflow.com/questions/tagged/" target="_blank">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/marcialwushu" target="_blank">Twitter</a></div><div><h5>More</h5><a href="/test-site/blog">Blog</a><a href="https://github.com/marcialwushu/restropective-docusaurus">GitHub</a><a class="github-button" href="https://github.com/marcialwushu/restropective-docusaurus" data-icon="octicon-star" data-count-href="/marcialwushu/restropective-docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://code.facebook.com/projects/" target="_blank" class="fbOpenSource"><img src="/test-site/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2022 Facebook Inc.</section></footer></div></body></html>
